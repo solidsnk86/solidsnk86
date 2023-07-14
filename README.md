@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <strong>Profile Visit Counter : Gabriel</strong></span></p>
-<p align="center">👀 <img src="https://profile-counter.glitch.me/solidsnk86/count.svg" /></p>
+<div style="display="flex">
+<p align="center">👀 <img src="https://profile-counter.glitch.me/solidsnk86/count.svg" /></p></div>
