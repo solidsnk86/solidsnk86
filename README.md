@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
-    <img src="linkedin.png" alt="LinkedIn" height="35" width="140">
+    <img src="linkedin-In.png" alt="LinkedIn" height="25" width="25">
   </a>
 </div>
 
