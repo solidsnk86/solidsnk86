@@ -32,7 +32,8 @@
 <div style="display="flex;">
 <p align="center"><img src="https://profile-counter.glitch.me/solidsnk86/count.svg" /></p></div>
 
-* Contact:
+### Contact:
+
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
     <img src="linkedin.png" alt="LinkedIn" height="35" width="140">
