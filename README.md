@@ -28,7 +28,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
 
 
-### Contact:
+![Static Badge](https://img.shields.io/badge/CONTACTS-yellowgreen)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
