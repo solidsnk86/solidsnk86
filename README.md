@@ -26,7 +26,6 @@
 [![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_(JavaScript_framework))
 [![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
 ### Contact:
