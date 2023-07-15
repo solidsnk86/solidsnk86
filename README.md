@@ -43,6 +43,10 @@
   </a>
 </div>
 
+### Pueden visitar éste sitio web para aprender a configurar un CPE inalámbrico como por ejemplo [![Static Badge](https://img.shields.io/badge/TPLINK-green)](https://neotecs.tech/aprende.html?) y ![Static Badge](https://img.shields.io/badge/UBIQUITI-blue)
+  
+## [![Static Badge](https://img.shields.io/badge/Neo-Tecs-mediumslateblue)](https://neotecs.tech)
+
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=666ccc&height=133&section=footer"/>
