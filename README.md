@@ -42,7 +42,7 @@
   </a>
 </div>
 
-### I create a tutorial web site for CPE connections and more. For example for [![Static Badge](https://img.shields.io/badge/TPLINK-green)](https://neotecs.tech/aprende.html?) and ![Static Badge](https://img.shields.io/badge/UBIQUITI-blue) networks.
+## I create a tutorial web site for CPE connections and more. For example for [![Static Badge](https://img.shields.io/badge/TPLINK-green)](https://neotecs.tech/aprende.html?) and ![Static Badge](https://img.shields.io/badge/UBIQUITI-blue) networks.
   
 ## [![Static Badge](https://img.shields.io/badge/Neo-Tecs-mediumslateblue)](https://neotecs.tech)
 
