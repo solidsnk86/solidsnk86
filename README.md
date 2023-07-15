@@ -14,10 +14,9 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidsnk86&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 
--*Languages and frames that i mostly use:*
+- Languages and frames that i mostly use:
 
-| TOOLS |
-|----[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python)
