@@ -11,15 +11,16 @@
 
 Languages and frames:
 
-[![Python](https://img.shields.io/badge/Language-Python-blue)](https://en.wikipedia.org/wiki/Python)
-[![HTML](https://img.shields.io/badge/Language-HTML-orange)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/Language-CSS-blue)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)](https://en.wikipedia.org/wiki/JavaScript)
-[![PHP](https://img.shields.io/badge/Language-PHP-purple)](https://en.wikipedia.org/wiki/PHP)
-[![Apache](https://img.shields.io/badge/Language-Apache-red)](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
-[![React](https://img.shields.io/badge/Language-React-blue)](https://en.wikipedia.org/wiki/React_(JavaScript_framework))
-[![Angular](https://img.shields.io/badge/Language-Angular-red)](https://en.wikipedia.org/wiki/Angular_(web_framework))
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)](https://en.wikipedia.org/wiki/TypeScript)
+[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python)
+[![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
+[![Apache](https://img.shields.io/badge/-Apache-red?logo=apache&logoColor=white)](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+[![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_(JavaScript_framework))
+[![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
+
 
 
 <strong>Profile Visit Counter : solidsnk86</strong></span></p>
