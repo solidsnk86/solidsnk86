@@ -39,7 +39,7 @@
     <img src="instagram-color.png" alt="Instagram" height="25" width="25">
   </a>
 
-    <a href="mailto: calcagni.gabriel86@gmail.com">
+  <a href="mailto: calcagni.gabriel86@gmail.com">
     <img src="gmail.png" alt="Instagram" height="25" width="25">
   </a>
 </div>
