@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=637CF7&width=435&lines=Hi!!+Welcome,+my+name+is+Gabriel+%E3%83%84;I'm+a+Full+stack+Developer+;From+Argentina+%F0%9F%A7%89)](https://git.io/typing-svg)
 
+![](https://wakapi.dev/api/badge/solidsnk86/interval:today?label=today) ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/solidsnk86/interval:30_days&label=last30d) [![](https://visitcount.itsvg.in/api?id=solidsnk86&icon=0&color=0)](https://visitcount.itsvg.in)
+
  <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solidsnk86&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
   </a>
@@ -35,14 +37,12 @@
     <img src="linkedin.png" alt="LinkedIn" height="35" width="140">
   </a>
 </div>
+
 <div align="center">
   <a href="https://instagram.com/calcagni_gabriel26?igshid=ZGUzMzM3NWJiOQ==">
     <img src="instagram.jpeg" alt="Instagram" height="35" width="140">
   </a>
 </div>
-
-![](https://wakapi.dev/api/badge/solidsnk86/interval:today?label=today) ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/solidsnk86/interval:30_days&label=last30d) [![](https://visitcount.itsvg.in/api?id=solidsnk86&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <a href="#">
