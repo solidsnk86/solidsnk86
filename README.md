@@ -9,17 +9,20 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidsnk86&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 
-Languages and frames:
+Languages and frames that i mostly use:
 
-[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python)
-[![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
-[![Apache](https://img.shields.io/badge/-Apache-red?logo=apache&logoColor=white)](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
-[![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_(JavaScript_framework))
-[![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
-[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
+| Lenguaje | Badge |
+|----------|-------|
+| HTML | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| CSS | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| JavaScript (JS) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| PHP | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| Apache | ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white) |
+| React | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| Angular | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+
 
 
 
