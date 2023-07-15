@@ -40,7 +40,7 @@
 </div>
 <div align="center">
   <a href="https://instagram.com/calcagni_gabriel26?igshid=ZGUzMzM3NWJiOQ==">
-    <img src="instagram.png" alt="Instagram" height="35" width="140">
+    <img src="instagram.jpeg" alt="Instagram" height="35" width="140">
   </a>
 </div>
 
