@@ -28,9 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
-
-
-
 <strong>Profile Visit Counter : solidsnk86</strong></span></p>
 <div style="display="flex;">
 <p align="center"><img src="https://profile-counter.glitch.me/solidsnk86/count.svg" /></p></div>
@@ -39,6 +36,11 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
     <img src="linkedin.png" alt="LinkedIn" height="35" width="140">
+  </a>
+</div>
+<div align="center">
+  <a href="https://instagram.com/calcagni_gabriel26?igshid=ZGUzMzM3NWJiOQ==">
+    <img src="instagram.png" alt="Instagram" height="35" width="140">
   </a>
 </div>
 
