@@ -34,7 +34,7 @@
 * Contact:
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
-    <img src="https://your-image-url.com" alt="LinkedIn" height="35" width="140">
+    <img src="https://drive.google.com/file/d/1W4sfN_BKTR5rUc0EdY8_nd9p2-DIXT3q/view?usp=drivesdk" alt="LinkedIn" height="35" width="140">
   </a>
 </div>
 
