@@ -32,9 +32,9 @@
 <p align="center"><img src="https://profile-counter.glitch.me/solidsnk86/count.svg" /></p></div>
 
 * Contact:
-  <div> 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260"><img height="35" width="140" src="./img/linkedin.png">
-    </a>
-  </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
+    <img src="https://your-image-url.com" alt="LinkedIn" height="35" width="140">
+  </a>
 </div>
+
