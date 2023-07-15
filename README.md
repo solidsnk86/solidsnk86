@@ -25,6 +25,8 @@
 [![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_(JavaScript_framework))
 [![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+
 
 <strong>Profile Visit Counter : solidsnk86</strong></span></p>
 <div style="display="flex;">
