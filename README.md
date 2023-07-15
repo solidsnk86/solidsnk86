@@ -30,13 +30,11 @@
 
 ### Contacts:
 
-<div align="center">
+<div align="flex">
   <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
     <img src="linkedin-In.png" alt="LinkedIn" height="25" width="25">
   </a>
-</div>
 
-<div align="center">
   <a href="https://instagram.com/calcagni_gabriel26?igshid=ZGUzMzM3NWJiOQ==">
     <img src="instagram-color.png" alt="Instagram" height="25" width="25">
   </a>
