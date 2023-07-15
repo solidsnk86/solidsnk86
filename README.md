@@ -28,7 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
-<strong>Profile Visit Counter : solidsnk86</strong></span></p>
+<strong>Profile Visit Counter:</strong></span></p>
 <div style="display="flex;">
 <p align="center"><img src="https://profile-counter.glitch.me/solidsnk86/count.svg" /></p></div>
 
