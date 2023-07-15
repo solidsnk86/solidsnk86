@@ -42,7 +42,7 @@
   </a>
 </div>
 
-### Pueden visitar éste sitio web para aprender a configurar un CPE inalámbrico como por ejemplo [![Static Badge](https://img.shields.io/badge/TPLINK-green)](https://neotecs.tech/aprende.html?) y ![Static Badge](https://img.shields.io/badge/UBIQUITI-blue)
+### I create a tutorial web site for CPE connections and more. For example for [![Static Badge](https://img.shields.io/badge/TPLINK-green)](https://neotecs.tech/aprende.html?) and ![Static Badge](https://img.shields.io/badge/UBIQUITI-blue)
   
 ## [![Static Badge](https://img.shields.io/badge/Neo-Tecs-mediumslateblue)](https://neotecs.tech)
 
