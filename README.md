@@ -16,6 +16,7 @@
 
 - Languages and frames that i mostly use:
 
+<p align="center">
 [![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
@@ -25,7 +26,7 @@
 [![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_(JavaScript_framework))
 [![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
-
+</p>
 
 <strong>Profile Visit Counter : solidsnk86</strong></span></p>
 <div style="display="flex;">
