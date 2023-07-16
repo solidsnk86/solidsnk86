@@ -40,7 +40,7 @@
   </a>
 
   <a href="mailto: calcagni.gabriel86@gmail.com">
-    <img src="gmail.png" alt="Instagram" height="35" width="25">
+    <img src="gmail.png" alt="Instagram" height="27" width="25">
   </a>
 </div>
 
