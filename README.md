@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=666ccc&height=133&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=637CF7&width=435&lines=Hi!!+Welcome,+my+name+is+Gabriel+%E3%83%84;I'm+a+Full+stack+Developer+;From+Argentina+%F0%9F%A7%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+to+my+GitHub+profile+;I'm+a+Front+End+Developer%2C+from+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=solidsnk86&icon=0&color=1)](https://visitcount.itsvg.in)
 
