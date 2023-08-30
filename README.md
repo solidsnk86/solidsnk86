@@ -44,10 +44,6 @@
   </a>
 </div>
 
-## I create a tutorial web site for CPE connections and more. For example for [![Static Badge](https://img.shields.io/badge/TPLINK-green)](https://neotecs.tech/aprende.html?) and ![Static Badge](https://img.shields.io/badge/UBIQUITI-blue) networks.
-  
-## [![Static Badge](https://img.shields.io/badge/Neo-Tecs-mediumslateblue)](https://solidsnk86.github.io/neotecs.tech/)
-
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=666ccc&height=133&section=footer"/>
