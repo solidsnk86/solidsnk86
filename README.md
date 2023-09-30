@@ -24,7 +24,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
 [![Apache](https://img.shields.io/badge/-Apache-red?logo=apache&logoColor=white)](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 [![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_(JavaScript_framework))
-[![Built with Tailwind CSS](https://img.shields.io/badge/Built_with-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
 [![NextJS](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)]([https://en.wikipedia.org/wiki/TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1920px-Nextjs-logo.svg.png))
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
