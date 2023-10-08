@@ -42,10 +42,6 @@
     <img src="linkedin-In.png" alt="LinkedIn" height="25" width="25" margin="10px">
   </a>
 
-  <a href="https://instagram.com/calcagni_gabriel26?igshid=ZGUzMzM3NWJiOQ==">
-    <img src="instagram-color.png" alt="Instagram" height="25" width="25">
-  </a>
-
   <a href="mailto: calcagni.gabriel86@gmail.com">
     <img src="gmail.png" alt="Instagram" height="25" width="25">
   </a>
