@@ -16,16 +16,11 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidsnk86&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 
-### Contacts:
+`Contacts:`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-calcagni-659907260">
-    <img src="linkedin-In.png" alt="LinkedIn" height="25" width="25" margin="10px">
-  </a>
-
-  <a href="mailto: calcagni.gabriel86@gmail.com">
-    <img src="gmail.png" alt="Instagram" height="25" width="25">
-  </a>
+ [![Linkedin Badge](https://img.shields.io/badge/-solidsnk86-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni/)](https://www.linkedin.com/in/dayanna-de-oliveira//)
+[![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
 </div>
 
 
