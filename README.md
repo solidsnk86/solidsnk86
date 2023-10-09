@@ -18,10 +18,9 @@
 
 `Contacts:`
 
-<div align="center">
- [![Linkedin Badge](https://img.shields.io/badge/-solidsnk86-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni/)](https://www.linkedin.com/in/dayanna-de-oliveira//)
+[![Linkedin Badge](https://img.shields.io/badge/-solidsnk86-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
 [![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
-</div>
+
 
 
 <a href="#">
