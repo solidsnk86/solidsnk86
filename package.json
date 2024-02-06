@@ -1,0 +1,36 @@
+{
+  "name": "solidsnk86",
+  "version": "1.0.0",
+  "description": "solidsnk86 README GitHub profile",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidsnk86/solidsnk86.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "Mario Gabriel Calcagni <calcagni.gabriel86@gmail.com> (https://solidsnk86.netlify.app)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solidsnk86/solidsnk86/issues"
+  },
+  "homepage": "https://github.com/solidsnk86/solidsnk86#readme",
+  "dependencies": {
+    "node-fetch": "2.6.1",
+    "rss-parser": "3.12.0",
+  },
+  "devDependencies": {
+    "standard": "16.0.4"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
