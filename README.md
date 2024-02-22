@@ -1,21 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hi+there!+Welcome+to+my+GitHub+profile+;I'm+a+Front+End+Developer%2C+from+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
 `Si quieres ponerte en contacto conmigo:`
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
 [![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
 
-Los invito a checar mi sitio web 👇
+Los invito a checar mi sitio web
 Neotecs brinda recursos prácticos y accesibles sobre programación y telecomunicaciones, ofreciendo una guía fácil para aprender sobre informática.
 
-[![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
+[![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=orange&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
 
 #
 
 Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube.
 
-Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
+- Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Durán</a>
 
+#
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
