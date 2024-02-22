@@ -14,8 +14,8 @@ const getLatestYoutubeVideos = (
     .then((res) => res.json())
     .then((videos) => videos.items);
 
-    const generateYoutubeHTML = ({ title, videoId }) => `
-    <a href='https://youtu.be/${videoId}' target='_blank'>
+    const generateYoutubeHTML = ({ title, videoId }) => 
+    `<a href='https://youtu.be/${videoId}' target='_blank'>
       <img width='30%' src='https://i.ytimg.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
     </a>`;
     
