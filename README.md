@@ -12,9 +12,10 @@ Neotecs brinda recursos prácticos y accesibles sobre programación y telecomuni
 
 #
 
-- Este repositorio utiliza *Node.js* para actualizar automáticamente los "últimos videos" de YouTube.
+Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube.
 
-- Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Durán</a>
+Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
+
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
@@ -40,4 +41,10 @@ Neotecs brinda recursos prácticos y accesibles sobre programación y telecomuni
   <img width='30%' src='https://img.youtube.com/vi/Q9bFZgllF7k/mqdefault.jpg' alt='Configuración Antena 📡 Ubiquiti - Wifi Gratis - Gobierno San Luis 3.0 - Desde 📲' />
 </a>
 
+</div>
+
+#
+
+<div align="center">
+  <p>NeoTecs Dev ©2024</p>
 </div>
