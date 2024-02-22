@@ -11,29 +11,8 @@
   </a>
 </p>
 
-### 📡 Últimos vídeos para configurar distintos dispositivos inalámbricos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### 📡 Últimos vídeos para Wifi en [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
-<<<<<<< HEAD
-  <a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
-      <img width='30%' src='https://i.ytimg.com/vi/Rbfx0pzzRgA/sddefault.jpg' alt='✅ Cómo instalar driver TP Link TL-WN722n en Windows 10 👉 Solución definitiva.' />
-  </a>
-
-  <a href='https://youtu.be/rlRyGt4-gzY' target='_blank'>
-      <img width='30%' src='https://i.ytimg.com/vi/rlRyGt4-gzY/sddefault.jpg' alt='Configuración Antena 📡 Wi-fi gratuito de San Luis 3.0 | 4.0 - TP-Link5210G | Desde celular 📲' />
-  </a>
-
-  <a href='https://youtu.be/r6guLH-PoDI' target='_blank'>
-      <img width='30%' src='https://i.ytimg.com/vi/r6guLH-PoDI/sddefault.jpg' alt='Quién está conectado a mi WiFi  - Ver equipos conectados al router (TP-LINK) Rápido y Fácil' />
-  </a>
-  
-  <a href='https://youtu.be/Q9bFZgllF7k' target='_blank'>
-      <img width='30%' src='https://i.ytimg.com/vi/Q9bFZgllF7k/sddefault.jpg' alt='Configuración Antena 📡 Ubiquiti - Wifi Gratis - Gobierno San Luis 3.0 - Desde 📲' />
-  </a>
-
-  <a href='https://youtu.be/lzrk03auZNQ' target='_blank'>
-      <img width='30%' src='https://i.ytimg.com/vi/lzrk03auZNQ/sddefault.jpg' alt='Configuración puerto IP - Para dispositivos TP-LINK 📡' />
-  </a>
-=======
     <a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
       <img width='30%' src='https://i.ytimg.com/vi/Rbfx0pzzRgA/mqdefault.jpg' alt='✅ Cómo instalar driver TP Link TL-WN722n en Windows 10 👉 Solución definitiva.' />
     </a>
@@ -46,7 +25,4 @@
     <a href='https://youtu.be/Q9bFZgllF7k' target='_blank'>
       <img width='30%' src='https://i.ytimg.com/vi/Q9bFZgllF7k/mqdefault.jpg' alt='Configuración Antena 📡 Ubiquiti - Wifi Gratis - Gobierno San Luis 3.0 - Desde 📲' />
     </a>
-    <a href='https://youtu.be/lzrk03auZNQ' target='_blank'>
-      <img width='30%' src='https://i.ytimg.com/vi/lzrk03auZNQ/mqdefault.jpg' alt='Configuración puerto IP - Para dispositivos TP-LINK 📡' />
-    </a>
->>>>>>> 0e19a406e8d28ba56101432490b6c57f2a34848d
+
