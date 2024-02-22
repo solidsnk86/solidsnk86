@@ -6,10 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
 
 Los invito a checar mi sitio web
-<<<<<<< HEAD
 
-=======
->>>>>>> 3e6c3548ae8d33de161fb323f767e0e8bda96ce5
 Neotecs brinda recursos prácticos y accesibles sobre programación y telecomunicaciones, ofreciendo una guía fácil para aprender sobre informática.
 
 [![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
@@ -22,7 +19,7 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 
 #
 
-### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### 📡 Últimos videos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
