@@ -8,23 +8,23 @@
 Los invito a checar mi sitio web
 Neotecs brinda recursos prácticos y accesibles sobre programación y telecomunicaciones, ofreciendo una guía fácil para aprender sobre informática.
 
-[![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=orange&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
+[![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
 
 #
 
 Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube.
 
-- Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Durán</a>
+Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Durán</a>
 
 #
+
+### 📡 Últimos vídeos para configurar tu Wifi en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="NeoTecs" height="23px" width="33px" />
   </a>
 </p>
-
-### 📡 Últimos vídeos para configurar tu Wifi en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
 <div align="left">
 

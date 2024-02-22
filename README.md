@@ -14,8 +14,10 @@ Neotecs brinda recursos prácticos y accesibles sobre programación y telecomuni
 
 Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube.
 
-Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
+Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Durán</a>
 
+
+### 📡 Últimos vídeos para configurar tu Wifi en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
@@ -23,10 +25,7 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
   </a>
 </p>
 
-### 📡 Últimos vídeos para configurar tu Wifi en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
-
 <div align="left">
-
 
 <a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Rbfx0pzzRgA/mqdefault.jpg' alt='✅ Cómo instalar driver TP Link TL-WN722n en Windows 10 👉 Solución definitiva.' />
