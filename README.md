@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### 📡 Últimos vídeos para configurar tu Wifi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### 📡 Últimos vídeos para configurar tu Wifi en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
 <a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
       <img width='30%' src='https://i.ytimg.com/vi/Rbfx0pzzRgA/mqdefault.jpg' alt='✅ Cómo instalar driver TP Link TL-WN722n en Windows 10 👉 Solución definitiva.' />
