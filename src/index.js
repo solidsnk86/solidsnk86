@@ -25,7 +25,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
     getLatestYoutubeVideos(),
   ])
 
-  const latestYoutubeVideos = videos
+  const latestYoutubeVideos = (videos || [])
     .map(({ snippet }) => {
       const { title, resourceId } = snippet
       const { videoId } = resourceId
