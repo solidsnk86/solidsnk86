@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### 📡 Últimos vídeos para configurar distintos dispositivos inalámbricos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### 📡 Últimos vídeos para configurar tu Wifi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
 <<<<<<< HEAD
   <a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
