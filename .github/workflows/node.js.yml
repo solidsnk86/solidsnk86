@@ -28,7 +28,6 @@ jobs:
       - name: Update README.md
         run: npm run update-readme
         env:
-          YOUTUBE_API_KEY: ${{ env.YOUTUBE_API_KEY }}
           GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}  
 
       - name: Configure Git
