@@ -10,11 +10,6 @@ const {
   YOUTUBE_API_KEY
 } = process.env
 
-const parser = new Parser()
-
-const getLatestArticlesFromBlog = () =>
-  parser.parseURL('https://midu.dev/index.xml').then((data) => data.items)
-
 const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_NEOTECS_CHANNEL_ID }) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
