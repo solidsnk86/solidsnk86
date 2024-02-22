@@ -21,7 +21,8 @@ jobs:
       - run: npm install
       - run: npm run update-readme
         env:
-          YOUTUBE_API_KEY: ${{ env.YOUTUBE_API_KEY }} 
+          YOUTUBE_API_KEY: ${{ env.YOUTUBE_API_KEY }},
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
       - run: |
           git config user.name solidsnk86
           git config user.email calcagni.gabriel86@gmail.com
