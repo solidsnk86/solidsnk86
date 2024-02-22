@@ -25,13 +25,13 @@ const generateYoutubeHTML = ({ title, videoId }) => `
     getLatestYoutubeVideos(),
   ])
 
-  const latestYoutubeVideos = videos
-    .map(({ snippet }) => {
-      const { title, resourceId } = snippet
-      const { videoId } = resourceId
-      return generateYoutubeHTML({ videoId, title })
-    })
-    .join('')
+  const latestYoutubeVideos = (videos.items || [])
+  .map(({ snippet }) => {
+    const { title, resourceId } = snippet;
+    const { videoId } = resourceId;
+    return generateYoutubeHTML({ videoId, title });
+  })
+  .join('');
 
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
