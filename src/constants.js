@@ -1,5 +1,5 @@
 export const NUMBER_OF = {
-  VIDEOS: 5
+  VIDEOS: 4
 }
 
 export const PLACEHOLDERS = {
