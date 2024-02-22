@@ -13,7 +13,7 @@
 
 ### 📡 Últimos vídeos para configurar tu Wifi en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
-<div align="center">
+<div align="left">
 
 %{{latest_youtube}}%
 
