@@ -9,7 +9,7 @@ Neotecs brinda recursos prácticos y accesibles sobre programación y telecomuni
 
 [![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
 
-- Este repositorio se actualiza de manera automática los `últimos videos` de YouTube, utilizando Node.js.
+- Este repositorio utiliza *Node.js* para actualizar automáticamente los "últimos videos" de YouTube.
 
 - Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
 
