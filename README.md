@@ -5,6 +5,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
 [![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
 
+- Neotecs ofrece una guía práctica y fácil para que aprendas sobre informática:
+
+[![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
+
+- Este repositorio se actualiza de manera automática los `últimos videos` de YouTube, utilizando Node.js.
+
+- Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
+
+<p align="center">
+   <a href="https://youtube.com/@tutosNeoTecs" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="NeoTecs" height="23px" width="33px" />
+  </a>
+</p>
+
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="NeoTecs" height="23px" width="33px" />
