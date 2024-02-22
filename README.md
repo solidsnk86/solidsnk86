@@ -11,5 +11,5 @@
   </a>
 </p>
 
-### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### 📡 Últimos vídeos para configurar distintos dispositivos inalámbricos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
