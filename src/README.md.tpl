@@ -12,9 +12,11 @@ Neotecs brinda recursos prácticos y accesibles sobre programación y telecomuni
 
 #
 
-- Este repositorio utiliza *Node.js* para actualizar automáticamente los "últimos videos" de YouTube.
+Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube.
 
-- Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
+Ejemplo que he aprendido de <a href="https://github.com/midudev">Midudev</a>
+
+#
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
@@ -28,4 +30,8 @@ Neotecs brinda recursos prácticos y accesibles sobre programación y telecomuni
 
 %{{latest_youtube}}%
 
+</div>
+
+<div align="center">
+  <p>NeoTecs Dev ©2024</p>
 </div>
