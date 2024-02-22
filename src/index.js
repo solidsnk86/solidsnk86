@@ -3,7 +3,7 @@ import fetch from 'node-fetch'
 
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
-const YOUTUBE_NEOTECS_CHANNEL_ID = 'PLTmuoTGunlv7T7pyHEzlG2PaqniaVCprL'
+const YOUTUBE_NEOTECS_CHANNEL_ID = 'UCCg2DsKakyYIaGs-YkqEpqg'
 
 
 const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_NEOTECS_CHANNEL_ID }) =>
