@@ -1,6 +1,5 @@
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
-import Parser from 'rss-parser'
 
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
@@ -23,22 +22,32 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 </a>`;
 
 (async () => {
+  try {
+    const [template, videos] = await Promise.all([
+      fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+      getLatestYoutubeVideos(),
+    ]);
 
-  const [template, videos] = await Promise.all([
-    fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    getLatestYoutubeVideos(),
-  ])
+    if (!videos || !videos.items) {
+      console.error('Error: No se pudieron obtener los videos de YouTube.');
+      process.exit(1);
+    }
 
-  const latestYoutubeVideos = videos
-    .map(({ snippet }) => {
-      const { title, resourceId } = snippet
-      const { videoId } = resourceId
-      return generateYoutubeHTML({ videoId, title })
-    })
-    .join('')
+    const latestYoutubeVideos = videos.items
+      .map(({ snippet }) => {
+        const { title, resourceId } = snippet;
+        const { videoId } = resourceId;
+        return generateYoutubeHTML({ videoId, title });
+      })
+      .join('');
 
-  const newMarkdown = template
-    .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
+    const newMarkdown = template.replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos);
 
-  await fs.writeFile('README.md', newMarkdown)
-})()
+    await fs.writeFile('README.md', newMarkdown);
+
+    console.log('README actualizado correctamente.');
+  } catch (error) {
+    console.error('Error:', error.message);
+    process.exit(1);
+  }
+})();
