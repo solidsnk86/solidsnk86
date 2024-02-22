@@ -31,9 +31,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 
   const [template, videos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    getLatestArticlesFromBlog(),
     getLatestYoutubeVideos(),
-    getPhotosFromInstagram()
   ])
 
   const latestYoutubeVideos = videos

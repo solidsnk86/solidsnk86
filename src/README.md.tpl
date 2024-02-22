@@ -7,9 +7,9 @@
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="NeoTecs" height="23px" width="33px" />
   </a>
 </p>
 
-### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 %{{latest_youtube}}%
