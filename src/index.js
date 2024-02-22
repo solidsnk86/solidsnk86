@@ -16,7 +16,7 @@ const getLatestYoutubeVideos = (
 
     const generateYoutubeHTML = ({ title, videoId }) => `
     <a href='https://youtu.be/${videoId}' target='_blank'>
-      <img width='30%' src='https://i.ytimg.com/vi/${videoId}/sddefault.jpg' alt='${title}' />
+      <img width='30%' src='https://i.ytimg.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
     </a>`;
     
     (async () => {
