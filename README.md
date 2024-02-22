@@ -16,9 +16,11 @@
 <a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/Rbfx0pzzRgA/sddefault.jpg' alt='✅ Cómo instalar driver TP Link TL-WN722n en Windows 10 👉 Solución definitiva!' />
 </a>
+<span style="width: 8px"> </span>
 <a href='https://youtu.be/rlRyGt4-gzY&t=4s' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/rlRyGt4-gzY/sddefault.jpg' alt='Configuración Antena 📡 Wi-fi gratuito de San Luis 3.0 | 4.0 - TP-Link5210G | Desde celular 📲' />
 </a>
+<span style="width: 8px;"> </span>
 <a href='https://youtu.be/r6guLH-PoDI&t=8s' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/r6guLH-PoDI/sddefault.jpg' alt='Quién está conectado a mi WiFi  - Ver equipos conectados al router (TP-LINK) Rápido y Fácil' />
 </a>
