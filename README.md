@@ -19,7 +19,7 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 
 #
 
-### 📡 Últimos videos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
