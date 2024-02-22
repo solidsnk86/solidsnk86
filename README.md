@@ -13,18 +13,17 @@
 
 ### 📡 Últimos vídeos para configurar tu Wifi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
-<a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
-    <img width='30%' src='https://i.ytimg.com/vi/Rbfx0pzzRgA/mqdefault.jpg' alt='✅ Cómo instalar driver TP Link TL-WN722n en Windows 10 👉 Solución definitiva.' />
-</a>
 
- <a href='https://youtu.be/rlRyGt4-gzY' target='_blank'>
-    <img width='30%' src='https://i.ytimg.com/vi/rlRyGt4-gzY/mqdefault.jpg' alt='Configuración Antena 📡 Wi-fi gratuito de San Luis 3.0 | 4.0 - TP-Link5210G | Desde celular 📲' />
-</a>
+    <a href='https://youtu.be/Rbfx0pzzRgA' target='_blank'>
+      <img width='30%' src='https://i.ytimg.com/vi/Rbfx0pzzRgA/mqdefault.jpg' alt='✅ Cómo instalar driver TP Link TL-WN722n en Windows 10 👉 Solución definitiva.' />
+    </a>
+    <a href='https://youtu.be/rlRyGt4-gzY' target='_blank'>
+      <img width='30%' src='https://i.ytimg.com/vi/rlRyGt4-gzY/mqdefault.jpg' alt='Configuración Antena 📡 Wi-fi gratuito de San Luis 3.0 | 4.0 - TP-Link5210G | Desde celular 📲' />
+    </a>
+    <a href='https://youtu.be/r6guLH-PoDI' target='_blank'>
+      <img width='30%' src='https://i.ytimg.com/vi/r6guLH-PoDI/mqdefault.jpg' alt='Quién está conectado a mi WiFi  - Ver equipos conectados al router (TP-LINK) Rápido y Fácil' />
+    </a>
+    <a href='https://youtu.be/Q9bFZgllF7k' target='_blank'>
+      <img width='30%' src='https://i.ytimg.com/vi/Q9bFZgllF7k/mqdefault.jpg' alt='Configuración Antena 📡 Ubiquiti - Wifi Gratis - Gobierno San Luis 3.0 - Desde 📲' />
+    </a>
 
-<a href='https://youtu.be/r6guLH-PoDI' target='_blank'>
-    <img width='30%' src='https://i.ytimg.com/vi/r6guLH-PoDI/mqdefault.jpg' alt='Quién está conectado a mi WiFi  - Ver equipos conectados al router (TP-LINK) Rápido y Fácil' />
-</a>
-
- <a href='https://youtu.be/Q9bFZgllF7k' target='_blank'>
-    <img width='30%' src='https://i.ytimg.com/vi/Q9bFZgllF7k/mqdefault.jpg' alt='Configuración Antena 📡 Ubiquiti - Wifi Gratis - Gobierno San Luis 3.0 - Desde 📲' />
-</a>
