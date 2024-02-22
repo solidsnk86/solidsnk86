@@ -14,18 +14,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
         with:
           node-version: '16'
-      - run: npm install
-      - run: npm run update-readme
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update README.md
+        run: npm run update-readme
         env:
-          YOUTUBE_API_KEY: ${{ env.YOUTUBE_API_KEY }},
-          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
-      - run: |
+          YOUTUBE_API_KEY: ${{ env.YOUTUBE_API_KEY }}
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}  
+
+      - name: Configure Git
+        run: |
           git config user.name solidsnk86
           git config user.email calcagni.gabriel86@gmail.com
+
+      - name: Commit and push changes
+        run: |
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
-          git push origin $(echo $GITHUB_REF | sed 's/refs\/heads\///')
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
