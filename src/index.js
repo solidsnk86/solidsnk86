@@ -21,17 +21,17 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 (async () => {
 
   const [template, videos] = await Promise.all([
-    fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+    fs.readFile('./README.md.tpl', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
   ])
 
-  const latestYoutubeVideos = videos
-    .map(({ snippet }) => {
-      const { title, resourceId } = snippet
-      const { videoId } = resourceId
-      return generateYoutubeHTML({ videoId, title })
-    })
-    .join('')
+  const latestYoutubeVideos = (videos || [])
+  .map(({ snippet }) => {
+    const { title, resourceId } = snippet;
+    const { videoId } = resourceId;
+    return generateYoutubeHTML({ videoId, title });
+  })
+  .join('');
 
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
