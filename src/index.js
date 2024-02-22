@@ -3,18 +3,18 @@ import fetch from 'node-fetch'
 
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
-const YOUTUBE_NEOTECS_CHANNEL_ID = 'UCCg2DsKakyYIaGs-YkqEpqg'
 
 const {
   YOUTUBE_API_KEY
 } = process.env
 
-const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_NEOTECS_CHANNEL_ID }) =>
+const getLatestYoutubeVideos = ({ playlistId } = { playlistId: 'PLTmuoTGunlv7T7pyHEzlG2PaqniaVCprL' }) =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${playlistId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items)
+
 
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
@@ -51,3 +51,5 @@ const generateYoutubeHTML = ({ title, videoId }) => `
     process.exit(1);
   }
 })();
+
+
