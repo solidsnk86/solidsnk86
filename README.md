@@ -42,6 +42,12 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 <a href='https://youtu.be/q7716CICOiM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/q7716CICOiM/mqdefault.jpg' alt='✅ Solución puerto WAN dañado o quemado router TP - Link' />
 </a>
+<a href='https://youtu.be/rlRyGt4-gzY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rlRyGt4-gzY/mqdefault.jpg' alt='Configuración Antena 📡 Wi-fi gratuito de San Luis 3.0 | 4.0 - TP-Link5210G | Desde celular 📲' />
+</a>
+<a href='https://youtu.be/r6guLH-PoDI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/r6guLH-PoDI/mqdefault.jpg' alt='Quién está conectado a mi WiFi  - Ver equipos conectados al router (TP-LINK) Rápido y Fácil' />
+</a>
 
 </div>
 
