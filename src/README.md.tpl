@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
-Recuerda la totalidad de la sustancia, de la que participas
+"Recuerda la totalidad de la sustancia, de la que participas
 mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
-intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?
-Marco Aurelio
+intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?" --Marco Aurelio
 
 `Si quieres ponerte en contacto conmigo:`
 
