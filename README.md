@@ -2,7 +2,7 @@
 
 "Recuerda la totalidad de la sustancia, de la que participas
 mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
-intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?" --Marco Aurelio
+intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?" ̶̶ Marco Aurelio
 
 `Si quieres ponerte en contacto conmigo:`
 
