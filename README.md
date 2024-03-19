@@ -6,7 +6,7 @@ intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?"
 
 **Programador Front End con conocimientos en Back End**
 
-Estudiando Tecnicatura Universitaria en programación en la UTN Facultad Regional de San Rafael (Mendoza)
+Estudiando Tecnicatura Universitaria en Programación en la UTN Facultad Regional de San Rafael (Mendoza)
 
 `Si quieres ponerte en contacto conmigo:`
 
