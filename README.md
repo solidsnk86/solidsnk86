@@ -4,6 +4,10 @@
 mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
 intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?" ̶̶ Marco Aurelio
 
+**Programador Front End con conocimientos en Back End**
+
+Estudiando Tecnicatura Universitaria en programación en la UTN Facultad Regional de San Rafael (Mendoza)
+
 `Si quieres ponerte en contacto conmigo:`
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
