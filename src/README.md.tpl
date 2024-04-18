@@ -42,11 +42,3 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 %{{latest_youtube}}%
 
 </div>
-
-### Últimos Proyectos:
-
-<div align="left">
-
-%{{latest_proyects}}%
-
-</div>
