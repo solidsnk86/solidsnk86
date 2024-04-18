@@ -29,6 +29,8 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 
 ### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
+**Aquí encontrarán videos descriptivos de cómo comfigurar ciertos modelos de CPE's Inalámbricos de diferentes marcas**
+
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="NeoTecs" height="23px" width="33px" />
