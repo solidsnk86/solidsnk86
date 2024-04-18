@@ -29,7 +29,7 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 
 ### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
-**Aquí encontrarán videos descriptivos de cómo comfigurar ciertos modelos de CPE's Inalámbricos de diferentes marcas**
+**Aquí encontrarán videos descriptivos de cómo comfigurar ciertos modelos de CPE's Inalámbricos de diferentes marcas:**
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
@@ -38,7 +38,6 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 </p>
 
 <div align="left">
-
 
 <a href='https://youtu.be/brN50pXmZR8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/brN50pXmZR8/mqdefault.jpg' alt='Configuración Antena 📡 TP-Link CPE 510 5Ghz. Wifi Gratis - Gobierno San Luis 3.0 Desde 📱 Smartphone.' />
