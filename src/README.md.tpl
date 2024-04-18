@@ -48,7 +48,3 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 %{{latest_proyects}}%
 
 </div>
-
-<div align="center">
-  <p>NeoTecs Dev ©2024</p>
-</div>
