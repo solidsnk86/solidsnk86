@@ -58,9 +58,3 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 </a>
 
 </div>
-
-#
-
-<div align="center">
-  <p>NeoTecs Dev ©2024</p>
-</div>
