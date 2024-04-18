@@ -3,5 +3,5 @@ export const NUMBER_OF = {
 }
 
 export const PLACEHOLDERS = {
-  LATEST_YOUTUBE: '%{{latest_youtube}}%',
+  LATEST_YOUTUBE: '%{{latest_youtube}}%'
 }
