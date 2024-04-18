@@ -29,7 +29,7 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 
 ### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
 
-**Aquí encontrarán videos descriptivos de cómo comfigurar ciertos modelos de CPE's Inalámbricos de diferentes marcas**
+**Aquí encontrarán videos descriptivos de cómo comfigurar ciertos modelos de CPE's Inalámbricos de diferentes marcas:**
 
 <p align="center">
    <a href="https://youtube.com/@tutosNeoTecs" target="blank">
