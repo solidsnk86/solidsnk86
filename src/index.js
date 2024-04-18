@@ -1,3 +1,6 @@
+// Este script tiene uso de reglas de prettier que por gusto y agrado excluye las comillas dobles en los strings
+// y también los puntos y comas al final (semicolons)
+
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 
