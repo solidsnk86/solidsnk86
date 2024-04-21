@@ -12,7 +12,7 @@ const getLatestYoutubeVideos = (
   { channelId } = { channelId: YOUTUBE_NEOTECS_CHANNEL_ID }
 ) =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=AIzaSyAWikhaavT2oVcs1LnTpjeFVf21LFb9DJM`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${process.env.API_KEY_YOUTUBE}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items)
