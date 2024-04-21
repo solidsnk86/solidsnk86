@@ -36,3 +36,9 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="NeoTecs" height="23px" width="33px" />
   </a>
 </p>
+
+<div align="left">
+
+%{{latest_youtube}}%
+
+</div>
