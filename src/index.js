@@ -4,9 +4,7 @@
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 
-import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
-
-const YOUTUBE_NEOTECS_CHANNEL_ID = 'PLTmuoTGunlv7T7pyHEzlG2PaqniaVCprL'
+import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_NEOTECS_CHANNEL_ID } from './constants.js'
 
 const getLatestYoutubeVideos = (
   { channelId } = { channelId: YOUTUBE_NEOTECS_CHANNEL_ID }
