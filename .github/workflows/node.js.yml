@@ -28,6 +28,8 @@ jobs:
         run: npm run update-readme
         env:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          API_KEY_YOUTUBE: ${{ secrets.API_KEY_YOUTUBE }}
+          
 
       - name: Configure Git
         run: |
@@ -37,4 +39,4 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m "[neoBot] Update README with latest info"
           git push origin master
         env:
-          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          MY_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
