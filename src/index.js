@@ -6,11 +6,13 @@ import fetch from 'node-fetch'
 
 import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_NEOTECS_CHANNEL_ID } from './constants.js'
 
+const { API_KEY_YOUTUBE } = process.env
+
 const getLatestYoutubeVideos = (
   { channelId } = { channelId: YOUTUBE_NEOTECS_CHANNEL_ID }
 ) =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${process.env.API_KEY_YOUTUBE}`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${API_KEY_YOUTUBE}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items)
