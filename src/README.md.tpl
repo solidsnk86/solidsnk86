@@ -2,13 +2,13 @@
 
 `"Recuerda la totalidad de la sustancia, de la que participas
 mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
-intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?" ̶̶ Marco Aurelio`
+intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?" -- Marco Aurelio`
 
 **Programador Front End con conocimientos en Back End**
 
 Estudiando Tecnicatura Universitaria en Programación en la UTN Facultad Regional de San Rafael (Mendoza)
 
-`Si quieres ponerte en contacto conmigo:`
+Si quieres ponerte en contacto conmigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
 [![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)

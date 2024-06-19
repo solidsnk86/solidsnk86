@@ -1,10 +1,11 @@
-// Este script tiene uso de reglas de prettier que por gusto y agrado excluye las comillas dobles en los strings
-// y también los puntos y comas al final (semicolons)
-
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 
-import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_NEOTECS_CHANNEL_ID } from './constants.js'
+import {
+  PLACEHOLDERS,
+  NUMBER_OF,
+  YOUTUBE_NEOTECS_CHANNEL_ID
+} from './constants.js'
 
 const { API_KEY_YOUTUBE } = process.env
 
@@ -21,7 +22,6 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
 </a>`
-
 ;(async () => {
   try {
     const [template, videos] = await Promise.all([
