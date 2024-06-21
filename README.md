@@ -8,7 +8,7 @@ intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?"
 
 Estudiando Tecnicatura Universitaria en Programación en la UTN Facultad Regional de San Rafael (Mendoza)
 
-`Si quieres ponerte en contacto conmigo:`
+### Si quieres ponerte en contacto conmigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
 [![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
@@ -38,7 +38,6 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 </p>
 
 <div align="left">
-
 
 <a href='https://youtu.be/brN50pXmZR8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/brN50pXmZR8/mqdefault.jpg' alt='Configuración Antena 📡 TP-Link CPE 510 5Ghz. Wifi Gratis - Gobierno San Luis 3.0 Desde 📱 Smartphone.' />
