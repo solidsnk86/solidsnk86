@@ -16,7 +16,7 @@ const getLatestYoutubeVideos = (
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${API_KEY_YOUTUBE}`
   )
     .then((res) => res.json())
-    .then((videos) => videos.items)
+    .then((videos) => videos.items && video.items ? video.items : [])
 
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
@@ -29,7 +29,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
       getLatestYoutubeVideos()
     ])
 
-    if (!videos) {
+    if (!videos.length) {
       throw new Error('Unable to fetch YouTube videos.')
     }
 
