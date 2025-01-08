@@ -27,7 +27,7 @@ jobs:
       - name: Update README.md
         run: npm run update-readme
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB || secrets.GITHUB_TOKEN }}
           API_KEY_YOUTUBE: ${{ secrets.API_KEY_YOUTUBE }}
 
       - name: Configure Git
