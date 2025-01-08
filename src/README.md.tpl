@@ -15,15 +15,14 @@ Si quieres ponerte en contacto conmigo:
 
 ֎ Los invito a checar mi sitio web
 
-Neotecs brinda recursos prácticos y accesibles sobre programación y telecomunicaciones, ofreciendo una guía fácil para aprender sobre informática.
+Este es mi portafolio web en donde pueden ver algunos de mis proyectos destacados y también pueden checar la app para ver sus estadísticas de github 
+iniciando sesión en la app.
 
-[![NeoTecs Badge](https://img.shields.io/badge/-NeoTecs-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://neotecs.vercel.app)](https://neotecs.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app)](https://calcagni-gabriel.vercel.app)
 
 #
 
-֎ Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube.
-
-Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Durán</a>
+֎ Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube y quienes no me siguen en github desde mi API.
 
 #
 
@@ -40,5 +39,13 @@ Ejemplo que he aprendido de <a href="https://github.com/midudev">Miguel Angel Du
 <div align="left">
 
 %{{latest_youtube}}%
+
+</div>
+
+### Datos de GitHub
+
+<div align="left">
+
+%{{github_stats}}%
 
 </div>
