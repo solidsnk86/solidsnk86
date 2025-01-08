@@ -37,42 +37,38 @@ const generateGithubStatsHTML = ({ nonFollowersCount, nonFollowersUser, nonFollo
 </div>
 `
 
-;(async () => {
+(async () => {
   try {
     const [template, videos, stats] = await Promise.all([
       fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
       getLatestYoutubeVideos(),
       getGithubStats()
-    ])
+    ]);
 
     if (!videos.length) {
-      throw new Error('Unable to fetch YouTube videos.')
+      throw new Error('No se encontraron videos de YouTube.');
     }
 
     const latestYoutubeVideos = videos
       .map(({ snippet }) => {
-        const { title, resourceId } = snippet
-        const { videoId } = resourceId
-        return generateYoutubeHTML({ videoId, title })
+        const { title, resourceId } = snippet;
+        const { videoId } = resourceId;
+        return generateYoutubeHTML({ videoId, title });
       })
-      .join('')
+      .join('');
 
-    const newMarkdown = template.replace(
-      PLACEHOLDERS.LATEST_YOUTUBE,
-      latestYoutubeVideos
-    )
+    const nonFollowing = stats?.data?.non_following || [];
+    const githubStatsHTML = generateGithubStatsHTML(nonFollowing);
 
-    const allGithubStats = stats.map(({ data }) => {
-      const count = data.non_following.length
-      const { user, avatar } = data.non_following 
-      return generateGithubStatsHTML({ nonFollowersCount: count, nonFollowersUser: user, nonFollowersAvatar: avatar })
-    })
+    const updatedMarkdown = template
+      .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
+      .replace(STATS_PLACEHOLDER.STATS, githubStatsHTML);
 
-    const newMarkDownInfo = template.replace(STATS_PLACEHOLDER.STATS, allGithubStats)
+    await fs.writeFile('README.md', updatedMarkdown);
 
-    await fs.writeFile('README.md', newMarkdown)
-    await fs.writeFile('README.md', newMarkDownInfo)
+    console.log('README.md actualizado correctamente.');
   } catch (error) {
-    console.error('Error:', error.message)
+    console.error('Error:', error.message);
   }
-})()
+})();
+
