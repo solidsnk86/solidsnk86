@@ -59,64 +59,64 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>⭐ Repositorio destacado</td>
-    <td>`NeoTecs` con `7` estrellas</td>
+    <td>NeoTecs` con 7 estrellas</td>
   </tr>
   <tr>
-    <td>👥 No seguidores mutuos</td>
-    <td>12</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
-### Actividad en GitHub
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
 
-  <a href="https://github.com/github">
+  <a href="https://github.com/github" title="github">
     <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="45" height="45" alt="Avatar de github" />
   </a>
 
-  <a href="https://github.com/dscho">
+  <a href="https://github.com/dscho" title="dscho">
     <img src="https://avatars.githubusercontent.com/u/127790?v=4" width="45" height="45" alt="Avatar de dscho" />
   </a>
 
-  <a href="https://github.com/wesbos">
+  <a href="https://github.com/wesbos" title="wesbos">
     <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="45" height="45" alt="Avatar de wesbos" />
   </a>
 
-  <a href="https://github.com/nolimits4web">
+  <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img src="https://avatars.githubusercontent.com/u/999588?v=4" width="45" height="45" alt="Avatar de nolimits4web" />
   </a>
 
-  <a href="https://github.com/BartoszJarocki">
+  <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
   </a>
 
-  <a href="https://github.com/midudev">
+  <a href="https://github.com/midudev" title="midudev">
     <img src="https://avatars.githubusercontent.com/u/1561955?v=4" width="45" height="45" alt="Avatar de midudev" />
   </a>
 
-  <a href="https://github.com/Kikobeats">
+  <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
   </a>
 
-  <a href="https://github.com/microsoft">
+  <a href="https://github.com/microsoft" title="microsoft">
     <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="45" height="45" alt="Avatar de microsoft" />
   </a>
 
-  <a href="https://github.com/goncy">
+  <a href="https://github.com/goncy" title="goncy">
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
   </a>
 
-  <a href="https://github.com/mouredev">
+  <a href="https://github.com/mouredev" title="mouredev">
     <img src="https://avatars.githubusercontent.com/u/17043402?v=4" width="45" height="45" alt="Avatar de mouredev" />
   </a>
 
-  <a href="https://github.com/supabase">
+  <a href="https://github.com/supabase" title="supabase">
     <img src="https://avatars.githubusercontent.com/u/54469796?v=4" width="45" height="45" alt="Avatar de supabase" />
   </a>
 
-  <a href="https://github.com/PowerSystem2024">
+  <a href="https://github.com/PowerSystem2024" title="PowerSystem2024">
     <img src="https://avatars.githubusercontent.com/u/178205025?v=4" width="45" height="45" alt="Avatar de PowerSystem2024" />
   </a>
 
