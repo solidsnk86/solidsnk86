@@ -1,7 +1,7 @@
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 
-import { PLACEHOLDER } from './constants.js'
+import { formatDate, PLACEHOLDER } from './constants.js'
 
 const getGithubStats = async () => {
   const response = await fetch(
@@ -47,6 +47,7 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
     const starsCount = repos
       .map((repo) => repo.stargazers_count)
       .reduce((acc, value) => acc + value, 0)
+    const lastUpdate = repos.find((repo) => repo.name === 'solidsnk86')
 
     const githubStatsHTML = users
       .map((_, i) => {
@@ -58,6 +59,7 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
       .join('')
 
     const updatedMarkdown = template
+      .replace(PLACEHOLDER.UPDATED_AT, formatDate({ str: lastUpdate.updated_at }))
       .replace(PLACEHOLDER.MOST_USED, mostUsedLang)
       .replace(PLACEHOLDER.SECOND_MOST_USED, secondUsedLang)
       .replace(PLACEHOLDER.THIRD_MOST_USED, thirdUsedLang)
