@@ -34,7 +34,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 - Repo con más estrellas: ✨ `NeoTecs` con un total de `⭐7`
 
-<h3>No me siguen de vuelta: 12</h3>
+<h3>Quienes no me siguen de vuelta: 12</h3>
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
