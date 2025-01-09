@@ -8,7 +8,7 @@ import {
   STATS_PLACEHOLDER
 } from './constants.js'
 
-const { API_KEY_YOUTUBE } = process.env
+const API_KEY_YOUTUBE = process.env.API_KEY_YOUTUBE
 
 const getLatestYoutubeVideos = (
   { channelId } = { channelId: YOUTUBE_NEOTECS_CHANNEL_ID }
@@ -17,58 +17,69 @@ const getLatestYoutubeVideos = (
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${API_KEY_YOUTUBE}`
   )
     .then((res) => res.json())
-    .then((videos) => videos.items && videos.items ? videos.items : [])
+    .then((videos) => (videos.items && videos.items ? videos.items : []))
 
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
 </a>`
 
-const getGithubStats = () => {
-  fetch("https://calcagni-gabriel.vercel.app/api/non-followers?user=solidsnk86")
-  .then((response) => response.json())
-  .then((githubStats) => githubStats || [])
+const getGithubStats = async () => {
+  const response = await fetch('https://calcagni-gabriel.vercel.app/api/non-followers?user=solidsnk86')
+  const jsonData = await response.json()
+  return jsonData
 }
 
-const generateGithubStatsHTML = ({ nonFollowersCount, nonFollowersUser, nonFollowersAvatar }) => `
-<small>No me siguen de vuelta: ${nonFollowersCount}</small>
-<div style='display: grid; grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));'>
-  <img src="${nonFollowersAvatar}" width="45" height="45" alt="Avatar de ${nonFollowersUser}" />
-</div>
+const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
+  return `
+  <a href="https://github.com/${nonFollowersUser}">
+    <img src="${nonFollowersAvatar}" width="45" height="45" alt="Avatar de ${nonFollowersUser}" />
+  </a>
 `
+}
 
-(async () => {
+;(async () => {
   try {
     const [template, videos, stats] = await Promise.all([
       fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
       getLatestYoutubeVideos(),
       getGithubStats()
-    ]);
+    ])
 
     if (!videos.length) {
-      throw new Error('No se encontraron videos de YouTube.');
+      throw new Error('No se encontraron videos de YouTube.')
     }
 
     const latestYoutubeVideos = videos
       .map(({ snippet }) => {
-        const { title, resourceId } = snippet;
-        const { videoId } = resourceId;
-        return generateYoutubeHTML({ videoId, title });
+        const { title, resourceId } = snippet
+        const { videoId } = resourceId
+        return generateYoutubeHTML({ videoId, title })
       })
-      .join('');
+      .join('')
 
-    const nonFollowing = stats?.data?.non_following || [];
-    const githubStatsHTML = generateGithubStatsHTML(nonFollowing);
+    const count = stats.data.nonfollowings_count
+    const users = stats.data.non_following.users
+    const avatars = stats.data.non_following.avatar
+
+    const githubStatsHTML = users
+      .map((_, i) => {
+        return `${generateGithubStatsHTML({
+          nonFollowersUser: users[i],
+          nonFollowersAvatar: avatars[i]
+        })}`
+      })
+      .join('')
 
     const updatedMarkdown = template
       .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
-      .replace(STATS_PLACEHOLDER.STATS, githubStatsHTML);
+      .replace(STATS_PLACEHOLDER.NON_FOLLOWERS, count)
+      .replace(STATS_PLACEHOLDER.STATS, githubStatsHTML)
 
-    await fs.writeFile('README.md', updatedMarkdown);
+    await fs.writeFile('README.md', updatedMarkdown)
 
-    console.log('README.md actualizado correctamente.');
+    console.log('✅ README.md actualizado correctamente.')
   } catch (error) {
-    console.error('Error:', error.message);
+    console.error('❌ Error:', error.message)
   }
-})();
-
+})()

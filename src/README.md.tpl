@@ -13,10 +13,10 @@ Si quieres ponerte en contacto conmigo:
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
 [![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
 
-֎ Los invito a checar mi sitio web
+✨ ¡Te invito a visitar mi sitio web! ✨
 
-Este es mi portafolio web en donde pueden ver algunos de mis proyectos destacados y también pueden checar la app para ver sus estadísticas de github 
-iniciando sesión en la app.
+En mi portafolio web encontrarás una selección de mis proyectos más destacados. Además, te animo a explorar nuestra aplicación, donde podrás ver tus estadísticas de GitHub al iniciar sesión.
+¡Descubre todo lo que puedo ofrecer y cómo podemos colaborar!
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app)](https://calcagni-gabriel.vercel.app)
 
@@ -42,9 +42,11 @@ iniciando sesión en la app.
 
 </div>
 
-### Datos de GitHub
+### Datos de seguidores en GitHub
 
-<div align="left">
+<h3>No me siguen de vuelta: %{{non_followers_count}}%</h3>
+
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
 %{{github_stats}}%
 

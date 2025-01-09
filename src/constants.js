@@ -7,6 +7,7 @@ export const PLACEHOLDERS = {
 }
 
 export const STATS_PLACEHOLDER = {
+  NON_FOLLOWERS: '%{{non_followers_count}}%',
   STATS: '%{{github_stats}}%'
 }
 
