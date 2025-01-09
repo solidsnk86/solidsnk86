@@ -1,40 +1,73 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
-`"Recuerda la totalidad de la sustancia, de la que participas
-mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
-intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?" -- Marco Aurelio`
+<div align="center">
 
-**Programador Front End con conocimientos en Back End**
+> *"Recuerda la totalidad de la sustancia, de la que participas
+> mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
+> intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?"*
+>
+> — Marco Aurelio
 
-Estudiando Tecnicatura Universitaria en Programación en la UTN Facultad Regional de San Rafael (Mendoza)
+</div>
 
-Si quieres ponerte en contacto conmigo:
+## 👨‍💻 Sobre mí
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
-[![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
+**Desarrollador Front End con conocimientos en Back End**
 
-✨ ¡Te invito a visitar mi sitio web! ✨
+🎓 Estudiante de Tecnicatura Universitaria en Programación  
+📍 UTN Facultad Regional de San Rafael (Mendoza)
+
+## 📫 Conecta conmigo
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
+[![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
+
+</div>
+
+## ✨ Mi Portafolio
+
+<div align="center">
+
+### ¡Te invito a visitar mi sitio web!
 
 En mi portafolio web encontrarás una selección de mis proyectos más destacados. Además, te animo a explorar nuestra aplicación, donde podrás ver tus estadísticas de GitHub al iniciar sesión.
-¡Descubre todo lo que puedo ofrecer y cómo podemos colaborar!
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-<COLOR>?style=flat&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app)](https://calcagni-gabriel.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app)](https://calcagni-gabriel.vercel.app)
 
-#
+</div>
+
+## 🤖 Automatización
 
 🚀 Este repositorio utiliza `Node.js` para actualizar automáticamente los últimos datos de github a través de mi API para estadísticas.
 
-#
+## 📊 Estadísticas de GitHub
 
-### Algunos Datos de Github 🐱‍🚀
+<table>
+  <tr>
+    <th>Categoría</th>
+    <th>Detalle</th>
+  </tr>
+  <tr>
+    <td>🥇 Lenguaje más usado</td>
+    <td>JavaScript (%27.0)</td>
+  </tr>
+  <tr>
+    <td>🥈 Segundo lenguaje</td>
+    <td>HTML (%24.3)</td>
+  </tr>
+  <tr>
+    <td>⭐ Repositorio destacado</td>
+    <td>`NeoTecs` con `7` estrellas</td>
+  </tr>
+  <tr>
+    <td>👥 No seguidores mutuos</td>
+    <td>12</td>
+  </tr>
+</table>
 
-- Lenguaje más usado: 🥇 JavaScript con un %27.0
-
-- Segundo más usado: 🥈 HTML con un %24.3
-
-- Repo con más estrellas: ✨ `NeoTecs` con un total de `⭐7`
-
-<h3>Quienes no me siguen de vuelta: 12</h3>
+### Actividad en GitHub
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
