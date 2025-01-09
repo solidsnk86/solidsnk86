@@ -1,13 +1,12 @@
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 
-import {
-  PLACEHOLDER,
-  STATS_PLACEHOLDER
-} from './constants.js'
+import { PLACEHOLDER, STATS_PLACEHOLDER } from './constants.js'
 
 const getGithubStats = async () => {
-  const response = await fetch('https://calcagni-gabriel.vercel.app/api/non-followers?user=solidsnk86')
+  const response = await fetch(
+    'https://calcagni-gabriel.vercel.app/api/non-followers?user=solidsnk86'
+  )
   const jsonData = await response.json()
   return jsonData
 }
@@ -39,8 +38,13 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
     const repos = stats.data.repos
     const repoStars = repos.map((stars) => stars.stargazers_count)
     const maxStars = Math.max(...repoStars)
-    const repoWithMoreStarsName = repos.find((repo) => repo.stargazers_count === maxStars)
+    const repoWithMoreStarsName = repos.find(
+      (repo) => repo.stargazers_count === maxStars
+    )
     const publicRepos = repos.length
+    const starsCount = repos
+      .map((repo) => repo.stargazers_count)
+      .reduce((acc, value) => acc + value, 0)
 
     const githubStatsHTML = users
       .map((_, i) => {
@@ -63,6 +67,7 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
       .replace(STATS_PLACEHOLDER.NON_FOLLOWERS, count)
       .replace(STATS_PLACEHOLDER.STATS, githubStatsHTML)
       .replace(PLACEHOLDER.PUBLIC_REPOS, publicRepos)
+      .replace(PLACEHOLDER.STARS_COUNT, starsCount)
 
     await fs.writeFile('README.md', updatedMarkdown)
 

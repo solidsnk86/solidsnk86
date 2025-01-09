@@ -63,6 +63,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>NeoTecs con 7 estrellas</td>
   </tr>
   <tr>
+    <td>⭐ Estrellas ganadas</td>
+    <td>54 con %{{repo_stars}}% estrellas</td>
+  </tr>
+  <tr>
     <td>🙇‍♂️ Seguidores</td>
     <td>239</td>
   </tr>
@@ -71,7 +75,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>231</td>
   </tr>
   <tr>
-    <td>🗃 Repositorios Públicos</td>
+    <td>📁 Repositorios Públicos</td>
     <td>37</td>
   </tr>
 </table>

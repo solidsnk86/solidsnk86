@@ -59,7 +59,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>%{{second_most_used}}% (%%{{percentage_2}}%)</td>
   </tr>
   <tr>
-    <td>⭐ Repositorio destacado</td>
+    <td>🌟 Repositorio destacado</td>
     <td>%{{repo_name}}% con %{{repo_stars}}% estrellas</td>
   </tr>
   <tr>
@@ -73,6 +73,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   <tr>
     <td>📁 Repositorios Públicos</td>
     <td>%{{public_repos}}%</td>
+  </tr>
+  <tr>
+    <td>⭐ Estrellas ganadas</td>
+    <td>%{{stars_count}}% estrellas</td>
   </tr>
 </table>
 
