@@ -59,15 +59,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>⭐ Repositorio destacado</td>
-    <td>`%{{repo_name}}%` con `%{{repo_stars}}%` estrellas</td>
+    <td>%{{repo_name}}%` con %{{repo_stars}}% estrellas</td>
   </tr>
   <tr>
-    <td>👥 No seguidores mutuos</td>
-    <td>%{{non_followers_count}}%</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
-### Actividad en GitHub
+### 👥 Quienes no me siguen de vuelta: %{{non_followers_count}}%
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 

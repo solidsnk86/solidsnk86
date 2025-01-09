@@ -14,7 +14,7 @@ const getGithubStats = async () => {
 
 const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
   return `
-  <a href="https://github.com/${nonFollowersUser}">
+  <a href="https://github.com/${nonFollowersUser}" title="${nonFollowersUser}">
     <img src="${nonFollowersAvatar}" width="45" height="45" alt="Avatar de ${nonFollowersUser}" />
   </a>
 `
