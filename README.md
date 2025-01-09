@@ -28,11 +28,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ### Algunos Datos de Github 🐱‍🚀
 
-- Lenguaje más usado: 🥇 HTML con un %26.3
+- Lenguaje más usado: 🥇 JavaScript con un %27.0
 
-- Segundo más usado: 🥈 JavaScript con un %26.3
+- Segundo más usado: 🥈 HTML con un %24.3
 
-- Repo con más estrellas: ✨ `NeoTecs`, cantidad de estrellas ⭐7
+- Repo con más estrellas: ✨ `NeoTecs` con un total de `⭐7`
 
 <h3>No me siguen de vuelta: 12</h3>
 
