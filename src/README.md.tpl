@@ -22,27 +22,17 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 #
 
-֎ Este repositorio utiliza `Node.js` para actualizar automáticamente los "últimos videos" de YouTube y quienes no me siguen en github desde mi API.
+🚀 Este repositorio utiliza `Node.js` para actualizar automáticamente los últimos datos de github a través de mi API para estadísticas.
 
 #
 
-### 📡 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@tutosNeoTecs?sub_confirmation=1)
+### Algunos Datos de Github 🐱‍🚀
 
-**Aquí encontrarán videos descriptivos de cómo comfigurar ciertos modelos de CPE's Inalámbricos de diferentes marcas:**
+- Lenguaje más usado: 🥇 %{{most_used_language}}% con un %%{{percentage_1}}%
 
-<p align="center">
-   <a href="https://youtube.com/@tutosNeoTecs" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="NeoTecs" height="23px" width="33px" />
-  </a>
-</p>
+- Segundo más usado: 🥈 %{{second_most_used}}% con un %%{{percentage_2}}%
 
-<div align="left">
-
-%{{latest_youtube}}%
-
-</div>
-
-### Datos de seguidores en GitHub
+- Repo con más estrellas: ✨ `%{{repo_name}}%`, cantidad de estrellas ⭐ `%{{repo_stars}}%`
 
 <h3>No me siguen de vuelta: %{{non_followers_count}}%</h3>
 
