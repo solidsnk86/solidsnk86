@@ -32,7 +32,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 - Segundo más usado: 🥈 %{{second_most_used}}% con un %%{{percentage_2}}%
 
-- Repo con más estrellas: ✨ `%{{repo_name}}%`, cantidad de estrellas ⭐ `%{{repo_stars}}%`
+- Repo con más estrellas: ✨ `%{{repo_name}}%`, cantidad de estrellas ⭐%{{repo_stars}}%
 
 <h3>No me siguen de vuelta: %{{non_followers_count}}%</h3>
 
