@@ -32,7 +32,7 @@
 
 ### ¡Te invito a visitar mi sitio web!
 
-En mi portafolio web encontrarás una selección de mis proyectos más destacados. Además, te animo a explorar nuestra aplicación, donde podrás ver tus estadísticas de GitHub al iniciar sesión.
+En mi portafolio web encontrarás una selección de mis proyectos más destacados. Además, te animo a explorar mi aplicación, donde podrás ver tus estadísticas de GitHub al iniciar sesión.
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app)](https://calcagni-gabriel.vercel.app)
 
