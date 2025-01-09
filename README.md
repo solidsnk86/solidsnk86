@@ -35,6 +35,7 @@
 En mi portafolio web encontrarás una selección de mis proyectos más destacados. Además, te animo a explorar mi aplicación, donde podrás ver tus estadísticas de GitHub al iniciar sesión.
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app)](https://calcagni-gabriel.vercel.app)
+[![GitHubStatsApp Badge](https://img.shields.io/badge/-Portfolio-3a3a3a?style=for-the-badge&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app/github-stats)](https://calcagni-gabriel.vercel.app/github-stats)
 
 </div>
 
@@ -59,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>⭐ Repositorio destacado</td>
-    <td>NeoTecs` con 7 estrellas</td>
+    <td>NeoTecs con 7 estrellas</td>
   </tr>
 </table>
 
