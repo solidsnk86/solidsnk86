@@ -52,15 +52,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🥇 Lenguaje más usado</td>
-    <td>JavaScript (%27.0)</td>
+    <td>JavaScript • %27.0</td>
   </tr>
   <tr>
     <td>🥈 Segundo lenguaje</td>
-    <td>HTML (%24.3)</td>
+    <td>HTML • %24.3</td>
   </tr>
   <tr>
     <td>🥉 Tercer lenguaje</td>
-    <td>TypeScript (%13.5)</td>
+    <td>TypeScript • %13.5</td>
   </tr>
   <tr>
     <td>🌟 Repositorio destacado</td>
