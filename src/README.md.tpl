@@ -76,7 +76,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
-    <td>%{{stars_count}}% estrellas</td>
+    <td>%{{stars_count}}%</td>
   </tr>
 </table>
 
