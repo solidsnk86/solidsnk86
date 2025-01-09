@@ -32,7 +32,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 - Segundo más usado: 🥈 JavaScript con un %26.3
 
-- Repo con más estrellas: ✨ `NeoTecs`, cantidad de estrellas ⭐ `7`
+- Repo con más estrellas: ✨ `NeoTecs`, cantidad de estrellas ⭐7
 
 <h3>No me siguen de vuelta: 12</h3>
 
