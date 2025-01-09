@@ -34,7 +34,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 - Repo con más estrellas: ✨ `%{{repo_name}}%` con un total de `⭐%{{repo_stars}}%`
 
-<h3>No me siguen de vuelta: %{{non_followers_count}}%</h3>
+<h3>Quienes no me siguen de vuelta: %{{non_followers_count}}%</h3>
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 

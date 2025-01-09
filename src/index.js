@@ -62,6 +62,6 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
 
     console.log('✅ README.md actualizado correctamente.')
   } catch (error) {
-    console.error('❌ Error:', error.message)
+    console.error('❌ Error al actualizar el README.md:', error.message)
   }
 })()
