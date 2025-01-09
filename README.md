@@ -59,12 +59,8 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>HTML (%24.3)</td>
   </tr>
   <tr>
-    <td>⭐ Repositorio destacado</td>
+    <td>🌟 Repositorio destacado</td>
     <td>NeoTecs con 7 estrellas</td>
-  </tr>
-  <tr>
-    <td>⭐ Estrellas ganadas</td>
-    <td>54 con %{{repo_stars}}% estrellas</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -77,6 +73,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   <tr>
     <td>📁 Repositorios Públicos</td>
     <td>37</td>
+  </tr>
+  <tr>
+    <td>⭐ Estrellas ganadas</td>
+    <td>54 estrellas</td>
   </tr>
 </table>
 
