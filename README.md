@@ -59,6 +59,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>HTML (%24.3)</td>
   </tr>
   <tr>
+    <td>🥉 Tercer lenguaje</td>
+    <td>TypeScript (%13.5)</td>
+  </tr>
+  <tr>
     <td>🌟 Repositorio destacado</td>
     <td>NeoTecs con 7 estrellas</td>
   </tr>

@@ -59,6 +59,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>%{{second_most_used}}% (%%{{percentage_2}}%)</td>
   </tr>
   <tr>
+    <td>🥉 Tercer lenguaje</td>
+    <td>%{{third_most_used}}% (%%{{percentage_3}}%)</td>
+  </tr>
+  <tr>
     <td>🌟 Repositorio destacado</td>
     <td>%{{repo_name}}% con %{{repo_stars}}% estrellas</td>
   </tr>
