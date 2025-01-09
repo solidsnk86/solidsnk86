@@ -52,15 +52,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🥇 Lenguaje más usado</td>
-    <td>%{{most_used_language}}% (%%{{percentage_1}}%)</td>
+    <td>%{{most_used_language}}% • %%{{percentage_1}}%</td>
   </tr>
   <tr>
     <td>🥈 Segundo lenguaje</td>
-    <td>%{{second_most_used}}% (%%{{percentage_2}}%)</td>
+    <td>%{{second_most_used}}% • %%{{percentage_2}}%</td>
   </tr>
   <tr>
     <td>🥉 Tercer lenguaje</td>
-    <td>%{{third_most_used}}% (%%{{percentage_3}}%)</td>
+    <td>%{{third_most_used}}% • %%{{percentage_3}}%</td>
   </tr>
   <tr>
     <td>🌟 Repositorio destacado</td>
