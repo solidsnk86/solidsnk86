@@ -61,10 +61,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>⭐ Repositorio destacado</td>
     <td>NeoTecs` con 7 estrellas</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 ### 👥 Quienes no me siguen de vuelta: 12
