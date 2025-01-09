@@ -1,8 +1,8 @@
+|  <time>Repositorio actualizado automáticamente el %{{updated_at}}%</time> |
+| --------------------------------------------------------- |
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
-<div align="rigth">
-  <time>Repositorio actualizado el %{{updated_at}}%</time>
-</div>
 
 <div align="center">
 
