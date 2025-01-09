@@ -2,7 +2,7 @@ import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 
 import {
-  PLACEHOLDERS,
+  PLACEHOLDER,
   STATS_PLACEHOLDER
 } from './constants.js'
 
@@ -30,6 +30,8 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
     const count = stats.data.nonfollowings_count
     const users = stats.data.non_following.users
     const avatars = stats.data.non_following.avatar
+    const following = stats.data.following.length
+    const followers = stats.data.followers.length
     const mostUsedLang = stats.data.most_used_language.name
     const secondUsedLang = stats.data.second_most_used.name
     const percentageMostUsed = stats.data.most_used_language.percentage
@@ -49,12 +51,14 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
       .join('')
 
     const updatedMarkdown = template
-      .replace(PLACEHOLDERS.MOST_USED, mostUsedLang)
-      .replace(PLACEHOLDERS.SECOND_MOST_USED, secondUsedLang)
-      .replace(PLACEHOLDERS.PERCENTAGE_1, percentageMostUsed)
-      .replace(PLACEHOLDERS.PERCENTAGE_2, percentageSecondUsed)
-      .replace(PLACEHOLDERS.REPO_NAME, repoWithMoreStarsName.name)
-      .replace(PLACEHOLDERS.REPO_STARS, maxStars)
+      .replace(PLACEHOLDER.MOST_USED, mostUsedLang)
+      .replace(PLACEHOLDER.SECOND_MOST_USED, secondUsedLang)
+      .replace(PLACEHOLDER.PERCENTAGE_1, percentageMostUsed)
+      .replace(PLACEHOLDER.PERCENTAGE_2, percentageSecondUsed)
+      .replace(PLACEHOLDER.FOLLOWERS, followers)
+      .replace(PLACEHOLDER.FOLLOWING, following)
+      .replace(PLACEHOLDER.REPO_NAME, repoWithMoreStarsName.name)
+      .replace(PLACEHOLDER.REPO_STARS, maxStars)
       .replace(STATS_PLACEHOLDER.NON_FOLLOWERS, count)
       .replace(STATS_PLACEHOLDER.STATS, githubStatsHTML)
 
