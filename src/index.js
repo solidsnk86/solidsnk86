@@ -40,6 +40,7 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
     const repoStars = repos.map((stars) => stars.stargazers_count)
     const maxStars = Math.max(...repoStars)
     const repoWithMoreStarsName = repos.find((repo) => repo.stargazers_count === maxStars)
+    const publicRepos = repos.length
 
     const githubStatsHTML = users
       .map((_, i) => {
@@ -61,6 +62,7 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
       .replace(PLACEHOLDER.REPO_STARS, maxStars)
       .replace(STATS_PLACEHOLDER.NON_FOLLOWERS, count)
       .replace(STATS_PLACEHOLDER.STATS, githubStatsHTML)
+      .replace(PLACEHOLDER.PUBLIC_REPOS, publicRepos)
 
     await fs.writeFile('README.md', updatedMarkdown)
 

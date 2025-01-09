@@ -70,6 +70,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>🙇‍♀️ Seguidos</td>
     <td>231</td>
   </tr>
+  <tr>
+    <td>🗃 Repositorios Públicos</td>
+    <td>37</td>
+  </tr>
 </table>
 
 ### 👥 Quienes no me siguen de vuelta: 12

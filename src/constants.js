@@ -6,7 +6,8 @@ export const PLACEHOLDER = {
   FOLLOWERS: '%{{followers}}%',
   FOLLOWING: '%{{following}}%',
   REPO_NAME: '%{{repo_name}}%',
-  REPO_STARS: '%{{repo_stars}}%'
+  REPO_STARS: '%{{repo_stars}}%',
+  PUBLIC_REPOS: '%{{public_repos}}%'
 }
 
 export const STATS_PLACEHOLDER = {
