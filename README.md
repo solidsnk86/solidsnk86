@@ -84,11 +84,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-<<<<<<< HEAD
     <td>181</td>
-=======
-    <td>172</td>
->>>>>>> 38f31c977abd0fbe02993f063a95e4416157761e
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
