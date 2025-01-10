@@ -71,20 +71,20 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>%{{repo_name}}% con %{{repo_stars}}% estrellas</td>
   </tr>
   <tr>
-    <td>🙇‍♂️ Seguidores</td>
-    <td>%{{followers}}%</td>
-  </tr>
-  <tr>
-    <td>🙇‍♀️ Seguidos</td>
-    <td>%{{following}}%</td>
-  </tr>
-  <tr>
     <td>📁 Repositorios Públicos</td>
     <td>%{{public_repos}}%</td>
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
     <td>%{{stars_count}}%</td>
+  </tr>
+  <tr>
+    <td>🙇‍♂️ Seguidores</td>
+    <td>%{{followers}}%</td>
+  </tr>
+  <tr>
+    <td>🙇‍♀️ Seguidos</td>
+    <td>%{{following}}%</td>
   </tr>
 </table>
 
