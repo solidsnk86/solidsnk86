@@ -117,6 +117,7 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
           nonFollowersAvatar: avatars[i]
         })}`
       })
+      .sort()
       .join('')
 
     const updatedMarkdown = template
