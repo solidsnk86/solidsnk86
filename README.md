@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-|  <time>Repositorio actualizado automáticamente el 10 de enero de 2025, 07:16:04 p. m.</time> |
-=======
-|  <time>Repositorio actualizado automáticamente el 10 de enero de 2025, 08:37:39 p. m.</time> |
->>>>>>> e6ab0d84cbc226ef2df1259d506d2633fdad4ce0
+|  <time>Repositorio actualizado automáticamente el 10 de enero de 2025, 10:51:36 p. m.</time> |
 | --------------------------------------------------------- |
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
@@ -83,17 +79,14 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>58</td>
   </tr>
   <tr>
-<<<<<<< HEAD
     <td>📝 Total de commits 2024</td>
-    <td>3279</td>
+    <td>3215</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>175</td>
+    <td>169</td>
   </tr>
   <tr>
-=======
->>>>>>> e6ab0d84cbc226ef2df1259d506d2633fdad4ce0
     <td>🙇‍♂️ Seguidores</td>
     <td>239</td>
   </tr>
