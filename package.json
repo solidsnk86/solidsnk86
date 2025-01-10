@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/solidsnk86/solidsnk86#readme",
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "graphql-request": "^7.1.2",
     "node-fetch": "2.6.7"
   },
   "devDependencies": {

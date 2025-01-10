@@ -13,7 +13,9 @@ export const PLACEHOLDER = {
   STARS_COUNT: '%{{stars_count}}%',
   NON_FOLLOWERS: '%{{non_followers_count}}%',
   STATS: '%{{github_stats}}%',
-  UPDATED_AT: '%{{updated_at}}%'
+  UPDATED_AT: '%{{updated_at}}%',
+  ANNUAL_COMMITS_2024: '%{{annual_commits_2024}}%',
+  ANNUAL_COMMITS_2025: '%{{annual_commits_2025}}%'
 }
 
 export const YOUTUBE_NEOTECS_CHANNEL_ID = 'PLTmuoTGunlv7T7pyHEzlG2PaqniaVCprL'

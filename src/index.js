@@ -1,7 +1,9 @@
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
-
+import { GraphQLClient, gql } from 'graphql-request'
 import { formatDate, PLACEHOLDER } from './constants.js'
+import dotenv from 'dotenv'
+dotenv.config()
 
 const getGithubStats = async () => {
   const response = await fetch(
@@ -10,6 +12,65 @@ const getGithubStats = async () => {
   const jsonData = await response.json()
   return jsonData
 }
+
+const token = process.env.GITHUB_TOKEN
+const username = 'solidsnk86'
+const client = new GraphQLClient('https://api.github.com/graphql', {
+  headers: {
+    Authorization: `Bearer ${token}`
+  }
+})
+
+const query1 = gql`
+  {
+    user(login: "${username}") {
+      contributionsCollection(
+        from: "2024-01-01T00:00:00Z", 
+        to: "2024-12-31T23:59:59Z"
+      ) {
+        totalCommitContributions
+        commitContributionsByRepository {
+          repository {
+            name
+          }
+          contributions {
+            totalCount
+          }
+        }
+      }
+    }
+  }
+`
+const query2 = gql`
+  {
+    user(login: "${username}") {
+      contributionsCollection(
+        from: "2025-01-01T00:00:00Z", 
+        to: "2025-12-31T23:59:59Z"
+      ) {
+        totalCommitContributions
+        commitContributionsByRepository {
+          repository {
+            name
+          }
+          contributions {
+            totalCount
+          }
+        }
+      }
+    }
+  }
+`
+let contributions2024 = 0
+client.request(query1).then((data) => {
+  const contributions = data.user.contributionsCollection
+  contributions2024 = contributions.totalCommitContributions
+})
+
+let contributions2025 = 0
+client.request(query2).then((data) => {
+  contributions2025 = data.user.contributionsCollection.totalCommitContributions
+})
 
 const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
   return `
@@ -59,7 +120,10 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
       .join('')
 
     const updatedMarkdown = template
-      .replace(PLACEHOLDER.UPDATED_AT, formatDate({ str: lastUpdate.updated_at }))
+      .replace(
+        PLACEHOLDER.UPDATED_AT,
+        formatDate({ str: lastUpdate.updated_at })
+      )
       .replace(PLACEHOLDER.MOST_USED, mostUsedLang)
       .replace(PLACEHOLDER.SECOND_MOST_USED, secondUsedLang)
       .replace(PLACEHOLDER.THIRD_MOST_USED, thirdUsedLang)
@@ -74,6 +138,8 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
       .replace(PLACEHOLDER.STATS, githubStatsHTML)
       .replace(PLACEHOLDER.PUBLIC_REPOS, publicRepos)
       .replace(PLACEHOLDER.STARS_COUNT, starsCount)
+      .replace(PLACEHOLDER.ANNUAL_COMMITS_2024, contributions2024)
+      .replace(PLACEHOLDER.ANNUAL_COMMITS_2025, contributions2025)
 
     await fs.writeFile('README.md', updatedMarkdown)
 

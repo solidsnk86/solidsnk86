@@ -79,6 +79,14 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <td>%{{stars_count}}%</td>
   </tr>
   <tr>
+    <td>📝 Total de commits 2024</td>
+    <td>%{{annual_commits_2024}}%</td>
+  </tr>
+  <tr>
+    <td>📝 Total de commits 2025</td>
+    <td>%{{annual_commits_2025}}%</td>
+  </tr>
+  <tr>
     <td>🙇‍♂️ Seguidores</td>
     <td>%{{followers}}%</td>
   </tr>
