@@ -91,8 +91,8 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
     const count = stats.data.nonfollowings_count
     const users = stats.data.non_following.users
     const avatars = stats.data.non_following.avatar
-    const following = stats.data.following.length
-    const followers = stats.data.followers.length
+    const following = stats.data.following_count
+    const followers = stats.data.followers_count
     const mostUsedLang = stats.data.most_used_language.name
     const secondUsedLang = stats.data.second_most_used.name
     const thirdUsedLang = stats.data.used_languages[2].name
