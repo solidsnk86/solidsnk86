@@ -3,6 +3,7 @@ import fetch from 'node-fetch'
 import { GraphQLClient, gql } from 'graphql-request'
 import { formatDate, PLACEHOLDER } from './constants.js'
 import dotenv from 'dotenv'
+
 dotenv.config()
 
 const getGithubStats = async () => {
