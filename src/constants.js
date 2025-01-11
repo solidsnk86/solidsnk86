@@ -18,8 +18,6 @@ export const PLACEHOLDER = {
   ANNUAL_COMMITS_2025: '%{{annual_commits_2025}}%'
 }
 
-export const YOUTUBE_NEOTECS_CHANNEL_ID = 'PLTmuoTGunlv7T7pyHEzlG2PaqniaVCprL'
-
 export const formatDate = ({ str }) => {
   const date = new Date(str).toLocaleDateString('es-AR', {
     year: 'numeric',
