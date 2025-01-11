@@ -80,11 +80,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
-    <td>3279</td>
+    <td>3215</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
+<<<<<<< HEAD
     <td>207</td>
+=======
+    <td>198</td>
+>>>>>>> 2097c38949176df97c5c72a512a976d4b35e9b7c
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
