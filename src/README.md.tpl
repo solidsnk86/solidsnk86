@@ -31,7 +31,7 @@
 
 <div align="center">
 
-### ¡Te invito a visitar mi sitio web!
+### ¡Te invito a mi sitio web!
 
 En mi portafolio web encontrarás una selección de mis proyectos más destacados. Además, te animo a explorar mi aplicación, donde podrás ver tus estadísticas de GitHub al iniciar sesión.
 
@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Repositorio actualizado automáticamente el %{{updated_at}}%</time> |
+|  <time>Repositorio actualizado el %{{updated_at}}%</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
