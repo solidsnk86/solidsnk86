@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Repositorio actualizado automáticamente el 13 de enero de 2025, 07:19:14 a. m.</time> |
+|  <time>Repositorio actualizado automáticamente el 13 de enero de 2025, 09:35:40 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -76,7 +76,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
-    <td>58</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
@@ -84,7 +84,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>229</td>
+    <td>232</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
