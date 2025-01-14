@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Repositorio actualizado el 14 de enero de 2025, 03:22:32 p. m.</time> |
+|  <time>Repositorio actualizado el 14 de enero de 2025, 05:18:00 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -76,7 +76,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
-    <td>57</td>
+    <td>75</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
@@ -84,11 +84,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>263</td>
+    <td>268</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>242</td>
+    <td>243</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -96,7 +96,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 14
+### 👥 Quienes no me siguen de vuelta: 13
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -111,10 +111,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/PowerSystem2024" title="PowerSystem2024">
     <img src="https://avatars.githubusercontent.com/u/178205025?v=4" width="45" height="45" alt="Avatar de PowerSystem2024" />
-  </a>
-
-  <a href="https://github.com/befoulers" title="befoulers">
-    <img src="https://avatars.githubusercontent.com/u/149725576?v=4" width="45" height="45" alt="Avatar de befoulers" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
