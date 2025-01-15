@@ -7,7 +7,9 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 const getPhrases = async () => {
-  const res = await fetch('https://calcagni-gabriel.vercel.app/api/marco-aurelio')
+  const res = await fetch(
+    'https://calcagni-gabriel.vercel.app/api/marco-aurelio'
+  )
   const jsonData = await res.json()
   return jsonData
 }
@@ -124,6 +126,7 @@ const getRamdomPhrases = ({ phr }) => {
       .map((repo) => repo.stargazers_count)
       .reduce((acc, value) => acc + value, 0)
     const lastUpdate = repos.find((repo) => repo.name === 'solidsnk86')
+    const updatedAt = formatDate({ str: lastUpdate.updated_at })
 
     const githubStatsHTML = users
       .map((_, i) => {
@@ -136,10 +139,9 @@ const getRamdomPhrases = ({ phr }) => {
       .join('')
 
     const updatedMarkdown = template
-      .replace(
-        PLACEHOLDER.UPDATED_AT,
-        formatDate({ str: lastUpdate.updated_at })
-      )
+      .replace(PLACEHOLDER.AUTHOR_PHRASE, phraseAuthor)
+      .replace(PLACEHOLDER.PHRASE, ramdomPhrases)
+      .replace(PLACEHOLDER.UPDATED_AT, updatedAt)
       .replace(PLACEHOLDER.MOST_USED, mostUsedLang)
       .replace(PLACEHOLDER.SECOND_MOST_USED, secondUsedLang)
       .replace(PLACEHOLDER.THIRD_MOST_USED, thirdUsedLang)
@@ -156,8 +158,6 @@ const getRamdomPhrases = ({ phr }) => {
       .replace(PLACEHOLDER.STARS_COUNT, starsCount)
       .replace(PLACEHOLDER.ANNUAL_COMMITS_2024, contributions2024)
       .replace(PLACEHOLDER.ANNUAL_COMMITS_2025, contributions2025)
-      .replace(PLACEHOLDER.AUTHOR_PHRASE, phraseAuthor)
-      .replace(PLACEHOLDER.PHRASE, ramdomPhrases)
 
     await fs.writeFile('README.md', updatedMarkdown)
 
