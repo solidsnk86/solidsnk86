@@ -42,7 +42,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 🤖 Automatización
 
-🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente los últimos datos de github a través de mi API para estadísticas.
+🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
 |  <time>Readme actualizado el %{{updated_at}}%</time> |
 | --------------------------------------------------------- |
