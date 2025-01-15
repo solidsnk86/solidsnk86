@@ -8,7 +8,7 @@ dotenv.config()
 
 const getPhrases = async () => {
   const res = await fetch(
-    'https://cdn.jsdelivr.net/gh/liquidsnk86/cdn-js@main/marco-phrases.json'
+    'https://cdn.jsdelivr.net/gh/liquidsnk86/cdn-js@main/ramdom-phrases.json'
   )
   const jsonData = await res.json()
   return jsonData
