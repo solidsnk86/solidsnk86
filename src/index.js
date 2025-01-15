@@ -5,6 +5,8 @@ import { formatDate, PLACEHOLDER } from './constants.js'
 import dotenv from 'dotenv'
 
 dotenv.config()
+const token = process.env.GITHUB_TOKEN
+const username = 'solidsnk86'
 
 const getPhrases = async () => {
   const res = await fetch(
@@ -16,14 +18,12 @@ const getPhrases = async () => {
 
 const getGithubStats = async () => {
   const response = await fetch(
-    'https://calcagni-gabriel.vercel.app/api/non-followers?user=solidsnk86'
+    `https://calcagni-gabriel.vercel.app/api/non-followers?user=${username}&gh_token=${token}`
   )
   const jsonData = await response.json()
   return jsonData
 }
 
-const token = process.env.GITHUB_TOKEN
-const username = 'solidsnk86'
 const client = new GraphQLClient('https://api.github.com/graphql', {
   headers: {
     Authorization: `Bearer ${token}`
