@@ -5,7 +5,11 @@
 
 <h3>Frases ramdom</h3>
 
+<<<<<<< HEAD
 > *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+=======
+> *"El hombre es la medida de todas las cosas."*
+>>>>>>> a6221494bf5270471fb869062872b3fcabe55dde
 >
 > — Sócrates
 
@@ -84,7 +88,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
+<<<<<<< HEAD
     <td>321</td>
+=======
+    <td>309</td>
+>>>>>>> a6221494bf5270471fb869062872b3fcabe55dde
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
