@@ -5,7 +5,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
+> *"El hombre es la medida de todas las cosas."*
 >
 > — Sócrates
 
@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 15 de enero de 2025, 05:32:07 p. m.</time> |
+|  <time>Readme actualizado el 15 de enero de 2025, 06:27:12 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -84,7 +84,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>305</td>
+    <td>309</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
