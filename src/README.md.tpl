@@ -3,11 +3,11 @@
 
 <div align="center">
 
-> *"Recuerda la totalidad de la sustancia, de la que participas
-> mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
-> intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?"*
+<h3>Frases ramdom</h3>
+
+> *"%{{phrase}}%"*
 >
-> — Marco Aurelio
+> — %{{author}}%
 
 </div>
 

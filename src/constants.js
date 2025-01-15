@@ -15,7 +15,9 @@ export const PLACEHOLDER = {
   STATS: '%{{github_stats}}%',
   UPDATED_AT: '%{{updated_at}}%',
   ANNUAL_COMMITS_2024: '%{{annual_commits_2024}}%',
-  ANNUAL_COMMITS_2025: '%{{annual_commits_2025}}%'
+  ANNUAL_COMMITS_2025: '%{{annual_commits_2025}}%',
+  AUTHOR_PHRASE: '%{{author}}%',
+  PHRASE: '%{{phrase}}%'
 }
 
 export const formatDate = ({ str }) => {

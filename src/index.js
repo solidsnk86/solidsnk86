@@ -6,6 +6,12 @@ import dotenv from 'dotenv'
 
 dotenv.config()
 
+const getPhrases = async () => {
+  const res = await fetch('https://calcagni-gabriel.vercel.app/api/marco-aurelio')
+  const jsonData = await res.json()
+  return jsonData
+}
+
 const getGithubStats = async () => {
   const response = await fetch(
     'https://calcagni-gabriel.vercel.app/api/non-followers?user=solidsnk86'
@@ -81,13 +87,21 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
 `
 }
 
+const getRamdomPhrases = ({ phr }) => {
+  return phr.map((p) => p.texto).sort(() => Math.random() - 0.5)
+}
+
 ;(async () => {
   try {
-    const [template, stats] = await Promise.all([
+    const [template, stats, phrases] = await Promise.all([
       fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-      getGithubStats()
+      getGithubStats(),
+      getPhrases()
     ])
 
+    const phrasesText = phrases.data.frases
+    const phraseAuthor = phrasesText.map((phrase) => phrase.autor)[0]
+    const ramdomPhrases = getRamdomPhrases({ phr: phrasesText })[0]
     const count = stats.data.nonfollowings_count
     const users = stats.data.non_following.users
     const avatars = stats.data.non_following.avatar
@@ -142,6 +156,8 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
       .replace(PLACEHOLDER.STARS_COUNT, starsCount)
       .replace(PLACEHOLDER.ANNUAL_COMMITS_2024, contributions2024)
       .replace(PLACEHOLDER.ANNUAL_COMMITS_2025, contributions2025)
+      .replace(PLACEHOLDER.AUTHOR_PHRASE, phraseAuthor)
+      .replace(PLACEHOLDER.PHRASE, ramdomPhrases)
 
     await fs.writeFile('README.md', updatedMarkdown)
 

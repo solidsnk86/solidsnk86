@@ -3,9 +3,7 @@
 
 <div align="center">
 
-> *"Recuerda la totalidad de la sustancia, de la que participas
-> mínimamente, y la totalidad del tiempo, del que te ha sido asignado un
-> intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?"*
+> *"449"*
 >
 > — Marco Aurelio
 
@@ -42,9 +40,9 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 🤖 Automatización
 
-🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente los últimos datos de github a través de mi API para estadísticas.
+🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 15 de enero de 2025, 02:56:55 a. m.</time> |
+|  <time>Readme actualizado el 15 de enero de 2025, 03:23:13 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -80,11 +78,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
-    <td>3215</td>
+    <td>3279</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>282</td>
+    <td>300</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
