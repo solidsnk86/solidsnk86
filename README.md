@@ -5,7 +5,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
+> *"Los hombres no te perturban, sino las opiniones que tú tienes sobre ellos."*
 >
 > — Marco Aurelio
 
@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 15 de enero de 2025, 03:09:55 p. m.</time> |
+|  <time>Readme actualizado el 15 de enero de 2025, 03:22:24 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -84,11 +84,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>302</td>
+    <td>303</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>244</td>
+    <td>245</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
