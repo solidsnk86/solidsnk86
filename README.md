@@ -5,7 +5,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No actúes como si fueras a vivir diez mil años. El destino está cerca; mientras vivas, mientras sea posible, sé bueno."*
+> *"Recuerda la totalidad de la sustancia, de la que participas mínimamente, y la totalidad del tiempo, del que te ha sido asignado un intervalo breve e insignificante, y del destino, del cual, ¿qué parte ocupas?"*
 >
 > — Marco Aurelio
 
@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 15 de enero de 2025, 02:48:56 p. m.</time> |
+|  <time>Readme actualizado el 15 de enero de 2025, 02:50:32 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -84,7 +84,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>297</td>
+    <td>299</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
