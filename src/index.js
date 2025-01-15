@@ -99,7 +99,7 @@ const getRamdomPhrases = ({ phr }) => {
       fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
       getGithubStats(),
       getPhrases()
-    ])
+    ]).catch((error) => console.error(error) || process.exit(1))
 
     const phrasesText = phrases.data.frases
     const phraseAuthor = phrasesText.map((phrase) => phrase.autor)[0]
