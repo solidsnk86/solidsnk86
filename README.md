@@ -5,7 +5,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"La duda es el principio de la sabiduría."*
 >
 > — Sócrates
 
@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 15 de enero de 2025, 10:16:10 p. m.</time> |
+|  <time>Readme actualizado el 15 de enero de 2025, 11:41:33 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -84,7 +84,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>317</td>
+    <td>318</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
