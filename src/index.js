@@ -89,8 +89,20 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
 `
 }
 
+const objPlaceholder = Object.keys(PLACEHOLDER).map((key) => {
+  return PLACEHOLDER[key]
+})
+
 const getRamdomPhrases = ({ phr }) => {
   return phr.map((p) => p.texto).sort(() => Math.random() - 0.5)
+}
+
+const replaceAll = (tmp = '', placeholder, updatedContent) => {
+  let result = tmp
+  for (let i = 0; i < placeholder.length; i++) {
+    result = result.replace(placeholder[i], updatedContent[i])
+  }
+  return result
 }
 
 ;(async () => {
@@ -138,26 +150,30 @@ const getRamdomPhrases = ({ phr }) => {
       .sort()
       .join('')
 
-    const updatedMarkdown = template
-      .replace(PLACEHOLDER.AUTHOR_PHRASE, phraseAuthor)
-      .replace(PLACEHOLDER.PHRASE, ramdomPhrases)
-      .replace(PLACEHOLDER.UPDATED_AT, updatedAt)
-      .replace(PLACEHOLDER.MOST_USED, mostUsedLang)
-      .replace(PLACEHOLDER.SECOND_MOST_USED, secondUsedLang)
-      .replace(PLACEHOLDER.THIRD_MOST_USED, thirdUsedLang)
-      .replace(PLACEHOLDER.PERCENTAGE_1, percentageMostUsed)
-      .replace(PLACEHOLDER.PERCENTAGE_2, percentageSecondUsed)
-      .replace(PLACEHOLDER.PERCENTAGE_3, percentageThirdUsed)
-      .replace(PLACEHOLDER.FOLLOWERS, followers)
-      .replace(PLACEHOLDER.FOLLOWING, following)
-      .replace(PLACEHOLDER.REPO_NAME, repoWithMoreStarsName.name)
-      .replace(PLACEHOLDER.REPO_STARS, maxStars)
-      .replace(PLACEHOLDER.NON_FOLLOWERS, count)
-      .replace(PLACEHOLDER.STATS, githubStatsHTML)
-      .replace(PLACEHOLDER.PUBLIC_REPOS, publicRepos)
-      .replace(PLACEHOLDER.STARS_COUNT, starsCount)
-      .replace(PLACEHOLDER.ANNUAL_COMMITS_2024, contributions2024)
-      .replace(PLACEHOLDER.ANNUAL_COMMITS_2025, contributions2025)
+    const contentArray = []
+    contentArray.push(
+      phraseAuthor,
+      ramdomPhrases,
+      updatedAt,
+      mostUsedLang,
+      secondUsedLang,
+      thirdUsedLang,
+      percentageMostUsed,
+      percentageSecondUsed,
+      percentageThirdUsed,
+      followers,
+      following,
+      repoWithMoreStarsName.name,
+      maxStars,
+      count,
+      githubStatsHTML,
+      publicRepos,
+      starsCount,
+      contributions2024,
+      contributions2025
+    )
+
+    const updatedMarkdown = replaceAll(template, objPlaceholder, contentArray)
 
     await fs.writeFile('README.md', updatedMarkdown)
 
