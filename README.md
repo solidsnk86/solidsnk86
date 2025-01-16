@@ -5,7 +5,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
 > — Sócrates
 
@@ -44,7 +44,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 16 de enero de 2025, 07:17:39 a. m.</time> |
+|  <time>Readme actualizado el 16 de enero de 2025, 09:32:45 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -84,7 +84,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>328</td>
+    <td>329</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
