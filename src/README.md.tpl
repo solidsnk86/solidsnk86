@@ -8,10 +8,10 @@
   Este badge permite llevar un conteo de cuántas veces se ha visitado tu perfil o algún recurso, y puedes personalizar sus colores fácilmente para que combine con tu estilo.
 
   ### Cómo usarlo
-  1. Copia y pega este código en el archivo `README.md` de tu perfil, reemplazando `"TU-USUARIO"` con tu nombre de usuario:
-     ```html
-     <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO" alt="Contador de Visitas" />
-     ```
+  Copia y pega este código en el archivo `README.md` de tu perfil, reemplazando `"TU-USUARIO"` con tu nombre de usuario:
+  ```html
+  <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO" alt="Contador de Visitas" />
+  ```
 
   ### Personalización de colores
   Puedes cambiar los colores del badge y del contador añadiendo los siguientes parámetros a la URL:  
