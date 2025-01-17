@@ -2,14 +2,14 @@
 
 <div align="left">
 <h3>He creado mi propio badge contador 😄</h3>
-<img src="https://neotecs.vercel.app/api/badge-counter" alt="Contador de Visitas SolidSnk86"/>
+<img src="https://neotecs.vercel.app/api/badge-counter?badge-counter?badge_color=2E2D34&counter_color=FF832A" alt="Contador de Visitas SolidSnk86"/>
 
 Puedes usarlo usarlo para tu perfil y llevar una cuenta de cunatas visitas has tenido copiando este elemento en tu `README.md` del perfil: 
 `<img src="https://neotecs.vercel.app/api/badge-counter" alt="Contador de Visitas SolidSnk86"/>`
 
 Tambien puedes cambiar de color del badge pricipal y el contador con los parámetros de la URL, por ejemplo si añades esto a la url de la imagen:
 *?badge_color=363A43&counter_color=364692* quedaría la url:
-`https://neotecs.vercel.app/api/badge-counter?badge_color=363A43&counter_color=364692`
+`https://neotecs.vercel.app/api/badge-counter?badge_color=2E2D34&counter_color=FF832A`
 Puedes insertar cualquier código hexadecimal sin el `#` 
 </div>
 
@@ -17,7 +17,7 @@ Puedes insertar cualquier código hexadecimal sin el `#`
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
 > — Sócrates
 
@@ -56,7 +56,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de enero de 2025, 04:53:45 a. m.</time> |
+|  <time>Readme actualizado el 17 de enero de 2025, 05:07:10 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -96,7 +96,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>357</td>
+    <td>361</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
