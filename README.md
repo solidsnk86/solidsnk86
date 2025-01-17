@@ -8,10 +8,10 @@
   Este badge permite llevar un conteo de cuántas veces se ha visitado tu perfil o algún recurso, y puedes personalizar sus colores fácilmente para que combine con tu estilo.
 
   ### Cómo usarlo
-  1. Copia y pega este código en el archivo `README.md` de tu perfil, reemplazando `"TU-USUARIO"` con tu nombre de usuario:
-     ```html
-     <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO" alt="Contador de Visitas" />
-     ```
+  Copia y pega este código en el archivo `README.md` de tu perfil, reemplazando `"TU-USUARIO"` con tu nombre de usuario:
+  ```html
+  <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO" alt="Contador de Visitas" />
+  ```
 
   ### Personalización de colores
   Puedes cambiar los colores del badge y del contador añadiendo los siguientes parámetros a la URL:  
@@ -31,7 +31,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"La duda es el principio de la sabiduría."*
 >
 > — Sócrates
 
@@ -70,7 +70,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de enero de 2025, 05:48:51 a. m.</time> |
+|  <time>Readme actualizado el 17 de enero de 2025, 05:51:38 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -106,11 +106,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
-    <td>0</td>
+    <td>3215</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>375</td>
+    <td>377</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
