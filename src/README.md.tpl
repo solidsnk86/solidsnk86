@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <div align="left">
-  <h3>🎉 ¡He creado mi propio badge contador de visitas! 😄</h3>
+  <h3>🎉 ¡He creado mi propio badge contador de visitas!</h3>
   
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=2E2D34&counter_color=FF832A" alt="Contador de Visitas SolidSnk86" />
+  <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=181818&counter_color=463F98" alt="Contador de Visitas SolidSnk86" />
 
   Este badge permite llevar un conteo de cuántas veces se ha visitado tu perfil o algún recurso, y puedes personalizar sus colores fácilmente para que combine con tu estilo.
 
