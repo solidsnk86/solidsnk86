@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <div align="left">
-  <h3>🎉 ¡He creado mi propio badge contador de visitas! 😄</h3>
+  <h3>🎉 ¡He creado mi propio badge contador de visitas!</h3>
   
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=2E2D34&counter_color=FF832A" alt="Contador de Visitas SolidSnk86" />
+  <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=181818&counter_color=463F98" alt="Contador de Visitas SolidSnk86" />
 
   Este badge permite llevar un conteo de cuántas veces se ha visitado tu perfil o algún recurso, y puedes personalizar sus colores fácilmente para que combine con tu estilo.
 
@@ -31,7 +31,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"Solo sé que no sé nada."*
 >
 > — Sócrates
 
@@ -70,7 +70,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de enero de 2025, 05:22:30 a. m.</time> |
+|  <time>Readme actualizado el 17 de enero de 2025, 05:48:51 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -82,15 +82,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🥇 Lenguaje más usado</td>
-    <td>JavaScript • %27.0</td>
+    <td>JavaScript • %26.3</td>
   </tr>
   <tr>
     <td>🥈 Segundo lenguaje</td>
-    <td>HTML • %24.3</td>
+    <td>HTML • %23.7</td>
   </tr>
   <tr>
     <td>🥉 Tercer lenguaje</td>
-    <td>TypeScript • %13.5</td>
+    <td>TypeScript • %13.2</td>
   </tr>
   <tr>
     <td>🌟 Repositorio destacado</td>
@@ -98,7 +98,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📁 Repositorios Públicos</td>
-    <td>37</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
@@ -106,11 +106,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
-    <td>3215</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>369</td>
+    <td>375</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
