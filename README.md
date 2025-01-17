@@ -38,7 +38,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
 >
 > — Sócrates
 
@@ -70,7 +70,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de enero de 2025, 11:14:58 a. m.</time> |
+|  <time>Readme actualizado el 17 de enero de 2025, 01:19:53 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -110,19 +110,19 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>386</td>
+    <td>391</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>248</td>
+    <td>247</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>243</td>
+    <td>242</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 13
+### 👥 Quienes no me siguen de vuelta: 14
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -137,6 +137,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/PowerSystem2024" title="PowerSystem2024">
     <img src="https://avatars.githubusercontent.com/u/178205025?v=4" width="45" height="45" alt="Avatar de PowerSystem2024" />
+  </a>
+
+  <a href="https://github.com/Rafaelmdcarneiro" title="Rafaelmdcarneiro">
+    <img src="https://avatars.githubusercontent.com/u/20961091?v=4" width="45" height="45" alt="Avatar de Rafaelmdcarneiro" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
