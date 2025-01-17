@@ -1,15 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="left">
 <h3>He creado mi propio badge contador 😄</h3>
-![Contador de Visitas](https://neotecs.vercel.app/api/badge-counter?badge_color=363A43&counter_color=364692)
+<img src="https://neotecs.vercel.app/api/badge-counter" alt="Contador de Visitas SolidSnk86"/>
+
+Puedes usarlo usarlo para tu perfil y llevar una cuenta de cunatas visitas has tenido copiando este elemento en tu `README.md` del perfil: 
+`<img src="https://neotecs.vercel.app/api/badge-counter" alt="Contador de Visitas SolidSnk86"/>`
+
+Tambien puedes cambiar de color del badge pricipal y el contador con los parámetros de la URL, por ejemplo si añades esto a la url de la imagen:
+*?badge_color=363A43&counter_color=364692* quedaría la url:
+`https://neotecs.vercel.app/api/badge-counter?badge_color=363A43&counter_color=364692`
+Puedes insertar cualquier código hexadecimal sin el `#` 
 </div>
 
 <div align="center">
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
 >
 > — Sócrates
 
@@ -48,7 +56,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de enero de 2025, 04:35:54 a. m.</time> |
+|  <time>Readme actualizado el 17 de enero de 2025, 04:53:45 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -88,7 +96,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>354</td>
+    <td>357</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
