@@ -2,14 +2,14 @@
 
 <div align="left">
 <h3>He creado mi propio badge contador 😄</h3>
-<img src="https://neotecs.vercel.app/api/badge-counter" alt="Contador de Visitas SolidSnk86"/>
+<img src="https://neotecs.vercel.app/api/badge-counter?badge-counter?badge_color=2E2D34&counter_color=FF832A" alt="Contador de Visitas SolidSnk86"/>
 
 Puedes usarlo usarlo para tu perfil y llevar una cuenta de cunatas visitas has tenido copiando este elemento en tu `README.md` del perfil: 
 `<img src="https://neotecs.vercel.app/api/badge-counter" alt="Contador de Visitas SolidSnk86"/>`
 
 Tambien puedes cambiar de color del badge pricipal y el contador con los parámetros de la URL, por ejemplo si añades esto a la url de la imagen:
 *?badge_color=363A43&counter_color=364692* quedaría la url:
-`https://neotecs.vercel.app/api/badge-counter?badge_color=363A43&counter_color=364692`
+`https://neotecs.vercel.app/api/badge-counter?badge_color=2E2D34&counter_color=FF832A`
 Puedes insertar cualquier código hexadecimal sin el `#` 
 </div>
 
