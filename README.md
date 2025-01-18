@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 18 de enero de 2025, 01:18:59 a. m.</time> |
+|  <time>Readme actualizado el 18 de enero de 2025, 03:21:17 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -61,15 +61,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🥇 Lenguaje más usado</td>
-    <td>JavaScript • %26.3</td>
+    <td>JavaScript • %27.0</td>
   </tr>
   <tr>
     <td>🥈 Segundo lenguaje</td>
-    <td>HTML • %23.7</td>
+    <td>HTML • %24.3</td>
   </tr>
   <tr>
     <td>🥉 Tercer lenguaje</td>
-    <td>TypeScript • %13.2</td>
+    <td>TypeScript • %13.5</td>
   </tr>
   <tr>
     <td>🌟 Repositorio destacado</td>
@@ -77,7 +77,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📁 Repositorios Públicos</td>
-    <td>38</td>
+    <td>37</td>
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
@@ -97,11 +97,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>241</td>
+    <td>240</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 14
+### 👥 Quienes no me siguen de vuelta: 13
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -140,10 +140,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/mouredev" title="mouredev">
     <img src="https://avatars.githubusercontent.com/u/17043402?v=4" width="45" height="45" alt="Avatar de mouredev" />
-  </a>
-
-  <a href="https://github.com/mzbit8890" title="mzbit8890">
-    <img src="https://avatars.githubusercontent.com/u/139183581?v=4" width="45" height="45" alt="Avatar de mzbit8890" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
