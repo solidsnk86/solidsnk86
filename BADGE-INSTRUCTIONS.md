@@ -19,8 +19,8 @@
   Ambos valores deben ser especificados en formato hexadecimal, **sin incluir el símbolo `#`**.
 
   ### Ejemplo de uso
-  Si quieres un badge con un fondo gris oscuro (`363A43`) y un contador azul (`364692`), la URL sería:
+  Si quieres un badge con un fondo gris oscuro (`363A43`) y un contador azul (`364692`), recuerda poner user y tu nombre de usuario, la URL sería:
   ```html
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=363A43&counter_color=364692" alt="Contador de Visitas" />
+  <img src="https://neotecs.vercel.app/api/badge-counter?user=TU_USUARIO&badge_color=363A43&counter_color=364692" alt="Contador de Visitas" />
   ```
 </div>
