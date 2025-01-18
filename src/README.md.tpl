@@ -1,7 +1,10 @@
 <div align="right">
 <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=181818&counter_color=463F98" alt="Contador de Visitas SolidSnk86" />
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
+
+### ¿Te gusta el badge contador de visitas?
+
+- Te explico como usarlo en tu perfil por <a href="https://github.com/solidsnk86/solidsnk86/blob/master/BADGE-INSTRUCTIONS.md">acá...</a>
 
 ## 👨‍💻 Sobre mí
 
