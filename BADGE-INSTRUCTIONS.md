@@ -1,7 +1,7 @@
 <div align="left">
   <h3>🎉 ¡He creado mi propio badge contador de visitas!</h3>
   
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=instructions-md&badge_color=181818&counter_color=463F98" alt="Contador de Visitas SolidSnk86" />
+  <img src="https://neotecs.vercel.app/api/badge-counter?user=instructions-md&badge_color=181818&counter_color=00B634" alt="Contador de Visitas SolidSnk86" />
 
   Este badge permite llevar un conteo de cuántas veces se ha visitado tu perfil o algún recurso, y puedes personalizar sus colores fácilmente para que combine con tu estilo.
 
