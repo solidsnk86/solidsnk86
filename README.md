@@ -1,3 +1,6 @@
+<div align="right">
+<img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=181818&counter_color=463F98" alt="Contador de Visitas SolidSnk86" />
+</div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=007ACC&width=500&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil+de+GitHub!+;Soy+Desarrollador+Front+End+%2C+de+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mí
@@ -7,38 +10,11 @@
 🎓 Estudiando Tecnicatura Universitaria en Programación  
 🏫 UTN Facultad Regional de San Rafael (Mendoza)
 
-<div align="left">
-  <h3>🎉 ¡He creado mi propio badge contador de visitas!</h3>
-  
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=181818&counter_color=463F98" alt="Contador de Visitas SolidSnk86" />
-
-  Este badge permite llevar un conteo de cuántas veces se ha visitado tu perfil o algún recurso, y puedes personalizar sus colores fácilmente para que combine con tu estilo.
-
-  ### Cómo usarlo
-  Copia y pega este código en el archivo `README.md` de tu perfil, reemplazando `"TU-USUARIO"` con tu nombre de usuario:
-  ```html
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO" alt="Contador de Visitas" />
-  ```
-
-  ### Personalización de colores
-  Puedes cambiar los colores del badge y del contador añadiendo los siguientes parámetros a la URL:  
-  - **`badge_color`**: Define el color del fondo principal del badge.  
-  - **`counter_color`**: Cambia el color de fondo donde aparece el contador (el número).  
-
-  Ambos valores deben ser especificados en formato hexadecimal, **sin incluir el símbolo `#`**.
-
-  ### Ejemplo de uso
-  Si quieres un badge con un fondo gris oscuro (`363A43`) y un contador azul (`364692`), la URL sería:
-  ```html
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=363A43&counter_color=364692" alt="Contador de Visitas" />
-  ```
-</div>
-
 <div align="center">
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
 > — Sócrates
 
@@ -70,7 +46,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de enero de 2025, 05:17:27 p. m.</time> |
+|  <time>Readme actualizado el 17 de enero de 2025, 09:53:38 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -110,7 +86,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>393</td>
+    <td>398</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -118,11 +94,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>242</td>
+    <td>241</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 15
+### 👥 Quienes no me siguen de vuelta: 14
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -137,14 +113,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/PowerSystem2024" title="PowerSystem2024">
     <img src="https://avatars.githubusercontent.com/u/178205025?v=4" width="45" height="45" alt="Avatar de PowerSystem2024" />
-  </a>
-
-  <a href="https://github.com/Rafaelmdcarneiro" title="Rafaelmdcarneiro">
-    <img src="https://avatars.githubusercontent.com/u/20961091?v=4" width="45" height="45" alt="Avatar de Rafaelmdcarneiro" />
-  </a>
-
-  <a href="https://github.com/chriskthomas" title="chriskthomas">
-    <img src="https://avatars.githubusercontent.com/u/135461249?v=4" width="45" height="45" alt="Avatar de chriskthomas" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
@@ -169,6 +137,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/mouredev" title="mouredev">
     <img src="https://avatars.githubusercontent.com/u/17043402?v=4" width="45" height="45" alt="Avatar de mouredev" />
+  </a>
+
+  <a href="https://github.com/mzbit8890" title="mzbit8890">
+    <img src="https://avatars.githubusercontent.com/u/139183581?v=4" width="45" height="45" alt="Avatar de mzbit8890" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
