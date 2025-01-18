@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 18 de enero de 2025, 06:01:15 a. m.</time> |
+|  <time>Readme actualizado el 18 de enero de 2025, 06:01:37 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>411</td>
+    <td>412</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>245</td>
+    <td>247</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
