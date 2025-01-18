@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://neotecs.vercel.app/api/badge-counter?user=SolidSnk86&badge_color=181818&counter_color=463F98" alt="Contador de Visitas SolidSnk86" />
+<img src="http://localhost:3000/api/badge-counter?user=solidsnk86&badge_gradient_2=FF46FF&badge_gradient_1=4868A9&counter_color=FF74A1" alt="Contador de Visitas SolidSnk86" />
 </div>
 
 ### ¿Te gusta el badge contador de visitas?
@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 18 de enero de 2025, 03:20:27 p. m.</time> |
+|  <time>Readme actualizado el 18 de enero de 2025, 06:54:38 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>417</td>
+    <td>421</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
