@@ -13,7 +13,8 @@
 
   ### Personalización de colores
   Puedes cambiar los colores del badge y del contador añadiendo los siguientes parámetros a la URL:  
-  - **`badge_color`**: Define el color del fondo principal del badge.  
+  - **`badge_gradient_1`**: Define el color gradiente 1 (izquierda) del fondo principal del badge.
+  - **`badge_gradient_2`**: Define el color gradiente 2 (derecha) del fondo principal del badge.
   - **`counter_color`**: Cambia el color de fondo donde aparece el contador (el número).  
 
   Ambos valores deben ser especificados en formato hexadecimal, **sin incluir el símbolo `#`**.
