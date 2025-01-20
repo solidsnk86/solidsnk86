@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 19 de enero de 2025, 11:12:07 p. m.</time> |
+|  <time>Readme actualizado el 19 de enero de 2025, 11:14:48 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>474</td>
+    <td>476</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
