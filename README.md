@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 20 de enero de 2025, 11:15:46 a. m.</time> |
+|  <time>Readme actualizado el 20 de enero de 2025, 01:20:28 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>504</td>
+    <td>509</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>247</td>
+    <td>246</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -101,7 +101,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 13
+### 👥 Quienes no me siguen de vuelta: 14
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -156,6 +156,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/wesbos" title="wesbos">
     <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="45" height="45" alt="Avatar de wesbos" />
+  </a>
+
+  <a href="https://github.com/yasir-shahzad" title="yasir-shahzad">
+    <img src="https://avatars.githubusercontent.com/u/108882707?v=4" width="45" height="45" alt="Avatar de yasir-shahzad" />
   </a>
 
 
