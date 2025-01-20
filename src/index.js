@@ -10,7 +10,7 @@ const username = 'solidsnk86'
 
 const getPhrases = async () => {
   const res = await fetch(
-    'https://cdn.jsdelivr.net/gh/liquidsnk86/cdn-js@main/ramdom-josn-phrases.json'
+    'https://cdn.jsdelivr.net/gh/liquidsnk86/cdn-js@main/ramdom-json-phrases.json'
   )
   const jsonData = await res.json()
   return jsonData
