@@ -1,7 +1,7 @@
 <div align="left">
   <h3>¡He creado este badge contador de visitas!</h3>
   
-  <img src="https://neotecs.vercel.app/api/badge-counter?user=instructions-md&counter_color=007430" alt="Contador de Visitas SolidSnk86" />
+  <img src="https://neotecs.vercel.app/api/badge-counter?user=instructions-md&counter_color=00C130" alt="Contador de Visitas SolidSnk86" />
 
   Este badge permite llevar un conteo de cuántas veces se ha visitado tu perfil o algún recurso, y puedes personalizar sus colores fácilmente para que combine con tu estilo.
 
@@ -25,7 +25,7 @@
   <img src="https://neotecs.vercel.app/api/badge-counter?user=TU_USUARIO&badge_gradient_2=363A43&counter_color=364692" alt="Contador de Visitas" />
 
   <!-- También puedes combinar dos colores en el gradiente de esta manera: --> 
-   <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO&badge_gradient_2=FF46FF&badge_gradient_1=4868A9&counter_color=FF74A1" alt="Contador de Visitas" />
+   <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO&badge_gradient_1=4868A9&badge_gradient_2=FF46FF&counter_color=FF74A1" alt="Contador de Visitas" />
 
   ```
 </div>
