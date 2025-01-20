@@ -21,11 +21,14 @@
 
   ### Ejemplo de uso
   Si quieres un badge con un fondo gris oscuro (`363A43`) y un contador azul (`364692`), recuerda poner user y tu nombre de usuario, la URL sería:
+
   ```html
   <img src="https://neotecs.vercel.app/api/badge-counter?user=TU_USUARIO&badge_gradient_2=363A43&counter_color=364692" alt="Contador de Visitas" />
+  ```
 
-  <!-- También puedes combinar dos colores en el gradiente de esta manera: --> 
+  También puedes combinar dos colores en el gradiente de esta manera:
+  
+   ```html
    <img src="https://neotecs.vercel.app/api/badge-counter?user=TU-USUARIO&badge_gradient_1=4868A9&badge_gradient_2=FF46FF&counter_color=FF74A1" alt="Contador de Visitas" />
-
   ```
 </div>
