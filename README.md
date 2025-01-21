@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 21 de enero de 2025, 03:23:18 p. m.</time> |
+|  <time>Readme actualizado el 21 de enero de 2025, 05:18:17 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>537</td>
+    <td>538</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -97,7 +97,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>229</td>
+    <td>226</td>
   </tr>
 </table>
 
