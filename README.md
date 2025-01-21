@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"Lo que no te mata te hace más fuerte."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 20 de enero de 2025, 05:17:15 p. m.</time> |
+|  <time>Readme actualizado el 20 de enero de 2025, 07:15:13 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>516</td>
+    <td>521</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -97,11 +97,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>240</td>
+    <td>231</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 14
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -130,10 +130,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
   </a>
 
-  <a href="https://github.com/microsoft" title="microsoft">
-    <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="45" height="45" alt="Avatar de microsoft" />
-  </a>
-
   <a href="https://github.com/midudev" title="midudev">
     <img src="https://avatars.githubusercontent.com/u/1561955?v=4" width="45" height="45" alt="Avatar de midudev" />
   </a>
@@ -156,10 +152,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/wesbos" title="wesbos">
     <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="45" height="45" alt="Avatar de wesbos" />
-  </a>
-
-  <a href="https://github.com/yasir-shahzad" title="yasir-shahzad">
-    <img src="https://avatars.githubusercontent.com/u/108882707?v=4" width="45" height="45" alt="Avatar de yasir-shahzad" />
   </a>
 
 
