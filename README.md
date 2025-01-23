@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 22 de enero de 2025, 10:16:20 p. m.</time> |
+|  <time>Readme actualizado el 22 de enero de 2025, 11:42:58 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -61,15 +61,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🥇 Lenguaje más usado</td>
-    <td>JavaScript • %27.0</td>
+    <td>JavaScript • %26.3</td>
   </tr>
   <tr>
     <td>🥈 Segundo lenguaje</td>
-    <td>HTML • %24.3</td>
+    <td>HTML • %23.7</td>
   </tr>
   <tr>
     <td>🥉 Tercer lenguaje</td>
-    <td>TypeScript • %13.5</td>
+    <td>TypeScript • %13.2</td>
   </tr>
   <tr>
     <td>🌟 Repositorio destacado</td>
@@ -77,7 +77,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📁 Repositorios Públicos</td>
-    <td>37</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>577</td>
+    <td>579</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
