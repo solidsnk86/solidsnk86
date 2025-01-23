@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 23 de enero de 2025, 05:21:52 a. m.</time> |
+|  <time>Readme actualizado el 23 de enero de 2025, 07:18:58 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>584</td>
+    <td>585</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>244</td>
+    <td>243</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
