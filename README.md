@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 22 de enero de 2025, 11:42:58 p. m.</time> |
+|  <time>Readme actualizado el 23 de enero de 2025, 01:19:42 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>579</td>
+    <td>580</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
