@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 23 de enero de 2025, 01:21:21 p. m.</time> |
+|  <time>Readme actualizado el 23 de enero de 2025, 03:22:54 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>588</td>
+    <td>589</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>243</td>
+    <td>244</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
