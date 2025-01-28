@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 28 de enero de 2025, 11:15:59 a. m.</time> |
+|  <time>Readme actualizado el 28 de enero de 2025, 01:20:48 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>672</td>
+    <td>673</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>246</td>
+    <td>245</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -101,7 +101,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 11
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -124,6 +124,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/goncy" title="goncy">
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
+  </a>
+
+  <a href="https://github.com/happySP0816" title="happySP0816">
+    <img src="https://avatars.githubusercontent.com/u/186864974?v=4" width="45" height="45" alt="Avatar de happySP0816" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
