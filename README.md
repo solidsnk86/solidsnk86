@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 28 de enero de 2025, 07:15:26 p. m.</time> |
+|  <time>Readme actualizado el 28 de enero de 2025, 10:16:10 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>676</td>
+    <td>677</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -97,11 +97,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>220</td>
+    <td>219</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 11
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -112,10 +112,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
-  </a>
-
-  <a href="https://github.com/deltadash2" title="deltadash2">
-    <img src="https://avatars.githubusercontent.com/u/181823492?v=4" width="45" height="45" alt="Avatar de deltadash2" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
