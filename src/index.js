@@ -93,7 +93,7 @@ const objPlaceholder = Object.keys(PLACEHOLDER).map((key) => {
   return PLACEHOLDER[key]
 })
 
-const getRamdomPhrases = ({ phr }) => {
+const getRandomPhrases = ({ phr }) => {
   return phr.map((p) => p.texto).sort(() => Math.random() - 0.5)
 }
 
@@ -115,7 +115,7 @@ const replaceAll = (tmp = '', placeholder, updatedContent) => {
 
     const phrasesText = phrases.data.frases
     const phraseAuthor = phrasesText.map((phrase) => phrase.autor)[0]
-    const ramdomPhrases = getRamdomPhrases({ phr: phrasesText })[0]
+    const ramdomPhrases = getRandomPhrases({ phr: phrasesText })[0]
     const count = stats.data.nonfollowings_count
     const users = stats.data.non_following.users
     const avatars = stats.data.non_following.avatar
