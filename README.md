@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"La vida no examinada no merece ser vivida."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 01 de febrero de 2025, 03:22:12 a. m.</time> |
+|  <time>Readme actualizado el 01 de febrero de 2025, 05:19:32 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>729</td>
+    <td>730</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>244</td>
+    <td>246</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
