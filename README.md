@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 31 de enero de 2025, 11:47:24 p. m.</time> |
+|  <time>Readme actualizado el 01 de febrero de 2025, 01:19:29 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>727</td>
+    <td>728</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
