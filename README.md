@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 03 de febrero de 2025, 01:20:04 a. m.</time> |
+|  <time>Readme actualizado el 03 de febrero de 2025, 03:24:20 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>752</td>
+    <td>755</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
