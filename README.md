@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 03 de febrero de 2025, 10:16:41 p. m.</time> |
+|  <time>Readme actualizado el 04 de febrero de 2025, 01:19:38 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>769</td>
+    <td>770</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>249</td>
+    <td>248</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -101,7 +101,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 11
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -136,6 +136,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img src="https://avatars.githubusercontent.com/u/999588?v=4" width="45" height="45" alt="Avatar de nolimits4web" />
+  </a>
+
+  <a href="https://github.com/sungeer" title="sungeer">
+    <img src="https://avatars.githubusercontent.com/u/26924670?v=4" width="45" height="45" alt="Avatar de sungeer" />
   </a>
 
   <a href="https://github.com/supabase" title="supabase">
