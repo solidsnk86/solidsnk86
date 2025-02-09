@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 09 de febrero de 2025, 05:19:29 a. m.</time> |
+|  <time>Readme actualizado el 09 de febrero de 2025, 07:17:12 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>871</td>
+    <td>872</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -97,11 +97,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>224</td>
+    <td>223</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 11
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -124,10 +124,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/goncy" title="goncy">
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/mbahomaid" title="mbahomaid">
-    <img src="https://avatars.githubusercontent.com/u/178747862?v=4" width="45" height="45" alt="Avatar de mbahomaid" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
