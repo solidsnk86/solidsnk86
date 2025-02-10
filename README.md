@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 09 de febrero de 2025, 07:15:53 p. m.</time> |
+|  <time>Readme actualizado el 09 de febrero de 2025, 10:18:53 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>877</td>
+    <td>878</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
