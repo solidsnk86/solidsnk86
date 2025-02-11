@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 11 de febrero de 2025, 01:23:05 p. m.</time> |
+|  <time>Readme actualizado el 11 de febrero de 2025, 03:22:40 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>898</td>
+    <td>899</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
