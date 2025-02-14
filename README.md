@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 14 de febrero de 2025, 01:19:33 p. m.</time> |
+|  <time>Readme actualizado el 14 de febrero de 2025, 03:23:16 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>952</td>
+    <td>953</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
