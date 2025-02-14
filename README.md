@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 14 de febrero de 2025, 03:23:44 a. m.</time> |
+|  <time>Readme actualizado el 14 de febrero de 2025, 05:21:43 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -85,11 +85,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
-    <td>3215</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>945</td>
+    <td>946</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
