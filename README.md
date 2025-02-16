@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 16 de febrero de 2025, 11:14:34 a. m.</time> |
+|  <time>Readme actualizado el 16 de febrero de 2025, 01:18:49 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>981</td>
+    <td>982</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
