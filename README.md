@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La vida no examinada no merece ser vivida."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 20 de febrero de 2025, 01:22:47 p. m.</time> |
+|  <time>Readme actualizado el 20 de febrero de 2025, 03:23:58 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,11 +89,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1044</td>
+    <td>1045</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>254</td>
+    <td>253</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -101,10 +101,14 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 11
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
+
+  <a href="https://github.com/AlizayAyesha" title="AlizayAyesha">
+    <img src="https://avatars.githubusercontent.com/u/68489612?v=4" width="45" height="45" alt="Avatar de AlizayAyesha" />
+  </a>
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
