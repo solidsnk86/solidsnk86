@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
 > — Sócrates
 
@@ -49,7 +49,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 21 de febrero de 2025, 03:24:31 a. m.</time> |
+|  <time>Readme actualizado el 21 de febrero de 2025, 05:21:46 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +89,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1051</td>
+    <td>1052</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
