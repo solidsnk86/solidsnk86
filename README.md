@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
 > — Sócrates
 
@@ -45,11 +45,16 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 </div>
 
+## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis)
+
+Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico:
+Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-WiFi</a>
+
 ## 🤖 Automatización
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 21 de febrero de 2025, 07:16:08 p. m.</time> |
+|  <time>Readme actualizado el 21 de febrero de 2025, 11:21:15 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -89,7 +94,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1059</td>
+    <td>1061</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
