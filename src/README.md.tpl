@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://neotecs.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=FF46FF&badge_gradient_1=4868A9&counter_color=FF74A1" alt="Contador de Visitas SolidSnk86" />
+<img src="https://neotecs.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=0D1117&badge_gradient_1=1F6FEB&counter_color=39D353" alt="Contador de Visitas SolidSnk86" />
 </div>
 
 ### ¿Te gusta el badge contador de visitas?
