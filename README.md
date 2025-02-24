@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://neotecs.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=0D1117&badge_gradient_1=1F6FEB&counter_color=39D353" alt="Contador de Visitas SolidSnk86" />
+<img src="http://localhost:3000/api/badge-counter?user=solidsnk86&badge_gradient_2=1E68DB&badge_gradient_1=1E68DB&counter_color=0D1117" alt="Contador de Visitas SolidSnk86" />
 </div>
 
 ### ¿Te gusta el badge contador de visitas?
@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 24 de febrero de 2025, 01:52:42 a. m.</time> |
+|  <time>Readme actualizado el 24 de febrero de 2025, 02:45:53 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1093</td>
+    <td>1097</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
