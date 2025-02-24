@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"Lo que no te mata te hace más fuerte."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 24 de febrero de 2025, 04:18:27 a. m.</time> |
+|  <time>Readme actualizado el 24 de febrero de 2025, 05:25:41 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,11 +94,11 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1113</td>
+    <td>1114</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>257</td>
+    <td>256</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -106,7 +106,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 11
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -153,6 +153,10 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
   <a href="https://github.com/wesbos" title="wesbos">
     <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="45" height="45" alt="Avatar de wesbos" />
+  </a>
+
+  <a href="https://github.com/zshaian" title="zshaian">
+    <img src="https://avatars.githubusercontent.com/u/81682916?v=4" width="45" height="45" alt="Avatar de zshaian" />
   </a>
 
 
