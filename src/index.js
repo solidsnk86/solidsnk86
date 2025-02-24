@@ -137,7 +137,7 @@ const replaceAll = (tmp = '', placeholder, updatedContent) => {
     const starsCount = repos
       .map((repo) => repo.stargazers_count)
       .reduce((acc, value) => acc + value, 0)
-    const lastUpdate = repos.find((repo) => repo.name === 'solidsnk86')
+    const lastUpdate = repos.find((repo) => repo.name === username)
     const updatedAt = formatDate({ str: lastUpdate.updated_at })
 
     const githubStatsHTML = users
