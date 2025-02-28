@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"El hombre es la medida de todas las cosas."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 28 de febrero de 2025, 11:18:13 a. m.</time> |
+|  <time>Readme actualizado el 28 de febrero de 2025, 12:20:37 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,11 +94,11 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1212</td>
+    <td>1213</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>262</td>
+    <td>261</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -106,10 +106,14 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 13
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
+
+  <a href="https://github.com/Adeema-Amir" title="Adeema-Amir">
+    <img src="https://avatars.githubusercontent.com/u/105167729?v=4" width="45" height="45" alt="Avatar de Adeema-Amir" />
+  </a>
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
