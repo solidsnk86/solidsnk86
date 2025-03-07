@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 07 de marzo de 2025, 09:37:27 a. m.</time> |
+|  <time>Readme actualizado el 07 de marzo de 2025, 10:25:28 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,11 +94,11 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1371</td>
+    <td>1372</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>264</td>
+    <td>265</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
