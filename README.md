@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 07 de marzo de 2025, 05:20:44 p. m.</time> |
+|  <time>Readme actualizado el 07 de marzo de 2025, 06:15:40 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1378</td>
+    <td>1379</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -102,21 +102,17 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>238</td>
+    <td>240</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 11
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
-  </a>
-
-  <a href="https://github.com/CandleLearner-M" title="CandleLearner-M">
-    <img src="https://avatars.githubusercontent.com/u/154463223?v=4" width="45" height="45" alt="Avatar de CandleLearner-M" />
   </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
