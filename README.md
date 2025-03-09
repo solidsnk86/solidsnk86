@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 09 de marzo de 2025, 01:18:33 a. m.</time> |
+|  <time>Readme actualizado el 09 de marzo de 2025, 03:21:05 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,11 +94,11 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1407</td>
+    <td>1408</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>267</td>
+    <td>268</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
