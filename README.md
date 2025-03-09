@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 09 de marzo de 2025, 01:18:34 p. m.</time> |
+|  <time>Readme actualizado el 09 de marzo de 2025, 02:14:25 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,19 +94,19 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1418</td>
+    <td>1419</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>268</td>
+    <td>267</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>239</td>
+    <td>242</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 11
+### 👥 Quienes no me siguen de vuelta: 13
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -115,8 +115,16 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
   </a>
 
+  <a href="https://github.com/GitRektify" title="GitRektify">
+    <img src="https://avatars.githubusercontent.com/u/194601037?v=4" width="45" height="45" alt="Avatar de GitRektify" />
+  </a>
+
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
+  </a>
+
+  <a href="https://github.com/RonaldGGA" title="RonaldGGA">
+    <img src="https://avatars.githubusercontent.com/u/151468110?v=4" width="45" height="45" alt="Avatar de RonaldGGA" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
