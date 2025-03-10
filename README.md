@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 09 de marzo de 2025, 10:14:21 p. m.</time> |
+|  <time>Readme actualizado el 09 de marzo de 2025, 11:33:50 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,11 +94,11 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1426</td>
+    <td>1427</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>268</td>
+    <td>267</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -106,7 +106,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 13
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -145,6 +145,10 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img src="https://avatars.githubusercontent.com/u/999588?v=4" width="45" height="45" alt="Avatar de nolimits4web" />
+  </a>
+
+  <a href="https://github.com/software-venus" title="software-venus">
+    <img src="https://avatars.githubusercontent.com/u/197981585?v=4" width="45" height="45" alt="Avatar de software-venus" />
   </a>
 
   <a href="https://github.com/supabase" title="supabase">
