@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
 > — Sócrates
 
@@ -47,14 +47,14 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis y espacios WiFi de Córdoba)
 
-Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico con la aplicación NeoWiFi App para escritorio que dispongo en la web:
-Visita esta link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
+Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico con la aplicación `NeoWiFi App 1.0.2 (beta)` para escritorio que dispongo en la web:
+visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
 
 ## 🤖 Automatización
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 11 de marzo de 2025, 07:01:10 p. m.</time> |
+|  <time>Readme actualizado el 11 de marzo de 2025, 07:05:01 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ Visita esta link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1480</td>
+    <td>1482</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
