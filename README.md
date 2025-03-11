@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 11 de marzo de 2025, 05:25:34 a. m.</time> |
+|  <time>Readme actualizado el 11 de marzo de 2025, 06:21:13 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1464</td>
+    <td>1467</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -102,11 +102,11 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>241</td>
+    <td>240</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 11
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -141,10 +141,6 @@ Visita esta web si te es de ayuda: <a href="https://neo-wifi.vercel.app/">Neo-Wi
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img src="https://avatars.githubusercontent.com/u/999588?v=4" width="45" height="45" alt="Avatar de nolimits4web" />
-  </a>
-
-  <a href="https://github.com/software-venus" title="software-venus">
-    <img src="https://avatars.githubusercontent.com/u/197981585?v=4" width="45" height="45" alt="Avatar de software-venus" />
   </a>
 
   <a href="https://github.com/supabase" title="supabase">
