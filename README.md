@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 11 de marzo de 2025, 07:05:01 p. m.</time> |
+|  <time>Readme actualizado el 11 de marzo de 2025, 07:05:20 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -66,15 +66,15 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>🥇 Lenguaje más usado</td>
-    <td>JavaScript • %30.8</td>
+    <td>JavaScript • %30.0</td>
   </tr>
   <tr>
     <td>🥈 Segundo lenguaje</td>
-    <td>HTML • %23.1</td>
+    <td>HTML • %22.5</td>
   </tr>
   <tr>
     <td>🥉 Tercer lenguaje</td>
-    <td>TypeScript • %12.8</td>
+    <td>TypeScript • %15.0</td>
   </tr>
   <tr>
     <td>🌟 Repositorio destacado</td>
@@ -82,7 +82,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📁 Repositorios Públicos</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1482</td>
+    <td>1719</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
