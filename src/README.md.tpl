@@ -47,8 +47,8 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis y espacios WiFi de Córdoba)
 
-Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico con la aplicación NeoWiFi App para escritorio que dispongo en la web:
-Visita esta link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
+Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico con la aplicación `NeoWiFi App 1.0.2 (beta)` para escritorio que dispongo en la web:
+visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
 
 ## 🤖 Automatización
 
