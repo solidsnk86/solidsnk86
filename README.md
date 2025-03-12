@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 <img src="https://neotecs.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=1E68DB&badge_gradient_1=1E68DB&counter_color=010409" alt="Contador de Visitas SolidSnk86" />
 </div>
 
@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 12 de marzo de 2025, 12:28:10 a. m.</time> |
+|  <time>Readme actualizado el 12 de marzo de 2025, 01:36:00 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1735</td>
+    <td>1738</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
