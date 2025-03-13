@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 13 de marzo de 2025, 12:22:20 p. m.</time> |
+|  <time>Readme actualizado el 13 de marzo de 2025, 01:26:15 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,29 +94,25 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1800</td>
+    <td>1805</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>266</td>
+    <td>267</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>240</td>
+    <td>239</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 11
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
-  </a>
-
-  <a href="https://github.com/DanielArturoAlejoAlvarez" title="DanielArturoAlejoAlvarez">
-    <img src="https://avatars.githubusercontent.com/u/18106359?v=4" width="45" height="45" alt="Avatar de DanielArturoAlejoAlvarez" />
   </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
