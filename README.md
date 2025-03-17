@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de marzo de 2025, 09:40:05 a. m.</time> |
+|  <time>Readme actualizado el 17 de marzo de 2025, 10:29:22 a. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1941</td>
+    <td>1942</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -102,11 +102,11 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>244</td>
+    <td>245</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 11
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -129,6 +129,10 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
   <a href="https://github.com/goncy" title="goncy">
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
+  </a>
+
+  <a href="https://github.com/juanmarcoso" title="juanmarcoso">
+    <img src="https://avatars.githubusercontent.com/u/105400811?v=4" width="45" height="45" alt="Avatar de juanmarcoso" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
