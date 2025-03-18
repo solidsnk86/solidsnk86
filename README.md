@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 18 de marzo de 2025, 04:15:49 p. m.</time> |
+|  <time>Readme actualizado el 18 de marzo de 2025, 05:20:21 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,11 +94,11 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1978</td>
+    <td>1979</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>270</td>
+    <td>269</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
@@ -106,13 +106,17 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 13
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
+  </a>
+
+  <a href="https://github.com/Gor-Hoveyan" title="Gor-Hoveyan">
+    <img src="https://avatars.githubusercontent.com/u/89770925?v=4" width="45" height="45" alt="Avatar de Gor-Hoveyan" />
   </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
