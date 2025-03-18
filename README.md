@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"La duda es el principio de la sabiduría."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 17 de marzo de 2025, 10:36:54 p. m.</time> |
+|  <time>Readme actualizado el 17 de marzo de 2025, 11:58:31 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>1955</td>
+    <td>1956</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
