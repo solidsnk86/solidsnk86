@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 19 de marzo de 2025, 03:28:08 p. m.</time> |
+|  <time>Readme actualizado el 19 de marzo de 2025, 04:16:25 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2016</td>
+    <td>2017</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -102,11 +102,11 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>244</td>
+    <td>242</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 13
+### 👥 Quienes no me siguen de vuelta: 11
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -115,16 +115,8 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
   </a>
 
-  <a href="https://github.com/Gor-Hoveyan" title="Gor-Hoveyan">
-    <img src="https://avatars.githubusercontent.com/u/89770925?v=4" width="45" height="45" alt="Avatar de Gor-Hoveyan" />
-  </a>
-
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
-  </a>
-
-  <a href="https://github.com/MattNami" title="MattNami">
-    <img src="https://avatars.githubusercontent.com/u/183171222?v=4" width="45" height="45" alt="Avatar de MattNami" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
