@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 19 de marzo de 2025, 06:18:26 p. m.</time> |
+|  <time>Readme actualizado el 19 de marzo de 2025, 07:18:50 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2019</td>
+    <td>2021</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
