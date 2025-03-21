@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 21 de marzo de 2025, 02:18:20 p. m.</time> |
+|  <time>Readme actualizado el 21 de marzo de 2025, 03:27:14 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2077</td>
+    <td>2081</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -102,11 +102,11 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>244</td>
+    <td>243</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 11
+### 👥 Quienes no me siguen de vuelta: 10
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -129,10 +129,6 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
   <a href="https://github.com/goncy" title="goncy">
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/ipqwery" title="ipqwery">
-    <img src="https://avatars.githubusercontent.com/u/188051590?v=4" width="45" height="45" alt="Avatar de ipqwery" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
