@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"Solo sé que no sé nada."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 21 de marzo de 2025, 11:18:44 a. m.</time> |
+|  <time>Readme actualizado el 21 de marzo de 2025, 12:20:42 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,11 +94,11 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2074</td>
+    <td>2075</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>273</td>
+    <td>272</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
