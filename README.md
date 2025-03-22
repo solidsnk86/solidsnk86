@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 22 de marzo de 2025, 05:19:39 p. m.</time> |
+|  <time>Readme actualizado el 22 de marzo de 2025, 06:17:04 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2118</td>
+    <td>2122</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
