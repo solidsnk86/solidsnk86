@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
 > — Sócrates
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 22 de marzo de 2025, 08:18:34 p. m.</time> |
+|  <time>Readme actualizado el 22 de marzo de 2025, 10:42:08 p. m.</time> |
 | --------------------------------------------------------- |
 
 ## 📊 Estadísticas de GitHub
@@ -66,15 +66,15 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>🥇 Lenguaje más usado</td>
-    <td>JavaScript • %29.3</td>
+    <td>JavaScript • %30.0</td>
   </tr>
   <tr>
     <td>🥈 Segundo lenguaje</td>
-    <td>HTML • %22.0</td>
+    <td>HTML • %22.5</td>
   </tr>
   <tr>
     <td>🥉 Tercer lenguaje</td>
-    <td>TypeScript • %14.6</td>
+    <td>TypeScript • %12.5</td>
   </tr>
   <tr>
     <td>🌟 Repositorio destacado</td>
@@ -82,11 +82,11 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📁 Repositorios Públicos</td>
-    <td>41</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>⭐ Estrellas ganadas</td>
-    <td>86</td>
+    <td>85</td>
   </tr>
   <tr>
     <td>📝 Total de commits 2024</td>
@@ -94,7 +94,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2129</td>
+    <td>1774</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
