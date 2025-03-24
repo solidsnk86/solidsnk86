@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
 > — Sócrates
 
@@ -33,9 +33,10 @@
 
 <br>
 
-## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis y espacios WiFi de Córdoba)
+## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis, espacios WiFi de Córdoba y Mendoza)
 
-Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico con la aplicación `NeoWiFi App 1.0.2 (beta)` para escritorio que dispongo en la web:
+Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella e información de la misma, para poder configurar tu 
+CPE inalámbrico con la aplicación `NeoWiFi App 1.1.3 (beta)` para escritorio que dispongo en la web:
 visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
 
 <br>
@@ -59,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 24 de marzo de 2025, 12:34:56 p. m.</time> |
+|  <time>Readme actualizado el 24 de marzo de 2025, 12:40:42 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -115,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2193</td>
+    <td>2195</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
