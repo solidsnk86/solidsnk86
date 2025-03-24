@@ -93,8 +93,10 @@ const objPlaceholder = Object.keys(PLACEHOLDER).map((key) => {
   return PLACEHOLDER[key]
 })
 
-const getRandomPhrases = ({ phr }) => {
-  return phr.map((p) => p.texto).sort(() => Math.random() - 0.5)
+const getRandomPhrases = (data = []) => {
+  const randomIndex = Math.floor(Math.random() * data.length)
+  const randomPhrase = data[randomIndex]
+  return { author: randomPhrase.autor, text: randomPhrase.texto }
 }
 
 const replaceAll = (tmp = '', placeholder, updatedContent) => {
@@ -113,9 +115,8 @@ const replaceAll = (tmp = '', placeholder, updatedContent) => {
       getPhrases()
     ]).catch((error) => console.error(error) || process.exit(1))
 
-    const phrasesText = phrases.data.frases
-    const phraseAuthor = phrasesText.map((phrase) => phrase.autor)[0]
-    const ramdomPhrases = getRandomPhrases({ phr: phrasesText })[0]
+    const phrase = phrases.data.frases
+    const { author, text } = getRandomPhrases(phrase)
     const count = stats.data.nonfollowings_count
     const users = stats.data.non_following.users
     const avatars = stats.data.non_following.avatar
@@ -152,8 +153,8 @@ const replaceAll = (tmp = '', placeholder, updatedContent) => {
 
     const contentArray = []
     contentArray.push(
-      phraseAuthor,
-      ramdomPhrases,
+      author,
+      text,
       updatedAt,
       mostUsedLang,
       secondUsedLang,
