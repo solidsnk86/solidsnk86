@@ -13,7 +13,7 @@
 🎓 Estudiando Tecnicatura Universitaria en Programación  
 🏫 UTN Facultad Regional de San Rafael (Mendoza)
 
-<div align="left">
+<div align="center">
 
 <h3>Frases ramdom</h3>
 
@@ -65,6 +65,8 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 |  <time>Readme actualizado el %{{updated_at}}%</time> |
 | --------------------------------------------------------- |
+
+<br>
 
 ## 📊 Estadísticas de GitHub
 
