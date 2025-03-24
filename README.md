@@ -13,11 +13,11 @@
 🎓 Estudiando Tecnicatura Universitaria en Programación  
 🏫 UTN Facultad Regional de San Rafael (Mendoza)
 
-<div align="left">
+<div align="center">
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
 > — Sócrates
 
@@ -63,8 +63,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 24 de marzo de 2025, 12:14:41 p. m.</time> |
+|  <time>Readme actualizado el 24 de marzo de 2025, 12:16:55 p. m.</time> |
 | --------------------------------------------------------- |
+
+<br>
 
 ## 📊 Estadísticas de GitHub
 
@@ -103,7 +105,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2184</td>
+    <td>2186</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
