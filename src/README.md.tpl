@@ -13,7 +13,7 @@
 🎓 Estudiando Tecnicatura Universitaria en Programación  
 🏫 UTN Facultad Regional de San Rafael (Mendoza)
 
-<div align="center">
+<div align="left">
 
 <h3>Frases ramdom</h3>
 
@@ -32,6 +32,18 @@
 
 </div>
 
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/solidsnk86/neo-wifi/refs/heads/master/public/Neo-Wifi.svg" width="190" height="90" alt="Neo Wifi Logo" />
+</div>
+
+## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis y espacios WiFi de Córdoba)
+
+Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico con la aplicación `NeoWiFi App 1.0.2 (beta)` para escritorio que dispongo en la web:
+visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
+
+<br>
+
 ## ✨ Mi Portafolio
 
 <div align="center">
@@ -45,10 +57,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 </div>
 
-## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis y espacios WiFi de Córdoba)
-
-Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella, para poder configurar tu CPE inalámbrico con la aplicación `NeoWiFi App 1.0.2 (beta)` para escritorio que dispongo en la web:
-visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
+<br>
 
 ## 🤖 Automatización
 
