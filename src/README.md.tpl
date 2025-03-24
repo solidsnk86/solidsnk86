@@ -23,19 +23,13 @@
 
 </div>
 
-## 📫 Conecta conmigo
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
-[![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
-
-</div>
-
 <br>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/solidsnk86/neo-wifi/refs/heads/master/public/Neo-Wifi.svg" width="190" height="90" alt="Neo Wifi Logo" />
 </div>
+
+<br>
 
 ## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis y espacios WiFi de Córdoba)
 
@@ -68,7 +62,20 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <br>
 
+## 📫 Conecta conmigo
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
+[![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
+
+</div>
+
+<br>
+
 ## 📊 Estadísticas de GitHub
+
+Estas estadísticas se obtienen mediante la `API v3` de github y `GraphQL API` y se muestran aquí mediante node.js con github actions.
 
 <table>
   <tr>
