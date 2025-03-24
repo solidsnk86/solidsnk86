@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
 >
 > — Sócrates
 
@@ -57,7 +57,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 24 de marzo de 2025, 12:24:24 p. m.</time> |
+|  <time>Readme actualizado el 24 de marzo de 2025, 12:31:03 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -75,7 +75,8 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 📊 Estadísticas de GitHub
 
-Estas estadísticas se obtienen mediante la `API v3` de github y `GraphQL API` y se muestran aquí mediante node.js con github actions.
+Estas estadísticas se obtienen mediante la `API v3` y `GraphQL API` que dispone Github, y se muestran aquí mediante node.js con github actions 
+para actualizar los datos cada una hora.
 
 <table>
   <tr>
@@ -112,7 +113,7 @@ Estas estadísticas se obtienen mediante la `API v3` de github y `GraphQL API` y
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2189</td>
+    <td>2191</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
