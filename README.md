@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Platón
+> — Lao Tse
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 25 de marzo de 2025, 07:21:53 a. m.</time> |
+|  <time>Readme actualizado el 25 de marzo de 2025, 08:17:28 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,11 +116,11 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2225</td>
+    <td>2226</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>268</td>
+    <td>269</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
