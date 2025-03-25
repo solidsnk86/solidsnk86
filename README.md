@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Marco Aurelio
+> — Jimi Hendrix
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 25 de marzo de 2025, 12:36:06 a. m.</time> |
+|  <time>Readme actualizado el 25 de marzo de 2025, 01:23:38 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2218</td>
+    <td>2219</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
