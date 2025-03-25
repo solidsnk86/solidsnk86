@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
-> — Blaise Pascal
+> — Henry Ford
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 24 de marzo de 2025, 10:38:25 p. m.</time> |
+|  <time>Readme actualizado el 24 de marzo de 2025, 11:59:48 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2215</td>
+    <td>2216</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
