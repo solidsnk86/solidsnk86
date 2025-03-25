@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Henry Ford
+> — Albert Einstein
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 25 de marzo de 2025, 03:28:48 a. m.</time> |
+|  <time>Readme actualizado el 25 de marzo de 2025, 04:20:59 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2221</td>
+    <td>2222</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
