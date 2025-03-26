@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Edgar Allan Poe
+> — Leonardo da Vinci
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 26 de marzo de 2025, 05:26:50 a. m.</time> |
+|  <time>Readme actualizado el 26 de marzo de 2025, 06:21:21 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2245</td>
+    <td>2246</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
