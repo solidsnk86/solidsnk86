@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Viktor Frankl
+> — Jean-Jacques Rousseau
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de mi API de estadísticas.
 
-|  <time>Readme actualizado el 26 de marzo de 2025, 07:16:31 p. m.</time> |
+|  <time>Readme actualizado el 26 de marzo de 2025, 07:16:51 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2263</td>
+    <td>2264</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
