@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — John Lennon
+> — Jorge Luis Borges
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 25 de marzo de 2025, 08:18:07 p. m.</time> |
+|  <time>Readme actualizado el 25 de marzo de 2025, 10:37:45 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2237</td>
+    <td>2238</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
