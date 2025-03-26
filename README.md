@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://neotecs.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=1E68DB&badge_gradient_1=1E68DB&counter_color=010409" alt="Contador de Visitas SolidSnk86" />
+<img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=1E68DB&badge_gradient_1=1E68DB&counter_color=010409" alt="Contador de Visitas SolidSnk86" />
 </div>
 
 ### ¿Te gusta el badge contador de visitas?
@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Pedro Calderón de la Barca
+> — Viktor Frankl
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de mi API de estadísticas.
 
-|  <time>Readme actualizado el 26 de marzo de 2025, 05:56:45 p. m.</time> |
+|  <time>Readme actualizado el 26 de marzo de 2025, 07:16:31 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2259</td>
+    <td>2263</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
