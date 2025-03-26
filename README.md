@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"La pluma es la lengua del alma."*
 >
-> — Jorge Luis Borges
+> — Miguel de Cervantes
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 26 de marzo de 2025, 01:26:39 p. m.</time> |
+|  <time>Readme actualizado el 26 de marzo de 2025, 02:18:13 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2253</td>
+    <td>2254</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
