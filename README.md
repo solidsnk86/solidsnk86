@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Søren Kierkegaard
+> — Viktor Frankl
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 26 de marzo de 2025, 08:16:27 a. m.</time> |
+|  <time>Readme actualizado el 26 de marzo de 2025, 09:39:45 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2248</td>
+    <td>2249</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
