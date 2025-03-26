@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Voltaire
+> — Friedrich Nietzsche
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
 
-|  <time>Readme actualizado el 26 de marzo de 2025, 03:28:01 p. m.</time> |
+|  <time>Readme actualizado el 26 de marzo de 2025, 04:16:34 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2255</td>
+    <td>2256</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -124,11 +124,11 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>242</td>
+    <td>244</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 10
+### 👥 Quienes no me siguen de vuelta: 12
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -141,6 +141,10 @@ para actualizar los datos cada una hora.
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
   </a>
 
+  <a href="https://github.com/codebytere" title="codebytere">
+    <img src="https://avatars.githubusercontent.com/u/2036040?v=4" width="45" height="45" alt="Avatar de codebytere" />
+  </a>
+
   <a href="https://github.com/dscho" title="dscho">
     <img src="https://avatars.githubusercontent.com/u/127790?v=4" width="45" height="45" alt="Avatar de dscho" />
   </a>
@@ -151,6 +155,10 @@ para actualizar los datos cada una hora.
 
   <a href="https://github.com/goncy" title="goncy">
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
+  </a>
+
+  <a href="https://github.com/hvohr" title="hvohr">
+    <img src="https://avatars.githubusercontent.com/u/123392693?v=4" width="45" height="45" alt="Avatar de hvohr" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
