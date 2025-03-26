@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Friedrich Nietzsche
+> — Mahatma Gandhi
 
 </div>
 
@@ -58,9 +58,9 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 🤖 Automatización
 
-🚀 Este repositorio utiliza `Node.js` y `Github-Workflows` para actualizar automáticamente cada dos horas los últimos datos de github a través de mi API para estadísticas.
+🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de mi API de estadísticas.
 
-|  <time>Readme actualizado el 26 de marzo de 2025, 04:16:34 p. m.</time> |
+|  <time>Readme actualizado el 26 de marzo de 2025, 05:56:26 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -78,8 +78,8 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 📊 Estadísticas de GitHub
 
-Estas estadísticas se obtienen mediante la `API v3` y `GraphQL API` que dispone Github, y se muestran aquí mediante node.js con github actions 
-para actualizar los datos cada una hora.
+📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
+las estadísticas se actualizan en tiempo real.
 
 <table>
   <tr>
@@ -116,7 +116,7 @@ para actualizar los datos cada una hora.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2256</td>
+    <td>2258</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
