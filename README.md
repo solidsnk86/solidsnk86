@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Leonardo da Vinci
+> — William James
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de mi API de estadísticas.
 
-|  <time>Readme actualizado el 27 de marzo de 2025, 04:16:18 p. m.</time> |
+|  <time>Readme actualizado el 27 de marzo de 2025, 05:21:15 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +116,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2291</td>
+    <td>2294</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
