@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
-> — Platón
+> — Henry Ford
 
 </div>
 
@@ -60,7 +60,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de mi API de estadísticas.
 
-|  <time>Readme actualizado el 27 de marzo de 2025, 01:23:25 a. m.</time> |
+|  <time>Readme actualizado el 27 de marzo de 2025, 02:19:12 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,11 +116,11 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2274</td>
+    <td>2276</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>272</td>
+    <td>273</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
