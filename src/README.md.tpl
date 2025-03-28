@@ -68,6 +68,25 @@ https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO
 https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO&gh_token=TU_TOKEN_DE_GITHUB
 ```
 
+Puedes obtener los datos de la siguiente manera:
+
+```javascript
+const username = "TU_USUARIO"
+const token = process.env.TU_TOKEN_DE_GITHUB
+const getGithubStats = async () => {
+  try {
+    const response = await fetch(
+    `https://calcagni-gabriel.vercel.app/api/non-followers?user=${username}&gh_token=${token}`
+  )
+  if (!response.ok) throw new Error(response.statusText)
+  const jsonData = await response.json()
+  return jsonData
+  } catch (error) {
+    console.error(error)
+  }
+}
+```
+
 |  <time>Readme actualizado el %{{updated_at}}%</time> |
 | --------------------------------------------------------- |
 
