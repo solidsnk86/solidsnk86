@@ -58,7 +58,15 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 🤖 Automatización
 
-🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de mi API de estadísticas.
+🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
+puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
+
+```javascript
+https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO
+
+// Si vas a realizar demasiadas peticiones a la API:
+https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO&gh_token=TU_TOKEN_DE_GITHUB
+```
 
 |  <time>Readme actualizado el %{{updated_at}}%</time> |
 | --------------------------------------------------------- |
