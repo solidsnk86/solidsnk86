@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Séneca
+> — Oscar Wilde
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 06:21:46 a. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 07:20:59 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2335</td>
+    <td>2336</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
