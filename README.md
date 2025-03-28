@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Leonardo da Vinci
+> — Francis Bacon
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 02:45:29 a. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 04:19:50 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2332</td>
+    <td>2333</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
