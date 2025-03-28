@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Aristóteles
+> — Protágoras
 
 </div>
 
@@ -68,7 +68,26 @@ https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO
 https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO&gh_token=TU_TOKEN_DE_GITHUB
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 02:31:12 a. m.</time> |
+Puedes obtener los datos de la siguiente manera:
+
+```javascript
+const username = "TU_USUARIO"
+const token = process.env.TU_TOKEN_DE_GITHUB
+const getGithubStats = async () => {
+  try {
+    const response = await fetch(
+    `https://calcagni-gabriel.vercel.app/api/non-followers?user=${username}&gh_token=${token}`
+  )
+  if (!response.ok) throw new Error(response.statusText)
+  const jsonData = await response.json()
+  return jsonData
+  } catch (error) {
+    console.error(error)
+  }
+}
+```
+
+|  <time>Readme actualizado el 28 de marzo de 2025, 02:45:03 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -124,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2325</td>
+    <td>2327</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
