@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
 >
-> — John Lennon
+> — Aristóteles
 
 </div>
 
@@ -58,9 +58,17 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 🤖 Automatización
 
-🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de mi API de estadísticas.
+🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
+puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 01:24:40 a. m.</time> |
+```javascript
+https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO
+
+// Si vas a realizar demasiadas peticiones a la API:
+https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO&gh_token=TU_TOKEN_DE_GITHUB
+```
+
+|  <time>Readme actualizado el 28 de marzo de 2025, 02:31:12 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -116,7 +124,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2322</td>
+    <td>2325</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
