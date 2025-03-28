@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — William James
+> — Jean-Paul Sartre
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 12:20:45 p. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 01:25:00 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2341</td>
+    <td>2342</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
