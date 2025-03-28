@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
 >
-> — Marcel Proust
+> — Søren Kierkegaard
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 10:27:26 a. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 11:18:59 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2339</td>
+    <td>2340</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
