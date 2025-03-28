@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Platón
+> — Séneca
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 08:16:22 a. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 09:38:56 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2337</td>
+    <td>2338</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
