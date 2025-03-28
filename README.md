@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Isabel Allende
+> — Sócrates
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 02:17:50 p. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 03:28:06 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2343</td>
+    <td>2344</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
