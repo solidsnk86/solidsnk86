@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Protágoras
+> — Leonardo da Vinci
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 02:45:03 a. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 02:45:29 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2327</td>
+    <td>2332</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
