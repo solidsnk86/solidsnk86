@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Sócrates
+> — Gabriel García Márquez
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 03:28:06 p. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 04:16:16 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2344</td>
+    <td>2345</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
