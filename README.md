@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
 >
-> — Séneca
+> — Marcel Proust
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 09:38:56 a. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 10:27:26 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,11 +143,11 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2338</td>
+    <td>2339</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
-    <td>273</td>
+    <td>274</td>
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
