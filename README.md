@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — William James
+> — Sócrates
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 06:18:15 p. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 07:18:54 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2347</td>
+    <td>2352</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
