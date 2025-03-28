@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Søren Kierkegaard
+> — Séneca
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 28 de marzo de 2025, 05:26:35 a. m.</time> |
+|  <time>Readme actualizado el 28 de marzo de 2025, 06:21:46 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2334</td>
+    <td>2335</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
