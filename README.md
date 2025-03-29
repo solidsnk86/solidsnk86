@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Octavio Paz
+> — Sócrates
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 12:20:00 p. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 01:23:02 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2375</td>
+    <td>2376</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
