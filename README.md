@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Oscar Wilde
+> — Voltaire
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 10:23:15 a. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 11:17:31 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2373</td>
+    <td>2374</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
