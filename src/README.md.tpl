@@ -82,7 +82,7 @@ puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticio
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
 las estadísticas se actualizan en tiempo real.
 
-<img src="./gh-stats.svg" width="100%" height="400" alt="SVG stats solidsnk86" />
+<img src="./gh-stats.svg" width="100%" height="600" alt="SVG stats solidsnk86" />
 
 ### 👥 Quienes no me siguen de vuelta: %{{non_followers_count}}%
 
