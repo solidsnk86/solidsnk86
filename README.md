@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
 >
-> — Marco Aurelio
+> — Friedrich Nietzsche
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 03:25:06 p. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 04:16:07 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2378</td>
+    <td>2379</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
