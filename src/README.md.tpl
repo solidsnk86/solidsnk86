@@ -61,32 +61,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
 puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
 
-```javascript
-https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO
-
-// Si vas a realizar demasiadas peticiones a la API:
-https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO&gh_token=TU_TOKEN_DE_GITHUB
-```
-
-Puedes obtener los datos de la siguiente manera:
-
-```javascript
-const username = "TU_USUARIO"
-const token = process.env.TU_TOKEN_DE_GITHUB
-const getGithubStats = async () => {
-  try {
-    const response = await fetch(
-    `https://calcagni-gabriel.vercel.app/api/non-followers?user=${username}&gh_token=${token}`
-  )
-  if (!response.ok) throw new Error(response.statusText)
-  const jsonData = await response.json()
-  return jsonData
-  } catch (error) {
-    console.error(error)
-  }
-}
-```
-
 |  <time>Readme actualizado el %{{updated_at}}%</time> |
 | --------------------------------------------------------- |
 
@@ -108,52 +82,7 @@ const getGithubStats = async () => {
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
 las estadísticas se actualizan en tiempo real.
 
-<table>
-  <tr>
-    <th>Categoría</th>
-    <th>Detalle</th>
-  </tr>
-  <tr>
-    <td>🥇 Lenguaje más usado</td>
-    <td>%{{most_used_language}}% • %%{{percentage_1}}%</td>
-  </tr>
-  <tr>
-    <td>🥈 Segundo lenguaje</td>
-    <td>%{{second_most_used}}% • %%{{percentage_2}}%</td>
-  </tr>
-  <tr>
-    <td>🥉 Tercer lenguaje</td>
-    <td>%{{third_most_used}}% • %%{{percentage_3}}%</td>
-  </tr>
-  <tr>
-    <td>🌟 Repositorio destacado</td>
-    <td>%{{repo_name}}% con %{{repo_stars}}% estrellas</td>
-  </tr>
-  <tr>
-    <td>📁 Repositorios Públicos</td>
-    <td>%{{public_repos}}%</td>
-  </tr>
-  <tr>
-    <td>⭐ Estrellas ganadas</td>
-    <td>%{{stars_count}}%</td>
-  </tr>
-  <tr>
-    <td>📝 Total de commits 2024</td>
-    <td>%{{annual_commits_2024}}%</td>
-  </tr>
-  <tr>
-    <td>📝 Total de commits 2025</td>
-    <td>%{{annual_commits_2025}}%</td>
-  </tr>
-  <tr>
-    <td>🙇‍♂️ Seguidores</td>
-    <td>%{{followers}}%</td>
-  </tr>
-  <tr>
-    <td>🙇‍♀️ Seguidos</td>
-    <td>%{{following}}%</td>
-  </tr>
-</table>
+<img src="./gh-stats.svg" width="800" height="600" alt="SVG stats solidsnk86" />
 
 ### 👥 Quienes no me siguen de vuelta: %{{non_followers_count}}%
 

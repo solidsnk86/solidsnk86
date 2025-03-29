@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
 >
-> — Aristóteles
+> — Marco Aurelio
 
 </div>
 
@@ -61,14 +61,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
 puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
 
-```javascript
-https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO
-
-// Si vas a realizar demasiadas peticiones a la API:
-https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO&gh_token=TU_TOKEN_DE_GITHUB
-```
-
-|  <time>Readme actualizado el 28 de marzo de 2025, 02:31:12 a. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 07:17:42 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -89,68 +82,15 @@ https://calcagni-gabriel.vercel.app/api/non-followers?user=TU_USUARIO&gh_token=T
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
 las estadísticas se actualizan en tiempo real.
 
-<table>
-  <tr>
-    <th>Categoría</th>
-    <th>Detalle</th>
-  </tr>
-  <tr>
-    <td>🥇 Lenguaje más usado</td>
-    <td>JavaScript • %29.3</td>
-  </tr>
-  <tr>
-    <td>🥈 Segundo lenguaje</td>
-    <td>HTML • %22.0</td>
-  </tr>
-  <tr>
-    <td>🥉 Tercer lenguaje</td>
-    <td>TypeScript • %14.6</td>
-  </tr>
-  <tr>
-    <td>🌟 Repositorio destacado</td>
-    <td>NeoTecs con 7 estrellas</td>
-  </tr>
-  <tr>
-    <td>📁 Repositorios Públicos</td>
-    <td>41</td>
-  </tr>
-  <tr>
-    <td>⭐ Estrellas ganadas</td>
-    <td>85</td>
-  </tr>
-  <tr>
-    <td>📝 Total de commits 2024</td>
-    <td>3215</td>
-  </tr>
-  <tr>
-    <td>📝 Total de commits 2025</td>
-    <td>2325</td>
-  </tr>
-  <tr>
-    <td>🙇‍♂️ Seguidores</td>
-    <td>273</td>
-  </tr>
-  <tr>
-    <td>🙇‍♀️ Seguidos</td>
-    <td>244</td>
-  </tr>
-</table>
+<img src="./gh-stats.svg" width="800" height="600" alt="SVG stats solidsnk86" />
 
-### 👥 Quienes no me siguen de vuelta: 12
-
-<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
-
-
+### 👥 Quienes no me siguen de vuelta: 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
   </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
-  </a>
-
-  <a href="https://github.com/codebytere" title="codebytere">
-    <img src="https://avatars.githubusercontent.com/u/2036040?v=4" width="45" height="45" alt="Avatar de codebytere" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
@@ -165,20 +105,12 @@ las estadísticas se actualizan en tiempo real.
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
   </a>
 
-  <a href="https://github.com/hvohr" title="hvohr">
-    <img src="https://avatars.githubusercontent.com/u/123392693?v=4" width="45" height="45" alt="Avatar de hvohr" />
-  </a>
-
   <a href="https://github.com/midudev" title="midudev">
     <img src="https://avatars.githubusercontent.com/u/1561955?v=4" width="45" height="45" alt="Avatar de midudev" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img src="https://avatars.githubusercontent.com/u/999588?v=4" width="45" height="45" alt="Avatar de nolimits4web" />
-  </a>
-
-  <a href="https://github.com/supabase" title="supabase">
-    <img src="https://avatars.githubusercontent.com/u/54469796?v=4" width="45" height="45" alt="Avatar de supabase" />
   </a>
 
   <a href="https://github.com/torvalds" title="torvalds">
@@ -189,5 +121,9 @@ las estadísticas se actualizan en tiempo real.
     <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="45" height="45" alt="Avatar de wesbos" />
   </a>
 
+
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
+
+9
 
 </div>
