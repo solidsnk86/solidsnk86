@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Leonardo da Vinci
+> — Voltaire
 
 </div>
 
@@ -61,7 +61,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
 puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 07:26:03 p. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 07:28:44 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
