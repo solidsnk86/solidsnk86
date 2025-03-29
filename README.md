@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Nelson Mandela
+> — Confucio
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 12:32:22 a. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 01:24:32 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2360</td>
+    <td>2363</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
