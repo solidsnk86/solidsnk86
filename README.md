@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
 >
 > — Marco Aurelio
 
@@ -61,7 +61,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
 puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 07:42:23 p. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 07:44:36 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
