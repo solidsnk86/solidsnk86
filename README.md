@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Leonardo da Vinci
+> — Nelson Mandela
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 05:19:22 p. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 06:17:23 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2380</td>
+    <td>2381</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
