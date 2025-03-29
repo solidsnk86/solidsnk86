@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
 >
-> — Martin Luther King Jr.
+> — Marco Aurelio
 
 </div>
 
