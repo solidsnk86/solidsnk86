@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Pedro Calderón de la Barca
+> — Séneca
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 02:18:07 a. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 03:26:06 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2365</td>
+    <td>2366</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
