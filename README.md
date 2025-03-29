@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Platón
+> — Martin Luther King Jr.
 
 </div>
 
