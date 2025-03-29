@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
 >
-> — Marco Aurelio
+> — Fiódor Dostoievski
 
 </div>
 
@@ -61,7 +61,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
 puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 07:44:36 p. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 07:46:44 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -84,7 +84,11 @@ las estadísticas se actualizan en tiempo real.
 
 <img src="./gh-stats.svg" width="800" height="600" alt="SVG stats solidsnk86" />
 
-### 👥 Quienes no me siguen de vuelta: 
+### 👥 Quienes no me siguen de vuelta: 9
+
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
+
+
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
   </a>
@@ -121,9 +125,5 @@ las estadísticas se actualizan en tiempo real.
     <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="45" height="45" alt="Avatar de wesbos" />
   </a>
 
-
-<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
-
-9
 
 </div>
