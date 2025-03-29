@@ -177,8 +177,8 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       author,
       text,
       updatedAt,
-      count,
-      githubStatsHTML
+      githubStatsHTML,
+      count
     )
     const contentArraySVG = []
     contentArraySVG.push(
