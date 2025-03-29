@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Martin Luther King Jr.
+> — Séneca
 
 </div>
 
