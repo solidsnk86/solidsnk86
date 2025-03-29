@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Francis Bacon
+> — Lao Tse
 
 </div>
 
