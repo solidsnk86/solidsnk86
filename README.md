@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Séneca
+> — William James
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 03:26:06 a. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 04:17:25 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2366</td>
+    <td>2367</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
@@ -151,11 +151,11 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>🙇‍♀️ Seguidos</td>
-    <td>244</td>
+    <td>242</td>
   </tr>
 </table>
 
-### 👥 Quienes no me siguen de vuelta: 12
+### 👥 Quienes no me siguen de vuelta: 9
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -166,10 +166,6 @@ las estadísticas se actualizan en tiempo real.
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
-  </a>
-
-  <a href="https://github.com/codebytere" title="codebytere">
-    <img src="https://avatars.githubusercontent.com/u/2036040?v=4" width="45" height="45" alt="Avatar de codebytere" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
@@ -184,20 +180,12 @@ las estadísticas se actualizan en tiempo real.
     <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
   </a>
 
-  <a href="https://github.com/hvohr" title="hvohr">
-    <img src="https://avatars.githubusercontent.com/u/123392693?v=4" width="45" height="45" alt="Avatar de hvohr" />
-  </a>
-
   <a href="https://github.com/midudev" title="midudev">
     <img src="https://avatars.githubusercontent.com/u/1561955?v=4" width="45" height="45" alt="Avatar de midudev" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img src="https://avatars.githubusercontent.com/u/999588?v=4" width="45" height="45" alt="Avatar de nolimits4web" />
-  </a>
-
-  <a href="https://github.com/supabase" title="supabase">
-    <img src="https://avatars.githubusercontent.com/u/54469796?v=4" width="45" height="45" alt="Avatar de supabase" />
   </a>
 
   <a href="https://github.com/torvalds" title="torvalds">
