@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Isaac Newton
+> — Jean-Paul Sartre
 
 </div>
 
@@ -87,7 +87,7 @@ const getGithubStats = async () => {
 }
 ```
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 08:15:50 a. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 09:35:39 a. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -143,7 +143,7 @@ las estadísticas se actualizan en tiempo real.
   </tr>
   <tr>
     <td>📝 Total de commits 2025</td>
-    <td>2371</td>
+    <td>2372</td>
   </tr>
   <tr>
     <td>🙇‍♂️ Seguidores</td>
