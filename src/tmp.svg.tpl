@@ -113,6 +113,6 @@
   </g>
   
 <g transform="translate(580, 560)">
-  <text x="25" y="15" class="subtext" fill="#9CA3AF">©2025 solidsnk86</text>
+  <text x="25" y="15" class="subtext" fill="#9CA3AF">©2025 • solidsnk86</text>
 </g>
 </svg>

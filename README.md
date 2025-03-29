@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Fiódor Dostoievski
+> — Séneca
 
 </div>
 
@@ -61,7 +61,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de ésta API que he creado,
 puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticiones puedes usar tu token de github:
 
-|  <time>Readme actualizado el 29 de marzo de 2025, 07:46:44 p. m.</time> |
+|  <time>Readme actualizado el 29 de marzo de 2025, 07:47:02 p. m.</time> |
 | --------------------------------------------------------- |
 
 <br>
@@ -82,7 +82,7 @@ puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticio
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
 las estadísticas se actualizan en tiempo real.
 
-<img src="./gh-stats.svg" width="800" height="600" alt="SVG stats solidsnk86" />
+<img src="./gh-stats.svg" width="600" height="400" alt="SVG stats solidsnk86" />
 
 ### 👥 Quienes no me siguen de vuelta: 9
 
