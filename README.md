@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Buda
+> — Leonardo da Vinci
 
 </div>
 
