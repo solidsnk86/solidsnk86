@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Sócrates
+> — Viktor Frankl
 
 </div>
 
