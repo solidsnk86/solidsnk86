@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Marco Aurelio
+> — Albert Einstein
 
 </div>
 
