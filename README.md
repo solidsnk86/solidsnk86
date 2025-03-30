@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — William James
+> — Lao Tse
 
 </div>
 
