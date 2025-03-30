@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — John Lennon
+> — Platón
 
 </div>
 
