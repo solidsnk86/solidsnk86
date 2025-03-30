@@ -80,9 +80,9 @@
     <g transform="translate(150, 133)">
       <circle cx="0" cy="0" r="90" stroke="#374151" stroke-width="10" fill="none"/>
       <circle cx="0" cy="0" r="90" stroke="#6366F1" stroke-width="10"
-              stroke-dasharray="calc(377 * %{{annual_commits_2024}}% / 365) 377"
+              stroke-dasharray="calc(377 * %{{last_contributions_year}}% / 365) 377"
               transform="rotate(-90 0 0)"/>
-      <text y="0" text-anchor="middle" class="last-contributions">4942</text>
+      <text y="0" text-anchor="middle" class="last-contributions">%{{last_contributions_year}}%</text>
       <text y="15" text-anchor="middle" class="subtext-last-contrib">Contributions in the last year</text>
     </g>
   </g>

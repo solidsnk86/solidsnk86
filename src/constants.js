@@ -25,7 +25,7 @@ export const SVG_PLACEHOLDER = {
   REPO_STARS: '%{{repo_stars}}%',
   PUBLIC_REPOS: '%{{public_repos}}%',
   STARS_COUNT: '%{{stars_count}}%',
-  ANNUAL_COMMITS_2024: '%{{annual_commits_2024}}%',
+  ANNUAL_COMMITS_2024: '%{{last_contributions_year}}%',
   ANNUAL_COMMITS_2025: '%{{annual_commits_2025}}%',
   UPDATED_AT: '%{{updated_at}}%'
 }

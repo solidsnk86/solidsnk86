@@ -82,14 +82,22 @@ const query2 = gql`
 // `
 
 let contributions2024
-client.request(query1).then((data) => {
-  contributions2024 = data.user.contributionsCollection.totalCommitContributions
-}).catch((err) => console.error(err))
+client
+  .request(query1)
+  .then((data) => {
+    contributions2024 =
+      data.user.contributionsCollection.totalCommitContributions
+  })
+  .catch((err) => console.error(err))
 
 let contributions2025
-client.request(query2).then((data) => {
-  contributions2025 = data.user.contributionsCollection.totalCommitContributions
-}).catch((err) => console.error(err))
+client
+  .request(query2)
+  .then((data) => {
+    contributions2025 =
+      data.user.contributionsCollection.totalCommitContributions
+  })
+  .catch((err) => console.error(err))
 
 const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
   return `
@@ -162,8 +170,12 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
     const lastUpdate = repos.find((repo) => repo.name === username)
     const updatedAt = formatDate({ str: lastUpdate.updated_at })
 
-    const contributionsDiff = contributions2024 - contributions2025
-    const lastYearContributions = contributions2024 + contributions2025 - contributionsDiff - 98
+    const totalDaysLastYear = 365
+    const contributionsLastYear =
+      Math.round(contributions2024 -
+        contributions2024 * (88 / totalDaysLastYear) +
+        contributions2025 -
+        205)
 
     const githubStatsHTML = users
       .map((_, i) => {
@@ -176,13 +188,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .join('')
 
     const contentArray = []
-    contentArray.push(
-      author,
-      text,
-      updatedAt,
-      githubStatsHTML,
-      count
-    )
+    contentArray.push(author, text, updatedAt, githubStatsHTML, count)
     const contentArraySVG = []
     contentArraySVG.push(
       mostUsedLang,
@@ -203,13 +209,21 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       maxStars,
       publicRepos,
       starsCount,
-      lastYearContributions,
+      contributionsLastYear,
       contributions2025,
       updatedAt
     )
 
-    const updatedMarkdown = replaceAllPlaceholders(template, objPlaceholder, contentArray)
-    const updatedSVG = replaceAllPlaceholders(svgTemplate, svgPlaceholder, contentArraySVG)
+    const updatedMarkdown = replaceAllPlaceholders(
+      template,
+      objPlaceholder,
+      contentArray
+    )
+    const updatedSVG = replaceAllPlaceholders(
+      svgTemplate,
+      svgPlaceholder,
+      contentArraySVG
+    )
 
     await fs.writeFile('README.md', updatedMarkdown)
     await fs.writeFile('gh-stats.svg', updatedSVG)

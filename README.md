@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
 >
-> — Viktor Frankl
+> — Isaac Newton
 
 </div>
 
