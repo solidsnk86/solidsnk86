@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Confucio
+> — Blaise Pascal
 
 </div>
 
