@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
 >
-> — Salvador Dalí
+> — Aristóteles
 
 </div>
 
