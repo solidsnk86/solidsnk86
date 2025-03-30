@@ -171,9 +171,13 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
     const updatedAt = formatDate({ str: lastUpdate.updated_at })
 
     const totalDaysLastYear = 365
+    const today = new Date()
+    const beginningOfTheYear = new Date(today.getFullYear(), 0, 1)
+    const diffTime = today - beginningOfTheYear
+    const days = Math.floor(diffTime / (1000 * 60 * 60 * 24))
     const contributionsLastYear =
       Math.round(contributions2024 -
-        contributions2024 * (88 / totalDaysLastYear) +
+        contributions2024 * (days / totalDaysLastYear) +
         contributions2025 -
         205)
 
