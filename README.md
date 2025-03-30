@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
 > — Aristóteles
 
