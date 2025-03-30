@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Mahatma Gandhi
+> — Blaise Pascal
 
 </div>
 
