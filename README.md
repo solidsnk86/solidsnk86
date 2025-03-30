@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Leonardo da Vinci
+> — Sócrates
 
 </div>
 
