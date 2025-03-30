@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Jimi Hendrix
+> — Protágoras
 
 </div>
 
