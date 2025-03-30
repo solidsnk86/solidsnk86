@@ -10,7 +10,7 @@
     .featured { border: 2px solid #374151 !important; border-radius: 12px !important; }
     #solid:hover { fill: yellowgreen; cursor: default; }
     .last-contributions { fill: #fafafa; font-size: 24px; font-weight: bold }
-    .featured-text { font-size: 18px; font-weight: 900; }
+    .featured-text { font-size: 18px; font-weight: 700; }
   </style>
 
    <!-- Fondo -->
