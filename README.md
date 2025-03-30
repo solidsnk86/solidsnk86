@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Pablo Picasso
+> — Mahatma Gandhi
 
 </div>
 
