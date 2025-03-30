@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Aristóteles
+> — Oscar Wilde
 
 </div>
 
