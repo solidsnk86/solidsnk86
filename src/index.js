@@ -162,6 +162,9 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
     const lastUpdate = repos.find((repo) => repo.name === username)
     const updatedAt = formatDate({ str: lastUpdate.updated_at })
 
+    const contributionsDiff = contributions2024 - contributions2025
+    const lastYearContributions = contributions2024 + contributions2025 - contributionsDiff - 98
+
     const githubStatsHTML = users
       .map((_, i) => {
         return `${generateGithubStatsHTML({
@@ -200,7 +203,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       maxStars,
       publicRepos,
       starsCount,
-      contributions2024,
+      lastYearContributions,
       contributions2025,
       updatedAt
     )

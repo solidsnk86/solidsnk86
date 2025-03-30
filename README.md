@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Lao Tse
+> — Sócrates
 
 </div>
 
@@ -79,7 +79,7 @@ puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticio
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
 las estadísticas se actualizan en tiempo real.
 
-<img src="./gh-stats.svg" width="100%" height="600" alt="SVG stats solidsnk86" />
+<img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
 ### 👥 Quienes no me siguen de vuelta: 9
 
