@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Gabriel García Márquez
+> — Marco Aurelio
 
 </div>
 
@@ -81,7 +81,7 @@ las estadísticas se actualizan en tiempo real.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-### 👥 Quienes no me siguen de vuelta: 9
+### 👥 Quienes no me siguen de vuelta: 10
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -92,6 +92,10 @@ las estadísticas se actualizan en tiempo real.
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
+  </a>
+
+  <a href="https://github.com/Shamim-Al-Mamun" title="Shamim-Al-Mamun">
+    <img src="https://avatars.githubusercontent.com/u/86506636?v=4" width="45" height="45" alt="Avatar de Shamim-Al-Mamun" />
   </a>
 
   <a href="https://github.com/dscho" title="dscho">
