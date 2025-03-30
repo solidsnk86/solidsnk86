@@ -179,8 +179,8 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       Math.round(contributions2024 -
         contributions2024 * (days / totalDaysLastYear) +
         contributions2025 -
-        205)
-    console.log(contributionsLastYear)
+        205) + 3
+
     const githubStatsHTML = users
       .map((_, i) => {
         return `${generateGithubStatsHTML({

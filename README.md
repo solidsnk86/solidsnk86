@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Oscar Wilde
+> — Salvador Dalí
 
 </div>
 
