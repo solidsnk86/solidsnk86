@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Marco Aurelio
+> — Aristóteles
 
 </div>
 
