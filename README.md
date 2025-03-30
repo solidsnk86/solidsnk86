@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Sócrates
+> — John Lennon
 
 </div>
 
