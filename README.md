@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Protágoras
+> — Jorge Luis Borges
 
 </div>
 
