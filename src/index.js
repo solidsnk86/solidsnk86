@@ -180,7 +180,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
         contributions2024 * (days / totalDaysLastYear) +
         contributions2025 -
         205)
-
+    console.log(contributionsLastYear)
     const githubStatsHTML = users
       .map((_, i) => {
         return `${generateGithubStatsHTML({
