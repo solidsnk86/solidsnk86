@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Aristóteles
+> — Platón
 
 </div>
 
@@ -81,3 +81,46 @@ las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
+### 👥 Quienes no me siguen de vuelta: 9
+
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
+
+
+  <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
+    <img src="https://avatars.githubusercontent.com/u/1017620?v=4" width="45" height="45" alt="Avatar de BartoszJarocki" />
+  </a>
+
+  <a href="https://github.com/Kikobeats" title="Kikobeats">
+    <img src="https://avatars.githubusercontent.com/u/2096101?v=4" width="45" height="45" alt="Avatar de Kikobeats" />
+  </a>
+
+  <a href="https://github.com/dscho" title="dscho">
+    <img src="https://avatars.githubusercontent.com/u/127790?v=4" width="45" height="45" alt="Avatar de dscho" />
+  </a>
+
+  <a href="https://github.com/github" title="github">
+    <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="45" height="45" alt="Avatar de github" />
+  </a>
+
+  <a href="https://github.com/goncy" title="goncy">
+    <img src="https://avatars.githubusercontent.com/u/6494462?v=4" width="45" height="45" alt="Avatar de goncy" />
+  </a>
+
+  <a href="https://github.com/midudev" title="midudev">
+    <img src="https://avatars.githubusercontent.com/u/1561955?v=4" width="45" height="45" alt="Avatar de midudev" />
+  </a>
+
+  <a href="https://github.com/nolimits4web" title="nolimits4web">
+    <img src="https://avatars.githubusercontent.com/u/999588?v=4" width="45" height="45" alt="Avatar de nolimits4web" />
+  </a>
+
+  <a href="https://github.com/torvalds" title="torvalds">
+    <img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="45" height="45" alt="Avatar de torvalds" />
+  </a>
+
+  <a href="https://github.com/wesbos" title="wesbos">
+    <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="45" height="45" alt="Avatar de wesbos" />
+  </a>
+
+
+</div>
