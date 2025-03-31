@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
