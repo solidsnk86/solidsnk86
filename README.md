@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Marco Aurelio
+> — Jean-Jacques Rousseau
 
 </div>
 
