@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Rabindranath Tagore
+> — Mahatma Gandhi
 
 </div>
 
