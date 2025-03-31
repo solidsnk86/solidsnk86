@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
 >
-> — Rabindranath Tagore
+> — Marco Aurelio
 
 </div>
 
@@ -81,3 +81,39 @@ las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
+## No me siguen de nuevo: '8'
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1017620?v=4" alt="Avatar de BartoszJarocki" />
+  </a>
+
+  <a href="https://github.com/Kikobeats" title="Kikobeats">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
+  </a>
+
+  <a href="https://github.com/dscho" title="dscho">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/127790?v=4" alt="Avatar de dscho" />
+  </a>
+
+  <a href="https://github.com/goncy" title="goncy">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
+  </a>
+
+  <a href="https://github.com/midudev" title="midudev">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1561955?v=4" alt="Avatar de midudev" />
+  </a>
+
+  <a href="https://github.com/nolimits4web" title="nolimits4web">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
+  </a>
+
+  <a href="https://github.com/torvalds" title="torvalds">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="Avatar de torvalds" />
+  </a>
+
+  <a href="https://github.com/wesbos" title="wesbos">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/176013?v=4" alt="Avatar de wesbos" />
+  </a>
+
+</div>

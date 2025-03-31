@@ -1,7 +1,9 @@
 export const PLACEHOLDER = {
   AUTHOR_PHRASE: '%{{author}}%',
   PHRASE: '%{{phrase}}%',
-  UPDATED_AT: '%{{updated_at}}%'
+  UPDATED_AT: '%{{updated_at}}%',
+  NON_FOLLOWERS: '%{{non_followers_count}}%',
+  STATS: '%{{github_stats}}%'
 }
 
 export const SVG_PLACEHOLDER = {
@@ -25,9 +27,7 @@ export const SVG_PLACEHOLDER = {
   STARS_COUNT: '%{{stars_count}}%',
   ANNUAL_COMMITS_2024: '%{{last_contributions_year}}%',
   ANNUAL_COMMITS_2025: '%{{annual_commits_2025}}%',
-  UPDATED_AT: '%{{updated_at}}%',
-  STATS: '%{{github_stats}}%',
-  NON_FOLLOWERS: '%{{non_followers_count}}%'
+  UPDATED_AT: '%{{updated_at}}%'
 }
 
 export const formatDate = ({ date }) => {

@@ -81,3 +81,7 @@ las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
+## No me siguen de nuevo: '%{{non_followers_count}}%'
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+%{{github_stats}}%
+</div>

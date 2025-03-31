@@ -11,7 +11,7 @@
     #solid:hover { fill: yellowgreen; cursor: default; }
     .last-contributions { fill: #fafafa; font-size: 24px; font-weight: bold }
     .featured-text { font-size: 18px; font-weight: 700; }
-    .image-non-f { border-radius: 50%; }
+    .icon { scale: 0.2 }
   </style>
 
    <!-- Fondo -->
@@ -23,7 +23,7 @@
     <path d="M12 1C5.9225 1 1 5.9225 1 12C1 16.8675 4.14875 20.9787 8.52125 22.4362C9.07125 22.5325 9.2775 22.2025 9.2775 21.9137C9.2775 21.6525 9.26375 20.7862 9.26375 19.865C6.5 20.3737 5.785 19.1912 5.565 18.5725C5.44125 18.2562 4.905 17.28 4.4375 17.0187C4.0525 16.8125 3.5025 16.3037 4.42375 16.29C5.29 16.2762 5.90875 17.0875 6.115 17.4175C7.105 19.0812 8.68625 18.6137 9.31875 18.325C9.415 17.61 9.70375 17.1287 10.02 16.8537C7.5725 16.5787 5.015 15.63 5.015 11.4225C5.015 10.2262 5.44125 9.23625 6.1425 8.46625C6.0325 8.19125 5.6475 7.06375 6.2525 5.55125C6.2525 5.55125 7.17375 5.2625 9.2775 6.67875C10.1575 6.43125 11.0925 6.3075 12.0275 6.3075C12.9625 6.3075 13.8975 6.43125 14.7775 6.67875C16.8813 5.24875 17.8025 5.55125 17.8025 5.55125C18.4075 7.06375 18.0225 8.19125 17.9125 8.46625C18.6138 9.23625 19.04 10.2125 19.04 11.4225C19.04 15.6437 16.4688 16.5787 14.0213 16.8537C14.42 17.1975 14.7638 17.8575 14.7638 18.8887C14.7638 20.36 14.75 21.5425 14.75 21.9137C14.75 22.2025 14.9563 22.5462 15.5063 22.4362C19.8513 20.9787 23 16.8537 23 12C23 5.9225 18.0775 1 12 1Z"></path>
   </g>
   <text x="70" y="50" class="header">Analíticas de Github</text>
-  <text x="720" y="50" class="subtext" text-anchor="end">31 de marzo de 2025, 12:57:26 a. m.</text>
+  <text x="720" y="50" class="subtext" text-anchor="end">31 de marzo de 2025, 03:29:45 a. m.</text>
 
   <!-- Sección Top Languages -->
   <g transform="translate(40, 90)">
@@ -100,7 +100,7 @@
      />
     </g>
         <text class="value">Total</text>
-        <text x="20" y="24" class="featured-text" fill="#999">4802</text>
+        <text x="20" y="24" class="featured-text" fill="#999">4807</text>
     </g>
   </g>
 
@@ -131,53 +131,50 @@
     
     <g transform="translate(10, 235)">
       <text class="title">Commits 2025</text>
-      <text x="0" y="25" class="value">2528</text>
+      <text x="0" y="25" class="value">2533</text>
     </g>
   </g>
 
+ 
+  <!-- Contact -->
+
   <g transform="translate(40, 490)">
-  <text class="title">Quienes no me siguen de vuelta: 8</text>
-  <rect width="680" height="90" y="10" rx="12" ry="12" fill="#222" stroke="#333" stroke-width="1"/>
+
+  <text class="title">Contacto</text>
+
+  <rect width="680" height="60" y="10" rx="12" ry="12" fill="#222" stroke="#333" stroke-width="1"/>
+
  <g transform="translate(10, 20)">
-  
-  <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
-    <image class="image-non-f" x="147" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/1017620?v=4" />
-  </a>
 
-  <a href="https://github.com/Kikobeats" title="Kikobeats">
-    <image class="image-non-f" x="294" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/2096101?v=4" />
-  </a>
+  <rect width="310" height="40" rx="12" ry="12" fill="#111" stroke="#333" stroke-width="1"/>
 
-  <a href="https://github.com/dscho" title="dscho">
-    <image class="image-non-f" x="0" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/127790?v=4" />
-  </a>
+  <g transform="translate(5, 24)" class="gmail">
+  <path fill="#4285f4" d="M58 108h14V74L52 59v43c0 3.32 2.69 6 6 6"/> 
+  <path fill="#34a853" d="M120 108h14c3.32 0 6-2.69 6-6V59l-20 15"/>
+  <path fill="#fbbc04" d="M120 48v26l20-15v-8c0-7.42-8.47-11.65-14.4-7.2"/>
+  <path fill="#ea4335" d="M72 74V48l24 18 24-18v26L96 92"/>
+  <path fill="#c5221f" d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"/>
+  </g>
 
-  <a href="https://github.com/goncy" title="goncy">
-    <image class="image-non-f" x="343" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/6494462?v=4" />
-  </a>
+  <text x="36" y="24" class="title">calcagni.gabriel86@gmail.com</text>
+  </g>
 
-  <a href="https://github.com/midudev" title="midudev">
-    <image class="image-non-f" x="245" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/1561955?v=4" />
-  </a>
+  <g transform="translate(360, 20)">
+   <rect width="310" height="40" rx="12" ry="12" fill="#111" stroke="#333" stroke-width="1"/>
 
-  <a href="https://github.com/nolimits4web" title="nolimits4web">
-    <image class="image-non-f" x="98" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/999588?v=4" />
-  </a>
+  <g transform="translate(45, 50)" class="linked-in">
+  <path d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z" fill="#007EBB"/><path d="M62,62 L51.315625,62 L51.315625,43.8021149 C51.315625,38.8127542 49.4197917,36.0245323 45.4707031,36.0245323 C41.1746094,36.0245323 38.9300781,38.9261103 38.9300781,43.8021149 L38.9300781,62 L28.6333333,62 L28.6333333,27.3333333 L38.9300781,27.3333333 L38.9300781,32.0029283 C38.9300781,32.0029283 42.0260417,26.2742151 49.3825521,26.2742151 C56.7356771,26.2742151 62,30.7644705 62,40.051212 L62,62 Z M16.349349,22.7940133 C12.8420573,22.7940133 10,19.9296567 10,16.3970067 C10,12.8643566 12.8420573,10 16.349349,10 C19.8566406,10 22.6970052,12.8643566 22.6970052,16.3970067 C22.6970052,19.9296567 19.8566406,22.7940133 16.349349,22.7940133 Z M11.0325521,62 L21.769401,62 L21.769401,27.3333333 L11.0325521,27.3333333 L11.0325521,62 Z" 
+  fill="#FFF"/>
+  </g>
 
-  <a href="https://github.com/torvalds" title="torvalds">
-    <image class="image-non-f" x="196" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/1024025?v=4" />
-  </a>
+  <text x="34" y="24" class="title">www.linkedin.com/in/gabriel-calcagni/</text>
+  </g>
 
-  <a href="https://github.com/wesbos" title="wesbos">
-    <image class="image-non-f" x="49" y="0" width="45" height="45" href="https://avatars.githubusercontent.com/u/176013?v=4" />
-  </a>
-
- </g>
   </g>
   
   <!-- Pie de página -->
   <g transform="translate(330, 560)">
-  <g transform="translate(-20, 2)">
+  <g transform="translate(-20, 9)">
     <g clip-path="url(#a)">
     <path 
     fill-rule="evenodd" 
@@ -191,6 +188,6 @@
     </clipPath>
     </defs>
   </g>
-    <text x="0" y="15" class="subtext">2025 • solidsnk86</text>
+    <text x="0" y="22" class="subtext">2025 • solidsnk86</text>
   </g>
 </svg>
