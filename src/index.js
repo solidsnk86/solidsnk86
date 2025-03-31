@@ -71,16 +71,6 @@ const query2 = gql`
   }
 `
 
-// const queryLimit = gql`
-// {
-//   rateLimit {
-//     limit
-//     remaining
-//     resetAt
-//   }
-// }
-// `
-
 let contributions2024
 client
   .request(query1)
@@ -179,7 +169,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       Math.round(contributions2024 -
         contributions2024 * (days / totalDaysLastYear) +
         contributions2025 -
-        205)
+        203)
 
     const githubStatsHTML = users
       .map((_, i) => {
