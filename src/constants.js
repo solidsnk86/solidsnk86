@@ -30,8 +30,8 @@ export const SVG_PLACEHOLDER = {
   UPDATED_AT: '%{{updated_at}}%'
 }
 
-export const formatDate = ({ str }) => {
-  const date = new Date(str).toLocaleDateString('es-AR', {
+export const formatDate = ({ date }) => {
+  const dateFormat = new Date(date).toLocaleDateString('es-AR', {
     year: 'numeric',
     month: 'long',
     day: '2-digit',
@@ -40,5 +40,5 @@ export const formatDate = ({ str }) => {
     second: '2-digit',
     timeZone: 'America/Argentina/Buenos_Aires'
   })
-  return date
+  return dateFormat
 }

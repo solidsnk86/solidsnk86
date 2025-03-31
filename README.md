@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Friedrich Nietzsche
+> — Pedro Calderón de la Barca
 
 </div>
 

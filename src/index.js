@@ -168,7 +168,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .map((repo) => repo.stargazers_count)
       .reduce((acc, value) => acc + value, 0)
     const lastUpdate = repos.find((repo) => repo.name === username)
-    const updatedAt = formatDate({ str: lastUpdate.updated_at })
+    const updatedAt = formatDate({ date: lastUpdate.updated_at })
 
     const totalDaysLastYear = 365
     const today = new Date()
@@ -179,7 +179,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       Math.round(contributions2024 -
         contributions2024 * (days / totalDaysLastYear) +
         contributions2025 -
-        205) + 3
+        205)
 
     const githubStatsHTML = users
       .map((_, i) => {
