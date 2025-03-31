@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
 >
-> — Platón
+> — Fiódor Dostoievski
 
 </div>
 
@@ -81,7 +81,7 @@ las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-### 👥 Quienes no me siguen de vuelta: 9
+### 👥 Quienes no me siguen de vuelta: 8
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(45px, 1fr))">
 
@@ -96,10 +96,6 @@ las estadísticas se actualizan cada una hora.
 
   <a href="https://github.com/dscho" title="dscho">
     <img src="https://avatars.githubusercontent.com/u/127790?v=4" width="45" height="45" alt="Avatar de dscho" />
-  </a>
-
-  <a href="https://github.com/github" title="github">
-    <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="45" height="45" alt="Avatar de github" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
