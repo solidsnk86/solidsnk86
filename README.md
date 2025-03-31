@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Marcel Proust
+> — Albert Einstein
 
 </div>
 
@@ -77,7 +77,7 @@ puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticio
 ## 📊 Estadísticas de GitHub
 
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
-las estadísticas se actualizan en tiempo real.
+las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
