@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Aristóteles
+> — Leonardo da Vinci
 
 </div>
 
