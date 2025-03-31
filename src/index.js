@@ -99,10 +99,10 @@ client
   })
   .catch((err) => console.error(err))
 
-const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
+const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar, xIndex }) => {
   return `
   <a href="https://github.com/${nonFollowersUser}" title="${nonFollowersUser}">
-    <img src="${nonFollowersAvatar}" width="45" height="45" alt="Avatar de ${nonFollowersUser}" />
+    <image class="image-non-f" x="${xIndex}" y="0" width="45" height="45" href="${nonFollowersAvatar}" />
   </a>
 `
 }
@@ -185,14 +185,15 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .map((_, i) => {
         return `${generateGithubStatsHTML({
           nonFollowersUser: users[i],
-          nonFollowersAvatar: avatars[i]
+          nonFollowersAvatar: avatars[i],
+          xIndex: i * 49
         })}`
       })
       .sort()
       .join('')
 
     const contentArray = []
-    contentArray.push(author, text, updatedAt, githubStatsHTML, count)
+    contentArray.push(author, text, updatedAt)
     const contentArraySVG = []
     contentArraySVG.push(
       mostUsedLang,
@@ -215,7 +216,9 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       starsCount,
       contributionsLastYear,
       contributions2025,
-      updatedAt
+      updatedAt,
+      githubStatsHTML,
+      count
     )
 
     const updatedMarkdown = replaceAllPlaceholders(

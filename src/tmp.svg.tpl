@@ -11,6 +11,7 @@
     #solid:hover { fill: yellowgreen; cursor: default; }
     .last-contributions { fill: #fafafa; font-size: 24px; font-weight: bold }
     .featured-text { font-size: 18px; font-weight: 700; }
+    .image-non-f { border-radius: 50%; }
   </style>
 
    <!-- Fondo -->
@@ -25,7 +26,7 @@
   <text x="720" y="50" class="subtext" text-anchor="end">%{{updated_at}}%</text>
 
   <!-- Sección Top Languages -->
-  <g transform="translate(40, 100)">
+  <g transform="translate(40, 90)">
     <text class="title">Top Languages</text>
     <rect width="320" height="270" y="10" rx="12" ry="12" fill="#222" stroke="#333" stroke-width="1"/>
 
@@ -73,7 +74,7 @@
   </g>
 
   <!-- Sección Featured Repository -->
-   <g transform="translate(40, 400)">
+   <g transform="translate(40, 390)">
    <rect width="320" height="70" y="10" rx="12" ry="12" fill="#222" stroke="#333" stroke-width="1"/>
     <text class="title">Repositorio Destacado</text>
     <g transform="translate(10, 40)">
@@ -88,7 +89,7 @@
     </g>
   </g>
 
-  <g transform="translate(400, 400)">
+  <g transform="translate(400, 390)">
    <rect width="320" height="70" y="10" rx="12" ry="12" fill="#222" stroke="#333" stroke-width="1"/>
     <text class="title">Contribuciones en el último año</text>
     <g transform="translate(10, 40)">
@@ -104,7 +105,7 @@
   </g>
 
   <!-- Sección Account Stats -->
-  <g transform="translate(400, 100)">
+  <g transform="translate(400, 90)">
     <rect width="320" height="270" y="10" rx="12" ry="12" fill="#222" stroke="#333" stroke-width="1"/>
     <text class="title">Estadísticas de la cuenta</text>
     
@@ -132,6 +133,14 @@
       <text class="title">Commits 2025</text>
       <text x="0" y="25" class="value">%{{annual_commits_2025}}%</text>
     </g>
+  </g>
+
+  <g transform="translate(40, 490)">
+  <text class="title">Quienes no me siguen de vuelta: %{{non_followers_count}}%</text>
+  <rect width="680" height="90" y="10" rx="12" ry="12" fill="#222" stroke="#333" stroke-width="1"/>
+ <g transform="translate(10, 20)">
+  %{{github_stats}}%
+ </g>
   </g>
   
   <!-- Pie de página -->
