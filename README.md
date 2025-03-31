@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
 >
-> — Isaac Newton
+> — Marco Aurelio
 
 </div>
 
