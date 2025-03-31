@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Aristóteles
+> — William James
 
 </div>
 
