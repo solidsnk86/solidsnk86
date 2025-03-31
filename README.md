@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Mahatma Gandhi
+> — Jean-Paul Sartre
 
 </div>
 
