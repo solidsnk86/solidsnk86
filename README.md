@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Salvador Dalí
+> — Rabindranath Tagore
 
 </div>
 
