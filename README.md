@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
+> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
 >
-> — Marco Aurelio
+> — Isabel Allende
 
 </div>
 
