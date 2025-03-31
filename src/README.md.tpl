@@ -77,7 +77,7 @@ puedes chequearla aquí con tu nombre de usuario y si quieres hacer más peticio
 ## 📊 Estadísticas de GitHub
 
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
-las estadísticas se actualizan en tiempo real.
+las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
