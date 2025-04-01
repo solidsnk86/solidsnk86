@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — William James
+> — Octavio Paz
 
 </div>
 
