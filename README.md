@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Pablo Picasso
+> — Buda
 
 </div>
 
