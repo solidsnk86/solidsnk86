@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — William James
+> — John Lennon
 
 </div>
 
