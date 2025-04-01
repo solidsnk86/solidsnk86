@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — John Lennon
+> — Dalai Lama
 
 </div>
 
