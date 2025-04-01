@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Leonardo da Vinci
+> — William James
 
 </div>
 
