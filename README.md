@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Blaise Pascal
+> — Marco Aurelio
 
 </div>
 
