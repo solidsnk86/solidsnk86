@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
 >
 > — Marco Aurelio
 
