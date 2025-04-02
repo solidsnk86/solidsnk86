@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Octavio Paz
+> — Salvador Dalí
 
 </div>
 
