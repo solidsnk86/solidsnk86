@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Sócrates
+> — William James
 
 </div>
 
