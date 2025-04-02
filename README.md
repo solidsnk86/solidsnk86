@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La pluma es la lengua del alma."*
 >
-> — Nelson Mandela
+> — Miguel de Cervantes
 
 </div>
 
