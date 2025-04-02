@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Gabriel García Márquez
+> — Friedrich Nietzsche
 
 </div>
 
