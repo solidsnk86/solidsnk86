@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Mahatma Gandhi
+> — Nelson Mandela
 
 </div>
 
