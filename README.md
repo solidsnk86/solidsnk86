@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Marco Aurelio
+> — Gabriel García Márquez
 
 </div>
 
