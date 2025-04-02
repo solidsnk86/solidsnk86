@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Marco Aurelio
+> — Jean-Paul Sartre
 
 </div>
 
