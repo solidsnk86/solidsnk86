@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Friedrich Nietzsche
+> — Aristóteles
 
 </div>
 
