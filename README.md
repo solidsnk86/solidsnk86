@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Jimi Hendrix
+> — Mahatma Gandhi
 
 </div>
 
