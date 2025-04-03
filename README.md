@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Jean-Jacques Rousseau
+> — William James
 
 </div>
 
