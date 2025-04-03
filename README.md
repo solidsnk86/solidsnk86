@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Nelson Mandela
+> — Martin Luther King Jr.
 
 </div>
 
