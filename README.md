@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Salvador Dalí
+> — Jean-Jacques Rousseau
 
 </div>
 
