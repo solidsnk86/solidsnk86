@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — William James
+> — Protágoras
 
 </div>
 
