@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Protágoras
+> — Nelson Mandela
 
 </div>
 
