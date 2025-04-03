@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Marco Aurelio
+> — Salvador Dalí
 
 </div>
 
