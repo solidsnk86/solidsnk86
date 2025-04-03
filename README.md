@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Martin Luther King Jr.
+> — Jean-Paul Sartre
 
 </div>
 
