@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
-> — Lao Tse
+> — Henry Ford
 
 </div>
 
@@ -80,7 +80,7 @@ las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: '10'
+## No me siguen de nuevo: '9'
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -97,10 +97,6 @@ las estadísticas se actualizan cada una hora.
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/jdevfullstack" title="jdevfullstack">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/47092464?v=4" alt="Avatar de jdevfullstack" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
