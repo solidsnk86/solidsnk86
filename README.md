@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Leonardo da Vinci
+> — Confucio
 
 </div>
 
