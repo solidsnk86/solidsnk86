@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Gabriel García Márquez
+> — Buda
 
 </div>
 
