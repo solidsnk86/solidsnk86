@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Henry Ford
+> — Mahatma Gandhi
 
 </div>
 
