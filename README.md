@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Søren Kierkegaard
+> — Gabriel García Márquez
 
 </div>
 
