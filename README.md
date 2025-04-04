@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Buda
+> — Lao Tse
 
 </div>
 
