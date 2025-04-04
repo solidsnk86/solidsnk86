@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Gabriel García Márquez
+> — Leonardo da Vinci
 
 </div>
 
