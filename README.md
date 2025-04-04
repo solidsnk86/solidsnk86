@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"Solo sé que no sé nada."*
 >
-> — Oscar Wilde
+> — Sócrates
 
 </div>
 
