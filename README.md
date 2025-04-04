@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Mahatma Gandhi
+> — Jean-Paul Sartre
 
 </div>
 
