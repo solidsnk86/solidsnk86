@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — John Lennon
+> — Octavio Paz
 
 </div>
 
