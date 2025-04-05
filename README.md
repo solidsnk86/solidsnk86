@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Albert Einstein
+> — John Lennon
 
 </div>
 
