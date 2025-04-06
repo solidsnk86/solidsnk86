@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Salvador Dalí
+> — Edgar Allan Poe
 
 </div>
 
