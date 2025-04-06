@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — William James
+> — Viktor Frankl
 
 </div>
 
@@ -80,7 +80,7 @@ las estadísticas se actualizan cada una hora.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: '9'
+## No me siguen de nuevo: '8'
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -101,10 +101,6 @@ las estadísticas se actualizan cada una hora.
 
   <a href="https://github.com/midudev" title="midudev">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1561955?v=4" alt="Avatar de midudev" />
-  </a>
-
-  <a href="https://github.com/milosmatovicup" title="milosmatovicup">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/184030535?v=4" alt="Avatar de milosmatovicup" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
