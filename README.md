@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Gabriel García Márquez
+> — Nelson Mandela
 
 </div>
 
