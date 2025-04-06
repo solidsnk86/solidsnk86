@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Edgar Allan Poe
+> — Francis Bacon
 
 </div>
 
