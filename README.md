@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Rabindranath Tagore
+> — Séneca
 
 </div>
 
@@ -54,14 +54,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 </div>
 
-<br>
-
-## 🤖 Automatización
-
-🚀 Este repositorio emplea `Node.js` y `GitHub Actions` para actualizar automáticamente los datos de GitHub cada hora a través de la API que he creado.
-
-<br>
-
 ## 📫 Conecta conmigo
 
 <div align="center">
@@ -76,7 +68,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 ## 📊 Estadísticas de GitHub
 
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
-las estadísticas se actualizan cada una hora.
+las estadísticas se actualizan cada dos horas.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
