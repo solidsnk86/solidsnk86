@@ -67,7 +67,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 📊 Estadísticas de GitHub
 
-📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados, 
+📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados de `Github Actions`, 
 las estadísticas se actualizan cada dos horas.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
