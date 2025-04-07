@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
 >
-> — Miguel de Cervantes
+> — Fiódor Dostoievski
 
 </div>
 
