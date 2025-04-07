@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Francis Bacon
+> — Leonardo da Vinci
 
 </div>
 
