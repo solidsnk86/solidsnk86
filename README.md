@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
 >
-> — Friedrich Nietzsche
+> — Pablo Picasso
 
 </div>
 
