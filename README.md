@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Leonardo da Vinci
+> — Aristóteles
 
 </div>
 
