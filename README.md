@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Miguel de Cervantes
+> — Friedrich Nietzsche
 
 </div>
 
@@ -67,12 +67,12 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 📊 Estadísticas de GitHub
 
-📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados de `Github Actions`, 
-las estadísticas se actualizan cada dos horas.
+📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados de `Github Actions`
+; las estadísticas se actualizan cada dos horas.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: '8'
+## No me siguen de nuevo: 8
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
