@@ -67,12 +67,12 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 ## 📊 Estadísticas de GitHub
 
-📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados de `Github Actions`, 
-las estadísticas se actualizan cada dos horas.
+📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados de `Github Actions`
+; las estadísticas se actualizan cada dos horas.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: '%{{non_followers_count}}%'
+## No me siguen de nuevo: %{{non_followers_count}}%
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 %{{github_stats}}%
 </div>
