@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Voltaire
+> — Francis Bacon
 
 </div>
 
