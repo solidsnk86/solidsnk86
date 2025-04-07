@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La pluma es la lengua del alma."*
 >
-> — Friedrich Nietzsche
+> — Miguel de Cervantes
 
 </div>
 
