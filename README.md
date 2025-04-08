@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Marco Aurelio
+> — Nelson Mandela
 
 </div>
 
