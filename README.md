@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Octavio Paz
+> — Leonardo da Vinci
 
 </div>
 
