@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Dalai Lama
+> — Protágoras
 
 </div>
 
