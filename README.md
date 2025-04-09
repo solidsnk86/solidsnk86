@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Protágoras
+> — Buda
 
 </div>
 
