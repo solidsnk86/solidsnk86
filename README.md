@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
 >
-> — Aristóteles
+> — Marco Aurelio
 
 </div>
 
