@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Marcel Proust
+> — Séneca
 
 </div>
 
