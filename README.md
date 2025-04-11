@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
 >
-> — Fiódor Dostoievski
+> — Marco Aurelio
 
 </div>
 
