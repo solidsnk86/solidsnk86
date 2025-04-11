@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Marco Aurelio
+> — Sócrates
 
 </div>
 
