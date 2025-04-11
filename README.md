@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"Solo sé que no sé nada."*
 >
-> — Isaac Newton
+> — Sócrates
 
 </div>
 
