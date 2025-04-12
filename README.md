@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Aristóteles
+> — Oscar Wilde
 
 </div>
 
