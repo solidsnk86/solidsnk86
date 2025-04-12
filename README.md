@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Mahatma Gandhi
+> — Aristóteles
 
 </div>
 
