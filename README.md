@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=1E68DB&badge_gradient_1=1E68DB&counter_color=010409" alt="Contador de Visitas SolidSnk86" />
+<img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=218034&badge_gradient_1=218034&counter_color=010409" alt="Contador de Visitas SolidSnk86" />
 </div>
 
 ### ¿Te gusta el badge contador de visitas?
@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Pablo Picasso
+> — Jean-Paul Sartre
 
 </div>
 
