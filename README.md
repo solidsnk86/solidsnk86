@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — Isabel Allende
+> — Octavio Paz
 
 </div>
 
