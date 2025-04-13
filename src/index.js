@@ -205,7 +205,8 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       starsCount,
       contributionsLastYear,
       contributions2025,
-      updatedAt
+      updatedAt,
+      username
     )
 
     const updatedMarkdown = replaceAllPlaceholders(
