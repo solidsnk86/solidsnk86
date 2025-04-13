@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
 >
-> — Leonardo da Vinci
+> — Aristóteles
 
 </div>
 
