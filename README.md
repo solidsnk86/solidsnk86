@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Jean-Paul Sartre
+> — Buda
 
 </div>
 
