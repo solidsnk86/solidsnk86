@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Buda
+> — Jean-Jacques Rousseau
 
 </div>
 
