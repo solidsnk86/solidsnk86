@@ -26,21 +26,6 @@
   <text x="70" y="50" class="header">Analíticas de Github</text>
   <text x="720" y="50" class="subtext" text-anchor="end">%{{updated_at}}%</text>
 
-  <g transform="translate(310, 28)">
-      <defs>
-        <clipPath id="circleClip">
-          <circle cx="16.5" cy="16.5" r="16.5" />
-        </clipPath>
-      </defs>
-
-    <image
-      href="https://github.com/%{{username}}%.png"
-      width="33"
-      height="33"
-      clip-path="url(#circleClip)"
-    />
-  </g>
-
   <!-- Sección Top Languages -->
   <g transform="translate(40, 90)">
     <text class="title">Top Languages</text>

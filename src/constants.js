@@ -27,8 +27,7 @@ export const SVG_PLACEHOLDER = {
   STARS_COUNT: '%{{stars_count}}%',
   ANNUAL_COMMITS_2024: '%{{last_contributions_year}}%',
   ANNUAL_COMMITS_2025: '%{{annual_commits_2025}}%',
-  UPDATED_AT: '%{{updated_at}}%',
-  USERNAME: '%{{username}}%'
+  UPDATED_AT: '%{{updated_at}}%'
 }
 
 export const formatDate = ({ date }) => {
