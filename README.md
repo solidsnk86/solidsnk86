@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Leonardo da Vinci
+> — Pedro Calderón de la Barca
 
 </div>
 
