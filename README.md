@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
 >
-> — Jean-Jacques Rousseau
+> — Charles Darwin
 
 </div>
 
