@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Mahatma Gandhi
+> — Platón
 
 </div>
 
