@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Platón
+> — Jean-Paul Sartre
 
 </div>
 
