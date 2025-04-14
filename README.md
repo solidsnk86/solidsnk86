@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Pedro Calderón de la Barca
+> — Mahatma Gandhi
 
 </div>
 
