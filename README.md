@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
 >
-> — Aristóteles
+> — Marco Aurelio
 
 </div>
 
