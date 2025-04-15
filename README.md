@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Mahatma Gandhi
+> — Albert Einstein
 
 </div>
 
