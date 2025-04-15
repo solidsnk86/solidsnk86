@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — John Lennon
+> — Jean-Jacques Rousseau
 
 </div>
 
