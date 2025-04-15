@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Jorge Luis Borges
+> — Francis Bacon
 
 </div>
 
