@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Marco Aurelio
+> — Mahatma Gandhi
 
 </div>
 
