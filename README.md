@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Francis Bacon
+> — Aristóteles
 
 </div>
 
