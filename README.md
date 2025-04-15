@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — Aristóteles
+> — Octavio Paz
 
 </div>
 
