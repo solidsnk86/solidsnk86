@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Jimi Hendrix
+> — Edgar Allan Poe
 
 </div>
 
