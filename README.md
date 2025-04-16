@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La pluma es la lengua del alma."*
 >
-> — Marco Aurelio
+> — Miguel de Cervantes
 
 </div>
 
