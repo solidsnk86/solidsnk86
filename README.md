@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Platón
+> — Séneca
 
 </div>
 
