@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — William James
+> — Blaise Pascal
 
 </div>
 
