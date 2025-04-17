@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Nelson Mandela
+> — Voltaire
 
 </div>
 
