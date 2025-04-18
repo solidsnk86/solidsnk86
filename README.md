@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
 >
-> — Marco Aurelio
+> — Marcel Proust
 
 </div>
 
