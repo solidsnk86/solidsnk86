@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Marco Aurelio
+> — Nelson Mandela
 
 </div>
 
