@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — John Lennon
+> — Jean-Paul Sartre
 
 </div>
 
