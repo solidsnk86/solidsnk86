@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Nelson Mandela
+> — Jean-Paul Sartre
 
 </div>
 
