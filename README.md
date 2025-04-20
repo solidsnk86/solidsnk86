@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Confucio
+> — Sócrates
 
 </div>
 
