@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Friedrich Nietzsche
+> — Mahatma Gandhi
 
 </div>
 
