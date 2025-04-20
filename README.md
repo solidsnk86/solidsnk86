@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Platón
+> — William James
 
 </div>
 
