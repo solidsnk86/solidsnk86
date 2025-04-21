@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"Solo sé que no sé nada."*
 >
-> — Jean-Jacques Rousseau
+> — Sócrates
 
 </div>
 
