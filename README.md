@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"Solo sé que no sé nada."*
 >
-> — Mahatma Gandhi
+> — Sócrates
 
 </div>
 
