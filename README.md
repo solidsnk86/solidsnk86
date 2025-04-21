@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Fiódor Dostoievski
+> — Pedro Calderón de la Barca
 
 </div>
 
