@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Friedrich Nietzsche
+> — William James
 
 </div>
 
