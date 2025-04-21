@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — William James
+> — Friedrich Nietzsche
 
 </div>
 
