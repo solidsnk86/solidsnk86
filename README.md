@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Aristóteles
+> — John Lennon
 
 </div>
 
