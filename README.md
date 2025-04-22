@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Albert Einstein
+> — Aristóteles
 
 </div>
 
