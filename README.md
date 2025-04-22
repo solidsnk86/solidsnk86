@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Jean-Jacques Rousseau
+> — Confucio
 
 </div>
 
