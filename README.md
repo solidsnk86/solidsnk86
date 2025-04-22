@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Pedro Calderón de la Barca
+> — Platón
 
 </div>
 
