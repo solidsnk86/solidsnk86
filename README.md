@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Aristóteles
+> — Jean-Jacques Rousseau
 
 </div>
 
