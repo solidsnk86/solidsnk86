@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Marco Aurelio
+> — Leonardo da Vinci
 
 </div>
 
