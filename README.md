@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — John Lennon
+> — Mahatma Gandhi
 
 </div>
 
