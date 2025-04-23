@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Albert Einstein
+> — Friedrich Nietzsche
 
 </div>
 
