@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Platón
+> — Confucio
 
 </div>
 
