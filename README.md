@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Nelson Mandela
+> — William James
 
 </div>
 
