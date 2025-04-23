@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Nelson Mandela
+> — Platón
 
 </div>
 
