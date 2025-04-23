@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Edgar Allan Poe
+> — Albert Einstein
 
 </div>
 
