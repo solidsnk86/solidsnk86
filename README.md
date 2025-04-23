@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Marco Aurelio
+> — Nelson Mandela
 
 </div>
 
@@ -72,7 +72,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 9
+## No me siguen de nuevo: 8
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -85,10 +85,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/dscho" title="dscho">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/127790?v=4" alt="Avatar de dscho" />
-  </a>
-
-  <a href="https://github.com/gitover22" title="gitover22">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/83172922?v=4" alt="Avatar de gitover22" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
