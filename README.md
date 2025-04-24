@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Viktor Frankl
+> — Séneca
 
 </div>
 
