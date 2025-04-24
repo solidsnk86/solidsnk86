@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Marco Aurelio
+> — Jorge Luis Borges
 
 </div>
 
