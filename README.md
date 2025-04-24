@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Salvador Dalí
+> — John Lennon
 
 </div>
 
