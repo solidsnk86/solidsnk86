@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Séneca
+> — Marco Aurelio
 
 </div>
 
