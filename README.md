@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Jorge Luis Borges
+> — Viktor Frankl
 
 </div>
 
