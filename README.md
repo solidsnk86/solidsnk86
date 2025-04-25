@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
 >
-> — William James
+> — Marco Aurelio
 
 </div>
 
