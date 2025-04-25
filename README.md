@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Voltaire
+> — Confucio
 
 </div>
 
