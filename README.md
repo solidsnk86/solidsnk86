@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Oscar Wilde
+> — Voltaire
 
 </div>
 
