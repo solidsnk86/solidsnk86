@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Marco Aurelio
+> — Rabindranath Tagore
 
 </div>
 
