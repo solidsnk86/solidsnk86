@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Lao Tse
+> — Albert Einstein
 
 </div>
 
