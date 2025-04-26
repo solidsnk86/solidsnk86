@@ -35,8 +35,10 @@
 
 ## 📡 App para detectar tu antena WiFi más próxima en varias provincias de Argentina y otros lugares de Europa.
 
-Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella e información de la misma, para poder configurar tu 
-CPE inalámbrico con la aplicación `NeoWiFi App %{{neo_wifi_version}}%-beta` para escritorio que dispongo en la web:
+Esta app te ayuda a detectar cuales son los tres puntos de conexión WiFi gratis más cercanos que hay a tu disposición.
+También en la misma web está disponible una aplicación de PC escritorio que automatiza las configuraciones inalámbricas
+de los modelos CPE de Tp-Link con sistema Pharos, ideal para la red WiFi gratuita de la provincia de San Luis.
+`NeoWiFi App %{{neo_wifi_version}}%-beta`:
 visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
 
 <br>
