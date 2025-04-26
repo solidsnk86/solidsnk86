@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Sócrates
+> — Jean-Jacques Rousseau
 
 </div>
 
