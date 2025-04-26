@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Aristóteles
+> — Sócrates
 
 </div>
 
