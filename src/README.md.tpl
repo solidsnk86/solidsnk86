@@ -33,10 +33,10 @@
 
 <br>
 
-## 📡 App para detectar tu antena WiFi más próxima exlusivo (Gobierno de la Provincia de San Luis, espacios WiFi de Córdoba y Mendoza)
+## 📡 App para detectar tu antena WiFi más próxima en varias provincias de Argentina y otros lugares de Europa.
 
 Esta app te ayuda a detectar que antena y a qué distancia te encuentras de ella e información de la misma, para poder configurar tu 
-CPE inalámbrico con la aplicación `NeoWiFi App 1.1.3 (beta)` para escritorio que dispongo en la web:
+CPE inalámbrico con la aplicación `NeoWiFi App %{{neo_wifi_version}}%-beta` para escritorio que dispongo en la web:
 visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
 
 <br>

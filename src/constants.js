@@ -3,7 +3,8 @@ export const PLACEHOLDER = {
   PHRASE: '%{{phrase}}%',
   UPDATED_AT: '%{{updated_at}}%',
   NON_FOLLOWERS: '%{{non_followers_count}}%',
-  STATS: '%{{github_stats}}%'
+  STATS: '%{{github_stats}}%',
+  NEO_WIFI_VERSION: '%{{neo_wifi_version}}%'
 }
 
 export const SVG_PLACEHOLDER = {

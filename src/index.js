@@ -159,6 +159,11 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .reduce((acc, value) => acc + value, 0)
     const lastUpdate = repos.find((repo) => repo.name === username)
     const updatedAt = formatDate({ date: lastUpdate.updated_at })
+    const neoWifiRepo = repos.find((repo) => repo.name === 'neo-wifi')
+    const urlNeoWifiTags = neoWifiRepo.tags_url
+    const [dataTags] = await Promise.all([fetch(urlNeoWifiTags)])
+    const tags = await dataTags.json()
+    const version = tags[0].name
 
     const totalDaysLastYear = 365
     const today = new Date()
@@ -182,7 +187,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .join('')
 
     const contentArray = []
-    contentArray.push(author, text, updatedAt, count, githubStatsHTML)
+    contentArray.push(author, text, updatedAt, count, githubStatsHTML, version)
     const contentArraySVG = []
     contentArraySVG.push(
       mostUsedLang,
