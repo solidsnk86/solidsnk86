@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — Mahatma Gandhi
+> — Octavio Paz
 
 </div>
 
