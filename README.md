@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Friedrich Nietzsche
+> — Confucio
 
 </div>
 
