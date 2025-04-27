@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Aristóteles
+> — Friedrich Nietzsche
 
 </div>
 
