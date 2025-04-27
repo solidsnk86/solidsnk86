@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
 >
-> — Jimi Hendrix
+> — Marcel Proust
 
 </div>
 
@@ -74,7 +74,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 7
+## No me siguen de nuevo: 8
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -83,6 +83,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
+  </a>
+
+  <a href="https://github.com/arash-hacker" title="arash-hacker">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6451804?v=4" alt="Avatar de arash-hacker" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
