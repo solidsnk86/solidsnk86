@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Marcel Proust
+> — Albert Einstein
 
 </div>
 
