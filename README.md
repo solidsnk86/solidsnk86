@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Albert Einstein
+> — Leonardo da Vinci
 
 </div>
 
