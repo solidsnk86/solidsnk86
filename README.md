@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
 >
-> — Oscar Wilde
+> — Friedrich Nietzsche
 
 </div>
 
