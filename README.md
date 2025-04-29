@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Leonardo da Vinci
+> — Voltaire
 
 </div>
 
@@ -74,7 +74,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 7
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -83,10 +83,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
-  </a>
-
-  <a href="https://github.com/arash-hacker" title="arash-hacker">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6451804?v=4" alt="Avatar de arash-hacker" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
