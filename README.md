@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Marco Aurelio
+> — Jean-Paul Sartre
 
 </div>
 
