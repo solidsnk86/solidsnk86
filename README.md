@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Martin Luther King Jr.
+> — Friedrich Nietzsche
 
 </div>
 
