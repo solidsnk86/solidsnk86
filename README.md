@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Henry Ford
+> — Jorge Luis Borges
 
 </div>
 
