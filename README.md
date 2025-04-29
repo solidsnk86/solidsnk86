@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Jean-Paul Sartre
+> — Leonardo da Vinci
 
 </div>
 
