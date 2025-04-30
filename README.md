@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Jimi Hendrix
+> — Albert Einstein
 
 </div>
 
@@ -74,7 +74,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 7
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -91,10 +91,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/midudev" title="midudev">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1561955?v=4" alt="Avatar de midudev" />
-  </a>
-
-  <a href="https://github.com/moulahguine" title="moulahguine">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/115396627?v=4" alt="Avatar de moulahguine" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
