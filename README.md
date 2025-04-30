@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Albert Einstein
+> — Oscar Wilde
 
 </div>
 
