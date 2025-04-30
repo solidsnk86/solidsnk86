@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Nelson Mandela
+> — Albert Einstein
 
 </div>
 
