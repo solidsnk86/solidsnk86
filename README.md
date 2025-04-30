@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Oscar Wilde
+> — Jimi Hendrix
 
 </div>
 
