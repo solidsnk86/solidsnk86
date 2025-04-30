@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Jean-Paul Sartre
+> — Jimi Hendrix
 
 </div>
 
