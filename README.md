@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Jimi Hendrix
+> — Gabriel García Márquez
 
 </div>
 
