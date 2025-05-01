@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Marco Aurelio
+> — William James
 
 </div>
 
