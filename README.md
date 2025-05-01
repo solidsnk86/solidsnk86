@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Francis Bacon
+> — Salvador Dalí
 
 </div>
 
