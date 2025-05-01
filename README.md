@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Jimi Hendrix
+> — Séneca
 
 </div>
 
