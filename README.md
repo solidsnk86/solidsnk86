@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Blaise Pascal
+> — Francis Bacon
 
 </div>
 
