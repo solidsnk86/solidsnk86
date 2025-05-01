@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Gabriel García Márquez
+> — Sócrates
 
 </div>
 
