@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Gabriel García Márquez
+> — Voltaire
 
 </div>
 
