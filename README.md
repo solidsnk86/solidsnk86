@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Oscar Wilde
+> — Confucio
 
 </div>
 
