@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Voltaire
+> — Blaise Pascal
 
 </div>
 
