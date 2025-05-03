@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Dalai Lama
+> — Jean-Paul Sartre
 
 </div>
 
