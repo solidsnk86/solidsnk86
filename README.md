@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Sócrates
+> — Confucio
 
 </div>
 
