@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Jean-Paul Sartre
+> — Jean-Jacques Rousseau
 
 </div>
 
