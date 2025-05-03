@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Jean-Jacques Rousseau
+> — Leonardo da Vinci
 
 </div>
 
