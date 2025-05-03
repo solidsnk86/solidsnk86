@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Pablo Picasso
+> — Dalai Lama
 
 </div>
 
