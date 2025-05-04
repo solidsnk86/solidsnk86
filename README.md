@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Francis Bacon
+> — Séneca
 
 </div>
 
