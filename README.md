@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Marco Aurelio
+> — Aristóteles
 
 </div>
 
