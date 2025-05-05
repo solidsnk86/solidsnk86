@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Platón
+> — Protágoras
 
 </div>
 
