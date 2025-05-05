@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Gabriel García Márquez
+> — Platón
 
 </div>
 
