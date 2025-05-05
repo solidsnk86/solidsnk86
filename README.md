@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Aristóteles
+> — Francis Bacon
 
 </div>
 
