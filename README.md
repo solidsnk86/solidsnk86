@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
 >
-> — Dalai Lama
+> — Marco Aurelio
 
 </div>
 
