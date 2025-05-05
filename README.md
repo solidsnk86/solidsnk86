@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
-> — Francis Bacon
+> — Henry Ford
 
 </div>
 
