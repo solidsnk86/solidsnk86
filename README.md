@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Aristóteles
+> — Lao Tse
 
 </div>
 
