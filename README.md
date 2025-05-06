@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Lao Tse
+> — Pedro Calderón de la Barca
 
 </div>
 
