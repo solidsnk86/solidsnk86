@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Viktor Frankl
+> — Mahatma Gandhi
 
 </div>
 
