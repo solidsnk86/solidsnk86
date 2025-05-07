@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Jimi Hendrix
+> — Sócrates
 
 </div>
 
