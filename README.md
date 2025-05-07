@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Sócrates
+> — Oscar Wilde
 
 </div>
 
