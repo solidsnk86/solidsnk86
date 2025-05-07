@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Oscar Wilde
+> — Pedro Calderón de la Barca
 
 </div>
 
