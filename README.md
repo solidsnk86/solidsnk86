@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Miguel de Cervantes
+> — Oscar Wilde
 
 </div>
 
