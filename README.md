@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Leonardo da Vinci
+> — Jimi Hendrix
 
 </div>
 
