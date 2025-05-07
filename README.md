@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Oscar Wilde
+> — Dalai Lama
 
 </div>
 
