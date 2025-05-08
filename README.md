@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Pedro Calderón de la Barca
+> — Francis Bacon
 
 </div>
 
