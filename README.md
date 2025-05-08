@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
 >
-> — Pablo Picasso
+> — Charles Darwin
 
 </div>
 
