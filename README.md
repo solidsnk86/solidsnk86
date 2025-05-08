@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Jorge Luis Borges
+> — William James
 
 </div>
 
