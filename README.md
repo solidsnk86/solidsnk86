@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — John Lennon
+> — Jorge Luis Borges
 
 </div>
 
