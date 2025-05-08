@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Henry Ford
+> — William James
 
 </div>
 
