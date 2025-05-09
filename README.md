@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Protágoras
+> — John Lennon
 
 </div>
 
