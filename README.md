@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Lao Tse
+> — Leonardo da Vinci
 
 </div>
 
