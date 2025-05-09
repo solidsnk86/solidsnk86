@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
 >
-> — William James
+> — Fiódor Dostoievski
 
 </div>
 
