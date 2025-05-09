@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Buda
+> — Aristóteles
 
 </div>
 
