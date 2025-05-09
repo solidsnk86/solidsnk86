@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — John Lennon
+> — Edgar Allan Poe
 
 </div>
 
