@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Marco Aurelio
+> — Protágoras
 
 </div>
 
