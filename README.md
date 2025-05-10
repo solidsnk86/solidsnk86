@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Marcel Proust
+> — Friedrich Nietzsche
 
 </div>
 
