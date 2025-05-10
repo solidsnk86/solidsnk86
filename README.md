@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Friedrich Nietzsche
+> — Jimi Hendrix
 
 </div>
 
