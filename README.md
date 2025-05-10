@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
 > — Leonardo da Vinci
 
