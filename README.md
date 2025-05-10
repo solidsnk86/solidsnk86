@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Edgar Allan Poe
+> — Leonardo da Vinci
 
 </div>
 
