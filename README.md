@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Pedro Calderón de la Barca
+> — Martin Luther King Jr.
 
 </div>
 
