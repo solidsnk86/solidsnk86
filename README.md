@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Séneca
+> — Jean-Paul Sartre
 
 </div>
 
