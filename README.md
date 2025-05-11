@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Friedrich Nietzsche
+> — Pedro Calderón de la Barca
 
 </div>
 
@@ -74,15 +74,11 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 7
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1017620?v=4" alt="Avatar de BartoszJarocki" />
-  </a>
-
-  <a href="https://github.com/Empiree" title="Empiree">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/60399216?v=4" alt="Avatar de Empiree" />
   </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
