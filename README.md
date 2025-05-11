@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Sócrates
+> — Séneca
 
 </div>
 
