@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Marco Aurelio
+> — Sócrates
 
 </div>
 
