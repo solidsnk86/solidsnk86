@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Marco Aurelio
+> — Leonardo da Vinci
 
 </div>
 
