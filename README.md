@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
 >
-> — Isabel Allende
+> — Isaac Newton
 
 </div>
 
