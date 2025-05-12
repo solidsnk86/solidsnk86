@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Jean-Paul Sartre
+> — Platón
 
 </div>
 
