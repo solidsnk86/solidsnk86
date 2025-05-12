@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Aristóteles
+> — Blaise Pascal
 
 </div>
 
