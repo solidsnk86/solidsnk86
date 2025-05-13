@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Albert Einstein
+> — Sócrates
 
 </div>
 
