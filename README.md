@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
 >
-> — Sócrates
+> — Isabel Allende
 
 </div>
 
