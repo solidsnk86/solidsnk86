@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Pedro Calderón de la Barca
+> — Albert Einstein
 
 </div>
 
