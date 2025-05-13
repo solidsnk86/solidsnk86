@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
 >
-> — Salvador Dalí
+> — Marco Aurelio
 
 </div>
 
