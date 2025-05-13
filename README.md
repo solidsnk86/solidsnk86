@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Sócrates
+> — Jean-Paul Sartre
 
 </div>
 
