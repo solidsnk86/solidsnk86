@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Friedrich Nietzsche
+> — Oscar Wilde
 
 </div>
 
