@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Marco Aurelio
+> — Martin Luther King Jr.
 
 </div>
 
