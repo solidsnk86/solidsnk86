@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Pablo Picasso
+> — Friedrich Nietzsche
 
 </div>
 
