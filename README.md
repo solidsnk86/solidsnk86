@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Isabel Allende
+> — Séneca
 
 </div>
 
