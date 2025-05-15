@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Jean-Paul Sartre
+> — Mahatma Gandhi
 
 </div>
 
