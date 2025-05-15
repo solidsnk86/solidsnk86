@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Protágoras
+> — Viktor Frankl
 
 </div>
 
