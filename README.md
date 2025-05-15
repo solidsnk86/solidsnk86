@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Nelson Mandela
+> — Jean-Paul Sartre
 
 </div>
 
