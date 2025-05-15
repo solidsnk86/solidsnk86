@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Buda
+> — Nelson Mandela
 
 </div>
 
