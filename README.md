@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Mahatma Gandhi
+> — Rabindranath Tagore
 
 </div>
 
