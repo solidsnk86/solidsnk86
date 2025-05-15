@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
 >
-> — Friedrich Nietzsche
+> — Marco Aurelio
 
 </div>
 
