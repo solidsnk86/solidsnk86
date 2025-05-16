@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Marcel Proust
+> — Edgar Allan Poe
 
 </div>
 
