@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Edgar Allan Poe
+> — Leonardo da Vinci
 
 </div>
 
