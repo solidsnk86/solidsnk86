@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Viktor Frankl
+> — William James
 
 </div>
 
