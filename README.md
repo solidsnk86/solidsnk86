@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Leonardo da Vinci
+> — Viktor Frankl
 
 </div>
 
