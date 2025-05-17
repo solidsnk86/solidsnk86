@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Sócrates
+> — Dalai Lama
 
 </div>
 
