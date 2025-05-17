@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
 >
-> — Pablo Picasso
+> — Fiódor Dostoievski
 
 </div>
 
