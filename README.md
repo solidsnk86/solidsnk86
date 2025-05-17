@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Protágoras
+> — Francis Bacon
 
 </div>
 
