@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Francis Bacon
+> — Sócrates
 
 </div>
 
