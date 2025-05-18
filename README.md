@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
 >
-> — Marco Aurelio
+> — Charles Darwin
 
 </div>
 
