@@ -7,7 +7,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 const token = process.env.GITHUB_TOKEN
 const username = 'solidsnk86'
-
+console.log(token)
 const getPhrases = async () => {
   const res = await fetch(
     'https://cdn.jsdelivr.net/gh/liquidsnk86/cdn-js@main/ramdom-json-phrases.json'
@@ -75,8 +75,7 @@ let contributions2024
 client
   .request(query1)
   .then((data) => {
-    contributions2024 =
-      data.user.contributionsCollection.totalCommitContributions
+    contributions2024 = data.user.contributionsCollection.totalCommitContributions
   })
   .catch((err) => console.error(err))
 
@@ -84,8 +83,7 @@ let contributions2025
 client
   .request(query2)
   .then((data) => {
-    contributions2025 =
-      data.user.contributionsCollection.totalCommitContributions
+    contributions2025 = data.user.contributionsCollection.totalCommitContributions
   })
   .catch((err) => console.error(err))
 
