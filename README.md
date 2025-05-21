@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Marco Aurelio
+> — Friedrich Nietzsche
 
 </div>
 
