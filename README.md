@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — William James
+> — Francis Bacon
 
 </div>
 
@@ -74,7 +74,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 9
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -91,6 +91,10 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/midudev" title="midudev">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1561955?v=4" alt="Avatar de midudev" />
+  </a>
+
+  <a href="https://github.com/mohamedelmougy" title="mohamedelmougy">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/160643822?v=4" alt="Avatar de mohamedelmougy" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
