@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Marco Aurelio
+> — Gabriel García Márquez
 
 </div>
 
