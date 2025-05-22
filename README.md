@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
+> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
 >
 > — Marco Aurelio
 
