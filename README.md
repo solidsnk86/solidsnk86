@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Jean-Paul Sartre
+> — William James
 
 </div>
 
