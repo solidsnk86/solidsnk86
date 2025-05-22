@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Marco Aurelio
+> — William James
 
 </div>
 
