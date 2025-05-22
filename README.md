@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
 >
-> — Dalai Lama
+> — Marco Aurelio
 
 </div>
 
