@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — William James
+> — Séneca
 
 </div>
 
