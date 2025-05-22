@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Octavio Paz
+> — Jean-Paul Sartre
 
 </div>
 
