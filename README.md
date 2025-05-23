@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Buda
+> — Nelson Mandela
 
 </div>
 
