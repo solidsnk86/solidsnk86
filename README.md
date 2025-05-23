@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
 >
-> — Pablo Picasso
+> — Marco Aurelio
 
 </div>
 
