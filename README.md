@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Marco Aurelio
+> — Jean-Paul Sartre
 
 </div>
 
