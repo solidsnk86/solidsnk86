@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — William James
+> — Buda
 
 </div>
 
