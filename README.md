@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Nelson Mandela
+> — Marco Aurelio
 
 </div>
 
