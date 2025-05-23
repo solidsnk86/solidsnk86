@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Leonardo da Vinci
+> — Mahatma Gandhi
 
 </div>
 
