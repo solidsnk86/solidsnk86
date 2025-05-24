@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Martin Luther King Jr.
+> — Leonardo da Vinci
 
 </div>
 
