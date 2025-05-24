@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Oscar Wilde
+> — Leonardo da Vinci
 
 </div>
 
