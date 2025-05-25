@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Nelson Mandela
+> — Oscar Wilde
 
 </div>
 
