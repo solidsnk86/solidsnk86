@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Sócrates
+> — Confucio
 
 </div>
 
