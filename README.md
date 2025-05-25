@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Leonardo da Vinci
+> — Salvador Dalí
 
 </div>
 
