@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Friedrich Nietzsche
+> — Nelson Mandela
 
 </div>
 
