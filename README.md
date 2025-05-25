@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Salvador Dalí
+> — Friedrich Nietzsche
 
 </div>
 
