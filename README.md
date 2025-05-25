@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Charles Darwin
+> — Sócrates
 
 </div>
 
