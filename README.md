@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
 >
-> — Sócrates
+> — Friedrich Nietzsche
 
 </div>
 
