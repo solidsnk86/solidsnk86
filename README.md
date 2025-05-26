@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
 >
-> — Marcel Proust
+> — Marco Aurelio
 
 </div>
 
