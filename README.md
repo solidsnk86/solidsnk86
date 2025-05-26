@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Rabindranath Tagore
+> — Blaise Pascal
 
 </div>
 
