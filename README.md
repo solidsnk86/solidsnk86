@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Friedrich Nietzsche
+> — Sócrates
 
 </div>
 
