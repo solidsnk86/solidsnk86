@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Marco Aurelio
+> — Rabindranath Tagore
 
 </div>
 
