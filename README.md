@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Séneca
+> — Nelson Mandela
 
 </div>
 
