@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Friedrich Nietzsche
+> — Martin Luther King Jr.
 
 </div>
 
