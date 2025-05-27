@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Rabindranath Tagore
+> — Confucio
 
 </div>
 
