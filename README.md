@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Jean-Paul Sartre
+> — Marco Aurelio
 
 </div>
 
