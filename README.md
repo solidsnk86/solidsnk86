@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Martin Luther King Jr.
+> — Gabriel García Márquez
 
 </div>
 
