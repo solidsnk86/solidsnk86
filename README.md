@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Søren Kierkegaard
+> — Mahatma Gandhi
 
 </div>
 
@@ -74,12 +74,8 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 9
+## No me siguen de nuevo: 7
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/AbMosawerWadan" title="AbMosawerWadan">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/160777411?v=4" alt="Avatar de AbMosawerWadan" />
-  </a>
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1017620?v=4" alt="Avatar de BartoszJarocki" />
@@ -99,10 +95,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
-  </a>
-
-  <a href="https://github.com/samarjitsahoo" title="samarjitsahoo">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/145245473?v=4" alt="Avatar de samarjitsahoo" />
   </a>
 
   <a href="https://github.com/torvalds" title="torvalds">
