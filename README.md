@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"Solo sé que no sé nada."*
 >
-> — Francis Bacon
+> — Sócrates
 
 </div>
 
