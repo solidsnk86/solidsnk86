@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — Gabriel García Márquez
+> — Octavio Paz
 
 </div>
 
@@ -74,8 +74,12 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 9
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/AbMosawerWadan" title="AbMosawerWadan">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/160777411?v=4" alt="Avatar de AbMosawerWadan" />
+  </a>
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1017620?v=4" alt="Avatar de BartoszJarocki" />
