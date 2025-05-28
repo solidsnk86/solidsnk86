@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Marco Aurelio
+> — Voltaire
 
 </div>
 
