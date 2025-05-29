@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Sócrates
+> — Jean-Jacques Rousseau
 
 </div>
 
