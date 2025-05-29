@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Marco Aurelio
+> — William James
 
 </div>
 
