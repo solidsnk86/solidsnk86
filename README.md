@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Jean-Jacques Rousseau
+> — Rabindranath Tagore
 
 </div>
 
