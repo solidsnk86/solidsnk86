@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Dalai Lama
+> — Sócrates
 
 </div>
 
