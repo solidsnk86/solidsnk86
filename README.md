@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Friedrich Nietzsche
+> — Dalai Lama
 
 </div>
 
