@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Aristóteles
+> — Jean-Paul Sartre
 
 </div>
 
