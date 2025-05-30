@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Marco Aurelio
+> — Lao Tse
 
 </div>
 
