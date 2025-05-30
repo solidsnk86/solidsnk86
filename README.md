@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Lao Tse
+> — Jean-Jacques Rousseau
 
 </div>
 
