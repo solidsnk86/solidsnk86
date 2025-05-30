@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
 >
-> — Jean-Paul Sartre
+> — Marco Aurelio
 
 </div>
 
