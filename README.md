@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Pablo Picasso
+> — Aristóteles
 
 </div>
 
