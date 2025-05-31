@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Nelson Mandela
+> — Rabindranath Tagore
 
 </div>
 
