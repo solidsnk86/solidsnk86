@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
 >
-> — Fiódor Dostoievski
+> — Aristóteles
 
 </div>
 
