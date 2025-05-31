@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Aristóteles
+> — Leonardo da Vinci
 
 </div>
 
