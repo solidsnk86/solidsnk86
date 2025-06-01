@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Viktor Frankl
+> — Rabindranath Tagore
 
 </div>
 
