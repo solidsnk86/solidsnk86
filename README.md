@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Nelson Mandela
+> — Salvador Dalí
 
 </div>
 
