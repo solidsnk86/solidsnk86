@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Leonardo da Vinci
+> — Jorge Luis Borges
 
 </div>
 
