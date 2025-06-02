@@ -7,7 +7,15 @@ import dotenv from 'dotenv'
 dotenv.config()
 const token = process.env.GITHUB_TOKEN
 const username = 'solidsnk86'
-console.log(token)
+
+const getGithubStats = async () => {
+  const response = await fetch(
+    `https://calcagni-gabriel.vercel.app/api/non-followers?user=${username}`
+  )
+  const jsonData = await response.json()
+  return jsonData
+}
+
 const getPhrases = async () => {
   const res = await fetch(
     'https://cdn.jsdelivr.net/gh/liquidsnk86/cdn-js@main/ramdom-json-phrases.json'
@@ -16,12 +24,10 @@ const getPhrases = async () => {
   return jsonData
 }
 
-const getGithubStats = async () => {
-  const response = await fetch(
-    `https://calcagni-gabriel.vercel.app/api/non-followers?user=${username}`
-  )
-  const jsonData = await response.json()
-  return jsonData
+const getAppInfo = async () => {
+  const response = await fetch('https://neo-wifi.vercel.app/api/releases')
+  const data = await response.json()
+  return data
 }
 
 const client = new GraphQLClient('https://api.github.com/graphql', {
@@ -119,11 +125,12 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
 
 ;(async () => {
   try {
-    const [template, svgTemplate, stats, phrases] = await Promise.all([
+    const [template, svgTemplate, stats, phrases, appInfo] = await Promise.all([
       fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
       fs.readFile('./src/tmp.svg.tpl', { encoding: 'utf-8' }),
       getGithubStats(),
-      getPhrases()
+      getPhrases(),
+      getAppInfo()
     ]).catch((error) => console.error(error) || process.exit(1))
 
     const phrase = phrases.data.frases
@@ -157,11 +164,6 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .reduce((acc, value) => acc + value, 0)
     const lastUpdate = repos.find((repo) => repo.name === username)
     const updatedAt = formatDate({ date: lastUpdate.updated_at })
-    const neoWifiRepo = repos.find((repo) => repo.name === 'neo-wifi')
-    const urlNeoWifiTags = neoWifiRepo.tags_url
-    const [dataTags] = await Promise.all([fetch(urlNeoWifiTags)])
-    const tags = await dataTags.json()
-    const version = tags[0].name
 
     const totalDaysLastYear = 365
     const today = new Date()
@@ -183,6 +185,8 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       })
       .sort()
       .join('')
+
+    const version = appInfo.release.appVersion
 
     const contentArray = []
     contentArray.push(author, text, updatedAt, count, githubStatsHTML, version)

@@ -38,7 +38,7 @@
 Esta app te ayuda a detectar cuales son los tres puntos de conexión WiFi gratis más cercanos que hay a tu disposición.
 También en la misma web está disponible una aplicación de PC escritorio que automatiza las configuraciones inalámbricas
 de los modelos CPE de Tp-Link con sistema Pharos, ideal para la red WiFi gratuita de la provincia de San Luis.
-`NeoWiFi App %{{neo_wifi_version}}%-beta`:
+`NeoWiFi App %{{neo_wifi_version}}%v-beta`:
 visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
 
 <br>
