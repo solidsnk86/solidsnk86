@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Marco Aurelio
+> — Blaise Pascal
 
 </div>
 
