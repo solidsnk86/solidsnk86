@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Viktor Frankl
+> — Edgar Allan Poe
 
 </div>
 
