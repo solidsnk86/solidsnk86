@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
 >
 > — Marco Aurelio
 
