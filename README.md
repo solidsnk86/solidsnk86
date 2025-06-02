@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Blaise Pascal
+> — Dalai Lama
 
 </div>
 
