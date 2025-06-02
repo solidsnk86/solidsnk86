@@ -17,9 +17,15 @@
 
 <h3>Frases ramdom</h3>
 
+<<<<<<< HEAD
 > *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
 > — Viktor Frankl
+=======
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+>
+> — Dalai Lama
+>>>>>>> a9df0fdd371eb869c9e4cf0f87848f54d04c5e6f
 
 </div>
 
