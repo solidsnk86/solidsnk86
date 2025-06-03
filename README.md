@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Lao Tse
+> — Platón
 
 </div>
 
