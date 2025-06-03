@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Mahatma Gandhi
+> — Friedrich Nietzsche
 
 </div>
 
