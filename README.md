@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Sócrates
+> — William James
 
 </div>
 
