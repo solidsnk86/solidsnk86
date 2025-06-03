@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Aristóteles
+> — Gabriel García Márquez
 
 </div>
 
