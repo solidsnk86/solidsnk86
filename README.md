@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
 >
-> — Friedrich Nietzsche
+> — Marco Aurelio
 
 </div>
 
