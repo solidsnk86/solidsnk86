@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Buda
+> — Mahatma Gandhi
 
 </div>
 
