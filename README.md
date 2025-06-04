@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Dalai Lama
+> — Martin Luther King Jr.
 
 </div>
 
