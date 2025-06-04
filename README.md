@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Jean-Paul Sartre
+> — Blaise Pascal
 
 </div>
 
