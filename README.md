@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Sócrates
+> — Jimi Hendrix
 
 </div>
 
