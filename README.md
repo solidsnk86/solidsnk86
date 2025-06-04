@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La pluma es la lengua del alma."*
 >
-> — Marco Aurelio
+> — Miguel de Cervantes
 
 </div>
 
