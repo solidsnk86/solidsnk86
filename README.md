@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Friedrich Nietzsche
+> — John Lennon
 
 </div>
 
