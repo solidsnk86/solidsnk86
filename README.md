@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Martin Luther King Jr.
+> — Jean-Jacques Rousseau
 
 </div>
 
