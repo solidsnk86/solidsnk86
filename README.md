@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Jean-Jacques Rousseau
+> — Sócrates
 
 </div>
 
@@ -74,7 +74,7 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 7
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
@@ -87,10 +87,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/lwilk0" title="lwilk0">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/98269518?v=4" alt="Avatar de lwilk0" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
