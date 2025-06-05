@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Henry Ford
+> — Friedrich Nietzsche
 
 </div>
 
