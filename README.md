@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Marcel Proust
+> — Voltaire
 
 </div>
 
