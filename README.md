@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
+> *"Solo sé que no sé nada."*
 >
-> — Blaise Pascal
+> — Sócrates
 
 </div>
 
