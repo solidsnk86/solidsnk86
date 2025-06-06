@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Mahatma Gandhi
+> — Séneca
 
 </div>
 
