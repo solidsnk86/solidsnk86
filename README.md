@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Marcel Proust
+> — Salvador Dalí
 
 </div>
 
