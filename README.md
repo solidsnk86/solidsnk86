@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Marco Aurelio
+> — Pedro Calderón de la Barca
 
 </div>
 
