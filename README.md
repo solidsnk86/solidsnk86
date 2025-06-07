@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Friedrich Nietzsche
+> — Buda
 
 </div>
 
