@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
 > — Marco Aurelio
 
