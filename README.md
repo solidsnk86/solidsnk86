@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Oscar Wilde
+> — Séneca
 
 </div>
 
