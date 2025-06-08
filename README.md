@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
 >
-> — Lao Tse
+> — Marco Aurelio
 
 </div>
 
