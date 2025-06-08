@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Friedrich Nietzsche
+> — Lao Tse
 
 </div>
 
