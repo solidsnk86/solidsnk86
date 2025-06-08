@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Voltaire
+> — Salvador Dalí
 
 </div>
 
