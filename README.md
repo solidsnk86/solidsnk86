@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Albert Einstein
+> — Friedrich Nietzsche
 
 </div>
 
