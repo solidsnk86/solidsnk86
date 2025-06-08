@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Marco Aurelio
+> — Voltaire
 
 </div>
 
