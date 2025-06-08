@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Marco Aurelio
+> — Voltaire
 
 </div>
 
