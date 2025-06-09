@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
 >
-> — Jorge Luis Borges
+> — Isaac Newton
 
 </div>
 
