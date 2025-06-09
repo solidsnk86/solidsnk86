@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Viktor Frankl
+> — Nelson Mandela
 
 </div>
 
