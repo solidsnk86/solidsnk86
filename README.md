@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Nelson Mandela
+> — Jorge Luis Borges
 
 </div>
 
