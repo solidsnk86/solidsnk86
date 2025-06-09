@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
+> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
 >
-> — Marco Aurelio
+> — Pablo Picasso
 
 </div>
 
