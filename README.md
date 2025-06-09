@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
 >
-> — Pablo Picasso
+> — Marco Aurelio
 
 </div>
 
@@ -38,7 +38,7 @@
 Esta app te ayuda a detectar cuales son los tres puntos de conexión WiFi gratis más cercanos que hay a tu disposición.
 También en la misma web está disponible una aplicación de PC escritorio que automatiza las configuraciones inalámbricas
 de los modelos CPE de Tp-Link con sistema Pharos, ideal para la red WiFi gratuita de la provincia de San Luis.
-`NeoWiFi App 1.2.5v-beta`:
+`NeoWiFi App 1.3.5v-beta`:
 visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
 
 <br>
