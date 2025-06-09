@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Mahatma Gandhi
+> — Viktor Frankl
 
 </div>
 
