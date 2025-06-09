@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Marco Aurelio
+> — Mahatma Gandhi
 
 </div>
 
