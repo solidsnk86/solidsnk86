@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Rabindranath Tagore
+> — William James
 
 </div>
 
