@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Marco Aurelio
+> — Edgar Allan Poe
 
 </div>
 
