@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — William James
+> — Pedro Calderón de la Barca
 
 </div>
 
