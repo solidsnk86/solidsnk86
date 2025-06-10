@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Oscar Wilde
+> — Martin Luther King Jr.
 
 </div>
 
