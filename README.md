@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Søren Kierkegaard
+> — Sócrates
 
 </div>
 
