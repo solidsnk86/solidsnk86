@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"La pluma es la lengua del alma."*
 >
-> — Mahatma Gandhi
+> — Miguel de Cervantes
 
 </div>
 
