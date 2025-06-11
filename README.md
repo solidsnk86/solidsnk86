@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Marco Aurelio
+> — Sócrates
 
 </div>
 
