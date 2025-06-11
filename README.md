@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Sócrates
+> — Platón
 
 </div>
 
