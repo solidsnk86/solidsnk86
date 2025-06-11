@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Miguel de Cervantes
+> — Platón
 
 </div>
 
