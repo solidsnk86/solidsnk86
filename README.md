@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Mahatma Gandhi
+> — Jimi Hendrix
 
 </div>
 
