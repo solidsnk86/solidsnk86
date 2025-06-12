@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"La pluma es la lengua del alma."*
 >
-> — William James
+> — Miguel de Cervantes
 
 </div>
 
