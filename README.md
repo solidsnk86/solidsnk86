@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Miguel de Cervantes
+> — Francis Bacon
 
 </div>
 
