@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Isabel Allende
+> — William James
 
 </div>
 
