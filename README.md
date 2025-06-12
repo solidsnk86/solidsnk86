@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Platón
+> — Jorge Luis Borges
 
 </div>
 
