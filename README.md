@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Francis Bacon
+> — Oscar Wilde
 
 </div>
 
