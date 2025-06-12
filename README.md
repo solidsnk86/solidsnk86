@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
 >
-> — Aristóteles
+> — Isabel Allende
 
 </div>
 
