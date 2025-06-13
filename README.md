@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — William James
+> — Pedro Calderón de la Barca
 
 </div>
 
