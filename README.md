@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Viktor Frankl
+> — William James
 
 </div>
 
