@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Buda
+> — Salvador Dalí
 
 </div>
 
