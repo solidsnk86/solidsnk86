@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Friedrich Nietzsche
+> — Sócrates
 
 </div>
 
