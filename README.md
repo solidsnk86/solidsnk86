@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Miguel de Cervantes
+> — Buda
 
 </div>
 
