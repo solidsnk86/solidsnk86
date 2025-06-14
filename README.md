@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Leonardo da Vinci
+> — Friedrich Nietzsche
 
 </div>
 
