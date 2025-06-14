@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Sócrates
+> — Gabriel García Márquez
 
 </div>
 
