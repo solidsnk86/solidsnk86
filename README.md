@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Isabel Allende
+> — Platón
 
 </div>
 
