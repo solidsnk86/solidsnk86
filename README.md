@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"La pluma es la lengua del alma."*
 >
-> — Gabriel García Márquez
+> — Miguel de Cervantes
 
 </div>
 
