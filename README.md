@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"La pluma es la lengua del alma."*
 >
-> — Voltaire
+> — Miguel de Cervantes
 
 </div>
 
