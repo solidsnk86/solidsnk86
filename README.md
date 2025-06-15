@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Jean-Jacques Rousseau
+> — Protágoras
 
 </div>
 
