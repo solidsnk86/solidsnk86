@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
 >
 > — Marco Aurelio
 
