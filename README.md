@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Protágoras
+> — Leonardo da Vinci
 
 </div>
 
