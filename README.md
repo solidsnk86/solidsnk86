@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Dalai Lama
+> — Lao Tse
 
 </div>
 
