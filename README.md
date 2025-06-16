@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Jean-Paul Sartre
+> — Dalai Lama
 
 </div>
 
