@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — John Lennon
+> — Jean-Paul Sartre
 
 </div>
 
