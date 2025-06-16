@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Martin Luther King Jr.
+> — Jimi Hendrix
 
 </div>
 
