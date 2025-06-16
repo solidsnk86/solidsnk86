@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Lao Tse
+> — Friedrich Nietzsche
 
 </div>
 
