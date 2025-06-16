@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Friedrich Nietzsche
+> — Rabindranath Tagore
 
 </div>
 
