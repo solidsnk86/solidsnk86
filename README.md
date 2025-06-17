@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
-> — Isaac Newton
+> — Henry Ford
 
 </div>
 
