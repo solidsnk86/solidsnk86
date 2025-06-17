@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Jimi Hendrix
+> — Aristóteles
 
 </div>
 
