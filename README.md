@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Aristóteles
+> — William James
 
 </div>
 
