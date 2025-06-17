@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — William James
+> — Octavio Paz
 
 </div>
 
