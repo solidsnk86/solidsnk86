@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Confucio
+> — Mahatma Gandhi
 
 </div>
 
