@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Séneca
+> — Rabindranath Tagore
 
 </div>
 
