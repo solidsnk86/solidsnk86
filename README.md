@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"Solo sé que no sé nada."*
 >
-> — Mahatma Gandhi
+> — Sócrates
 
 </div>
 
