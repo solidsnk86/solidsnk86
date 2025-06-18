@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Octavio Paz
+> — Séneca
 
 </div>
 
