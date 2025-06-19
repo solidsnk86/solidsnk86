@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
 >
-> — Nelson Mandela
+> — Marco Aurelio
 
 </div>
 
