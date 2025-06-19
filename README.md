@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Nelson Mandela
+> — Friedrich Nietzsche
 
 </div>
 
