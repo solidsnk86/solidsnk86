@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Séneca
+> — William James
 
 </div>
 
