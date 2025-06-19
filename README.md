@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Marco Aurelio
+> — Sócrates
 
 </div>
 
