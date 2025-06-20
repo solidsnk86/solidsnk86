@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Isabel Allende
+> — Edgar Allan Poe
 
 </div>
 
