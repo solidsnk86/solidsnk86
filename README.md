@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Edgar Allan Poe
+> — Oscar Wilde
 
 </div>
 
