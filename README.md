@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Voltaire
+> — Edgar Allan Poe
 
 </div>
 
