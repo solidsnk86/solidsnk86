@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Voltaire
+> — Marco Aurelio
 
 </div>
 
