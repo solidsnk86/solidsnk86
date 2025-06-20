@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Oscar Wilde
+> — Rabindranath Tagore
 
 </div>
 
