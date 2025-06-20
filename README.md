@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Marco Aurelio
+> — Voltaire
 
 </div>
 
