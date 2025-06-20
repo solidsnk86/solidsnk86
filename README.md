@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Marco Aurelio
+> — William James
 
 </div>
 
