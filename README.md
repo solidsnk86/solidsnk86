@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — Edgar Allan Poe
+> — Octavio Paz
 
 </div>
 
