@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
 >
 > — Friedrich Nietzsche
 
