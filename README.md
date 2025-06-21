@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Sócrates
+> — Protágoras
 
 </div>
 
