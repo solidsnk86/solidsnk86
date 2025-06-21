@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Aristóteles
+> — Jorge Luis Borges
 
 </div>
 
