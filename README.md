@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Platón
+> — Aristóteles
 
 </div>
 
