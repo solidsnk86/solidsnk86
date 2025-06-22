@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
 >
-> — Miguel de Cervantes
+> — Marcel Proust
 
 </div>
 
