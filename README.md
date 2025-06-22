@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Jimi Hendrix
+> — Nelson Mandela
 
 </div>
 
