@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Jean-Jacques Rousseau
+> — Marco Aurelio
 
 </div>
 
