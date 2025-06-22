@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Marco Aurelio
+> — Jimi Hendrix
 
 </div>
 
