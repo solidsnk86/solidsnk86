@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Marcel Proust
+> — Rabindranath Tagore
 
 </div>
 
