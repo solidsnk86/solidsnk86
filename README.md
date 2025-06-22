@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
+> *"La pluma es la lengua del alma."*
 >
-> — Nelson Mandela
+> — Miguel de Cervantes
 
 </div>
 
