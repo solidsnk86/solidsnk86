@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Rabindranath Tagore
+> — Nelson Mandela
 
 </div>
 
