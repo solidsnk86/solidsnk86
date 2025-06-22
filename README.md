@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Marco Aurelio
+> — William James
 
 </div>
 
