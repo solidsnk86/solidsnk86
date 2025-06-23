@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Leonardo da Vinci
+> — Voltaire
 
 </div>
 
