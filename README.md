@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Confucio
+> — Nelson Mandela
 
 </div>
 
