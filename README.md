@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
 >
-> — Nelson Mandela
+> — Marco Aurelio
 
 </div>
 
