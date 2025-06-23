@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Jimi Hendrix
+> — William James
 
 </div>
 
