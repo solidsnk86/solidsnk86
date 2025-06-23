@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Pablo Picasso
+> — Confucio
 
 </div>
 
