@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Salvador Dalí
+> — Nelson Mandela
 
 </div>
 
