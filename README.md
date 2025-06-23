@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Martin Luther King Jr.
+> — Salvador Dalí
 
 </div>
 
