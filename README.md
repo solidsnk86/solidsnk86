@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Salvador Dalí
+> — Dalai Lama
 
 </div>
 
