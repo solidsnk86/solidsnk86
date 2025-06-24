@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Aristóteles
+> — William James
 
 </div>
 
