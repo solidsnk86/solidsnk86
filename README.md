@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Francis Bacon
+> — John Lennon
 
 </div>
 
