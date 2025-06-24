@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — John Lennon
+> — Confucio
 
 </div>
 
