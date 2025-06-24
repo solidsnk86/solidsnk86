@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — William James
+> — Francis Bacon
 
 </div>
 
