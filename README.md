@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Lao Tse
+> — William James
 
 </div>
 
