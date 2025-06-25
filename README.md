@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Dalai Lama
+> — Leonardo da Vinci
 
 </div>
 
