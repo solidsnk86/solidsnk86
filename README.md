@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — John Lennon
+> — Nelson Mandela
 
 </div>
 
