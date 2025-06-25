@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
 >
-> — Jorge Luis Borges
+> — Marco Aurelio
 
 </div>
 
