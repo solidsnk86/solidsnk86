@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Marco Aurelio
+> — William James
 
 </div>
 
