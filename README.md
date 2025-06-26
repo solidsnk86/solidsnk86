@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — William James
+> — Mahatma Gandhi
 
 </div>
 
