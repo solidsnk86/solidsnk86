@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Marco Aurelio
+> — Friedrich Nietzsche
 
 </div>
 
