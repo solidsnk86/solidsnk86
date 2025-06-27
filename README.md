@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Voltaire
+> — Leonardo da Vinci
 
 </div>
 
