@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
 >
-> — Leonardo da Vinci
+> — Marco Aurelio
 
 </div>
 
