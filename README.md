@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Leonardo da Vinci
+> — Aristóteles
 
 </div>
 
