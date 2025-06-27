@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Jean-Paul Sartre
+> — Voltaire
 
 </div>
 
