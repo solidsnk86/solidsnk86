@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Leonardo da Vinci
+> — Jean-Jacques Rousseau
 
 </div>
 
