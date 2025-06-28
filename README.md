@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Marco Aurelio
+> — Leonardo da Vinci
 
 </div>
 
