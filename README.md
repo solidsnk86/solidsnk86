@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Aristóteles
+> — Mahatma Gandhi
 
 </div>
 
