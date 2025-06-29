@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Leonardo da Vinci
+> — Dalai Lama
 
 </div>
 
