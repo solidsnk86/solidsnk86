@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Mahatma Gandhi
+> — Leonardo da Vinci
 
 </div>
 
