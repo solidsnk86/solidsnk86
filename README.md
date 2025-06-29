@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Miguel de Cervantes
+> — John Lennon
 
 </div>
 
