@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Jimi Hendrix
+> — Buda
 
 </div>
 
