@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Buda
+> — Albert Einstein
 
 </div>
 
