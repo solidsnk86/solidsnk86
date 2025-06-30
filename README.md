@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Aristóteles
+> — Sócrates
 
 </div>
 
