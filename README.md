@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Jimi Hendrix
+> — Blaise Pascal
 
 </div>
 
