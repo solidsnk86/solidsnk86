@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Protágoras
+> — Aristóteles
 
 </div>
 
