@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Albert Einstein
+> — Rabindranath Tagore
 
 </div>
 
