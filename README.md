@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Henry Ford
+> — Sócrates
 
 </div>
 
