@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Marco Aurelio
+> — Jorge Luis Borges
 
 </div>
 
