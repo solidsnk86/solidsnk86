@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
 >
-> — Sócrates
+> — Søren Kierkegaard
 
 </div>
 
