@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Friedrich Nietzsche
+> — Séneca
 
 </div>
 
