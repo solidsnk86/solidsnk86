@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"Lo que no te mata te hace más fuerte."*
 >
-> — Viktor Frankl
+> — Friedrich Nietzsche
 
 </div>
 
