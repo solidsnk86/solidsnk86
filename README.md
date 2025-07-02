@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Salvador Dalí
+> — Viktor Frankl
 
 </div>
 
