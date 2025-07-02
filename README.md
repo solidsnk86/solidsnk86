@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"La pintura es poesía muda; la poesía, pintura ciega."*
 >
-> — Platón
+> — Leonardo da Vinci
 
 </div>
 
