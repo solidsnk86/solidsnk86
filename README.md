@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
 > — Friedrich Nietzsche
 
