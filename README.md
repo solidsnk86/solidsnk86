@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Aristóteles
+> — Salvador Dalí
 
 </div>
 
