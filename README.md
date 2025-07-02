@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
 > — Aristóteles
 
