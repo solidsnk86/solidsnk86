@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — William James
+> — Jorge Luis Borges
 
 </div>
 
