@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Jean-Jacques Rousseau
+> — Aristóteles
 
 </div>
 
