@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Séneca
+> — Jean-Jacques Rousseau
 
 </div>
 
