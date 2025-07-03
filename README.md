@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Lao Tse
+> — Mahatma Gandhi
 
 </div>
 
