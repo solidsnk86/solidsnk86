@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Marco Aurelio
+> — Buda
 
 </div>
 
