@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Marcel Proust
+> — Jean-Jacques Rousseau
 
 </div>
 
