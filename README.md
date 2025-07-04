@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
 >
-> — Viktor Frankl
+> — Marco Aurelio
 
 </div>
 
