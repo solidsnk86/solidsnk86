@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
 >
-> — Aristóteles
+> — Isaac Newton
 
 </div>
 
