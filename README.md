@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Charles Darwin
+> — Edgar Allan Poe
 
 </div>
 
