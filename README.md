@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
 >
-> — Jorge Luis Borges
+> — Aristóteles
 
 </div>
 
