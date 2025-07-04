@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Edgar Allan Poe
+> — Aristóteles
 
 </div>
 
