@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La pluma es la lengua del alma."*
 >
-> — Sócrates
+> — Miguel de Cervantes
 
 </div>
 
