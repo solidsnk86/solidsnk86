@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Marco Aurelio
+> — Pedro Calderón de la Barca
 
 </div>
 
