@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Miguel de Cervantes
+> — Confucio
 
 </div>
 
