@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Friedrich Nietzsche
+> — Voltaire
 
 </div>
 
