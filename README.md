@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — John Lennon
+> — Viktor Frankl
 
 </div>
 
