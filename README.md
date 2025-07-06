@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Friedrich Nietzsche
+> — Nelson Mandela
 
 </div>
 
