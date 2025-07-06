@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Leonardo da Vinci
+> — John Lennon
 
 </div>
 
