@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"Solo sé que no sé nada."*
 >
-> — Albert Einstein
+> — Sócrates
 
 </div>
 
