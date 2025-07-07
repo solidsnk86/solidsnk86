@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Edgar Allan Poe
+> — Nelson Mandela
 
 </div>
 
