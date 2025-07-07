@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Confucio
+> — Francis Bacon
 
 </div>
 
