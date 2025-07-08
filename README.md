@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"La pluma es la lengua del alma."*
 >
-> — Isabel Allende
+> — Miguel de Cervantes
 
 </div>
 
