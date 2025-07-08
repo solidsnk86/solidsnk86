@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
 >
-> — Edgar Allan Poe
+> — Friedrich Nietzsche
 
 </div>
 
