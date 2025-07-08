@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Leonardo da Vinci
+> — Jean-Paul Sartre
 
 </div>
 
