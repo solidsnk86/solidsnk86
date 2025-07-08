@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Marco Aurelio
+> — Confucio
 
 </div>
 
