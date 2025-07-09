@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — Protágoras
+> — Octavio Paz
 
 </div>
 
