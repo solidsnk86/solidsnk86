@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Marco Aurelio
+> — Leonardo da Vinci
 
 </div>
 
