@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
 >
-> — Søren Kierkegaard
+> — Marco Aurelio
 
 </div>
 
