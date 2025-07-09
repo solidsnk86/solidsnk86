@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
 >
-> — Albert Einstein
+> — Søren Kierkegaard
 
 </div>
 
