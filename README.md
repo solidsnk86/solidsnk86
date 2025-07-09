@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Aristóteles
+> — Leonardo da Vinci
 
 </div>
 
