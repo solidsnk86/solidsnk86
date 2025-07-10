@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Lao Tse
+> — Rabindranath Tagore
 
 </div>
 
