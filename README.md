@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Mahatma Gandhi
+> — Francis Bacon
 
 </div>
 
