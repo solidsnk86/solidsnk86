@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Henry Ford
+> — Salvador Dalí
 
 </div>
 
