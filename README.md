@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
 >
-> — Marco Aurelio
+> — Isabel Allende
 
 </div>
 
