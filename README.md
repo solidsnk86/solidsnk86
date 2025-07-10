@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Salvador Dalí
+> — Jean-Paul Sartre
 
 </div>
 
