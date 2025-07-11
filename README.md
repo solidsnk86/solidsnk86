@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Gabriel García Márquez
+> — Rabindranath Tagore
 
 </div>
 
