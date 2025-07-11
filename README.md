@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Martin Luther King Jr.
+> — Protágoras
 
 </div>
 
