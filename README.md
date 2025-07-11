@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Protágoras
+> — Gabriel García Márquez
 
 </div>
 
