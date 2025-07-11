@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Mahatma Gandhi
+> — Séneca
 
 </div>
 
