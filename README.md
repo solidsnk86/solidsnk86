@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Martin Luther King Jr.
+> — Mahatma Gandhi
 
 </div>
 
