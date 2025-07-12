@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
 >
-> — John Lennon
+> — Pablo Picasso
 
 </div>
 
