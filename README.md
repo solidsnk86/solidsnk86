@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Friedrich Nietzsche
+> — Jean-Paul Sartre
 
 </div>
 
