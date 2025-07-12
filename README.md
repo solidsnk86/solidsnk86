@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Nelson Mandela
+> — Leonardo da Vinci
 
 </div>
 
