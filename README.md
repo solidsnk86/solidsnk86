@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Sócrates
+> — Oscar Wilde
 
 </div>
 
