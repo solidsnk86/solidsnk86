@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Oscar Wilde
+> — Mahatma Gandhi
 
 </div>
 
