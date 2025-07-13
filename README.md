@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Leonardo da Vinci
+> — Albert Einstein
 
 </div>
 
