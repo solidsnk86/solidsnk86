@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Miguel de Cervantes
+> — Sócrates
 
 </div>
 
