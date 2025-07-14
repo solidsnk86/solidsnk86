@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Marco Aurelio
+> — Oscar Wilde
 
 </div>
 
