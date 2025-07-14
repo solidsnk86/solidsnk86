@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Friedrich Nietzsche
+> — Jean-Paul Sartre
 
 </div>
 
