@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Søren Kierkegaard
+> — Friedrich Nietzsche
 
 </div>
 
