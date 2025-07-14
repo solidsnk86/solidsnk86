@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
+> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
 >
-> — Nelson Mandela
+> — Søren Kierkegaard
 
 </div>
 
