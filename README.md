@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Oscar Wilde
+> — Nelson Mandela
 
 </div>
 
