@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Marcel Proust
+> — William James
 
 </div>
 
