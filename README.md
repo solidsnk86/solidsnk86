@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
 >
-> — Marcel Proust
+> — Marco Aurelio
 
 </div>
 
