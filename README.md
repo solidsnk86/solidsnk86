@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Marco Aurelio
+> — Sócrates
 
 </div>
 
