@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Octavio Paz
+> — Jean-Jacques Rousseau
 
 </div>
 
