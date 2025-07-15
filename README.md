@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
 >
-> — Jean-Jacques Rousseau
+> — Pablo Picasso
 
 </div>
 
