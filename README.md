@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Charles Darwin
+> — Confucio
 
 </div>
 
