@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Miguel de Cervantes
+> — Pedro Calderón de la Barca
 
 </div>
 
