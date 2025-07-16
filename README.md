@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es uno de los nombres de la inteligencia."*
+> *"La pluma es la lengua del alma."*
 >
-> — Jorge Luis Borges
+> — Miguel de Cervantes
 
 </div>
 
