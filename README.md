@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Pedro Calderón de la Barca
+> — Aristóteles
 
 </div>
 
