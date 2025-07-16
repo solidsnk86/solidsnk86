@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Viktor Frankl
+> — Albert Einstein
 
 </div>
 
