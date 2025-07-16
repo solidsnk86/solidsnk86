@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Buda
+> — Jorge Luis Borges
 
 </div>
 
