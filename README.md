@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es libre en el momento en que desea serlo."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Voltaire
+> — Buda
 
 </div>
 
