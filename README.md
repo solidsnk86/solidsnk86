@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Aristóteles
+> — Albert Einstein
 
 </div>
 
