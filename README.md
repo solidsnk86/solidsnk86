@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"No hay viento favorable para el que no sabe a dónde va."*
 >
-> — Protágoras
+> — Séneca
 
 </div>
 
