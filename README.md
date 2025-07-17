@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Buda
+> — Edgar Allan Poe
 
 </div>
 
