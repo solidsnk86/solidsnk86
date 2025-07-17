@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
+> *"Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella."*
 >
-> — Charles Darwin
+> — Marco Aurelio
 
 </div>
 
