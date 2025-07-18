@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Fiódor Dostoievski
+> — Albert Einstein
 
 </div>
 
