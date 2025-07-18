@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Marcel Proust
+> — Mahatma Gandhi
 
 </div>
 
