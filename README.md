@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
 >
-> — Confucio
+> — Marco Aurelio
 
 </div>
 
