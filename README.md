@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Jimi Hendrix
+> — Confucio
 
 </div>
 
