@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
 >
-> — Edgar Allan Poe
+> — Isaac Newton
 
 </div>
 
