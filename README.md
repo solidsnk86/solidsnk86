@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Sócrates
+> — Mahatma Gandhi
 
 </div>
 
