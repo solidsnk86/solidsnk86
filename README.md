@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Isaac Newton
+> — Dalai Lama
 
 </div>
 
