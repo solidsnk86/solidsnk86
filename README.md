@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Dalai Lama
+> — William James
 
 </div>
 
