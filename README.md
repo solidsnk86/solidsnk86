@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Isaac Newton
+> — Friedrich Nietzsche
 
 </div>
 
