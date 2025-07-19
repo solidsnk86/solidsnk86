@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
 >
-> — Platón
+> — Isaac Newton
 
 </div>
 
