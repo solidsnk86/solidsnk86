@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"La pluma es la lengua del alma."*
 >
-> — Salvador Dalí
+> — Miguel de Cervantes
 
 </div>
 
