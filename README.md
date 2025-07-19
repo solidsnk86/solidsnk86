@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Friedrich Nietzsche
+> — Salvador Dalí
 
 </div>
 
