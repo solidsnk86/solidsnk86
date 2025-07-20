@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Sócrates
+> — Nelson Mandela
 
 </div>
 
