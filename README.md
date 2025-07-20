@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Dalai Lama
+> — Albert Einstein
 
 </div>
 
