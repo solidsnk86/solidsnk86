@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Miguel de Cervantes
+> — Sócrates
 
 </div>
 
@@ -74,12 +74,8 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 7
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/BartoszJarocki" title="BartoszJarocki">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1017620?v=4" alt="Avatar de BartoszJarocki" />
-  </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
@@ -99,10 +95,6 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
   <a href="https://github.com/torvalds" title="torvalds">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="Avatar de torvalds" />
-  </a>
-
-  <a href="https://github.com/wesbos" title="wesbos">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/176013?v=4" alt="Avatar de wesbos" />
   </a>
 
 </div>
