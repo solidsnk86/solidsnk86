@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"La pluma es la lengua del alma."*
 >
-> — Albert Einstein
+> — Miguel de Cervantes
 
 </div>
 
