@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Charles Darwin
+> — Jean-Paul Sartre
 
 </div>
 
