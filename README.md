@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Protágoras
+> — Mahatma Gandhi
 
 </div>
 
