@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Buda
+> — Oscar Wilde
 
 </div>
 
