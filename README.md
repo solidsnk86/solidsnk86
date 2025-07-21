@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Leonardo da Vinci
+> — William James
 
 </div>
 
