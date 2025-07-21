@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"El hombre es la medida de todas las cosas."*
 >
-> — Marco Aurelio
+> — Protágoras
 
 </div>
 
