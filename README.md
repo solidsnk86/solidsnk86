@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — John Lennon
+> — Buda
 
 </div>
 
