@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Oscar Wilde
+> — Leonardo da Vinci
 
 </div>
 
