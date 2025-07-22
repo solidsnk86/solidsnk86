@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — Gabriel García Márquez
+> — Salvador Dalí
 
 </div>
 
