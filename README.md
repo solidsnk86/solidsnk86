@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Marco Aurelio
+> — Jean-Jacques Rousseau
 
 </div>
 
