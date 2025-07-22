@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La paciencia es amarga, pero sus frutos son dulces."*
 >
-> — Edgar Allan Poe
+> — Jean-Jacques Rousseau
 
 </div>
 
