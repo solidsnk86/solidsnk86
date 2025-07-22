@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Sócrates
+> — Edgar Allan Poe
 
 </div>
 
