@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que quiere interesar a los demás tiene que provocarlos."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Salvador Dalí
+> — Platón
 
 </div>
 
