@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé el cambio que quieres ver en el mundo."*
+> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
 >
-> — Mahatma Gandhi
+> — Søren Kierkegaard
 
 </div>
 
@@ -74,8 +74,12 @@ En mi portafolio web encontrarás una selección de mis proyectos más destacado
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 6
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/0GiS0" title="0GiS0">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/175379?v=4" alt="Avatar de 0GiS0" />
+  </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
