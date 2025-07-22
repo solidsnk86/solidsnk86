@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Søren Kierkegaard
+> — Mahatma Gandhi
 
 </div>
 
