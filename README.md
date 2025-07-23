@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
-> — John Lennon
+> — Henry Ford
 
 </div>
 
