@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Sócrates
+> — John Lennon
 
 </div>
 
