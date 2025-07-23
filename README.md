@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Leonardo da Vinci
+> — Nelson Mandela
 
 </div>
 
