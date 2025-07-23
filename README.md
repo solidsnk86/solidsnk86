@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Søren Kierkegaard
+> — Edgar Allan Poe
 
 </div>
 
