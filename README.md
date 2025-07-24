@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Marco Aurelio
+> — Rabindranath Tagore
 
 </div>
 
