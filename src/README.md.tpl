@@ -43,18 +43,9 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 <br>
 
-## ✨ Mi Portafolio
+## 💼 Mi Portafolio
 
-<div align="center">
-
-### ¡Te invito a mi sitio web!
-
-En mi portafolio web encontrarás una selección de mis proyectos más destacados. Además, te animo a explorar mi aplicación, donde podrás ver tus estadísticas de GitHub al iniciar sesión.
-
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-2A2A2A?style=for-the-badge&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app)](https://calcagni-gabriel.vercel.app)
-[![GitHubStatsApp Badge](https://img.shields.io/badge/-GitHub_Stats-753F98?style=for-the-badge&logo=vercel&logoColor=white&link=https://calcagni-gabriel.vercel.app/github-stats)](https://calcagni-gabriel.vercel.app/github-stats)
-
-</div>
+Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.app](https://calcagni-gabriel-dev.vercel.app)
 
 ## 📫 Conecta conmigo
 
