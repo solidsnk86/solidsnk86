@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Aristóteles
+> — Viktor Frankl
 
 </div>
 
