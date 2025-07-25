@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Solo sé que no sé nada."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Sócrates
+> — William James
 
 </div>
 
