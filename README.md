@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Mahatma Gandhi
+> — Gabriel García Márquez
 
 </div>
 
