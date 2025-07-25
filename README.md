@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial."*
 >
-> — Nelson Mandela
+> — Marco Aurelio
 
 </div>
 
