@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Gabriel García Márquez
+> — Viktor Frankl
 
 </div>
 
