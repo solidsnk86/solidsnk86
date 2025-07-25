@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — William James
+> — Gabriel García Márquez
 
 </div>
 
