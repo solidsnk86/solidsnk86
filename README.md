@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Protágoras
+> — Rabindranath Tagore
 
 </div>
 
