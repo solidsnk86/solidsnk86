@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Pablo Picasso
+> — Francis Bacon
 
 </div>
 
