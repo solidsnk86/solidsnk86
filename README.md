@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Rabindranath Tagore
+> — Voltaire
 
 </div>
 
