@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación es más importante que el conocimiento."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Albert Einstein
+> — Mahatma Gandhi
 
 </div>
 
