@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Marco Aurelio
+> — Oscar Wilde
 
 </div>
 
