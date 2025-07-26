@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Marco Aurelio
+> — Oscar Wilde
 
 </div>
 
