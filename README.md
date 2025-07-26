@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"La imaginación es más importante que el conocimiento."*
 >
-> — Francis Bacon
+> — Albert Einstein
 
 </div>
 
