@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Jean-Paul Sartre
+> — Edgar Allan Poe
 
 </div>
 
