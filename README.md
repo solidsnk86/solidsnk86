@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
 >
-> — Edgar Allan Poe
+> — Platón
 
 </div>
 
