@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Pablo Picasso
+> — Pedro Calderón de la Barca
 
 </div>
 
