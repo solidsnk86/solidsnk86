@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que sabemos es una gota de agua; lo que ignoramos es el océano."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Isaac Newton
+> — John Lennon
 
 </div>
 
