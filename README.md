@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Francis Bacon
+> — Mahatma Gandhi
 
 </div>
 
