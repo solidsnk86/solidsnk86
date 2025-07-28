@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Martin Luther King Jr.
+> — Aristóteles
 
 </div>
 
