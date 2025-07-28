@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Pedro Calderón de la Barca
+> — Friedrich Nietzsche
 
 </div>
 
