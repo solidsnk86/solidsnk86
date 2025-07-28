@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La excelencia no es un acto, sino un hábito."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Aristóteles
+> — Sócrates
 
 </div>
 
