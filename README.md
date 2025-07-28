@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Sócrates
+> — Pedro Calderón de la Barca
 
 </div>
 
