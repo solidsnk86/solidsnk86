@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Confucio
+> — Dalai Lama
 
 </div>
 
