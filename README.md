@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Marco Aurelio
+> — Nelson Mandela
 
 </div>
 
