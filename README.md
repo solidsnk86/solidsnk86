@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Dalai Lama
+> — Nelson Mandela
 
 </div>
 
