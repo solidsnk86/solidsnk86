@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
 > — Nelson Mandela
 
