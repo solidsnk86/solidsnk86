@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
 >
-> — Henry Ford
+> — Marco Aurelio
 
 </div>
 
