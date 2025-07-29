@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
 >
-> — Aristóteles
+> — Confucio
 
 </div>
 
