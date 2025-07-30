@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"Solo sé que no sé nada."*
 >
-> — Dalai Lama
+> — Sócrates
 
 </div>
 
