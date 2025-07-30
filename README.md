@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Fiódor Dostoievski
+> — Francis Bacon
 
 </div>
 
