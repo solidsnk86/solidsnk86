@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pluma es la lengua del alma."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Miguel de Cervantes
+> — Dalai Lama
 
 </div>
 
