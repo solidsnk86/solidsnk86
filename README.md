@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Francis Bacon
+> — Friedrich Nietzsche
 
 </div>
 
