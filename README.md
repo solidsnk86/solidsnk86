@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Jimi Hendrix
+> — Francis Bacon
 
 </div>
 
