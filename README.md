@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Jean-Paul Sartre
+> — Jimi Hendrix
 
 </div>
 
