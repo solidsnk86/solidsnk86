@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Jean-Jacques Rousseau
+> — Jimi Hendrix
 
 </div>
 
