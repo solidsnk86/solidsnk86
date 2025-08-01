@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Marco Aurelio
+> — Leonardo da Vinci
 
 </div>
 
