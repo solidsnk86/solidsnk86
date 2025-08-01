@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Sócrates
+> — Nelson Mandela
 
 </div>
 
