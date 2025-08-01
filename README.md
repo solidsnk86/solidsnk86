@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
 >
-> — Aristóteles
+> — Dalai Lama
 
 </div>
 
