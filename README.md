@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Nelson Mandela
+> — Aristóteles
 
 </div>
 
