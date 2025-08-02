@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Friedrich Nietzsche
+> — Nelson Mandela
 
 </div>
 
