@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Fiódor Dostoievski
+> — Martin Luther King Jr.
 
 </div>
 
