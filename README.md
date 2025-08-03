@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Aristóteles
+> — Jean-Paul Sartre
 
 </div>
 
