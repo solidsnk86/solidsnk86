@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Protágoras
+> — William James
 
 </div>
 
