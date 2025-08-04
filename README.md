@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento habla, pero la sabiduría escucha."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Jimi Hendrix
+> — Aristóteles
 
 </div>
 
