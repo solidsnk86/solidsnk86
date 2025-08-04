@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"El arte de ser sabio es el arte de saber qué pasar por alto."*
 >
-> — Buda
+> — William James
 
 </div>
 
