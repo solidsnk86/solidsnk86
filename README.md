@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La belleza perece en la vida, pero es inmortal en el arte."*
+> *"El conocimiento habla, pero la sabiduría escucha."*
 >
-> — Leonardo da Vinci
+> — Jimi Hendrix
 
 </div>
 
