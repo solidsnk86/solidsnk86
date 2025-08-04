@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La duda es el principio de la sabiduría."*
+> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
 >
 > — Aristóteles
 
