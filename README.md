@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"La belleza perece en la vida, pero es inmortal en el arte."*
 >
-> — Buda
+> — Leonardo da Vinci
 
 </div>
 
