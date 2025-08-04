@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Pablo Picasso
+> — Nelson Mandela
 
 </div>
 
