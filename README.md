@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"La duda es el principio de la sabiduría."*
 >
-> — Nelson Mandela
+> — Aristóteles
 
 </div>
 
