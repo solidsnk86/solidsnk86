@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Friedrich Nietzsche
+> — Edgar Allan Poe
 
 </div>
 
