@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Protágoras
+> — Jean-Paul Sartre
 
 </div>
 
