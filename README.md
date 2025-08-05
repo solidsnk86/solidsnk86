@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La vida no examinada no merece ser vivida."*
 >
-> — Edgar Allan Poe
+> — Sócrates
 
 </div>
 
