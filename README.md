@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"La excelencia no es un acto, sino un hábito."*
 >
-> — Gabriel García Márquez
+> — Aristóteles
 
 </div>
 
