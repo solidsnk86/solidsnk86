@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Marco Aurelio
+> — Gabriel García Márquez
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 7
+## No me siguen de nuevo: 8
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/0GiS0" title="0GiS0">
@@ -74,6 +74,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
+  </a>
+
+  <a href="https://github.com/ander515" title="ander515">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/142128771?v=4" alt="Avatar de ander515" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
