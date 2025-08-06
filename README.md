@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Marcel Proust
+> — Friedrich Nietzsche
 
 </div>
 
