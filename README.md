@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Henry Ford
+> — Pedro Calderón de la Barca
 
 </div>
 
