@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
 >
-> — Pedro Calderón de la Barca
+> — Octavio Paz
 
 </div>
 
