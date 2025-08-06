@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud."*
 >
-> — Isabel Allende
+> — Marco Aurelio
 
 </div>
 
