@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"No hay camino para la paz, la paz es el camino."*
 >
-> — Octavio Paz
+> — Mahatma Gandhi
 
 </div>
 
