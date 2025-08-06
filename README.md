@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme."*
 >
-> — Friedrich Nietzsche
+> — Marco Aurelio
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/0GiS0" title="0GiS0">
@@ -76,16 +76,8 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
   </a>
 
-  <a href="https://github.com/ander515" title="ander515">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/142128771?v=4" alt="Avatar de ander515" />
-  </a>
-
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/leo-lem" title="leo-lem">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/81310398?v=4" alt="Avatar de leo-lem" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
@@ -94,10 +86,6 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
-  </a>
-
-  <a href="https://github.com/vokrob" title="vokrob">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/106639488?v=4" alt="Avatar de vokrob" />
   </a>
 
 </div>
