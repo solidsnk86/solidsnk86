@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay camino para la paz, la paz es el camino."*
+> *"Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta."*
 >
-> — Mahatma Gandhi
+> — Henry Ford
 
 </div>
 
