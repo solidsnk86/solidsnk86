@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — William James
+> — Sócrates
 
 </div>
 
