@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Francis Bacon
+> — William James
 
 </div>
 
