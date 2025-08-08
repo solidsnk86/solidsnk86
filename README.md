@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"El que quiere interesar a los demás tiene que provocarlos."*
 >
-> — William James
+> — Salvador Dalí
 
 </div>
 
