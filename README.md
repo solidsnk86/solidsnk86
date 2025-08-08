@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Sócrates
+> — Mahatma Gandhi
 
 </div>
 
