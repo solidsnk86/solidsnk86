@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Jean-Paul Sartre
+> — Lao Tse
 
 </div>
 
