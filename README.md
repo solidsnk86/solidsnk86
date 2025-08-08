@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"La verdadera sabiduría está en reconocer la propia ignorancia."*
 >
-> — Jean-Paul Sartre
+> — Sócrates
 
 </div>
 
