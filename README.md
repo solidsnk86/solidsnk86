@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Friedrich Nietzsche
+> — Blaise Pascal
 
 </div>
 
