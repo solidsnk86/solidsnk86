@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Fiódor Dostoievski
+> — Jean-Paul Sartre
 
 </div>
 
