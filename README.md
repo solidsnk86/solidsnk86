@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Marco Aurelio
+> — Buda
 
 </div>
 
