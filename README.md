@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
 >
-> — Lao Tse
+> — Marco Aurelio
 
 </div>
 
@@ -65,11 +65,15 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 7
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/0GiS0" title="0GiS0">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/175379?v=4" alt="Avatar de 0GiS0" />
+  </a>
+
+  <a href="https://github.com/AbdullahRashid133" title="AbdullahRashid133">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/89905186?v=4" alt="Avatar de AbdullahRashid133" />
   </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
@@ -86,6 +90,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
+  </a>
+
+  <a href="https://github.com/xgek" title="xgek">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/73622401?v=4" alt="Avatar de xgek" />
   </a>
 
 </div>
