@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"Sé el cambio que quieres ver en el mundo."*
 >
-> — Friedrich Nietzsche
+> — Mahatma Gandhi
 
 </div>
 
