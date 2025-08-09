@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Lao Tse
+> — Edgar Allan Poe
 
 </div>
 
