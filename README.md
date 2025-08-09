@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es la medida de todas las cosas."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Protágoras
+> — Lao Tse
 
 </div>
 
