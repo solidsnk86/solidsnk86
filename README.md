@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay mayor poder que el conocimiento de uno mismo."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Lao Tse
+> — Gabriel García Márquez
 
 </div>
 
