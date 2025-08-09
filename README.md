@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El presente es la única realidad que tenemos."*
+> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
 >
-> — Buda
+> — Marcel Proust
 
 </div>
 
