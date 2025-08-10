@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"El hombre es libre en el momento en que desea serlo."*
 >
-> — Jean-Paul Sartre
+> — Voltaire
 
 </div>
 
