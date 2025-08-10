@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Leonardo da Vinci
+> — Francis Bacon
 
 </div>
 
