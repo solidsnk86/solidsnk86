@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No hay viento favorable para el que no sabe a dónde va."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Séneca
+> — Jean-Paul Sartre
 
 </div>
 
