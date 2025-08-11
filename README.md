@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Edgar Allan Poe
+> — Jean-Paul Sartre
 
 </div>
 
