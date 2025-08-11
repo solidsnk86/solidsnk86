@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es realmente simple, pero insistimos en hacerla complicada."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Confucio
+> — Jean-Paul Sartre
 
 </div>
 
