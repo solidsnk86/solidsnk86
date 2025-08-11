@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
+> *"Aprender a sonreír es aprender a ser libres."*
 >
-> — Nelson Mandela
+> — William James
 
 </div>
 
