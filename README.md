@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Sócrates
+> — Jorge Luis Borges
 
 </div>
 
