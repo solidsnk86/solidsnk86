@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
+> *"La poesía es el eco de la melodía del universo en el corazón de los humanos."*
 >
-> — Edgar Allan Poe
+> — Rabindranath Tagore
 
 </div>
 
