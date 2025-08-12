@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida no examinada no merece ser vivida."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Sócrates
+> — Nelson Mandela
 
 </div>
 
