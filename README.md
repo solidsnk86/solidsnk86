@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El tiempo es la imagen móvil de la eternidad inmóvil."*
+> *"La verdad es hija del tiempo, no de la autoridad."*
 >
-> — Platón
+> — Francis Bacon
 
 </div>
 
