@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Francis Bacon
+> — Nelson Mandela
 
 </div>
 
