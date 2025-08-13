@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"Quien tiene un porqué para vivir encontrará casi siempre el cómo."*
 >
-> — Oscar Wilde
+> — Viktor Frankl
 
 </div>
 
