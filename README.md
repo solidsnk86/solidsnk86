@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
+> *"El presente es la única realidad que tenemos."*
 >
-> — Blaise Pascal
+> — Buda
 
 </div>
 
