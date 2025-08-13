@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Lo que no te mata te hace más fuerte."*
+> *"La justicia sin poder es inútil. El poder sin justicia es tiranía."*
 >
-> — Friedrich Nietzsche
+> — Blaise Pascal
 
 </div>
 
