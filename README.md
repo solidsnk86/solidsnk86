@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Recuerda que tienes poder sobre tu mente, no sobre los eventos externos."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Marco Aurelio
+> — Lao Tse
 
 </div>
 
