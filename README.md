@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es tan importante como la comida. Pero no alimenta."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Gabriel García Márquez
+> — Pedro Calderón de la Barca
 
 </div>
 
