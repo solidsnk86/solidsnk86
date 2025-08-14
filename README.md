@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Una es más auténtica, mientras más se parece a lo que soñó de sí misma."*
+> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
 >
-> — Octavio Paz
+> — Nelson Mandela
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 6
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/0GiS0" title="0GiS0">
@@ -74,6 +74,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
+  </a>
+
+  <a href="https://github.com/anasmohammad611" title="anasmohammad611">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/42072227?v=4" alt="Avatar de anasmohammad611" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
