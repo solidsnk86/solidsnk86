@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pintura es poesía muda; la poesía, pintura ciega."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Leonardo da Vinci
+> — Lao Tse
 
 </div>
 
