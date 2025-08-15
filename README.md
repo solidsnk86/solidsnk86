@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"La duda es uno de los nombres de la inteligencia."*
 >
-> — Jean-Jacques Rousseau
+> — Jorge Luis Borges
 
 </div>
 
