@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Aprender a sonreír es aprender a ser libres."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — William James
+> — Martin Luther King Jr.
 
 </div>
 
