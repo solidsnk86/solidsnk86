@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la fuerza más poderosa del universo."*
+> *"La vida es lo que pasa mientras estás ocupado haciendo otros planes."*
 >
-> — Martin Luther King Jr.
+> — John Lennon
 
 </div>
 
