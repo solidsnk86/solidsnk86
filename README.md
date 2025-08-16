@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
+> *"La felicidad no está en la ciencia sino en la adquisición de la ciencia."*
 >
-> — Friedrich Nietzsche
+> — Edgar Allan Poe
 
 </div>
 
