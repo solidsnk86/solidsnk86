@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es amarga, pero sus frutos son dulces."*
+> *"El que tiene un porqué para vivir puede soportar casi cualquier cómo."*
 >
-> — Jean-Jacques Rousseau
+> — Friedrich Nietzsche
 
 </div>
 
