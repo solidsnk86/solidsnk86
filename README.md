@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Søren Kierkegaard
+> — Martin Luther King Jr.
 
 </div>
 
