@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"La vida es un sueño, y los sueños, sueños son."*
 >
-> — Jean-Paul Sartre
+> — Pedro Calderón de la Barca
 
 </div>
 
