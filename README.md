@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La verdad es hija del tiempo, no de la autoridad."*
+> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
 >
-> — Francis Bacon
+> — Isabel Allende
 
 </div>
 
