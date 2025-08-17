@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es un sueño, y los sueños, sueños son."*
+> *"La mayor gloria no es nunca caer, sino levantarse siempre."*
 >
-> — Pedro Calderón de la Barca
+> — Nelson Mandela
 
 </div>
 
