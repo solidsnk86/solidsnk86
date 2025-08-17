@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."*
+> *"El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice."*
 >
-> — Nelson Mandela
+> — Aristóteles
 
 </div>
 
@@ -65,15 +65,11 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 6
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/0GiS0" title="0GiS0">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/175379?v=4" alt="Avatar de 0GiS0" />
-  </a>
-
-  <a href="https://github.com/DjangoWithArif" title="DjangoWithArif">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/74807209?v=4" alt="Avatar de DjangoWithArif" />
   </a>
 
   <a href="https://github.com/Kikobeats" title="Kikobeats">
