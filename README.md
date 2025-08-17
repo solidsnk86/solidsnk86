@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro."*
+> *"El amor es la fuerza más poderosa del universo."*
 >
-> — Isabel Allende
+> — Martin Luther King Jr.
 
 </div>
 
