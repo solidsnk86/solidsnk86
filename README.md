@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad no es algo prefabricado. Viene de tus propias acciones."*
+> *"El amor es tan importante como la comida. Pero no alimenta."*
 >
-> — Dalai Lama
+> — Gabriel García Márquez
 
 </div>
 
