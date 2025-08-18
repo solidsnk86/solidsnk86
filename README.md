@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Publio Siro
+> — Alan Kay
 
 </div>
 
