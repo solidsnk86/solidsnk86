@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Alan Kay
+> — Anaïs Nin
 
 </div>
 
