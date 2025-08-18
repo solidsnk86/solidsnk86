@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos."*
+> *"La música es el arte más cercano a las lágrimas y la memoria."*
 >
-> — Marcel Proust
+> — Oscar Wilde
 
 </div>
 
