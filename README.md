@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Aristóteles
+> — William Shakespeare
 
 </div>
 
