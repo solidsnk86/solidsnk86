@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música es el arte más cercano a las lágrimas y la memoria."*
+> *"El hombre es lo que hace con lo que hicieron de él."*
 >
-> — Oscar Wilde
+> — Jean-Paul Sartre
 
 </div>
 
