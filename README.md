@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
 >
-> — Khalil Gibran
+> — Jean-Paul Sartre
 
 </div>
 
