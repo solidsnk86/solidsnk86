@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre es lo que hace con lo que hicieron de él."*
+> *"No hay mayor poder que el conocimiento de uno mismo."*
 >
-> — Jean-Paul Sartre
+> — Lao Tse
 
 </div>
 
