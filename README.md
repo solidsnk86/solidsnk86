@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad no es hacer lo que queremos, sino querer lo que hacemos."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Jean-Paul Sartre
+> — Publio Siro
 
 </div>
 
