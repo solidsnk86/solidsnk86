@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Proverbio árabe
+> — San Agustín
 
 </div>
 
