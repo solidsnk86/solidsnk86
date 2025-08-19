@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Franklin D. Roosevelt
+> — Theodore Roosevelt
 
 </div>
 
