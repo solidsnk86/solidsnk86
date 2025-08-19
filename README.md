@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — San Agustín
+> — John Lennon
 
 </div>
 
