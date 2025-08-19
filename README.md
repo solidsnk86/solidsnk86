@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Anaïs Nin
+> — Buda
 
 </div>
 
