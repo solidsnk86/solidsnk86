@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Arthur Schopenhauer
+> — Alan Kay
 
 </div>
 
