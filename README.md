@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Alan Kay
+> — Franklin D. Roosevelt
 
 </div>
 
