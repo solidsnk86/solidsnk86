@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Theodore Roosevelt
+> — Anaïs Nin
 
 </div>
 
