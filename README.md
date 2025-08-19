@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — John Lennon
+> — Arthur Schopenhauer
 
 </div>
 
