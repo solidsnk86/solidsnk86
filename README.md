@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — William Shakespeare
+> — Francis Bacon
 
 </div>
 
