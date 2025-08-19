@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
 >
-> — Francis Bacon
+> — Immanuel Kant
 
 </div>
 
