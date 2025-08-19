@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Buda
+> — Publio Siro
 
 </div>
 
