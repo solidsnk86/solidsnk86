@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"El hombre está condenado a ser libre."*
 >
-> — Johann Goethe
+> — Jean-Paul Sartre
 
 </div>
 
