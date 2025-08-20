@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento es poder."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Francis Bacon
+> — George Santayana
 
 </div>
 
