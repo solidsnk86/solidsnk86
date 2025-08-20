@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Francis Bacon
+> — Muhammad Ali
 
 </div>
 
