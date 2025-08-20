@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — James Allen
+> — Voltaire
 
 </div>
 
