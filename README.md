@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> — Jim Rohn
+> — Confucio
 
 </div>
 
