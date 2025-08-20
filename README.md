@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Confucio
+> — Napoleón Bonaparte
 
 </div>
 
