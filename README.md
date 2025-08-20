@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> — George Herbert
+> — Johann Goethe
 
 </div>
 
