@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — George Santayana
+> — George Herbert
 
 </div>
 
