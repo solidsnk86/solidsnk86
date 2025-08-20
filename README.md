@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"El conocimiento es poder."*
 >
-> — Voltaire
+> — Francis Bacon
 
 </div>
 
