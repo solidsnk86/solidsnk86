@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Jean-Paul Sartre
+> — Francis Bacon
 
 </div>
 
