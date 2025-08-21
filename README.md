@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Heráclito
+> — Walter Winchell
 
 </div>
 
