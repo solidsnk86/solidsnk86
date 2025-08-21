@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Albert Einstein
+> — Pablo Picasso
 
 </div>
 
