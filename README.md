@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Ralph Waldo Emerson
+> — Henry Ford
 
 </div>
 
