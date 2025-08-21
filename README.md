@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> — Walter Winchell
+> — Ralph Waldo Emerson
 
 </div>
 
