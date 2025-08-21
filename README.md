@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Pablo Picasso
+> — Heráclito
 
 </div>
 
