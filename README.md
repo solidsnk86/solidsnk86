@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — Henry Ford
+> — Albert Einstein
 
 </div>
 
