@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Rabindranath Tagore
+> — John Lennon
 
 </div>
 
