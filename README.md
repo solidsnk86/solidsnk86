@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El conocimiento es poder."*
 >
-> — C. S. Lewis
+> — Francis Bacon
 
 </div>
 
