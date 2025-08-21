@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento es poder."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Francis Bacon
+> — Albert Einstein
 
 </div>
 
