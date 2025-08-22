@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Immanuel Kant
+> — Frank Sinatra
 
 </div>
 
