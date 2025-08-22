@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — Martin Luther King Jr.
+> — Madre Teresa
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 6
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/0GiS0" title="0GiS0">
@@ -82,6 +82,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/midudev" title="midudev">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1561955?v=4" alt="Avatar de midudev" />
+  </a>
+
+  <a href="https://github.com/narex-ai" title="narex-ai">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/195282412?v=4" alt="Avatar de narex-ai" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
