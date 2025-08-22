@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — George Herbert
+> — Madre Teresa
 
 </div>
 
