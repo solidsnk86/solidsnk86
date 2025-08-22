@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Theodore Roosevelt
+> — Ludwig Wittgenstein
 
 </div>
 
