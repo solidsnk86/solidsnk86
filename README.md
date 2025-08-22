@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Frank Sinatra
+> — Victor Hugo
 
 </div>
 
