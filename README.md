@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Mahatma Gandhi
+> — Martin Luther King Jr.
 
 </div>
 
