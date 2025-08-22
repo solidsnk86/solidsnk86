@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Madre Teresa
+> — Muhammad Ali
 
 </div>
 
