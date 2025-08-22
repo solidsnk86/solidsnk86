@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Victor Hugo
+> — George Herbert
 
 </div>
 
