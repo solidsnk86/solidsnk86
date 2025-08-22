@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Albert Einstein
+> — Theodore Roosevelt
 
 </div>
 
