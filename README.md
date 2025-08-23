@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
