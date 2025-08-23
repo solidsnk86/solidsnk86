@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — Michael Jordan
+> — Madre Teresa
 
 </div>
 
