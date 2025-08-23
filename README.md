@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — Proverbio indígena
+> — Albert Einstein
 
 </div>
 
