@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Michel de Montaigne
+> — Immanuel Kant
 
 </div>
 
