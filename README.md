@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Winston Churchill
+> — Napoleón Bonaparte
 
 </div>
 
