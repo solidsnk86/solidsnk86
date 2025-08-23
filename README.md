@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Buda
+> — Proverbio indígena
 
 </div>
 
