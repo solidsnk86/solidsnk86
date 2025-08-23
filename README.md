@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Napoleón Bonaparte
+> — San Agustín
 
 </div>
 
