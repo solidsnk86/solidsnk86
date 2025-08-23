@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Henry Ford
+> — Michel de Montaigne
 
 </div>
 
