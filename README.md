@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — San Agustín
+> — Buda
 
 </div>
 
