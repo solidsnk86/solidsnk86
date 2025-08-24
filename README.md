@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Aristóteles
+> — Henry Ford
 
 </div>
 
