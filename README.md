@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Robert Collier
+> — Arthur Schopenhauer
 
 </div>
 
