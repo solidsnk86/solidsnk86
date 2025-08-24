@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Albert Einstein
+> — Arthur Schopenhauer
 
 </div>
 
