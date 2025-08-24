@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Platón
+> — Aristóteles
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 7
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/0GiS0" title="0GiS0">
@@ -76,20 +76,12 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
   </a>
 
-  <a href="https://github.com/Teymur-Babayev" title="Teymur-Babayev">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/164462326?v=4" alt="Avatar de Teymur-Babayev" />
-  </a>
-
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/1561955?v=4" alt="Avatar de midudev" />
-  </a>
-
-  <a href="https://github.com/narex-ai" title="narex-ai">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/195282412?v=4" alt="Avatar de narex-ai" />
   </a>
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
