@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Leonardo da Vinci
+> — George Herbert
 
 </div>
 
