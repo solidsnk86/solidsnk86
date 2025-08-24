@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Aristóteles
+> — Leonardo da Vinci
 
 </div>
 
