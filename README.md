@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — Muhammad Ali
+> — Albert Einstein
 
 </div>
 
