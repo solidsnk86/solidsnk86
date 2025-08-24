@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Albert Einstein
+> — Aristóteles
 
 </div>
 
