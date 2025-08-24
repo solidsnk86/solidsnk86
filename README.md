@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Henry Ford
+> — Jim Rohn
 
 </div>
 
