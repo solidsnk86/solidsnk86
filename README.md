@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Arthur Schopenhauer
+> — Muhammad Ali
 
 </div>
 
