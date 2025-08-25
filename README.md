@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — Platón
+> — Madre Teresa
 
 </div>
 
