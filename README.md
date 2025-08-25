@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Jim Rohn
+> — Albert Einstein
 
 </div>
 
