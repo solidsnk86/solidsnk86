@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Robert Collier
+> — Aristóteles
 
 </div>
 
