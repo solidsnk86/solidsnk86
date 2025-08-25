@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Frank Sinatra
+> — Napoleón Bonaparte
 
 </div>
 
