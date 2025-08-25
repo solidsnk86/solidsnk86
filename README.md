@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Albert Einstein
+> — Marie Curie
 
 </div>
 
