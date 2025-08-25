@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Marie Curie
+> — Heráclito
 
 </div>
 
