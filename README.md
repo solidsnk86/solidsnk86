@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Heráclito
+> — Frank Sinatra
 
 </div>
 
