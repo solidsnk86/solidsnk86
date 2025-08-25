@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Napoleón Bonaparte
+> — Robert Collier
 
 </div>
 
