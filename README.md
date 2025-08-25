@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Aristóteles
+> — Anónimo
 
 </div>
 
