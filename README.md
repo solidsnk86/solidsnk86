@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
 > — Platón
 
