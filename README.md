@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Anónimo
+> — Platón
 
 </div>
 
