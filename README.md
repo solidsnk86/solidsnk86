@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Robert Louis Stevenson
+> — San Juan Bosco
 
 </div>
 
