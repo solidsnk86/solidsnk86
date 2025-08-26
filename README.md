@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — San Juan Bosco
+> — Michelle Obama
 
 </div>
 
