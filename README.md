@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
 >
 > — Immanuel Kant
 
