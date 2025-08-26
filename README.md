@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Malcolm X
+> — George Herbert
 
 </div>
 
