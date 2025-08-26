@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Platón
+> — Immanuel Kant
 
 </div>
 
