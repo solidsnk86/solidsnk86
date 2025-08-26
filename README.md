@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Immanuel Kant
+> — George Herbert
 
 </div>
 
