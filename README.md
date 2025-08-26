@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — George Herbert
+> — Platón
 
 </div>
 
