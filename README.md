@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Madre Teresa
+> — Malcolm X
 
 </div>
 
