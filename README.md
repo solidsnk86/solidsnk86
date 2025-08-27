@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Albert Einstein
+> — Franklin D. Roosevelt
 
 </div>
 
