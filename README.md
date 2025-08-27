@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Aristóteles
+> — Thomas Jefferson
 
 </div>
 
