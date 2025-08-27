@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — George Herbert
+> — Muhammad Ali
 
 </div>
 
