@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Frank Sinatra
+> — Aesopo
 
 </div>
 
