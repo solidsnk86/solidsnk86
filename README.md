@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Albert Einstein
+> — Aristóteles
 
 </div>
 
