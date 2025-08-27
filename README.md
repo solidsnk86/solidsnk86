@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Pablo Picasso
+> — George Herbert
 
 </div>
 
