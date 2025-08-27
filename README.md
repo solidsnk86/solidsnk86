@@ -17,7 +17,7 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
 > — Albert Einstein
 
