@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> — Aesopo
+> — Albert Einstein
 
 </div>
 
