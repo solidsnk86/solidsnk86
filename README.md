@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Muhammad Ali
+> — Frank Sinatra
 
 </div>
 
