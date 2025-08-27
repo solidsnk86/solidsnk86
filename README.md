@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> — Thomas Jefferson
+> — Albert Einstein
 
 </div>
 
