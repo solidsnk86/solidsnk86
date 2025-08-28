@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> — Albert Einstein
+> — Confucio
 
 </div>
 
