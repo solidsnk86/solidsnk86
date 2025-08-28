@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> — Anaïs Nin
+> — Albert Einstein
 
 </div>
 
