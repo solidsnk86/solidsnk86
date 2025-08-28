@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Albert Einstein
+> — Charles Dickens
 
 </div>
 
