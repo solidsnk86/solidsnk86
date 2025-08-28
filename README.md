@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Theodore Roosevelt
+> — Victor Hugo
 
 </div>
 
