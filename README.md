@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Charles Dickens
+> — Victor Hugo
 
 </div>
 
