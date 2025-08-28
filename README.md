@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Buda
+> — Albert Einstein
 
 </div>
 
