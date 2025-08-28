@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> — Franklin D. Roosevelt
+> — Henry Ford
 
 </div>
 
