@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> — Victor Hugo
+> — Albert Einstein
 
 </div>
 
