@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Albert Einstein
+> — Theodore Roosevelt
 
 </div>
 
