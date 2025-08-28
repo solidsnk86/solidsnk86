@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Confucio
+> — Anaïs Nin
 
 </div>
 
