@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> — Henry Ford
+> — Johann Goethe
 
 </div>
 
