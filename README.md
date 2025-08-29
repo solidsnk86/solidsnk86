@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Albert Einstein
+> — George Eliot
 
 </div>
 
@@ -65,31 +65,11 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 8
+## No me siguen de nuevo: 3
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/0GiS0" title="0GiS0">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/175379?v=4" alt="Avatar de 0GiS0" />
-  </a>
-
-  <a href="https://github.com/Charles-Chrismann" title="Charles-Chrismann">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="Avatar de Charles-Chrismann" />
-  </a>
-
-  <a href="https://github.com/Kikobeats" title="Kikobeats">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/2096101?v=4" alt="Avatar de Kikobeats" />
-  </a>
-
-  <a href="https://github.com/asgeirtj" title="asgeirtj">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/27446620?v=4" alt="Avatar de asgeirtj" />
-  </a>
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/holasoymalva" title="holasoymalva">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/13058234?v=4" alt="Avatar de holasoymalva" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
