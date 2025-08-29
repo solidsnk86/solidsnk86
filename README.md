@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Dalai Lama
+> — George Herbert
 
 </div>
 
