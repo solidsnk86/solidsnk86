@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> — Napoleón Bonaparte
+> — Platón
 
 </div>
 
