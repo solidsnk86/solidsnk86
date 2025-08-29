@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Aristóteles
+> — Albert Einstein
 
 </div>
 
