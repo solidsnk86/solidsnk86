@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Albert Einstein
+> — Napoleón Bonaparte
 
 </div>
 
