@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — George Eliot
+> — Dalai Lama
 
 </div>
 
