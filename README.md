@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — George Herbert
+> — Aristóteles
 
 </div>
 
