@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Aristóteles
+> — Heráclito
 
 </div>
 
