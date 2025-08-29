@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Victor Hugo
+> — William Shakespeare
 
 </div>
 
