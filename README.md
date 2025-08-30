@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Honoré de Balzac
+> — Proverbio chino
 
 </div>
 
