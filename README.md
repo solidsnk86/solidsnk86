@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> — Albert Einstein
+> — Robert Louis Stevenson
 
 </div>
 
