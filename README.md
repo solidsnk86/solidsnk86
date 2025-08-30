@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Ludwig Wittgenstein
+> — Arthur Schopenhauer
 
 </div>
 
