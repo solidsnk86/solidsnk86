@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Rabindranath Tagore
+> — Ludwig Wittgenstein
 
 </div>
 
