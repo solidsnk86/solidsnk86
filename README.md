@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Robert Louis Stevenson
+> — Walter Winchell
 
 </div>
 
