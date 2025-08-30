@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Heráclito
+> — Rabindranath Tagore
 
 </div>
 
