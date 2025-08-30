@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Walter Winchell
+> — Aesopo
 
 </div>
 
