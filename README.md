@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Marie Curie
+> — Bono
 
 </div>
 
