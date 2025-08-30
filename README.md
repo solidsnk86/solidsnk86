@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Proverbio chino
+> — Marie Curie
 
 </div>
 
