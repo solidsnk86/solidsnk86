@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Arthur Schopenhauer
+> — Honoré de Balzac
 
 </div>
 
