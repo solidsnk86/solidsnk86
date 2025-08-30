@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> — Bono
+> — Charles R. Swindoll
 
 </div>
 
