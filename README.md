@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Lao Tse
+> — Muhammad Ali
 
 </div>
 
