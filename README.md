@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Anaïs Nin
+> — Aristóteles
 
 </div>
 
