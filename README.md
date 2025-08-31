@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
 >
-> — C. S. Lewis
+> — Charles Darwin
 
 </div>
 
