@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Lao Tse
+> — C. S. Lewis
 
 </div>
 
