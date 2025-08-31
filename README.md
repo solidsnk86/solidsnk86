@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Aristóteles
+> — Eleanor Roosevelt
 
 </div>
 
