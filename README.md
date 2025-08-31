@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Aesopo
+> — Lao Tse
 
 </div>
 
