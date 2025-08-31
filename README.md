@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
 >
-> — Charles Darwin
+> — Multatuli
 
 </div>
 
