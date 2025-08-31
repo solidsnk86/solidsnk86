@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Multatuli
+> — Lao Tse
 
 </div>
 
