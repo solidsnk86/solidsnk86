@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Muhammad Ali
+> — Anaïs Nin
 
 </div>
 
