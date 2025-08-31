@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> — Eleanor Roosevelt
+> — Albert Einstein
 
 </div>
 
