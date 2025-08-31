@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> — Francis Bacon
+> — Mahatma Gandhi
 
 </div>
 
