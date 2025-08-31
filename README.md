@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Albert Einstein
+> — Francis Bacon
 
 </div>
 
