@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Mahatma Gandhi
+> — Sigmund Freud
 
 </div>
 
