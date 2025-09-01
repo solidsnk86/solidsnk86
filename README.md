@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Buda
+> — Victor Hugo
 
 </div>
 
