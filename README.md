@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Sigmund Freud
+> — Robert Collier
 
 </div>
 
