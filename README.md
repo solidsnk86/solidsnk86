@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Anónimo
+> — Francis Bacon
 
 </div>
 
