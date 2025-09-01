@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Victor Hugo
+> — Aristóteles
 
 </div>
 
