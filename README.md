@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Francis Bacon
+> — Voltaire
 
 </div>
 
