@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Voltaire
+> — Buda
 
 </div>
 
