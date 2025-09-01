@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
 >
-> — Robert Collier
+> — Multatuli
 
 </div>
 
