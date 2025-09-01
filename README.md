@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Aristóteles
+> — Lao Tse
 
 </div>
 
