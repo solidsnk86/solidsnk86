@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Martin Luther King Jr.
+> — Leonardo da Vinci
 
 </div>
 
