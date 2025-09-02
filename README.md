@@ -15,11 +15,11 @@
 
 <div align="center">
 
-<h3>Frases ramdom</h3>
+<h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
 >
-> — Theodore Roosevelt
+> — Multatuli
 
 </div>
 
