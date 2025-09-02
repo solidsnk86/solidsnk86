@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Johann Goethe
+> — C. S. Lewis
 
 </div>
 
