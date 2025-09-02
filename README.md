@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Robert Louis Stevenson
+> — Bono
 
 </div>
 
