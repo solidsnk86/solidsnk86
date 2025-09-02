@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> — Multatuli
+> — Robert Louis Stevenson
 
 </div>
 
