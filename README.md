@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Albert Einstein
+> — Lao Tse
 
 </div>
 
