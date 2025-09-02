@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Lao Tse
+> — Theodore Roosevelt
 
 </div>
 
