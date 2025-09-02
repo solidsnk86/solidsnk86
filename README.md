@@ -17,9 +17,9 @@
 
 <h3>Frases ramdom</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Johann Goethe
+> — Lao Tse
 
 </div>
 
