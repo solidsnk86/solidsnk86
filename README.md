@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Immanuel Kant
+> — Eleanor Roosevelt
 
 </div>
 
