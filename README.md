@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Theodore Roosevelt
+> — Aesopo
 
 </div>
 
