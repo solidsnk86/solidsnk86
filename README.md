@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Eleanor Roosevelt
+> — Theodore Roosevelt
 
 </div>
 
