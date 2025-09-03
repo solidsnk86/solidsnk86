@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Aesopo
+> — Aristóteles
 
 </div>
 
