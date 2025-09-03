@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Jim Rohn
+> — Heráclito
 
 </div>
 
