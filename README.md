@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Malcolm X
+> — Jim Rohn
 
 </div>
 
