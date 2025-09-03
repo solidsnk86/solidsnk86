@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Heráclito
+> — Malcolm X
 
 </div>
 
