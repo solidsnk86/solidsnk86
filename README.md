@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Ludwig Wittgenstein
+> — Immanuel Kant
 
 </div>
 
