@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Heráclito
+> — Ludwig Wittgenstein
 
 </div>
 
