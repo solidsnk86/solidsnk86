@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Aristóteles
+> — George Santayana
 
 </div>
 
