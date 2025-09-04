@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Confucio
+> — Aesopo
 
 </div>
 
