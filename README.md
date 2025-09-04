@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Platón
+> — Walter Winchell
 
 </div>
 
