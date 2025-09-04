@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Francis Bacon
+> — Platón
 
 </div>
 
