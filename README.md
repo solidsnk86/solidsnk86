@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Aesopo
+> — Victor Hugo
 
 </div>
 
