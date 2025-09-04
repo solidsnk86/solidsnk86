@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Victor Hugo
+> — Arthur Schopenhauer
 
 </div>
 
