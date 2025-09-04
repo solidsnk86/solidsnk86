@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Publio Siro
+> — James Allen
 
 </div>
 
