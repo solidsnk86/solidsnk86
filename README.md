@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Walter Winchell
+> — Confucio
 
 </div>
 
