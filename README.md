@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — George Santayana
+> — San Agustín
 
 </div>
 
