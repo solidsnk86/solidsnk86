@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Albert Einstein
+> — James Allen
 
 </div>
 
