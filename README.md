@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Arthur Schopenhauer
+> — Theodore Roosevelt
 
 </div>
 
