@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Platón
+> — Arthur Schopenhauer
 
 </div>
 
