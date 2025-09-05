@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — James Allen
+> — William Shakespeare
 
 </div>
 
