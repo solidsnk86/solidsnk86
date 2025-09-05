@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — William Shakespeare
+> — Platón
 
 </div>
 
