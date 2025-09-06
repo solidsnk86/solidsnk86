@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Mark Twain
+> — Confucio
 
 </div>
 
