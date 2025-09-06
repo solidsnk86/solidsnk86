@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Albert Einstein
+> — Frank Sinatra
 
 </div>
 
