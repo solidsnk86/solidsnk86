@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Tucídides
+> — Eleanor Roosevelt
 
 </div>
 
