@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Henry Ford
+> — Sigmund Freud
 
 </div>
 
