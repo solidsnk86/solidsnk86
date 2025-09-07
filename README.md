@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
 >
-> — Immanuel Kant
+> — Mary Anne Radmacher
 
 </div>
 
