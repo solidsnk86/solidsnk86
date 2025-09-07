@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Lao Tse
+> — Leonardo da Vinci
 
 </div>
 
