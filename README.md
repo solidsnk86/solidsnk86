@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Sigmund Freud
+> — Lao Tse
 
 </div>
 
