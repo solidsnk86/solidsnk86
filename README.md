@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Napoleón Bonaparte
+> — Ludwig Wittgenstein
 
 </div>
 
