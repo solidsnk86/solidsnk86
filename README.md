@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Charles Dickens
+> — Marco Aurelio
 
 </div>
 
