@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Dalai Lama
+> — Jim Rohn
 
 </div>
 
