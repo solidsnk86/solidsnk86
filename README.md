@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — C. S. Lewis
+> — Charles Dickens
 
 </div>
 
