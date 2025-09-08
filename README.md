@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Marco Aurelio
+> — Proverbio chino
 
 </div>
 
