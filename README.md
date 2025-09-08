@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Honoré de Balzac
+> — C. S. Lewis
 
 </div>
 
