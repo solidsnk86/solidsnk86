@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Jim Rohn
+> — Honoré de Balzac
 
 </div>
 
