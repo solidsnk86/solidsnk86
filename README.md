@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Proverbio chino
+> — Mark Twain
 
 </div>
 
