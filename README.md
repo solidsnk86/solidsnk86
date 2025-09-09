@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — León Tolstói
+> — George Santayana
 
 </div>
 
