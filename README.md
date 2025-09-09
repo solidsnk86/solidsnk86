@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Multatuli
+> — Proverbio indígena
 
 </div>
 
