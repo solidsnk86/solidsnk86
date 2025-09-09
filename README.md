@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento es poder."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Francis Bacon
+> — John Lennon
 
 </div>
 
