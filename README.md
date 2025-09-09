@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — George Santayana
+> — Michel de Montaigne
 
 </div>
 
