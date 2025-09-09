@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Lao Tse
+> — Marco Aurelio
 
 </div>
 
