@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Sigmund Freud
+> — George Santayana
 
 </div>
 
