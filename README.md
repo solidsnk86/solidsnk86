@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Leonardo da Vinci
+> — Albert Einstein
 
 </div>
 
