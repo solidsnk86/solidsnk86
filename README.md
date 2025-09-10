@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Anónimo
+> — Sigmund Freud
 
 </div>
 
