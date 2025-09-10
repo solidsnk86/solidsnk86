@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Honoré de Balzac
+> — Helen Keller
 
 </div>
 
