@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Albert Einstein
+> — Ludwig Wittgenstein
 
 </div>
 
