@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Jean-Paul Sartre
+> — Honoré de Balzac
 
 </div>
 
