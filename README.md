@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Albert Einstein
+> — Eleanor Roosevelt
 
 </div>
 
