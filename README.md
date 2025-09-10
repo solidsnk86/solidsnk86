@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Helen Keller
+> — Victor Hugo
 
 </div>
 
