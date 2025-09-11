@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Albert Einstein
+> — Confucio
 
 </div>
 
