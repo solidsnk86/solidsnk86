@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Proverbio indígena
+> — Leonardo da Vinci
 
 </div>
 
