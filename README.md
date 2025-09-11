@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Mark Twain
+> — Proverbio indígena
 
 </div>
 
