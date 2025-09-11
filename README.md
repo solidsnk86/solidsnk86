@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Marco Aurelio
+> — Marie Curie
 
 </div>
 
