@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Confucio
+> — Proverbio indígena
 
 </div>
 
