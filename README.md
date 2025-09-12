@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Charles R. Swindoll
+> — Bono
 
 </div>
 
