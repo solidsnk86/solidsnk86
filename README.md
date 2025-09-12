@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Helen Keller
+> — Eleanor Roosevelt
 
 </div>
 
