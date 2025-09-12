@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Muhammad Ali
+> — Helen Keller
 
 </div>
 
