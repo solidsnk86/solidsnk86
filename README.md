@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Bono
+> — Helen Keller
 
 </div>
 
