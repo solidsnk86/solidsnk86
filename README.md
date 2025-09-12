@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Platón
+> — Charles Dickens
 
 </div>
 
