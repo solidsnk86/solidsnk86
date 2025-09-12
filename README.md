@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Immanuel Kant
+> — Platón
 
 </div>
 
