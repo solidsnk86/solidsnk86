@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — León Tolstói
+> — San Agustín
 
 </div>
 
