@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Charles R. Swindoll
+> — Ludwig Wittgenstein
 
 </div>
 
