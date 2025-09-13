@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Napoleón Bonaparte
+> — Platón
 
 </div>
 
