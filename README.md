@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> — Alan Kay
+> — Platón
 
 </div>
 
