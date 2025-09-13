@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — San Juan Bosco
+> — Alan Kay
 
 </div>
 
