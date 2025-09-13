@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Victor Hugo
+> — Albert Einstein
 
 </div>
 
