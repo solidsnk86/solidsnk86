@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Lao Tse
+> — Napoleón Bonaparte
 
 </div>
 
