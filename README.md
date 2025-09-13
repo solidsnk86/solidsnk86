@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — San Agustín
+> — San Juan Bosco
 
 </div>
 
