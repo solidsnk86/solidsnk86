@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> — Albert Einstein
+> — León Tolstói
 
 </div>
 
@@ -65,11 +65,15 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 4
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/asxez" title="asxez">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/111694134?v=4" alt="Avatar de asxez" />
+  </a>
+
+  <a href="https://github.com/devddine" title="devddine">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/128975433?v=4" alt="Avatar de devddine" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
