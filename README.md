@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Immanuel Kant
+> — C. S. Lewis
 
 </div>
 
