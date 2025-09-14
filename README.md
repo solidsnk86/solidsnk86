@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Bono
+> — Albert Einstein
 
 </div>
 
