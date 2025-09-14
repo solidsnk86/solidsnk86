@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
 >
-> — Ludwig Wittgenstein
+> — Immanuel Kant
 
 </div>
 
