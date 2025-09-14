@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Albert Einstein
+> — Bono
 
 </div>
 
