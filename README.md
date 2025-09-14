@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El conocimiento es poder."*
 >
-> — Napoleón Bonaparte
+> — Francis Bacon
 
 </div>
 
