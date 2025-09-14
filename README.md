@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"La imaginación gobierna el mundo."*
 >
-> — C. S. Lewis
+> — Napoleón Bonaparte
 
 </div>
 
