@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Buda
+> — John Lennon
 
 </div>
 
