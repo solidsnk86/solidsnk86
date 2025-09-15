@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Pablo Picasso
+> — George Santayana
 
 </div>
 
