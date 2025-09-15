@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Francis Bacon
+> — Leonardo da Vinci
 
 </div>
 
