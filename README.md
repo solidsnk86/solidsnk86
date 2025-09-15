@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — George Santayana
+> — Fiódor Dostoievski
 
 </div>
 
