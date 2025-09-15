@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Henry Ford
+> — Pablo Picasso
 
 </div>
 
