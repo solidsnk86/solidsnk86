@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> — Leonardo da Vinci
+> — Henry Ford
 
 </div>
 
