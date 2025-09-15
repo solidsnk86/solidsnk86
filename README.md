@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Lao Tse
+> — Francis Bacon
 
 </div>
 
