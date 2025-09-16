@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Rabindranath Tagore
+> — Bono
 
 </div>
 
