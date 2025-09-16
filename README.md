@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Bono
+> — Arthur Schopenhauer
 
 </div>
 
