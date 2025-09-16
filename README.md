@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Confucio
+> — John Lennon
 
 </div>
 
