@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Jim Rohn
+> — Napoleón Bonaparte
 
 </div>
 
