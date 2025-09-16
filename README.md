@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Proverbio árabe
+> — Fiódor Dostoievski
 
 </div>
 
