@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Platón
+> — Aristóteles
 
 </div>
 
