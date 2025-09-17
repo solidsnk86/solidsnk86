@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
