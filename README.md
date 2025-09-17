@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Aristóteles
+> — George Eliot
 
 </div>
 
