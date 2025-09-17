@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Tucídides
+> — Leonardo da Vinci
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 6
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/asxez" title="asxez">
@@ -74,6 +74,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/devddine" title="devddine">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/128975433?v=4" alt="Avatar de devddine" />
+  </a>
+
+  <a href="https://github.com/dopaemon" title="dopaemon">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/43093213?v=4" alt="Avatar de dopaemon" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
