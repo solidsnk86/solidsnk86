@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Arthur Schopenhauer
+> — Marco Aurelio
 
 </div>
 
