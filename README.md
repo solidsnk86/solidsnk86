@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Marco Aurelio
+> — Malcolm X
 
 </div>
 
@@ -65,16 +65,8 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 3
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/Lincoln-Madaraka" title="Lincoln-Madaraka">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/117019629?v=4" alt="Avatar de Lincoln-Madaraka" />
-  </a>
-
-  <a href="https://github.com/SaadAbdElGhaffar" title="SaadAbdElGhaffar">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/158309546?v=4" alt="Avatar de SaadAbdElGhaffar" />
-  </a>
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
