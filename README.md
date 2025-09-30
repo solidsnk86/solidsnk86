@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"El conocimiento es poder."*
 >
-> — Malcolm X
+> — Francis Bacon
 
 </div>
 
