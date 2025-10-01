@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Tucídides
+> — Heráclito
 
 </div>
 
