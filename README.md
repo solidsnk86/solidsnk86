@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — John Lennon
+> — Platón
 
 </div>
 
