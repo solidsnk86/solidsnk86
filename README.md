@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Khalil Gibran
+> — Heráclito
 
 </div>
 
