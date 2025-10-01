@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Lao Tse
+> — Victor Hugo
 
 </div>
 
