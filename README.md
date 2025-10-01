@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Heráclito
+> — John Lennon
 
 </div>
 
