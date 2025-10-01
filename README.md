@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Victor Hugo
+> — Anaïs Nin
 
 </div>
 
