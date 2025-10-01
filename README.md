@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Charles R. Swindoll
+> — Dalai Lama
 
 </div>
 
