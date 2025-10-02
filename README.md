@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Ludwig Wittgenstein
+> — Muhammad Ali
 
 </div>
 
