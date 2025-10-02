@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"El conocimiento es poder."*
 >
-> — Frank Sinatra
+> — Francis Bacon
 
 </div>
 
