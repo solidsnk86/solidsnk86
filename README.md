@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Khalil Gibran
+> — Anónimo
 
 </div>
 
