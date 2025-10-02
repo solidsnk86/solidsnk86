@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Eleanor Roosevelt
+> — Confucio
 
 </div>
 
