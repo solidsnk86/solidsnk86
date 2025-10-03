@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — George Herbert
+> — Albert Einstein
 
 </div>
 
