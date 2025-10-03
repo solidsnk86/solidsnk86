@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Theodore Roosevelt
+> — Confucio
 
 </div>
 
