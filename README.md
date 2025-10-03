@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Anónimo
+> — Victor Hugo
 
 </div>
 
