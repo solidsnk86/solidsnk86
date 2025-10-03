@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
 >
-> — Séneca
+> — Proverbio árabe
 
 </div>
 
