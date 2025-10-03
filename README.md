@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Victor Hugo
+> — Séneca
 
 </div>
 
