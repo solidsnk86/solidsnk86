@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Fiódor Dostoievski
+> — James Allen
 
 </div>
 
