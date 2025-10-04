@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Albert Einstein
+> — James Allen
 
 </div>
 
