@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Albert Einstein
+> — Aristóteles
 
 </div>
 
