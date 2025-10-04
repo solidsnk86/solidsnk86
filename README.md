@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Joseph Addison
+> — Marie Curie
 
 </div>
 
