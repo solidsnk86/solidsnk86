@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> — Marie Curie
+> — Robert Louis Stevenson
 
 </div>
 
