@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Franklin D. Roosevelt
+> — Thomas Jefferson
 
 </div>
 
