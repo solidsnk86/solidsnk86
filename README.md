@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Aristóteles
+> — Albert Einstein
 
 </div>
 
