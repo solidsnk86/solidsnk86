@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — James Allen
+> — Joseph Addison
 
 </div>
 
