@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> — Muhammad Ali
+> — Charles R. Swindoll
 
 </div>
 
