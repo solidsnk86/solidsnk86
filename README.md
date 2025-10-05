@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> — Helen Keller
+> — Henry Ford
 
 </div>
 
