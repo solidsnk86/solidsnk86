@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — William Shakespeare
+> — Victor Hugo
 
 </div>
 
