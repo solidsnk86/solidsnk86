@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Victor Hugo
+> — Immanuel Kant
 
 </div>
 
