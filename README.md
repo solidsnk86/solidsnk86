@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Immanuel Kant
+> — Helen Keller
 
 </div>
 
