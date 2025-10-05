@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Charles R. Swindoll
+> — Michel de Montaigne
 
 </div>
 
