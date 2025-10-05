@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Michel de Montaigne
+> — Charles Dickens
 
 </div>
 
