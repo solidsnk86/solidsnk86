@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Henry Ford
+> — Voltaire
 
 </div>
 
