@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Charles Dickens
+> — Robert Collier
 
 </div>
 
