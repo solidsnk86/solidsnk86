@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Proverbio árabe
+> — Muhammad Ali
 
 </div>
 
