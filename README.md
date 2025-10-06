@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
 >
-> — Heráclito
+> — Mark Twain
 
 </div>
 
