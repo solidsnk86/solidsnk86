@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Mark Twain
+> — Fiódor Dostoievski
 
 </div>
 
