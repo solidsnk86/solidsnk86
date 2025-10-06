@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — Platón
+> — Winston Churchill
 
 </div>
 
