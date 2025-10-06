@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Bono
+> — Tucídides
 
 </div>
 
