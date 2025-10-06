@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — San Juan Bosco
+> — Heráclito
 
 </div>
 
