@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Napoleón Bonaparte
+> — Rabindranath Tagore
 
 </div>
 
