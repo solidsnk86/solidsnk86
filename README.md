@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Rabindranath Tagore
+> — Platón
 
 </div>
 
