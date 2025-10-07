@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Theodore Roosevelt
+> — Napoleón Bonaparte
 
 </div>
 
