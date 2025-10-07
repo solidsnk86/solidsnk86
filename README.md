@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Dalai Lama
+> — Leonardo da Vinci
 
 </div>
 
