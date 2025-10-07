@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Madre Teresa
+> — Leonardo da Vinci
 
 </div>
 
