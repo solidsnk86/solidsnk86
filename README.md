@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Publio Siro
+> — Theodore Roosevelt
 
 </div>
 
