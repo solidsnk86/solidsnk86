@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Leonardo da Vinci
+> — Mark Twain
 
 </div>
 
