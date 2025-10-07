@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Mark Twain
+> — Dalai Lama
 
 </div>
 
