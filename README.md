@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Dalai Lama
+> — Frank Sinatra
 
 </div>
 
