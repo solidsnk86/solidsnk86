@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Winston Churchill
+> — Michelle Obama
 
 </div>
 
