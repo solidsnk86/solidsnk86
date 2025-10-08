@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"El carácter es destino."*
 >
-> — Khalil Gibran
+> — Heráclito
 
 </div>
 
