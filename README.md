@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Albert Einstein
+> — Eleanor Roosevelt
 
 </div>
 
