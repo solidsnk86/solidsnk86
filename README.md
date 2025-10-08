@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Platón
+> — Leonardo da Vinci
 
 </div>
 
