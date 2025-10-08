@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
 >
-> — Eleanor Roosevelt
+> — Khalil Gibran
 
 </div>
 
