@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Thomas Jefferson
+> — Eleanor Roosevelt
 
 </div>
 
