@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Leonardo da Vinci
+> — Thomas Jefferson
 
 </div>
 
