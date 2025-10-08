@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Heráclito
+> — Platón
 
 </div>
 
