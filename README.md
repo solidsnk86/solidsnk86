@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — George Herbert
+> — Rabindranath Tagore
 
 </div>
 
