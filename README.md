@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Leonardo da Vinci
+> — Pablo Picasso
 
 </div>
 
