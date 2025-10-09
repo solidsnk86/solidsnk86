@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Rabindranath Tagore
+> — Mark Twain
 
 </div>
 
