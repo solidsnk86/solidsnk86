@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Aristóteles
+> — George Herbert
 
 </div>
 
