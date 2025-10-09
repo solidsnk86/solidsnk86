@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Pablo Picasso
+> — Proverbio indígena
 
 </div>
 
