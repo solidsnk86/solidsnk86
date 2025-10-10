@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Platón
+> — Walter Winchell
 
 </div>
 
