@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Honoré de Balzac
+> — Anaïs Nin
 
 </div>
 
