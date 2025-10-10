@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Napoleón Bonaparte
+> — Honoré de Balzac
 
 </div>
 
