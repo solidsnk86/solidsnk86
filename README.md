@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"La imaginación gobierna el mundo."*
 >
-> — John Lennon
+> — Napoleón Bonaparte
 
 </div>
 
