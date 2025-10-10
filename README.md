@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Malcolm X
+> — John Lennon
 
 </div>
 
