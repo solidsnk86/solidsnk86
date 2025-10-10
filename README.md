@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Sigmund Freud
+> — Platón
 
 </div>
 
