@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Mahatma Gandhi
+> — Marco Tulio Cicerón
 
 </div>
 
