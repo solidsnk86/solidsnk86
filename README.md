@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
 >
-> — Joseph Addison
+> — Immanuel Kant
 
 </div>
 
