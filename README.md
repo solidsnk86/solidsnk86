@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — William Shakespeare
+> — Anaïs Nin
 
 </div>
 
