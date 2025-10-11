@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Honoré de Balzac
+> — Joseph Addison
 
 </div>
 
