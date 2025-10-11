@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
