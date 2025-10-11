@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Immanuel Kant
+> — John Lennon
 
 </div>
 
