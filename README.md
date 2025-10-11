@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Theodore Roosevelt
+> — Albert Einstein
 
 </div>
 
