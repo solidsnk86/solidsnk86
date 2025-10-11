@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — John Lennon
+> — William Shakespeare
 
 </div>
 
