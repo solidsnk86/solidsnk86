@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Albert Einstein
+> — Rabindranath Tagore
 
 </div>
 
