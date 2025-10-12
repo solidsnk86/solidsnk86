@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Platón
+> — Lao Tse
 
 </div>
 
