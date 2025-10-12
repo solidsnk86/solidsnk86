@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Marco Tulio Cicerón
+> — Dalai Lama
 
 </div>
 
