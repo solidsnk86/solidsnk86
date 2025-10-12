@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Lao Tse
+> — Victor Hugo
 
 </div>
 
