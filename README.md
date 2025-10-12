@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Dalai Lama
+> — Honoré de Balzac
 
 </div>
 
