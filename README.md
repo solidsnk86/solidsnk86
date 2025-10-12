@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Johann Goethe
+> — Mark Twain
 
 </div>
 
