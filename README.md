@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Honoré de Balzac
+> — Publio Siro
 
 </div>
 
