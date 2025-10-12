@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Victor Hugo
+> — Aristóteles
 
 </div>
 
