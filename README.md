@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Muhammad Ali
+> — Eleanor Roosevelt
 
 </div>
 
