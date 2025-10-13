@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"El hombre está condenado a ser libre."*
 >
-> — Thomas Jefferson
+> — Jean-Paul Sartre
 
 </div>
 
