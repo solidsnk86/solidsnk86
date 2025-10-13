@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Jean-Paul Sartre
+> — Platón
 
 </div>
 
