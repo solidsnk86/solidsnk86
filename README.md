@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Michel de Montaigne
+> — Albert Einstein
 
 </div>
 
