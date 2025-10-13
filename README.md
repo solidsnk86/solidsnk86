@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Victor Hugo
+> — Michel de Montaigne
 
 </div>
 
