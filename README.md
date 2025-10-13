@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Mark Twain
+> — Heráclito
 
 </div>
 
