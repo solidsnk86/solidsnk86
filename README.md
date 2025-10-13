@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Eleanor Roosevelt
+> — Platón
 
 </div>
 
