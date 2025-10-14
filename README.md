@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Robert Collier
+> — Alan Kay
 
 </div>
 
