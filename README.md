@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Winston Churchill
+> — Jim Rohn
 
 </div>
 
