@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Alan Kay
+> — San Agustín
 
 </div>
 
