@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — San Agustín
+> — Marco Aurelio
 
 </div>
 
