@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Marco Aurelio
+> — Confucio
 
 </div>
 
