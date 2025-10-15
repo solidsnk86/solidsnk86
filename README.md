@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Aristóteles
+> — Joseph Addison
 
 </div>
 
