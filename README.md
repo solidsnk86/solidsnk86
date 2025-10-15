@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Voltaire
+> — Lao Tse
 
 </div>
 
