@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Proverbio chino
+> — James Allen
 
 </div>
 
