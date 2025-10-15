@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> — León Tolstói
+> — Mahatma Gandhi
 
 </div>
 
