@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Joseph Addison
+> — Voltaire
 
 </div>
 
