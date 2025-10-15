@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Mahatma Gandhi
+> — Proverbio chino
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 4
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/beytekindavut" title="beytekindavut">
@@ -74,10 +74,6 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/kamilmeliksahyorulmazlar" title="kamilmeliksahyorulmazlar">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/141827156?v=4" alt="Avatar de kamilmeliksahyorulmazlar" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
