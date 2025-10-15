@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — George Santayana
+> — Albert Einstein
 
 </div>
 
