@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Lao Tse
+> — Marco Aurelio
 
 </div>
 
