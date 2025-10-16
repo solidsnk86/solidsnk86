@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Marco Aurelio
+> — Joseph Addison
 
 </div>
 
