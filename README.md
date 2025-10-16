@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Marie Curie
+> — Immanuel Kant
 
 </div>
 
