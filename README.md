@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Immanuel Kant
+> — Thomas Jefferson
 
 </div>
 
