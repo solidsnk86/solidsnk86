@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Muhammad Ali
+> — Proverbio chino
 
 </div>
 
