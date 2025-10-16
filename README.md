@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Thomas Jefferson
+> — Muhammad Ali
 
 </div>
 
