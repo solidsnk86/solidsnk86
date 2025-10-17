@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Joseph Addison
+> — Sigmund Freud
 
 </div>
 
