@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Immanuel Kant
+> — Séneca
 
 </div>
 
