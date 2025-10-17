@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Sigmund Freud
+> — Jim Rohn
 
 </div>
 
