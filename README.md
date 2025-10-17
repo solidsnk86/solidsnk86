@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Jim Rohn
+> — George Santayana
 
 </div>
 
