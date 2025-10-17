@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Platón
+> — Leonardo da Vinci
 
 </div>
 
