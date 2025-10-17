@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — George Santayana
+> — Honoré de Balzac
 
 </div>
 
