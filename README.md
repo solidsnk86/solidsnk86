@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Michael Jordan
+> — Helen Keller
 
 </div>
 
