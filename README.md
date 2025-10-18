@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Helen Keller
+> — Theodore Roosevelt
 
 </div>
 
