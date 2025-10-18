@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
 >
-> — Napoleón Bonaparte
+> — Proverbio árabe
 
 </div>
 
