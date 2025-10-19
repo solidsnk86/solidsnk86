@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Rabindranath Tagore
+> — Robert Collier
 
 </div>
 
