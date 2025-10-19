@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
 >
-> — James Allen
+> — Immanuel Kant
 
 </div>
 
