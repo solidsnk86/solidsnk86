@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Francis Bacon
+> — James Allen
 
 </div>
 
