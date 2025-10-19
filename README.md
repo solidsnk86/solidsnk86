@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
 >
-> — Immanuel Kant
+> — Charles Darwin
 
 </div>
 
