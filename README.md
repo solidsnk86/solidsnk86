@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Anónimo
+> — Thomas Jefferson
 
 </div>
 
