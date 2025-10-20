@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Charles R. Swindoll
+> — Victor Hugo
 
 </div>
 
