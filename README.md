@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Platón
+> — Alan Kay
 
 </div>
 
