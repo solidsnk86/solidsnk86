@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Fiódor Dostoievski
+> — Martin Luther King Jr.
 
 </div>
 
