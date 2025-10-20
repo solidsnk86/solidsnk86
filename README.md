@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Alan Kay
+> — Bono
 
 </div>
 
