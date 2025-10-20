@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Bono
+> — Aristóteles
 
 </div>
 
