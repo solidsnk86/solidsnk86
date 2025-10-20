@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Martin Luther King Jr.
+> — Platón
 
 </div>
 
