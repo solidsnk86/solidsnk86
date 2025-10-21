@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Jean-Paul Sartre
+> — Heráclito
 
 </div>
 
