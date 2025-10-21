@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — George Santayana
+> — Platón
 
 </div>
 
