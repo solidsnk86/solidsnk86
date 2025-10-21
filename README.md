@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"El hombre está condenado a ser libre."*
 >
-> — Victor Hugo
+> — Jean-Paul Sartre
 
 </div>
 
