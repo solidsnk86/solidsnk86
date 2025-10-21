@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> — Heráclito
+> — Henry Ford
 
 </div>
 
