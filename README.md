@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Aristóteles
+> — Rabindranath Tagore
 
 </div>
 
