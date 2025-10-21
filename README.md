@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Platón
+> — Sigmund Freud
 
 </div>
 
