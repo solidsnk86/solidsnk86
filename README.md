@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Sigmund Freud
+> — Bono
 
 </div>
 
