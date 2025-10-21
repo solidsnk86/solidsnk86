@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Franklin D. Roosevelt
+> — George Santayana
 
 </div>
 
