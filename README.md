@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Voltaire
+> — Napoleón Bonaparte
 
 </div>
 
