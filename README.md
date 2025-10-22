@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Eleanor Roosevelt
+> — Michel de Montaigne
 
 </div>
 
