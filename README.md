@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Marco Aurelio
+> — Séneca
 
 </div>
 
