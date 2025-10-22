@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Séneca
+> — Eleanor Roosevelt
 
 </div>
 
