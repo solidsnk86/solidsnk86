@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Aristóteles
+> — Marco Aurelio
 
 </div>
 
