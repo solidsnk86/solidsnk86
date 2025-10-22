@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Napoleón Bonaparte
+> — Aristóteles
 
 </div>
 
