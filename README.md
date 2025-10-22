@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Henry Ford
+> — Rabindranath Tagore
 
 </div>
 
