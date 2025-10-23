@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
 >
-> — Victor Hugo
+> — Mary Anne Radmacher
 
 </div>
 
