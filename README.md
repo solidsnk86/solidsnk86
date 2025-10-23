@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Thomas Jefferson
+> — Jim Rohn
 
 </div>
 
