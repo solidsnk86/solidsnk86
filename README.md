@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Heráclito
+> — Arthur Schopenhauer
 
 </div>
 
