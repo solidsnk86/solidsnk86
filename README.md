@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Arthur Schopenhauer
+> — Victor Hugo
 
 </div>
 
