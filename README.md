@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Frank Sinatra
+> — Platón
 
 </div>
 
