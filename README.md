@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Aristóteles
+> — Marco Tulio Cicerón
 
 </div>
 
