@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — John Lennon
+> — Marco Aurelio
 
 </div>
 
