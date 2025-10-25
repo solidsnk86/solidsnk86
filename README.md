@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Napoleón Bonaparte
+> — Dalai Lama
 
 </div>
 
