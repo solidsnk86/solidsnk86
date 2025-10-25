@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Mark Twain
+> — John Lennon
 
 </div>
 
