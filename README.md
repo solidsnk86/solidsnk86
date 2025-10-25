@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Proverbio árabe
+> — Marco Aurelio
 
 </div>
 
