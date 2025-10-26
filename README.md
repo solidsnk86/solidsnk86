@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Frank Sinatra
+> — Arthur Schopenhauer
 
 </div>
 
