@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
 >
-> — John Lennon
+> — Maya Angelou
 
 </div>
 
