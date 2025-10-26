@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Arthur Schopenhauer
+> — John Lennon
 
 </div>
 
