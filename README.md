@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Lao Tse
+> — Heráclito
 
 </div>
 
