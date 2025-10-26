@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Maya Angelou
+> — Bono
 
 </div>
 
