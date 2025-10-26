@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Dalai Lama
+> — Lao Tse
 
 </div>
 
