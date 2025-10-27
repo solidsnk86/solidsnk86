@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — C. S. Lewis
+> — Helen Keller
 
 </div>
 
