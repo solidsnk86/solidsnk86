@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Platón
+> — Arthur Schopenhauer
 
 </div>
 
