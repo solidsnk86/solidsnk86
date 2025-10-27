@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Immanuel Kant
+> — Platón
 
 </div>
 
