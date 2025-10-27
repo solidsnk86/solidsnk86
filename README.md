@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Michael Jordan
+> — Leonardo da Vinci
 
 </div>
 
