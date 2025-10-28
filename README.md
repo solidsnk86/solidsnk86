@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Alan Kay
+> — Anónimo
 
 </div>
 
