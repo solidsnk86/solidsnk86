@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
 >
-> — Albert Einstein
+> — Khalil Gibran
 
 </div>
 
