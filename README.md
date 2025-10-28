@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Madre Teresa
+> — Buda
 
 </div>
 
