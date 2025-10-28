@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Buda
+> — Franklin D. Roosevelt
 
 </div>
 
