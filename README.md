@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Maya Angelou
+> — Rabindranath Tagore
 
 </div>
 
