@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Leonardo da Vinci
+> — Marco Tulio Cicerón
 
 </div>
 
