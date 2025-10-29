@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Napoleón Bonaparte
+> — Leonardo da Vinci
 
 </div>
 
