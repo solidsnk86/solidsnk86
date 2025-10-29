@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Marco Tulio Cicerón
+> — Albert Einstein
 
 </div>
 
