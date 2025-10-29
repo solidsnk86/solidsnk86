@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Aesopo
+> — Thomas Jefferson
 
 </div>
 
