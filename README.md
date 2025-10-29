@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Alan Kay
+> — Victor Hugo
 
 </div>
 
