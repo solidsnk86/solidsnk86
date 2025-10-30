@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> — Albert Einstein
+> — Henry Ford
 
 </div>
 
