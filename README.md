@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Voltaire
+> — Martin Luther King Jr.
 
 </div>
 
