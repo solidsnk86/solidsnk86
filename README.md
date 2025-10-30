@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — Napoleón Bonaparte
+> — Winston Churchill
 
 </div>
 
