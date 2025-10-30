@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Albert Einstein
+> — Napoleón Bonaparte
 
 </div>
 
