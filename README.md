@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Proverbio chino
+> — Heráclito
 
 </div>
 
