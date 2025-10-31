@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — John Lennon
+> — Proverbio chino
 
 </div>
 
