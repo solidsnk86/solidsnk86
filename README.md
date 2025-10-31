@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
 >
-> — Leonardo da Vinci
+> — Mark Twain
 
 </div>
 
