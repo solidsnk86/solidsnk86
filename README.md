@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> — Proverbio indígena
+> — Albert Einstein
 
 </div>
 
