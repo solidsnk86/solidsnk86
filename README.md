@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Albert Einstein
+> — George Herbert
 
 </div>
 
