@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Lao Tse
+> — Platón
 
 </div>
 
