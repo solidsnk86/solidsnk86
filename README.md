@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — San Juan Bosco
+> — Pablo Picasso
 
 </div>
 
