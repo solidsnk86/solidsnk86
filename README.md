@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> — Franklin D. Roosevelt
+> — Ralph Waldo Emerson
 
 </div>
 
