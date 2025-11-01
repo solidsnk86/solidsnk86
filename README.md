@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Ralph Waldo Emerson
+> — San Juan Bosco
 
 </div>
 
