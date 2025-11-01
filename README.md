@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Pablo Picasso
+> — Rabindranath Tagore
 
 </div>
 
