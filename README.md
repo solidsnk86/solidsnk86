@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Platón
+> — San Agustín
 
 </div>
 
