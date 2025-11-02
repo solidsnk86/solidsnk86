@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El carácter es destino."*
 >
-> — Napoleón Bonaparte
+> — Heráclito
 
 </div>
 
