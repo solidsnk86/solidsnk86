@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Dalai Lama
+> — Napoleón Bonaparte
 
 </div>
 
