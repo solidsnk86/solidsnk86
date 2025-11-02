@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Winston Churchill
+> — Séneca
 
 </div>
 
