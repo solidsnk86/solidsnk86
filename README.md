@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Thomas Jefferson
+> — Napoleón Bonaparte
 
 </div>
 
