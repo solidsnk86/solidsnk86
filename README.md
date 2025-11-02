@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Napoleón Bonaparte
+> — George Herbert
 
 </div>
 
