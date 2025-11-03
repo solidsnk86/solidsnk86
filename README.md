@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Immanuel Kant
+> — John Lennon
 
 </div>
 
