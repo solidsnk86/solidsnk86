@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Heráclito
+> — George Eliot
 
 </div>
 
