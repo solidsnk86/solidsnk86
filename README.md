@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Aristóteles
+> — Platón
 
 </div>
 
