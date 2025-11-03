@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — John Lennon
+> — Aesopo
 
 </div>
 
