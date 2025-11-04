@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Walter Winchell
+> — Martin Luther King Jr.
 
 </div>
 
