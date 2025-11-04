@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Lao Tse
+> — Marie Curie
 
 </div>
 
