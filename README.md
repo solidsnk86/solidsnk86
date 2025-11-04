@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Winston Churchill
+> — Aristóteles
 
 </div>
 
