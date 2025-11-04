@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Aesopo
+> — Platón
 
 </div>
 
