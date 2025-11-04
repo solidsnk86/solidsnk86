@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Aristóteles
+> — Walter Winchell
 
 </div>
 
