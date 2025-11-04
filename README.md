@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — Marie Curie
+> — Winston Churchill
 
 </div>
 
