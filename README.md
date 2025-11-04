@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Mark Twain
+> — Aristóteles
 
 </div>
 
