@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Muhammad Ali
+> — Mark Twain
 
 </div>
 
