@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Platón
+> — Muhammad Ali
 
 </div>
 
