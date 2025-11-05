@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Pablo Picasso
+> — Marco Aurelio
 
 </div>
 
