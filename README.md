@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Malcolm X
+> — Michelle Obama
 
 </div>
 
