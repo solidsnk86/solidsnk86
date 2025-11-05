@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Marco Aurelio
+> — John Lennon
 
 </div>
 
