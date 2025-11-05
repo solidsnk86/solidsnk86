@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — John Lennon
+> — Tucídides
 
 </div>
 
