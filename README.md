@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — John Lennon
+> — Sigmund Freud
 
 </div>
 
