@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Martin Luther King Jr.
+> — Henry Ford
 
 </div>
 
