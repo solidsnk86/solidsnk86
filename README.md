@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Mark Twain
+> — Martin Luther King Jr.
 
 </div>
 
