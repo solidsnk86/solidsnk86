@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Tucídides
+> — Mark Twain
 
 </div>
 
