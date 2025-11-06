@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El hombre está condenado a ser libre."*
 >
-> — Leonardo da Vinci
+> — Jean-Paul Sartre
 
 </div>
 
