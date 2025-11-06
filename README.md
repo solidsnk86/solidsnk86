@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Confucio
+> — Immanuel Kant
 
 </div>
 
