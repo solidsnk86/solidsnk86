@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Immanuel Kant
+> — Walter Winchell
 
 </div>
 
