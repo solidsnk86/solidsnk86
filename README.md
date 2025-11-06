@@ -17,7 +17,7 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"La simplicidad es la máxima sofisticación."*
 >
 > — Leonardo da Vinci
 
