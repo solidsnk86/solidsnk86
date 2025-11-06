@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
 >
-> — Anaïs Nin
+> — Multatuli
 
 </div>
 
