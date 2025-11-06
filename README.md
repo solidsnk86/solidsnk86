@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Jim Rohn
+> — Aristóteles
 
 </div>
 
