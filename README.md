@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Jean-Paul Sartre
+> — Frank Sinatra
 
 </div>
 
