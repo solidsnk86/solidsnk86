@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Anaïs Nin
+> — Theodore Roosevelt
 
 </div>
 
