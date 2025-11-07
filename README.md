@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Ludwig Wittgenstein
+> — Lao Tse
 
 </div>
 
