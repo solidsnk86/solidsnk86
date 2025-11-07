@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Theodore Roosevelt
+> — Alan Kay
 
 </div>
 
