@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Multatuli
+> — Robert Collier
 
 </div>
 
