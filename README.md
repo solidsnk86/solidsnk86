@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Robert Collier
+> — Dalai Lama
 
 </div>
 
