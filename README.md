@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Alan Kay
+> — William Shakespeare
 
 </div>
 
