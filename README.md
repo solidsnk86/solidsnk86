@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Dalai Lama
+> — Francis Bacon
 
 </div>
 
