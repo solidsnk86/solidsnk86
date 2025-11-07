@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — C. S. Lewis
+> — Ludwig Wittgenstein
 
 </div>
 
