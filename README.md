@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Immanuel Kant
+> — Sigmund Freud
 
 </div>
 
