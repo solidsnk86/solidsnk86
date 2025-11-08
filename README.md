@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Sigmund Freud
+> — John Lennon
 
 </div>
 
