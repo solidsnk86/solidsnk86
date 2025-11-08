@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
 >
-> — Publio Siro
+> — Immanuel Kant
 
 </div>
 
