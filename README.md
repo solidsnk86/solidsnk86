@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Lao Tse
+> — Honoré de Balzac
 
 </div>
 
