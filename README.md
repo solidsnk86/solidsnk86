@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — James Allen
+> — San Juan Bosco
 
 </div>
 
