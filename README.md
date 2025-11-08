@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — San Juan Bosco
+> — Mark Twain
 
 </div>
 
