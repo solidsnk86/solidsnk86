@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Albert Einstein
+> — Marco Aurelio
 
 </div>
 
