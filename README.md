@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Frank Sinatra
+> — Marco Aurelio
 
 </div>
 
