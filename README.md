@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Rabindranath Tagore
+> — Victor Hugo
 
 </div>
 
