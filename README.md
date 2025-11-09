@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — John Lennon
+> — Martin Luther King Jr.
 
 </div>
 
