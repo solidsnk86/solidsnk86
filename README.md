@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Marco Aurelio
+> — John Lennon
 
 </div>
 
