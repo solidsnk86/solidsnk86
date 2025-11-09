@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Victor Hugo
+> — Helen Keller
 
 </div>
 
