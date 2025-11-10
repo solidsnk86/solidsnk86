@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Muhammad Ali
+> — Marco Tulio Cicerón
 
 </div>
 
