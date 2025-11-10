@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Jim Rohn
+> — Michel de Montaigne
 
 </div>
 
