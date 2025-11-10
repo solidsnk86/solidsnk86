@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Maya Angelou
+> — Proverbio indígena
 
 </div>
 
