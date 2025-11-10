@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Theodore Roosevelt
+> — Muhammad Ali
 
 </div>
 
