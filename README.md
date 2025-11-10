@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Séneca
+> — Theodore Roosevelt
 
 </div>
 
