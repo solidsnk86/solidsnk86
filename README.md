@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Francis Bacon
+> — Aristóteles
 
 </div>
 
