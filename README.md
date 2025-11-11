@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Michel de Montaigne
+> — Francis Bacon
 
 </div>
 
