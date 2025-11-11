@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Ludwig Wittgenstein
+> — John Lennon
 
 </div>
 
