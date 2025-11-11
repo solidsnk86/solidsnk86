@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Robert Collier
+> — Napoleón Bonaparte
 
 </div>
 
