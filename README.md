@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Platón
+> — William Shakespeare
 
 </div>
 
