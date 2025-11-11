@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
 >
-> — John Lennon
+> — Mary Anne Radmacher
 
 </div>
 
