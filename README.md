@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — William Shakespeare
+> — Immanuel Kant
 
 </div>
 
