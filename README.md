@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> — Mary Anne Radmacher
+> — Platón
 
 </div>
 
