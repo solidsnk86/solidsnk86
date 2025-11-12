@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Winston Churchill
+> — Eleanor Roosevelt
 
 </div>
 
