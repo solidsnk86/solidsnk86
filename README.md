@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Publio Siro
+> — Bono
 
 </div>
 
