@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Eleanor Roosevelt
+> — Publio Siro
 
 </div>
 
