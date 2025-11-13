@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Madre Teresa
+> — Victor Hugo
 
 </div>
 
