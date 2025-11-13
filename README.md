@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Bono
+> — Leonardo da Vinci
 
 </div>
 
