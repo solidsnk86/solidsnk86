@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> — Charles R. Swindoll
+> — León Tolstói
 
 </div>
 
