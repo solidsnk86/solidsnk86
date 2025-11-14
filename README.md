@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Leonardo da Vinci
+> — Marco Aurelio
 
 </div>
 
