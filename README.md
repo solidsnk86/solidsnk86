@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Marco Aurelio
+> — George Herbert
 
 </div>
 
