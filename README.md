@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Heráclito
+> — Leonardo da Vinci
 
 </div>
 
