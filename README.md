@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Albert Einstein
+> — Leonardo da Vinci
 
 </div>
 
