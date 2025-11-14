@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Leonardo da Vinci
+> — Aristóteles
 
 </div>
 
