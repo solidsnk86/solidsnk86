@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> — Walter Winchell
+> — Mahatma Gandhi
 
 </div>
 
