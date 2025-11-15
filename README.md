@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Muhammad Ali
+> — Walter Winchell
 
 </div>
 
