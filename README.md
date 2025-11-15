@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> — Anaïs Nin
+> — Johann Goethe
 
 </div>
 
