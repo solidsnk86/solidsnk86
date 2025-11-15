@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Johann Goethe
+> — Muhammad Ali
 
 </div>
 
