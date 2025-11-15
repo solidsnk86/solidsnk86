@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Marco Tulio Cicerón
+> — Walter Winchell
 
 </div>
 
