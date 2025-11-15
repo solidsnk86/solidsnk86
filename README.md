@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Jim Rohn
+> — Platón
 
 </div>
 
