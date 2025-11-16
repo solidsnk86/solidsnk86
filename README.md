@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
