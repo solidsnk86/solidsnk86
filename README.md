@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — George Santayana
+> — Confucio
 
 </div>
 
