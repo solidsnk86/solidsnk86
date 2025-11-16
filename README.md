@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Lao Tse
+> — Platón
 
 </div>
 
