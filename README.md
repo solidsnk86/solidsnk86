@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Platón
+> — Michel de Montaigne
 
 </div>
 
