@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Michel de Montaigne
+> — Platón
 
 </div>
 
