@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Charles Dickens
+> — Platón
 
 </div>
 
@@ -65,15 +65,11 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 4
+## No me siguen de nuevo: 3
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/lokywolf2295" title="lokywolf2295">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/95238399?v=4" alt="Avatar de lokywolf2295" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
