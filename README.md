@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Platón
+> — George Santayana
 
 </div>
 
