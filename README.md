@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento es poder."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Francis Bacon
+> — Séneca
 
 </div>
 
