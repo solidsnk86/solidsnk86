@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Séneca
+> — Ludwig Wittgenstein
 
 </div>
 
