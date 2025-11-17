@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Sigmund Freud
+> — Pablo Picasso
 
 </div>
 
