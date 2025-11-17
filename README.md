@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Proverbio árabe
+> — George Eliot
 
 </div>
 
