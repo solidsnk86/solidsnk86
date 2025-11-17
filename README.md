@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento es poder."*
+> *"El carácter es destino."*
 >
-> — Francis Bacon
+> — Heráclito
 
 </div>
 
