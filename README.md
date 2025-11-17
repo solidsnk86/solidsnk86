@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Voltaire
+> — Sigmund Freud
 
 </div>
 
