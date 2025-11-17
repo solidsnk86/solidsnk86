@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El conocimiento es poder."*
 >
-> — Sigmund Freud
+> — Francis Bacon
 
 </div>
 
