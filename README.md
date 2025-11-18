@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Bono
+> — Proverbio chino
 
 </div>
 
