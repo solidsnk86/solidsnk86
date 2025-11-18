@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Thomas Jefferson
+> — Bono
 
 </div>
 
