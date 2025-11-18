@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> — C. S. Lewis
+> — Charles R. Swindoll
 
 </div>
 
