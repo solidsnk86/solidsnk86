@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Johann Goethe
+> — Frank Sinatra
 
 </div>
 
