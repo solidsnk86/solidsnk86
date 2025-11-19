@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Michel de Montaigne
+> — Muhammad Ali
 
 </div>
 
