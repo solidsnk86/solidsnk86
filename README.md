@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — Tucídides
+> — Winston Churchill
 
 </div>
 
