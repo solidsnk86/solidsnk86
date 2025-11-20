@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Mark Twain
+> — Platón
 
 </div>
 
