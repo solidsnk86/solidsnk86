@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Voltaire
+> — Marco Aurelio
 
 </div>
 
