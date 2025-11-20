@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Fiódor Dostoievski
+> — Pablo Picasso
 
 </div>
 
