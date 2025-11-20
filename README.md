@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Albert Einstein
+> — San Agustín
 
 </div>
 
