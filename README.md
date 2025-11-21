@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Maya Angelou
+> — Eleanor Roosevelt
 
 </div>
 
