@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — San Agustín
+> — Aesopo
 
 </div>
 
