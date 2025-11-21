@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Eleanor Roosevelt
+> — George Eliot
 
 </div>
 
