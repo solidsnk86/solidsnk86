@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Aesopo
+> — Marie Curie
 
 </div>
 
