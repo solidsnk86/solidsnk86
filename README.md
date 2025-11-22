@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — San Agustín
+> — Henry Ford
 
 </div>
 
