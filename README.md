@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> — San Agustín
+> — Albert Einstein
 
 </div>
 
