@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — John Lennon
+> — Confucio
 
 </div>
 
