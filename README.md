@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Thomas Jefferson
+> — Confucio
 
 </div>
 
