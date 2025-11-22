@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Confucio
+> — Marie Curie
 
 </div>
 
