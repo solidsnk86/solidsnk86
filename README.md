@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Henry Ford
+> — John Lennon
 
 </div>
 
