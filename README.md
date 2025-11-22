@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Walter Winchell
+> — Jim Rohn
 
 </div>
 
