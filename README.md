@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Lao Tse
+> — Thomas Jefferson
 
 </div>
 
