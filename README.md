@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> — William Shakespeare
+> — Johann Goethe
 
 </div>
 
