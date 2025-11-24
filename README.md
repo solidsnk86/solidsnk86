@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Leonardo da Vinci
+> — C. S. Lewis
 
 </div>
 
