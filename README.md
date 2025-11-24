@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — C. S. Lewis
+> — William Shakespeare
 
 </div>
 
