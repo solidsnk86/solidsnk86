@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Sigmund Freud
+> — William Shakespeare
 
 </div>
 
