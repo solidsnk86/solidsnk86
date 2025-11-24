@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Leonardo da Vinci
+> — Ludwig Wittgenstein
 
 </div>
 
