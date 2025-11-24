@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Napoleón Bonaparte
+> — Joseph Addison
 
 </div>
 
