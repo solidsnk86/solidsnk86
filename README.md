@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Maya Angelou
+> — Lao Tse
 
 </div>
 
