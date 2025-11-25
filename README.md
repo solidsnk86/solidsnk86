@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Confucio
+> — Rabindranath Tagore
 
 </div>
 
