@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Helen Keller
+> — John Lennon
 
 </div>
 
