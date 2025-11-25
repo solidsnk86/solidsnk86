@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Lao Tse
+> — Confucio
 
 </div>
 
