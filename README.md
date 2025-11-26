@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Proverbio indígena
+> — Anaïs Nin
 
 </div>
 
