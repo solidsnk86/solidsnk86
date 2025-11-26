@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Charles R. Swindoll
+> — Alan Kay
 
 </div>
 
