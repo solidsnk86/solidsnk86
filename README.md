@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> — Arthur Schopenhauer
+> — Albert Einstein
 
 </div>
 
