@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Charles Dickens
+> — Arthur Schopenhauer
 
 </div>
 
