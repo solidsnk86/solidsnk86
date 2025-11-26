@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Ludwig Wittgenstein
+> — Dalai Lama
 
 </div>
 
