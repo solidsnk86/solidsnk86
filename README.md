@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — James Allen
+> — George Herbert
 
 </div>
 
