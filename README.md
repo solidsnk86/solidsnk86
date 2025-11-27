@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El hombre está condenado a ser libre."*
 >
-> — Sigmund Freud
+> — Jean-Paul Sartre
 
 </div>
 
