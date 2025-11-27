@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Robert Louis Stevenson
+> — Victor Hugo
 
 </div>
 
