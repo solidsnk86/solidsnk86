@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
