@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — Henry Ford
+> — Albert Einstein
 
 </div>
 
