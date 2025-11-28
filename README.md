@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento es poder."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Francis Bacon
+> — John Lennon
 
 </div>
 
