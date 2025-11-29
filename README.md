@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Lao Tse
+> — Proverbio chino
 
 </div>
 
