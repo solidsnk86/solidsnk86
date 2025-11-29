@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Proverbio chino
+> — Alan Kay
 
 </div>
 
