@@ -10,16 +10,16 @@
 
 **Desarrollador Front End con conocimientos en Back End**
 
-🎓 Estudiando Tecnicatura Universitaria en Programación  
+🎓 Técnico Universitario en Programación  
 🏫 UTN Facultad Regional de San Rafael (Mendoza)
 
 <div align="center">
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — George Eliot
+> — Eleanor Roosevelt
 
 </div>
 
