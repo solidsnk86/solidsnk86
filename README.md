@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — John Lennon
+> — Anaïs Nin
 
 </div>
 
