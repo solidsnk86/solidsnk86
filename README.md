@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Francis Bacon
+> — John Lennon
 
 </div>
 
