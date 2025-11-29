@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> — Aesopo
+> — Ralph Waldo Emerson
 
 </div>
 
