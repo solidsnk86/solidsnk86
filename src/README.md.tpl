@@ -10,7 +10,7 @@
 
 **Desarrollador Front End con conocimientos en Back End**
 
-🎓 Estudiando Tecnicatura Universitaria en Programación  
+🎓 Técnico Universitario en Programación  
 🏫 UTN Facultad Regional de San Rafael (Mendoza)
 
 <div align="center">
