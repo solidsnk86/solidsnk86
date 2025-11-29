@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — John Lennon
+> — George Eliot
 
 </div>
 
