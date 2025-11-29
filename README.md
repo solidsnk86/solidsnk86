@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Napoleón Bonaparte
+> — Francis Bacon
 
 </div>
 
