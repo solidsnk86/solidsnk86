@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Aristóteles
+> — San Agustín
 
 </div>
 
