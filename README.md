@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Anaïs Nin
+> — Lao Tse
 
 </div>
 
