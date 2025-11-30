@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Honoré de Balzac
+> — Aristóteles
 
 </div>
 
