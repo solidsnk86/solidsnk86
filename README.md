@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Confucio
+> — Albert Einstein
 
 </div>
 
