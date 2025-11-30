@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Confucio
+> — Robert Collier
 
 </div>
 
