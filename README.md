@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Anónimo
+> — San Agustín
 
 </div>
 
