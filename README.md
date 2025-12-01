@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Johann Goethe
+> — Thomas Jefferson
 
 </div>
 
