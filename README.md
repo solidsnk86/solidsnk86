@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Albert Einstein
+> — Anónimo
 
 </div>
 
