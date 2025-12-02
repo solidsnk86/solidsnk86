@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — Khalil Gibran
+> — Madre Teresa
 
 </div>
 
