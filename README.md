@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Marco Tulio Cicerón
+> — Confucio
 
 </div>
 
