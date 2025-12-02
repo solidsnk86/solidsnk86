@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Platón
+> — Voltaire
 
 </div>
 
