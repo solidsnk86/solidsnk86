@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Proverbio chino
+> — Marco Tulio Cicerón
 
 </div>
 
