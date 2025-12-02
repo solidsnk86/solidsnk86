@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Platón
+> — Proverbio chino
 
 </div>
 
