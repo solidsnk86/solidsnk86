@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> — Lao Tse
+> — Albert Einstein
 
 </div>
 
