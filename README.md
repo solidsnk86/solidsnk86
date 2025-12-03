@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Madre Teresa
+> — William Shakespeare
 
 </div>
 
