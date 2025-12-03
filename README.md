@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — William Shakespeare
+> — Proverbio chino
 
 </div>
 
