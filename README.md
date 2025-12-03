@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Mark Twain
+> — Leonardo da Vinci
 
 </div>
 
