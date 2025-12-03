@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
 >
-> — Charles Darwin
+> — Lao Tse
 
 </div>
 
