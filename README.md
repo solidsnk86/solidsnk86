@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Napoleón Bonaparte
+> — George Herbert
 
 </div>
 
