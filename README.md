@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> — Séneca
+> — Johann Goethe
 
 </div>
 
