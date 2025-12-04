@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — San Juan Bosco
+> — Marco Aurelio
 
 </div>
 
@@ -65,8 +65,12 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 4
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/OnyedikaBenjamin" title="OnyedikaBenjamin">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/107368386?v=4" alt="Avatar de OnyedikaBenjamin" />
+  </a>
 
   <a href="https://github.com/fernando-alma" title="fernando-alma">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/89047765?v=4" alt="Avatar de fernando-alma" />
