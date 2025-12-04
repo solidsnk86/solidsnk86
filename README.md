@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Marco Aurelio
+> — Fiódor Dostoievski
 
 </div>
 
