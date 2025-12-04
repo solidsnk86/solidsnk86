@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Publio Siro
+> — San Juan Bosco
 
 </div>
 
