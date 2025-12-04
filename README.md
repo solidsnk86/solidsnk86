@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Honoré de Balzac
+> — Séneca
 
 </div>
 
