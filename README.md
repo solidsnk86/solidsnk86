@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Napoleón Bonaparte
+> — Pablo Picasso
 
 </div>
 
