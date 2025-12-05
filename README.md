@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Sigmund Freud
+> — Muhammad Ali
 
 </div>
 
