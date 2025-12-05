@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Albert Einstein
+> — Leonardo da Vinci
 
 </div>
 
