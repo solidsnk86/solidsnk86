@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Leonardo da Vinci
+> — Napoleón Bonaparte
 
 </div>
 
