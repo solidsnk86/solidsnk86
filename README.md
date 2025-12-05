@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Aristóteles
+> — Martin Luther King Jr.
 
 </div>
 
