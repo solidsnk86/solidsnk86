@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — George Herbert
+> — Leonardo da Vinci
 
 </div>
 
