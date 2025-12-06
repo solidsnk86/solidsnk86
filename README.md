@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — John Lennon
+> — Victor Hugo
 
 </div>
 
