@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — C. S. Lewis
+> — Confucio
 
 </div>
 
