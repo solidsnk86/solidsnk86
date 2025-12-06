@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Victor Hugo
+> — Platón
 
 </div>
 
