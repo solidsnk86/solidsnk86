@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Albert Einstein
+> — William Shakespeare
 
 </div>
 
