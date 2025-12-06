@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Mark Twain
+> — Victor Hugo
 
 </div>
 
