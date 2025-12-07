@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — Robert Louis Stevenson
+> — Madre Teresa
 
 </div>
 
@@ -65,12 +65,8 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 4
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/OnyedikaBenjamin" title="OnyedikaBenjamin">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/107368386?v=4" alt="Avatar de OnyedikaBenjamin" />
-  </a>
 
   <a href="https://github.com/fernando-alma" title="fernando-alma">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/89047765?v=4" alt="Avatar de fernando-alma" />
