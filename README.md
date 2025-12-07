@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Napoleón Bonaparte
+> — Victor Hugo
 
 </div>
 
