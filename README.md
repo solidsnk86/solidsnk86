@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> — Confucio
+> — Robert Louis Stevenson
 
 </div>
 
