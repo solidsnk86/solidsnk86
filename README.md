@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Charles Dickens
+> — Albert Einstein
 
 </div>
 
