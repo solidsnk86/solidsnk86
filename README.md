@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Michael Jordan
+> — Michelle Obama
 
 </div>
 
