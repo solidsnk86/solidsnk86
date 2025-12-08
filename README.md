@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Confucio
+> — Platón
 
 </div>
 
