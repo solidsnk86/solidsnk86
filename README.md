@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Pablo Picasso
+> — Michel de Montaigne
 
 </div>
 
