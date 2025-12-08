@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Victor Hugo
+> — Confucio
 
 </div>
 
