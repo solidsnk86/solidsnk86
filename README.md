@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Eleanor Roosevelt
+> — Jim Rohn
 
 </div>
 
