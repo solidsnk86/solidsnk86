@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Michel de Montaigne
+> — Leonardo da Vinci
 
 </div>
 
