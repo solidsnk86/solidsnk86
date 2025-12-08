@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Jim Rohn
+> — Victor Hugo
 
 </div>
 
