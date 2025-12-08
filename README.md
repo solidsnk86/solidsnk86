@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Proverbio chino
+> — Henry Ford
 
 </div>
 
