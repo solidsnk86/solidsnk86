@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Platón
+> — Proverbio chino
 
 </div>
 
