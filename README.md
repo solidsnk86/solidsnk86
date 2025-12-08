@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Henry Ford
+> — Pablo Picasso
 
 </div>
 
