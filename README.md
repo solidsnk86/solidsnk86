@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Ludwig Wittgenstein
+> — San Agustín
 
 </div>
 
