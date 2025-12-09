@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Albert Einstein
+> — Alan Kay
 
 </div>
 
