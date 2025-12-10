@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Mark Twain
+> — Franklin D. Roosevelt
 
 </div>
 
