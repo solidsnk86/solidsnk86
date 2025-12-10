@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Albert Einstein
+> — John Lennon
 
 </div>
 
