@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Michael Jordan
+> — Tucídides
 
 </div>
 
