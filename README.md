@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Albert Einstein
+> — Anaïs Nin
 
 </div>
 
