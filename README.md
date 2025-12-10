@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
 >
-> — Lao Tse
+> — Mark Twain
 
 </div>
 
