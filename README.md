@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — George Eliot
+> — Platón
 
 </div>
 
