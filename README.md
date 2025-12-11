@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Lao Tse
+> — George Eliot
 
 </div>
 
