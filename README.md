@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Martin Luther King Jr.
+> — James Allen
 
 </div>
 
