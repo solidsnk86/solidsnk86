@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Anónimo
+> — Victor Hugo
 
 </div>
 
