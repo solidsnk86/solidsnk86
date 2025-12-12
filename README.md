@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Albert Einstein
+> — Walter Winchell
 
 </div>
 
