@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Arthur Schopenhauer
+> — Marco Aurelio
 
 </div>
 
