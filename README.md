@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Victor Hugo
+> — Albert Einstein
 
 </div>
 
