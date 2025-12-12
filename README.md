@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Immanuel Kant
+> — Arthur Schopenhauer
 
 </div>
 
