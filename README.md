@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Marco Aurelio
+> — Victor Hugo
 
 </div>
 
