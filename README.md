@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Helen Keller
+> — Aesopo
 
 </div>
 
