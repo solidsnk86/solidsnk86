@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — George Santayana
+> — Joseph Addison
 
 </div>
 
