@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> — Aesopo
+> — Charles R. Swindoll
 
 </div>
 
