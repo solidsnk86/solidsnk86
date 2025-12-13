@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> — Platón
+> — Charles R. Swindoll
 
 </div>
 
