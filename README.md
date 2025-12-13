@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Aesopo
+> — Platón
 
 </div>
 
