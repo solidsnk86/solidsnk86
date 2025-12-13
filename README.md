@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Albert Einstein
+> — Buda
 
 </div>
 
