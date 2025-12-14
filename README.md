@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Platón
+> — Malcolm X
 
 </div>
 
