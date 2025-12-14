@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Aristóteles
+> — Sigmund Freud
 
 </div>
 
