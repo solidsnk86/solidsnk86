@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
 >
-> — Malcolm X
+> — Multatuli
 
 </div>
 
