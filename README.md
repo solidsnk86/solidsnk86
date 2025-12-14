@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Sigmund Freud
+> — Malcolm X
 
 </div>
 
