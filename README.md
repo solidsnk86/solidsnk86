@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Mary Anne Radmacher
+> — Sigmund Freud
 
 </div>
 
