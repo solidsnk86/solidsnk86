@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Albert Einstein
+> — Francis Bacon
 
 </div>
 
