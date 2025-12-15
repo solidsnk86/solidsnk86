@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Victor Hugo
+> — Malcolm X
 
 </div>
 
