@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Proverbio árabe
+> — James Allen
 
 </div>
 
