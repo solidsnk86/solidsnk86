@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Confucio
+> — Muhammad Ali
 
 </div>
 
