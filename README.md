@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Honoré de Balzac
+> — Eleanor Roosevelt
 
 </div>
 
