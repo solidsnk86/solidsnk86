@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — James Allen
+> — Honoré de Balzac
 
 </div>
 
