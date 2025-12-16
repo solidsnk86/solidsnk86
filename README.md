@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Séneca
+> — Victor Hugo
 
 </div>
 
