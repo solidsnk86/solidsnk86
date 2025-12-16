@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Albert Einstein
+> — Tucídides
 
 </div>
 
