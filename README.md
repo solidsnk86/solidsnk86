@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Platón
+> — Albert Einstein
 
 </div>
 
