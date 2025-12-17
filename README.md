@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Lao Tse
+> — Robert Collier
 
 </div>
 
