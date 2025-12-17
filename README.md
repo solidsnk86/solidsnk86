@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Joseph Addison
+> — Victor Hugo
 
 </div>
 
