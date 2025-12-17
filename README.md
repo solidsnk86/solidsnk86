@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — George Herbert
+> — Robert Collier
 
 </div>
 
