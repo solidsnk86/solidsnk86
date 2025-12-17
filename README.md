@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Robert Collier
+> — Joseph Addison
 
 </div>
 
