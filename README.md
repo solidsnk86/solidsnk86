@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Sigmund Freud
+> — Michelle Obama
 
 </div>
 
