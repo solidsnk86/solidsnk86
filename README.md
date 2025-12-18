@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Albert Einstein
+> — Sigmund Freud
 
 </div>
 
