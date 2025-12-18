@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — Jean-Paul Sartre
+> — Madre Teresa
 
 </div>
 
