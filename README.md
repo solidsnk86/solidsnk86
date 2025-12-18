@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Joseph Addison
+> — Rabindranath Tagore
 
 </div>
 
