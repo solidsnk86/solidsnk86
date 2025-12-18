@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — George Herbert
+> — Marie Curie
 
 </div>
 
