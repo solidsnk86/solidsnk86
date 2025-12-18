@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Tucídides
+> — Theodore Roosevelt
 
 </div>
 
