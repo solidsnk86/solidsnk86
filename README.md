@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Anónimo
+> — Publio Siro
 
 </div>
 
