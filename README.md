@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Eleanor Roosevelt
+> — Joseph Addison
 
 </div>
 
