@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Alan Kay
+> — Ludwig Wittgenstein
 
 </div>
 
