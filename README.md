@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Winston Churchill
+> — John Lennon
 
 </div>
 
