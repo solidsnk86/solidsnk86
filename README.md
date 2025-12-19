@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — John Lennon
+> — Eleanor Roosevelt
 
 </div>
 
