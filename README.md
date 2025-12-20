@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Albert Einstein
+> — Tucídides
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 4
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/fernando-alma" title="fernando-alma">
@@ -82,6 +82,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
+  </a>
+
+  <a href="https://github.com/yosuke-kuroki" title="yosuke-kuroki">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/206260453?v=4" alt="Avatar de yosuke-kuroki" />
   </a>
 
 </div>
