@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Joseph Addison
+> — John Lennon
 
 </div>
 
