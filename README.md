@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Tucídides
+> — Helen Keller
 
 </div>
 
