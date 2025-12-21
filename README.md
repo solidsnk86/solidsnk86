@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Leonardo da Vinci
+> — Bono
 
 </div>
 
