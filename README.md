@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
 >
-> — Mary Anne Radmacher
+> — Proverbio árabe
 
 </div>
 
