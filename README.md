@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — George Eliot
+> — Proverbio chino
 
 </div>
 
