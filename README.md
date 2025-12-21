@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Winston Churchill
+> — Albert Einstein
 
 </div>
 
