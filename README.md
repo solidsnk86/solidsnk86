@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Rabindranath Tagore
+> — Albert Einstein
 
 </div>
 
