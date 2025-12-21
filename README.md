@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Albert Einstein
+> — George Eliot
 
 </div>
 
