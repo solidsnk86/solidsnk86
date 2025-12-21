@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Lao Tse
+> — Rabindranath Tagore
 
 </div>
 
