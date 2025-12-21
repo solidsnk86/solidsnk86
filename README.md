@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Bono
+> — Henry Ford
 
 </div>
 
