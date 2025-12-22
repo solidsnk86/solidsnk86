@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Anónimo
+> — Aristóteles
 
 </div>
 
