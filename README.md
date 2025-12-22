@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Proverbio árabe
+> — Walter Winchell
 
 </div>
 
