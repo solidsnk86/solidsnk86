@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Voltaire
+> — Victor Hugo
 
 </div>
 
