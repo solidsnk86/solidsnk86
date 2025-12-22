@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento es poder."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Francis Bacon
+> — Anónimo
 
 </div>
 
