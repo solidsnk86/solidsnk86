@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Victor Hugo
+> — Proverbio chino
 
 </div>
 
