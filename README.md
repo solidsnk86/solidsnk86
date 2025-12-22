@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Aristóteles
+> — Tucídides
 
 </div>
 
