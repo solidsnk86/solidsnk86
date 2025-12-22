@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Proverbio chino
+> — Arthur Schopenhauer
 
 </div>
 
