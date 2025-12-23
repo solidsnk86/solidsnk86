@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Khalil Gibran
+> — Ludwig Wittgenstein
 
 </div>
 
