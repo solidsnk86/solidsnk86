@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Michel de Montaigne
+> — Sigmund Freud
 
 </div>
 
