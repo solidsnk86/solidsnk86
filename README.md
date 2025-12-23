@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Anónimo
+> — Martin Luther King Jr.
 
 </div>
 
