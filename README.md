@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — George Santayana
+> — Theodore Roosevelt
 
 </div>
 
