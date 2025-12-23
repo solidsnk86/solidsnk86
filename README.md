@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Martin Luther King Jr.
+> — Bono
 
 </div>
 
