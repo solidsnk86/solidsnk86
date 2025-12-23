@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Heráclito
+> — Anónimo
 
 </div>
 
