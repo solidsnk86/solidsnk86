@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Marie Curie
+> — Theodore Roosevelt
 
 </div>
 
