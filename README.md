@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Ralph Waldo Emerson
+> — Walter Winchell
 
 </div>
 
