@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> — Michelle Obama
+> — León Tolstói
 
 </div>
 
