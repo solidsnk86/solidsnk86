@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
+> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
 >
-> — León Tolstói
+> — Khalil Gibran
 
 </div>
 
