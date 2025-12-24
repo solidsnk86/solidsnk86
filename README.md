@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Khalil Gibran
+> — C. S. Lewis
 
 </div>
 
