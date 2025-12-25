@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — León Tolstói
+> — John Lennon
 
 </div>
 
