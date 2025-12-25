@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — John Lennon
+> — Eleanor Roosevelt
 
 </div>
 
