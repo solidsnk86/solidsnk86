@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"El conocimiento es poder."*
 >
-> — Franklin D. Roosevelt
+> — Francis Bacon
 
 </div>
 
