@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Michael Jordan
+> — Lao Tse
 
 </div>
 
