@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — San Juan Bosco
+> — Victor Hugo
 
 </div>
 
