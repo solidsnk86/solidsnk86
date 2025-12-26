@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"El carácter es destino."*
 >
-> — San Agustín
+> — Heráclito
 
 </div>
 
