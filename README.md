@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Eleanor Roosevelt
+> — Marco Aurelio
 
 </div>
 
