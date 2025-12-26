@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Marco Aurelio
+> — San Juan Bosco
 
 </div>
 
