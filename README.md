@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Henry Ford
+> — San Agustín
 
 </div>
 
