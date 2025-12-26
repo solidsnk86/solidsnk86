@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Publio Siro
+> — Rabindranath Tagore
 
 </div>
 
