@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Mark Twain
+> — Thomas Jefferson
 
 </div>
 
