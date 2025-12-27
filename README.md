@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Ludwig Wittgenstein
+> — Pablo Picasso
 
 </div>
 
