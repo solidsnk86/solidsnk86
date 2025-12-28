@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Proverbio árabe
+> — Aristóteles
 
 </div>
 
