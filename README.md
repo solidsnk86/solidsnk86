@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Charles Darwin
+> — Martin Luther King Jr.
 
 </div>
 
