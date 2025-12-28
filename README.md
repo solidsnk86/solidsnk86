@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Platón
+> — Eleanor Roosevelt
 
 </div>
 
