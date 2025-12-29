@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Proverbio indígena
+> — Publio Siro
 
 </div>
 
