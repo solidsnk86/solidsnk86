@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Mark Twain
+> — Proverbio indígena
 
 </div>
 
