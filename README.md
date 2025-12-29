@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Aristóteles
+> — Platón
 
 </div>
 
