@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
 >
-> — Mahatma Gandhi
+> — Mark Twain
 
 </div>
 
