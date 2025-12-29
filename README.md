@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Robert Collier
+> — Pablo Picasso
 
 </div>
 
