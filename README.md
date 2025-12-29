@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Platón
+> — Robert Collier
 
 </div>
 
