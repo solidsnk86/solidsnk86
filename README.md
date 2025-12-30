@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — John Lennon
+> — Victor Hugo
 
 </div>
 
