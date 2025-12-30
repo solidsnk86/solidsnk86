@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — George Santayana
+> — Anaïs Nin
 
 </div>
 
