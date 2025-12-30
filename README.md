@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Publio Siro
+> — George Santayana
 
 </div>
 
