@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Tucídides
+> — Napoleón Bonaparte
 
 </div>
 
