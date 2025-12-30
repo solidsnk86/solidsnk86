@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Anaïs Nin
+> — Tucídides
 
 </div>
 
