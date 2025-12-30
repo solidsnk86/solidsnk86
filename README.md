@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Alan Kay
+> — Tucídides
 
 </div>
 
