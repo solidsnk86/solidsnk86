@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> — Napoleón Bonaparte
+> — Mahatma Gandhi
 
 </div>
 
