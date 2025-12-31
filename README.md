@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Voltaire
+> — Ludwig Wittgenstein
 
 </div>
 
