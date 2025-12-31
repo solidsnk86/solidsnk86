@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
 >
-> — Ralph Waldo Emerson
+> — Mark Twain
 
 </div>
 
