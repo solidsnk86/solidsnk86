@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Leonardo da Vinci
+> — George Santayana
 
 </div>
 
