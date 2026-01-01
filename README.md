@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — George Santayana
+> — Albert Einstein
 
 </div>
 
