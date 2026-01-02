@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Napoleón Bonaparte
+> — Platón
 
 </div>
 
