@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Franklin D. Roosevelt
+> — Aesopo
 
 </div>
 
