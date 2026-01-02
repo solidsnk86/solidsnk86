@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
 >
-> — John Lennon
+> — Maya Angelou
 
 </div>
 
