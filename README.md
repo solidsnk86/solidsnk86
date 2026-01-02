@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Aesopo
+> — John Lennon
 
 </div>
 
