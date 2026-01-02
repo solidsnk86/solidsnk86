@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Albert Einstein
+> — Walter Winchell
 
 </div>
 
