@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> — Khalil Gibran
+> — Robert Louis Stevenson
 
 </div>
 
