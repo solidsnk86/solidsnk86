@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Walter Winchell
+> — Leonardo da Vinci
 
 </div>
 
