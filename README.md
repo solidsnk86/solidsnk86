@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> — Robert Louis Stevenson
+> — Albert Einstein
 
 </div>
 
