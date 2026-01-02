@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Leonardo da Vinci
+> — Joseph Addison
 
 </div>
 
