@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Marie Curie
+> — Helen Keller
 
 </div>
 
