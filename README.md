@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Helen Keller
+> — Martin Luther King Jr.
 
 </div>
 
