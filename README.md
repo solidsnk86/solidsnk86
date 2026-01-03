@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Platón
+> — Proverbio indígena
 
 </div>
 
