@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
 >
-> — Aesopo
+> — Charles Darwin
 
 </div>
 
