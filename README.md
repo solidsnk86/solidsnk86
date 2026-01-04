@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Charles Dickens
+> — Bono
 
 </div>
 
