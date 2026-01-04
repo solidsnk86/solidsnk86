@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — George Eliot
+> — Victor Hugo
 
 </div>
 
