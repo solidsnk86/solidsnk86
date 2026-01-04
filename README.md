@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Bono
+> — Dalai Lama
 
 </div>
 
