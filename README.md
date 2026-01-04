@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Victor Hugo
+> — Muhammad Ali
 
 </div>
 
