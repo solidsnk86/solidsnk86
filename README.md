@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> — Napoleón Bonaparte
+> — Confucio
 
 </div>
 
