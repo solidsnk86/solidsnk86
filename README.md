@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — Confucio
+> — Aristóteles
 
 </div>
 
