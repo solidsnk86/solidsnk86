@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Proverbio indígena
+> — Napoleón Bonaparte
 
 </div>
 
