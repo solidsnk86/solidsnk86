@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Dalai Lama
+> — George Eliot
 
 </div>
 
