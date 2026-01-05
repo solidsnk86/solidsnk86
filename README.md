@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Aristóteles
+> — Leonardo da Vinci
 
 </div>
 
