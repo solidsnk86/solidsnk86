@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Multatuli
+> — Michelle Obama
 
 </div>
 
