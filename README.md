@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Aristóteles
+> — Fiódor Dostoievski
 
 </div>
 
