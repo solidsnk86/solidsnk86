@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Dalai Lama
+> — James Allen
 
 </div>
 
