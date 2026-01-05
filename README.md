@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
 >
-> — Leonardo da Vinci
+> — Proverbio árabe
 
 </div>
 
