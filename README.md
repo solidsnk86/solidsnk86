@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Lao Tse
+> — Jim Rohn
 
 </div>
 
