@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — Albert Einstein
+> — Winston Churchill
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 6
+## No me siguen de nuevo: 4
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/fernando-alma" title="fernando-alma">
@@ -82,14 +82,6 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
-  </a>
-
-  <a href="https://github.com/realrobotteam" title="realrobotteam">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/112397575?v=4" alt="Avatar de realrobotteam" />
-  </a>
-
-  <a href="https://github.com/vokrob" title="vokrob">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/106639488?v=4" alt="Avatar de vokrob" />
   </a>
 
 </div>
