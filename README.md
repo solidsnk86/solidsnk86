@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Lao Tse
+> — Marco Aurelio
 
 </div>
 
