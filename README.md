@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Thomas Jefferson
+> — Albert Einstein
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 6
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/fernando-alma" title="fernando-alma">
@@ -86,6 +86,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/realrobotteam" title="realrobotteam">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/112397575?v=4" alt="Avatar de realrobotteam" />
+  </a>
+
+  <a href="https://github.com/vokrob" title="vokrob">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/106639488?v=4" alt="Avatar de vokrob" />
   </a>
 
 </div>
