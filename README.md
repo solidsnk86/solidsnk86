@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Tucídides
+> — San Agustín
 
 </div>
 
