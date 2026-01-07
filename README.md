@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Jean-Paul Sartre
+> — Albert Einstein
 
 </div>
 
