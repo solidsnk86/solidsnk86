@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Winston Churchill
+> — Michel de Montaigne
 
 </div>
 
