@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Albert Einstein
+> — Pablo Picasso
 
 </div>
 
