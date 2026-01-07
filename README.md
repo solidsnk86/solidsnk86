@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Fiódor Dostoievski
+> — Albert Einstein
 
 </div>
 
