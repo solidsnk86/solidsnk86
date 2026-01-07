@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Pablo Picasso
+> — Tucídides
 
 </div>
 
