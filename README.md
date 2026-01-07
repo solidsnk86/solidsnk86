@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Albert Einstein
+> — Fiódor Dostoievski
 
 </div>
 
