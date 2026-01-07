@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"El hombre está condenado a ser libre."*
 >
-> — Michel de Montaigne
+> — Jean-Paul Sartre
 
 </div>
 
