@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> — Albert Einstein
+> — Ralph Waldo Emerson
 
 </div>
 
