@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Proverbio indígena
+> — Buda
 
 </div>
 
