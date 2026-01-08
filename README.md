@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — C. S. Lewis
+> — Victor Hugo
 
 </div>
 
