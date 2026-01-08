@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Confucio
+> — Robert Collier
 
 </div>
 
