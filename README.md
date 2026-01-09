@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Muhammad Ali
+> — Pablo Picasso
 
 </div>
 
