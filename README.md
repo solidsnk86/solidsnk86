@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Leonardo da Vinci
+> — Confucio
 
 </div>
 
