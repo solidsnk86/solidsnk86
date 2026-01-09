@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Leonardo da Vinci
+> — Aesopo
 
 </div>
 
