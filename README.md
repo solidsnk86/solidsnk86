@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Leonardo da Vinci
+> — Sigmund Freud
 
 </div>
 
