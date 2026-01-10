@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Henry Ford
+> — Platón
 
 </div>
 
