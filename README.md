@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Platón
+> — Pablo Picasso
 
 </div>
 
