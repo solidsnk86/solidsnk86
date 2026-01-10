@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Publio Siro
+> — Francis Bacon
 
 </div>
 
