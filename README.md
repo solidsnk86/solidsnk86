@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Anaïs Nin
+> — George Eliot
 
 </div>
 
