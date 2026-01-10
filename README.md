@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Aesopo
+> — Marco Aurelio
 
 </div>
 
