@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Marco Aurelio
+> — Publio Siro
 
 </div>
 
