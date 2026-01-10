@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Pablo Picasso
+> — Séneca
 
 </div>
 
