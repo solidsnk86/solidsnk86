@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — George Eliot
+> — Henry Ford
 
 </div>
 
