@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Immanuel Kant
+> — Michel de Montaigne
 
 </div>
 
