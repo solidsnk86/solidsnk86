@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Charles Dickens
+> — Immanuel Kant
 
 </div>
 
