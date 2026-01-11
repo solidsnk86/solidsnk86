@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Leonardo da Vinci
+> — Charles Dickens
 
 </div>
 
