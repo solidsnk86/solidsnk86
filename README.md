@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Michel de Montaigne
+> — Frank Sinatra
 
 </div>
 
