@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
 >
-> — Napoleón Bonaparte
+> — Lao Tse
 
 </div>
 
