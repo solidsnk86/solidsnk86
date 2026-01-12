@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Johann Goethe
+> — Napoleón Bonaparte
 
 </div>
 
