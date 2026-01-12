@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Leonardo da Vinci
+> — Eleanor Roosevelt
 
 </div>
 
