@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Arthur Schopenhauer
+> — San Juan Bosco
 
 </div>
 
