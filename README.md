@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Anaïs Nin
+> — Arthur Schopenhauer
 
 </div>
 
