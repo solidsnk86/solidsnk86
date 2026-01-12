@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Marie Curie
+> — Anaïs Nin
 
 </div>
 
