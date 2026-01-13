@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> — Ralph Waldo Emerson
+> — Confucio
 
 </div>
 
