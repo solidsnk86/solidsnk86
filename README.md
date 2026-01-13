@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Heráclito
+> — Marco Aurelio
 
 </div>
 
