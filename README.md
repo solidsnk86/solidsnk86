@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — San Juan Bosco
+> — John Lennon
 
 </div>
 
