@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Maya Angelou
+> — Alan Kay
 
 </div>
 
