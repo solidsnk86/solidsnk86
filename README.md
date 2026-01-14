@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Henry Ford
+> — Mark Twain
 
 </div>
 
