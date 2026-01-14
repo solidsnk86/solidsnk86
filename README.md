@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Aesopo
+> — Robert Collier
 
 </div>
 
