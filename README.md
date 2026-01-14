@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Albert Einstein
+> — Martin Luther King Jr.
 
 </div>
 
