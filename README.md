@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Albert Einstein
+> — Proverbio chino
 
 </div>
 
