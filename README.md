@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Walter Winchell
+> — Napoleón Bonaparte
 
 </div>
 
