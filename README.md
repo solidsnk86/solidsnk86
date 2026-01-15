@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Napoleón Bonaparte
+> — Albert Einstein
 
 </div>
 
