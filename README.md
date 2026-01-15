@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Victor Hugo
+> — Malcolm X
 
 </div>
 
