@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Robert Louis Stevenson
+> — Albert Einstein
 
 </div>
 
