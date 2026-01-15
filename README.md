@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Anónimo
+> — George Santayana
 
 </div>
 
