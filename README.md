@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Malcolm X
+> — Walter Winchell
 
 </div>
 
