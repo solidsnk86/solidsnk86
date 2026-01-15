@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> — Proverbio chino
+> — Charles R. Swindoll
 
 </div>
 
