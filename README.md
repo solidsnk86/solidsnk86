@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — George Santayana
+> — Immanuel Kant
 
 </div>
 
