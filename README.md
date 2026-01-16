@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Victor Hugo
+> — John Lennon
 
 </div>
 
