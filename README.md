@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Leonardo da Vinci
+> — Anaïs Nin
 
 </div>
 
