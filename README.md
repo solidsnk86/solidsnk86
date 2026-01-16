@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — John Lennon
+> — Theodore Roosevelt
 
 </div>
 
