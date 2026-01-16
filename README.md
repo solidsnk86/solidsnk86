@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Anaïs Nin
+> — Ludwig Wittgenstein
 
 </div>
 
