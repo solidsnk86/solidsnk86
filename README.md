@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Theodore Roosevelt
+> — Rabindranath Tagore
 
 </div>
 
