@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Immanuel Kant
+> — Victor Hugo
 
 </div>
 
