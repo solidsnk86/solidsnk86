@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Arthur Schopenhauer
+> — Martin Luther King Jr.
 
 </div>
 
