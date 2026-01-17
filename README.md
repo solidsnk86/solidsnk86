@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Leonardo da Vinci
+> — Napoleón Bonaparte
 
 </div>
 
