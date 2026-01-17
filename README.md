@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Sigmund Freud
+> — Albert Einstein
 
 </div>
 
