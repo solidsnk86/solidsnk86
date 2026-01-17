@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Albert Einstein
+> — Frank Sinatra
 
 </div>
 
