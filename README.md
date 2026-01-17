@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Frank Sinatra
+> — Victor Hugo
 
 </div>
 
