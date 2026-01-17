@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Arthur Schopenhauer
+> — Leonardo da Vinci
 
 </div>
 
