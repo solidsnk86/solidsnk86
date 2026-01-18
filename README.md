@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
 >
-> — C. S. Lewis
+> — Mark Twain
 
 </div>
 
