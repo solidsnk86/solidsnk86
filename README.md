@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Mark Twain
+> — Platón
 
 </div>
 
