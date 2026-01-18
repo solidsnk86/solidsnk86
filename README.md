@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Mary Anne Radmacher
+> — Eleanor Roosevelt
 
 </div>
 
