@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Lao Tse
+> — Franklin D. Roosevelt
 
 </div>
 
