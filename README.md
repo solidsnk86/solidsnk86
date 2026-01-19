@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Platón
+> — Heráclito
 
 </div>
 
