@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Heráclito
+> — William Shakespeare
 
 </div>
 
