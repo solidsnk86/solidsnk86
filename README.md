@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Francis Bacon
+> — Mark Twain
 
 </div>
 
