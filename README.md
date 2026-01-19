@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Platón
+> — Séneca
 
 </div>
 
