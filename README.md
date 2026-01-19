@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — William Shakespeare
+> — John Lennon
 
 </div>
 
