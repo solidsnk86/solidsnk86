@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Séneca
+> — Heráclito
 
 </div>
 
