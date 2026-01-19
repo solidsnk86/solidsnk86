@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Robert Louis Stevenson
+> — Platón
 
 </div>
 
