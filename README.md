@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Heráclito
+> — Anaïs Nin
 
 </div>
 
