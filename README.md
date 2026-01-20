@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Franklin D. Roosevelt
+> — Robert Collier
 
 </div>
 
