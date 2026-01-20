@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Charles Dickens
+> — Jim Rohn
 
 </div>
 
