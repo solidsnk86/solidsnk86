@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — San Juan Bosco
+> — Winston Churchill
 
 </div>
 
