@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Jim Rohn
+> — Francis Bacon
 
 </div>
 
