@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Anaïs Nin
+> — Charles Dickens
 
 </div>
 
