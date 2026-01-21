@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Francis Bacon
+> — Lao Tse
 
 </div>
 
