@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
 >
-> — Robert Louis Stevenson
+> — Proverbio árabe
 
 </div>
 
