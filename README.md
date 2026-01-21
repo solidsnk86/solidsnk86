@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Leonardo da Vinci
+> — Victor Hugo
 
 </div>
 
