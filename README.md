@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Charles R. Swindoll
+> — Francis Bacon
 
 </div>
 
