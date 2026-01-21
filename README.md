@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
 >
-> — Marco Aurelio
+> — Madre Teresa
 
 </div>
 
