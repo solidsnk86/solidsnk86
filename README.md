@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> — Victor Hugo
+> — Confucio
 
 </div>
 
