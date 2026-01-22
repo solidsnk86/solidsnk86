@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Dalai Lama
+> — San Agustín
 
 </div>
 
