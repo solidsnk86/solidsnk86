@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Francis Bacon
+> — John Lennon
 
 </div>
 
