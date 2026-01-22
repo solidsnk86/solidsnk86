@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Albert Einstein
+> — Francis Bacon
 
 </div>
 
