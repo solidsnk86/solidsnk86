@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Buda
+> — Walter Winchell
 
 </div>
 
