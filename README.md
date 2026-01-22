@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Immanuel Kant
+> — Albert Einstein
 
 </div>
 
