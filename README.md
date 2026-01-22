@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Lao Tse
+> — John Lennon
 
 </div>
 
