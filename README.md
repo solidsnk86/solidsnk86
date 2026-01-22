@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Pablo Picasso
+> — Dalai Lama
 
 </div>
 
