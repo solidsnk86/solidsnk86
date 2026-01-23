@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Platón
+> — Anaïs Nin
 
 </div>
 
