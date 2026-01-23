@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Mark Twain
+> — Frank Sinatra
 
 </div>
 
