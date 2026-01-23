@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Anaïs Nin
+> — Robert Collier
 
 </div>
 
