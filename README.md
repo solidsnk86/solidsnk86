@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — John Lennon
+> — Mark Twain
 
 </div>
 
