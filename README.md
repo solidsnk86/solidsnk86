@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Proverbio indígena
+> — Marco Tulio Cicerón
 
 </div>
 
