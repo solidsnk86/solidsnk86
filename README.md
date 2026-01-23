@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Frank Sinatra
+> — Proverbio indígena
 
 </div>
 
