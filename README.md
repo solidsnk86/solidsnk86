@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Winston Churchill
+> — Frank Sinatra
 
 </div>
 
