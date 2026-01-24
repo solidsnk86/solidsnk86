@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Anónimo
+> — Aristóteles
 
 </div>
 
