@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Frank Sinatra
+> — Martin Luther King Jr.
 
 </div>
 
