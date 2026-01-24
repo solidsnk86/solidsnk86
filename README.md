@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Robert Louis Stevenson
+> — Anónimo
 
 </div>
 
