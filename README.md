@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Albert Einstein
+> — Mark Twain
 
 </div>
 
