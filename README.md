@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> — Martin Luther King Jr.
+> — León Tolstói
 
 </div>
 
