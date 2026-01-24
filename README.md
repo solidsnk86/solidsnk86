@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Pablo Picasso
+> — Honoré de Balzac
 
 </div>
 
