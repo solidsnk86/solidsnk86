@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Aristóteles
+> — Albert Einstein
 
 </div>
 
