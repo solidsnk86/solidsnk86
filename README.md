@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Honoré de Balzac
+> — Michel de Montaigne
 
 </div>
 
