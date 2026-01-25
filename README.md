@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — George Santayana
+> — Proverbio chino
 
 </div>
 
