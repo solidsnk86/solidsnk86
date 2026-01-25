@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Dalai Lama
+> — Charles Dickens
 
 </div>
 
