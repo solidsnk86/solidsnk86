@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Ralph Waldo Emerson
+> — George Eliot
 
 </div>
 
