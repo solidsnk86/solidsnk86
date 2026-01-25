@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Charles Dickens
+> — George Santayana
 
 </div>
 
