@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — Robert Collier
+> — Albert Einstein
 
 </div>
 
