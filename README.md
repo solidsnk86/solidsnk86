@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
 >
-> — Charles Dickens
+> — Charles Darwin
 
 </div>
 
