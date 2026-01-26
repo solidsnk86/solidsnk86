@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Albert Einstein
+> — George Eliot
 
 </div>
 
