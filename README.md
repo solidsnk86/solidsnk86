@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Heráclito
+> — Bono
 
 </div>
 
