@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Immanuel Kant
+> — Albert Einstein
 
 </div>
 
