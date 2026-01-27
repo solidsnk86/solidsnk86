@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — George Eliot
+> — Winston Churchill
 
 </div>
 
