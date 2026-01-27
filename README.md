@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> — Immanuel Kant
+> — Confucio
 
 </div>
 
