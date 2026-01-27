@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — George Eliot
+> — Napoleón Bonaparte
 
 </div>
 
