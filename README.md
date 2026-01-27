@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Winston Churchill
+> — George Herbert
 
 </div>
 
