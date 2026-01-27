@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — George Herbert
+> — George Eliot
 
 </div>
 
