@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Napoleón Bonaparte
+> — Victor Hugo
 
 </div>
 
