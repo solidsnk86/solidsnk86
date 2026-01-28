@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Marco Tulio Cicerón
+> — Helen Keller
 
 </div>
 
