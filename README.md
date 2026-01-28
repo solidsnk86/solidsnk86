@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Marco Aurelio
+> — Michelle Obama
 
 </div>
 
