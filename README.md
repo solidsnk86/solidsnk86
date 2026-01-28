@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Michelle Obama
+> — Platón
 
 </div>
 
