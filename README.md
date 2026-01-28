@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Albert Einstein
+> — Marco Aurelio
 
 </div>
 
