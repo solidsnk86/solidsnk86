@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Platón
+> — William Shakespeare
 
 </div>
 
