@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Tucídides
+> — Marco Tulio Cicerón
 
 </div>
 
