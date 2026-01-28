@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Platón
+> — Tucídides
 
 </div>
 
