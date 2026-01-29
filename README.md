@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Publio Siro
+> — Albert Einstein
 
 </div>
 
