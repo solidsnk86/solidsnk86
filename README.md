@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
 >
-> — Charles Dickens
+> — Lao Tse
 
 </div>
 
