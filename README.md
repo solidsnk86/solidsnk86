@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Robert Louis Stevenson
+> — Theodore Roosevelt
 
 </div>
 
