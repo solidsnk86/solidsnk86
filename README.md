@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Heráclito
+> — Marco Tulio Cicerón
 
 </div>
 
