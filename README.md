@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
