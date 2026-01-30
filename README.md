@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Helen Keller
+> — Thomas Jefferson
 
 </div>
 
