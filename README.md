@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Platón
+> — Helen Keller
 
 </div>
 
