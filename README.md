@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> — Thomas Jefferson
+> — Platón
 
 </div>
 
