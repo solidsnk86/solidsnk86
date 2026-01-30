@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Confucio
+> — Alan Kay
 
 </div>
 
