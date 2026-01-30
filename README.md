@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> — Frank Sinatra
+> — Jim Rohn
 
 </div>
 
