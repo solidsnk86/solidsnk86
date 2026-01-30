@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Ralph Waldo Emerson
+> — Alan Kay
 
 </div>
 
