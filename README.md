@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Robert Louis Stevenson
+> — Lao Tse
 
 </div>
 
