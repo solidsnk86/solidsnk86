@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Aristóteles
+> — Alan Kay
 
 </div>
 
