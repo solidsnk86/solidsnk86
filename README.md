@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Alan Kay
+> — Buda
 
 </div>
 
