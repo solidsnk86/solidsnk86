@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Lao Tse
+> — Platón
 
 </div>
 
