@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Proverbio chino
+> — Thomas Jefferson
 
 </div>
 
