@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Frank Sinatra
+> — Ludwig Wittgenstein
 
 </div>
 
