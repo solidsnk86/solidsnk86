@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Platón
+> — Martin Luther King Jr.
 
 </div>
 
