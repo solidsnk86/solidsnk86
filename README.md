@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Thomas Jefferson
+> — Heráclito
 
 </div>
 
