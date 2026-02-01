@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Jim Rohn
+> — Arthur Schopenhauer
 
 </div>
 
