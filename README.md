@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Heráclito
+> — Publio Siro
 
 </div>
 
