@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Albert Einstein
+> — John Lennon
 
 </div>
 
