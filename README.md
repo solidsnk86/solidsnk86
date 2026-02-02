@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Maya Angelou
+> — Walter Winchell
 
 </div>
 
