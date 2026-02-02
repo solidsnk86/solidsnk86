@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Maya Angelou
+> — Victor Hugo
 
 </div>
 
