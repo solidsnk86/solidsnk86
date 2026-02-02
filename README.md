@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Platón
+> — George Eliot
 
 </div>
 
