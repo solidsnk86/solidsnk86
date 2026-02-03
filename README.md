@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Maya Angelou
+> — Helen Keller
 
 </div>
 
