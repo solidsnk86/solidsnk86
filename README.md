@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — George Herbert
+> — Dalai Lama
 
 </div>
 
