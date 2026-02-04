@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Rabindranath Tagore
+> — Albert Einstein
 
 </div>
 
