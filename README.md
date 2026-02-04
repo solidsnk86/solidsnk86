@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Dalai Lama
+> — Rabindranath Tagore
 
 </div>
 
