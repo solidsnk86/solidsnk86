@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Helen Keller
+> — George Herbert
 
 </div>
 
