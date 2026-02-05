@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Dalai Lama
+> — William Shakespeare
 
 </div>
 
