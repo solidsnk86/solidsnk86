@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Albert Einstein
+> — George Herbert
 
 </div>
 
