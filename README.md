@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Henry Ford
+> — Francis Bacon
 
 </div>
 
