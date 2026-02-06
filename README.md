@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Victor Hugo
+> — Charles Dickens
 
 </div>
 
