@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Confucio
+> — Henry Ford
 
 </div>
 
