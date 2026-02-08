@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Confucio
+> — Lao Tse
 
 </div>
 
