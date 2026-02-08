@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Lao Tse
+> — Joseph Addison
 
 </div>
 
