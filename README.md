@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Robert Collier
+> — Victor Hugo
 
 </div>
 
