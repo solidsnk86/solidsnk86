@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Michael Jordan
+> — Charles Dickens
 
 </div>
 
