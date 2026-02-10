@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
 >
-> — Joseph Addison
+> — Michael Jordan
 
 </div>
 
