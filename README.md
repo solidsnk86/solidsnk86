@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Mark Twain
+> — Lao Tse
 
 </div>
 
