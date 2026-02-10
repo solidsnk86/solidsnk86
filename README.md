@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Michael Jordan
+> — Mark Twain
 
 </div>
 
