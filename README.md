@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — Francis Bacon
+> — Winston Churchill
 
 </div>
 
