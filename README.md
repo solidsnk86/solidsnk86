@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento es poder."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Francis Bacon
+> — Marco Aurelio
 
 </div>
 
