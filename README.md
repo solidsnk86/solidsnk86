@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Winston Churchill
+> — Theodore Roosevelt
 
 </div>
 
