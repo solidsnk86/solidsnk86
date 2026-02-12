@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Aristóteles
+> — Victor Hugo
 
 </div>
 
