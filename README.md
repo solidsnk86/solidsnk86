@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Francis Bacon
+> — William Shakespeare
 
 </div>
 
