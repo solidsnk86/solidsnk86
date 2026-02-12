@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Henry Ford
+> — Aristóteles
 
 </div>
 
