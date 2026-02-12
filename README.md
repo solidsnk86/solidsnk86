@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> — Aristóteles
+> — Francis Bacon
 
 </div>
 
