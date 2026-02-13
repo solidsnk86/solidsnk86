@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Platón
+> — Napoleón Bonaparte
 
 </div>
 
