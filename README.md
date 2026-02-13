@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> — Napoleón Bonaparte
+> — Platón
 
 </div>
 
