@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Heráclito
+> — Anaïs Nin
 
 </div>
 
