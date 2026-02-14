@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El carácter es destino."*
 >
-> — Napoleón Bonaparte
+> — Heráclito
 
 </div>
 
