@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
 >
-> — Charles Darwin
+> — Maya Angelou
 
 </div>
 
