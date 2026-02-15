@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — San Juan Bosco
+> — Eleanor Roosevelt
 
 </div>
 
