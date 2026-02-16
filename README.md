@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Maya Angelou
+> — Victor Hugo
 
 </div>
 
