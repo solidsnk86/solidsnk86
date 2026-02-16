@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> — Rabindranath Tagore
+> — Ralph Waldo Emerson
 
 </div>
 
