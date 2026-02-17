@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Martin Luther King Jr.
+> — Marco Aurelio
 
 </div>
 
