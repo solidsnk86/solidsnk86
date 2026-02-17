@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Thomas Jefferson
+> — Henry Ford
 
 </div>
 
