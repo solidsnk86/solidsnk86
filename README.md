@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Henry Ford
+> — Marco Tulio Cicerón
 
 </div>
 
