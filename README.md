@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Marco Tulio Cicerón
+> — Martin Luther King Jr.
 
 </div>
 
