@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Confucio
+> — Eleanor Roosevelt
 
 </div>
 
