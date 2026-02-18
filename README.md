@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Séneca
+> — Confucio
 
 </div>
 
