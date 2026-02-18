@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Marco Aurelio
+> — Séneca
 
 </div>
 
