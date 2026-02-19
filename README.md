@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Victor Hugo
+> — Napoleón Bonaparte
 
 </div>
 
