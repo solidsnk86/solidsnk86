@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Henry Ford
+> — Victor Hugo
 
 </div>
 
