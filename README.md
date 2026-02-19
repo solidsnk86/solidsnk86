@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> — Napoleón Bonaparte
+> — Henry Ford
 
 </div>
 
