@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre está condenado a ser libre."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Jean-Paul Sartre
+> — Pablo Picasso
 
 </div>
 
