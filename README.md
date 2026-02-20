@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Henry Ford
+> — Publio Siro
 
 </div>
 
