@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Publio Siro
+> — Victor Hugo
 
 </div>
 
