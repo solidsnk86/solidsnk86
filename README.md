@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Victor Hugo
+> — Buda
 
 </div>
 
