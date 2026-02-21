@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Winston Churchill
+> — Marco Aurelio
 
 </div>
 
