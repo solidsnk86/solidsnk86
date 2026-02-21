@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Albert Einstein
+> — Michel de Montaigne
 
 </div>
 
