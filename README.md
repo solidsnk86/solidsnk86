@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Marco Tulio Cicerón
+> — Séneca
 
 </div>
 
