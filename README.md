@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Winston Churchill
+> — Marco Tulio Cicerón
 
 </div>
 
