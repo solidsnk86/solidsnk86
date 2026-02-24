@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Victor Hugo
+> — Charles Dickens
 
 </div>
 
