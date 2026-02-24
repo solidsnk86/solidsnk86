@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Victor Hugo
+> — Frank Sinatra
 
 </div>
 
