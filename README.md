@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Frank Sinatra
+> — Henry Ford
 
 </div>
 
