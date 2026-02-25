@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — James Allen
+> — Leonardo da Vinci
 
 </div>
 
