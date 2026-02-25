@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Aristóteles
+> — Bono
 
 </div>
 
