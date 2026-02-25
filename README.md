@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Mahatma Gandhi
+> — Aristóteles
 
 </div>
 
