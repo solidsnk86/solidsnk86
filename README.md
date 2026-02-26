@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> — Alan Kay
+> — Mahatma Gandhi
 
 </div>
 
