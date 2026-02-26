@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Multatuli
+> — San Juan Bosco
 
 </div>
 
