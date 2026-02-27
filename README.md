@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — C. S. Lewis
+> — Victor Hugo
 
 </div>
 
