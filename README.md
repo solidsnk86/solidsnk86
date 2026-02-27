@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Victor Hugo
+> — Martin Luther King Jr.
 
 </div>
 
