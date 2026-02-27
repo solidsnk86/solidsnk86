@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Martin Luther King Jr.
+> — Malcolm X
 
 </div>
 
