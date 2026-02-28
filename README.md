@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Victor Hugo
+> — Muhammad Ali
 
 </div>
 
