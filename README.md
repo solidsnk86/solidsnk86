@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Muhammad Ali
+> — Albert Einstein
 
 </div>
 
