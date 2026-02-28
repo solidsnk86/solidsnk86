@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Albert Einstein
+> — Eleanor Roosevelt
 
 </div>
 
