@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Theodore Roosevelt
+> — Malcolm X
 
 </div>
 
