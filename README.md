@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Platón
+> — Alan Kay
 
 </div>
 
