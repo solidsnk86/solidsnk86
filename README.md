@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Albert Einstein
+> — Theodore Roosevelt
 
 </div>
 
