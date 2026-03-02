@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Confucio
+> — Leonardo da Vinci
 
 </div>
 
