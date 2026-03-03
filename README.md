@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Theodore Roosevelt
+> — Albert Einstein
 
 </div>
 
