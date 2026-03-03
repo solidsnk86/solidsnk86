@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — George Santayana
+> — Muhammad Ali
 
 </div>
 
