@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — George Herbert
+> — George Santayana
 
 </div>
 
