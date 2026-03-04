@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Immanuel Kant
+> — Theodore Roosevelt
 
 </div>
 
