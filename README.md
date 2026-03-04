@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Albert Einstein
+> — Voltaire
 
 </div>
 
