@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Charles Darwin
+> — Proverbio indígena
 
 </div>
 
