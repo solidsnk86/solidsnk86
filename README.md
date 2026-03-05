@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Madre Teresa
+> — Napoleón Bonaparte
 
 </div>
 
