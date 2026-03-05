@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Leonardo da Vinci
+> — Platón
 
 </div>
 
