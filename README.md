@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — Helen Keller
+> — Albert Einstein
 
 </div>
 
