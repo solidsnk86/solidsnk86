@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Napoleón Bonaparte
+> — Helen Keller
 
 </div>
 
