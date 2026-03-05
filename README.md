@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Albert Einstein
+> — Leonardo da Vinci
 
 </div>
 
