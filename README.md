@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Albert Einstein
+> — Robert Collier
 
 </div>
 
