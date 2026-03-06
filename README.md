@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Michel de Montaigne
+> — Albert Einstein
 
 </div>
 
