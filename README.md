@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> — Lao Tse
+> — Albert Einstein
 
 </div>
 
