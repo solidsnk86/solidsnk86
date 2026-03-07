@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Aristóteles
+> — Victor Hugo
 
 </div>
 
