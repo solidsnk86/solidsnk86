@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Victor Hugo
+> — Albert Einstein
 
 </div>
 
