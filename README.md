@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Marco Aurelio
+> — Franklin D. Roosevelt
 
 </div>
 
