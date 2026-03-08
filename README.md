@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Charles Dickens
+> — Marco Tulio Cicerón
 
 </div>
 
