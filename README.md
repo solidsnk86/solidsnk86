@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Marco Tulio Cicerón
+> — Marco Aurelio
 
 </div>
 
