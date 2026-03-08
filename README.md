@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Franklin D. Roosevelt
+> — Henry Ford
 
 </div>
 
