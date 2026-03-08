@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Albert Einstein
+> — Frank Sinatra
 
 </div>
 
