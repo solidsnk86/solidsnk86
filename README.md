@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Henry Ford
+> — George Santayana
 
 </div>
 
