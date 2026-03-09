@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — George Santayana
+> — Eleanor Roosevelt
 
 </div>
 
