@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Sigmund Freud
+> — Leonardo da Vinci
 
 </div>
 
