@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Immanuel Kant
+> — Aristóteles
 
 </div>
 
