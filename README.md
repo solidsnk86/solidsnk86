@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Mark Twain
+> — Marco Aurelio
 
 </div>
 
