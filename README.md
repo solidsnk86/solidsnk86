@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Winston Churchill
+> — Alan Kay
 
 </div>
 
