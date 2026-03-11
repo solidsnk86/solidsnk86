@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Alan Kay
+> — Aristóteles
 
 </div>
 
