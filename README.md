@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Aristóteles
+> — Mark Twain
 
 </div>
 
