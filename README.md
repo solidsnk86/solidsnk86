@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Leonardo da Vinci
+> — Dalai Lama
 
 </div>
 
