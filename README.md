@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
 >
-> — George Santayana
+> — Proverbio árabe
 
 </div>
 
