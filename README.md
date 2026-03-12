@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Proverbio árabe
+> — Martin Luther King Jr.
 
 </div>
 
