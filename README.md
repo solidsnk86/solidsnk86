@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Dalai Lama
+> — George Santayana
 
 </div>
 
