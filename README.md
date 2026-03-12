@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Michael Jordan
+> — Victor Hugo
 
 </div>
 
