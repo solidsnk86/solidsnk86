@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Lao Tse
+> — Ludwig Wittgenstein
 
 </div>
 
