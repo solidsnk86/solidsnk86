@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Ludwig Wittgenstein
+> — Marco Tulio Cicerón
 
 </div>
 
