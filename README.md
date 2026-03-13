@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Marco Tulio Cicerón
+> — Marie Curie
 
 </div>
 
