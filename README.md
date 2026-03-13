@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Marie Curie
+> — William Shakespeare
 
 </div>
 
