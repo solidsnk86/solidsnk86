@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Immanuel Kant
+> — Lao Tse
 
 </div>
 
