@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Lao Tse
+> — Albert Einstein
 
 </div>
 
