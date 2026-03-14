@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Malcolm X
+> — Immanuel Kant
 
 </div>
 
