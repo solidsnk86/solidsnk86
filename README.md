@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Jim Rohn
+> — George Herbert
 
 </div>
 
