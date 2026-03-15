@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento es poder."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Francis Bacon
+> — Marie Curie
 
 </div>
 
