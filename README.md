@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Madre Teresa
+> — Martin Luther King Jr.
 
 </div>
 
