@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Marie Curie
+> — Dalai Lama
 
 </div>
 
