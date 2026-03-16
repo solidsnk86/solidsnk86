@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — John Lennon
+> — Michelle Obama
 
 </div>
 
