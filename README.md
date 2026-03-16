@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Anónimo
+> — Muhammad Ali
 
 </div>
 
