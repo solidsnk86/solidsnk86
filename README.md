@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> — Muhammad Ali
+> — John Lennon
 
 </div>
 
