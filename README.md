@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Dalai Lama
+> — Victor Hugo
 
 </div>
 
