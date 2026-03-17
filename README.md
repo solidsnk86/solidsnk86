@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Michelle Obama
+> — Platón
 
 </div>
 
