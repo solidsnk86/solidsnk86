@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Platón
+> — Anónimo
 
 </div>
 
