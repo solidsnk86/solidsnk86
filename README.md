@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Napoleón Bonaparte
+> — Thomas Jefferson
 
 </div>
 
