@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Voltaire
+> — Charles Dickens
 
 </div>
 
