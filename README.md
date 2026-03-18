@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"La imaginación gobierna el mundo."*
 >
-> — Maya Angelou
+> — Napoleón Bonaparte
 
 </div>
 
