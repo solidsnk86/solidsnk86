@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
 >
-> — Victor Hugo
+> — Maya Angelou
 
 </div>
 
