@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Confucio
+> — Albert Einstein
 
 </div>
 
