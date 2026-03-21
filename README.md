@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Proverbio árabe
+> — Albert Einstein
 
 </div>
 
