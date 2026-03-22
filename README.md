@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Immanuel Kant
+> — Victor Hugo
 
 </div>
 
