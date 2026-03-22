@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Theodore Roosevelt
+> — Voltaire
 
 </div>
 
