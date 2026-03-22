@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Victor Hugo
+> — Sigmund Freud
 
 </div>
 
