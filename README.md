@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Sigmund Freud
+> — Anaïs Nin
 
 </div>
 
