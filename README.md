@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Marco Aurelio
+> — Publio Siro
 
 </div>
 
