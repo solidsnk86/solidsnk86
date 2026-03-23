@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — William Shakespeare
+> — Publio Siro
 
 </div>
 
