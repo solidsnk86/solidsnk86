@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Anaïs Nin
+> — Marco Aurelio
 
 </div>
 
