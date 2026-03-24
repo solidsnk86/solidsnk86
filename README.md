@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Leonardo da Vinci
+> — Helen Keller
 
 </div>
 
