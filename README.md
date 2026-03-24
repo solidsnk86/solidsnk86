@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Albert Einstein
+> — Leonardo da Vinci
 
 </div>
 
