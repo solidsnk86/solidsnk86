@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Malcolm X
+> — Victor Hugo
 
 </div>
 
