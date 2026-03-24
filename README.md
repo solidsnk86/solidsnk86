@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Victor Hugo
+> — Heráclito
 
 </div>
 
