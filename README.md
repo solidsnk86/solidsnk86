@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> — Proverbio árabe
+> — Albert Einstein
 
 </div>
 
