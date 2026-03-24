@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Helen Keller
+> — Malcolm X
 
 </div>
 
