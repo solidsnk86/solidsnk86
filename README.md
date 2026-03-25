@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Robert Louis Stevenson
+> — Muhammad Ali
 
 </div>
 
