@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Helen Keller
+> — Lao Tse
 
 </div>
 
