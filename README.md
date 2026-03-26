@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Eleanor Roosevelt
+> — Alan Kay
 
 </div>
 
