@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Napoleón Bonaparte
+> — Eleanor Roosevelt
 
 </div>
 
