@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"La envidia es una declaración de inferioridad."*
 >
-> — Charles Darwin
+> — Napoleón Bonaparte
 
 </div>
 
