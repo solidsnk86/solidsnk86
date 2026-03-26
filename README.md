@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Alan Kay
+> — Victor Hugo
 
 </div>
 
