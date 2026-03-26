@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Victor Hugo
+> — Helen Keller
 
 </div>
 
