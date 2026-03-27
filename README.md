@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — John Lennon
+> — Séneca
 
 </div>
 
