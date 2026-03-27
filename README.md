@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Lao Tse
+> — John Lennon
 
 </div>
 
