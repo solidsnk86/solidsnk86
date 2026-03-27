@@ -17,7 +17,7 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
 > — Albert Einstein
 
