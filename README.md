@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Mark Twain
+> — Marie Curie
 
 </div>
 
