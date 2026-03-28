@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Marie Curie
+> — Tucídides
 
 </div>
 
