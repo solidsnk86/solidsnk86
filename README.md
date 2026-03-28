@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Mark Twain
+> — Aesopo
 
 </div>
 
