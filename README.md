@@ -17,7 +17,7 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
 > — Aristóteles
 
