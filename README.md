@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los sueños son las semillas de la realidad."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — James Allen
+> — Charles Dickens
 
 </div>
 
