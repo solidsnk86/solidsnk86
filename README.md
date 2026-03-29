@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Mary Anne Radmacher
+> — James Allen
 
 </div>
 
