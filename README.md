@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — Charles Dickens
+> — Tucídides
 
 </div>
 
