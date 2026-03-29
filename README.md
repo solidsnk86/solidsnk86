@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Tucídides
+> — Aristóteles
 
 </div>
 
