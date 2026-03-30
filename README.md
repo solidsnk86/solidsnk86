@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Aristóteles
+> — Dalai Lama
 
 </div>
 
