@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Frank Sinatra
+> — Leonardo da Vinci
 
 </div>
 
