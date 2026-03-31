@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Leonardo da Vinci
+> — Frank Sinatra
 
 </div>
 
