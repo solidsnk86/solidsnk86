@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Proverbio indígena
+> — Anónimo
 
 </div>
 
