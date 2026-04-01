@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Ralph Waldo Emerson
+> — Michelle Obama
 
 </div>
 
