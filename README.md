@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Joseph Addison
+> — Walter Winchell
 
 </div>
 
