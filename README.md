@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Malcolm X
+> — Joseph Addison
 
 </div>
 
