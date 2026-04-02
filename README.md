@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — John Lennon
+> — Heráclito
 
 </div>
 
