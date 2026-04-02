@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Walter Winchell
+> — Séneca
 
 </div>
 
