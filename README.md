@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Muhammad Ali
+> — Marco Aurelio
 
 </div>
 
