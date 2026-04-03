@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — San Juan Bosco
+> — Séneca
 
 </div>
 
