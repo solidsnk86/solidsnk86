@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> — Victor Hugo
+> — Bono
 
 </div>
 
