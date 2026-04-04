@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Multatuli
+> — Marco Tulio Cicerón
 
 </div>
 
