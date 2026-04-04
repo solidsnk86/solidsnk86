@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> — Albert Einstein
+> — Victor Hugo
 
 </div>
 
