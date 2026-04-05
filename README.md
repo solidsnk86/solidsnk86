@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Bono
+> — Albert Einstein
 
 </div>
 
