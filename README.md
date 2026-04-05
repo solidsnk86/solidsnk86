@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Albert Einstein
+> — Lao Tse
 
 </div>
 
