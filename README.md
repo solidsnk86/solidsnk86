@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Albert Einstein
+> — Marie Curie
 
 </div>
 
