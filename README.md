@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"La libertad comienza donde termina la ignorancia."*
 >
-> — Séneca
+> — Victor Hugo
 
 </div>
 
