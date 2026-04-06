@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Platón
+> — Séneca
 
 </div>
 
