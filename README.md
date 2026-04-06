@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Albert Einstein
+> — Platón
 
 </div>
 
