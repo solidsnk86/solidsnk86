@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Marie Curie
+> — Alan Kay
 
 </div>
 
