@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Alan Kay
+> — Helen Keller
 
 </div>
 
