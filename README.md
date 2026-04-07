@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Helen Keller
+> — Dalai Lama
 
 </div>
 
