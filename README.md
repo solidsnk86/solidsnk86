@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Immanuel Kant
+> — Mark Twain
 
 </div>
 
