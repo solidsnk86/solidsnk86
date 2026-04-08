@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Heráclito
+> — William Shakespeare
 
 </div>
 
