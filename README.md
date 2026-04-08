@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> — Lao Tse
+> — Immanuel Kant
 
 </div>
 
