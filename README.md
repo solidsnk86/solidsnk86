@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — San Juan Bosco
+> — Marco Tulio Cicerón
 
 </div>
 
