@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Arthur Schopenhauer
+> — Malcolm X
 
 </div>
 
