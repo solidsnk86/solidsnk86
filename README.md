@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Malcolm X
+> — John Lennon
 
 </div>
 
