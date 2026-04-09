@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Albert Einstein
+> — Arthur Schopenhauer
 
 </div>
 
