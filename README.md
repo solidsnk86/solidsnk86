@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> — William Shakespeare
+> — Robert Louis Stevenson
 
 </div>
 
