@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Lao Tse
+> — William Shakespeare
 
 </div>
 
