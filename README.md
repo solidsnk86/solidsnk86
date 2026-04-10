@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — John Lennon
+> — Thomas Jefferson
 
 </div>
 
