@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Winston Churchill
+> — Aesopo
 
 </div>
 
