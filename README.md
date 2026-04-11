@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> — Buda
+> — Theodore Roosevelt
 
 </div>
 
