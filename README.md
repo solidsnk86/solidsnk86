@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
 >
-> — Theodore Roosevelt
+> — Albert Einstein
 
 </div>
 
@@ -65,7 +65,7 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 6
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/chahe-dridi" title="chahe-dridi">
@@ -86,6 +86,10 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
+  </a>
+
+  <a href="https://github.com/seehiong" title="seehiong">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6965893?v=4" alt="Avatar de seehiong" />
   </a>
 
 </div>
