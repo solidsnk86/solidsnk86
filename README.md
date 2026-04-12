@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
 >
-> — Albert Einstein
+> — Charles Darwin
 
 </div>
 
