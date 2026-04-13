@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Frank Sinatra
+> — Anónimo
 
 </div>
 
