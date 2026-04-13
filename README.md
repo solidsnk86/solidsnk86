@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Marie Curie
+> — Michel de Montaigne
 
 </div>
 
