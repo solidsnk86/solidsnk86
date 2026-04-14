@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
 >
-> — Michel de Montaigne
+> — Lao Tse
 
 </div>
 
