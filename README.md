@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — George Santayana
+> — Marco Aurelio
 
 </div>
 
