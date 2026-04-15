@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — George Santayana
+> — William Shakespeare
 
 </div>
 
