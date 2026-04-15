@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de salir adelante es comenzar."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Mark Twain
+> — George Santayana
 
 </div>
 
