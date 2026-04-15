@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> — Pablo Picasso
+> — Mark Twain
 
 </div>
 
