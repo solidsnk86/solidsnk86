@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
 >
-> — Marco Aurelio
+> — Michael Jordan
 
 </div>
 
