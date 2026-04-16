@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — William Shakespeare
+> — Aristóteles
 
 </div>
 
