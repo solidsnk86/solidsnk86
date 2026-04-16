@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> — Ralph Waldo Emerson
+> — Johann Goethe
 
 </div>
 
