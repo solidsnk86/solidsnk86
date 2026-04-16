@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — Johann Goethe
+> — George Herbert
 
 </div>
 
