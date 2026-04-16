@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — George Herbert
+> — Séneca
 
 </div>
 
