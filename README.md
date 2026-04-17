@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Immanuel Kant
+> — Heráclito
 
 </div>
 
