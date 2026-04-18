@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Michael Jordan
+> — Platón
 
 </div>
 
