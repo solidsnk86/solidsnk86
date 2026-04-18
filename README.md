@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La imaginación gobierna el mundo."*
+> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
 >
-> — Napoleón Bonaparte
+> — Michael Jordan
 
 </div>
 
