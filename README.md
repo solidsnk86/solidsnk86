@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El aprendizaje nunca agota la mente."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Leonardo da Vinci
+> — Arthur Schopenhauer
 
 </div>
 
