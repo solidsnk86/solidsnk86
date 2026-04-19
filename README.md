@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> — Platón
+> — Leonardo da Vinci
 
 </div>
 
