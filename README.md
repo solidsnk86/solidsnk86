@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Arthur Schopenhauer
+> — Heráclito
 
 </div>
 
