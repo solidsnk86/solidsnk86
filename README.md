@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Charles Dickens
+> — Buda
 
 </div>
 
