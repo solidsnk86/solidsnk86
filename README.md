@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Honoré de Balzac
+> — Charles Dickens
 
 </div>
 
