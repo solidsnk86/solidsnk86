@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Martin Luther King Jr.
+> — Confucio
 
 </div>
 
