@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Confucio
+> — Aristóteles
 
 </div>
 
