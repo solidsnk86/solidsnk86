@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Aristóteles
+> — Michel de Montaigne
 
 </div>
 
