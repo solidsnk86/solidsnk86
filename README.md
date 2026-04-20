@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Buda
+> — Voltaire
 
 </div>
 
