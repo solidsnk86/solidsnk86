@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Maya Angelou
+> — Thomas Jefferson
 
 </div>
 
