@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Lao Tse
+> — Marco Tulio Cicerón
 
 </div>
 
