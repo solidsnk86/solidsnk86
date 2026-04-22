@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> — Proverbio chino
+> — Leonardo da Vinci
 
 </div>
 
