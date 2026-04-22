@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Marco Tulio Cicerón
+> — Anaïs Nin
 
 </div>
 
