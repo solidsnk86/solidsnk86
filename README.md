@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Anaïs Nin
+> — Albert Einstein
 
 </div>
 
