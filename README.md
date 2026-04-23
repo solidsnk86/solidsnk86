@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Platón
+> — Anaïs Nin
 
 </div>
 
