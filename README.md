@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Johann Goethe
+> — George Eliot
 
 </div>
 
