@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La simplicidad es la máxima sofisticación."*
+> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
 >
-> — Leonardo da Vinci
+> — Maya Angelou
 
 </div>
 
