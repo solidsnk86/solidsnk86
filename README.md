@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Anaïs Nin
+> — Rabindranath Tagore
 
 </div>
 
