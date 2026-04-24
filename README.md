@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Michael Jordan
+> — Publio Siro
 
 </div>
 
