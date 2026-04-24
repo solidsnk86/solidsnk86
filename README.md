@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Publio Siro
+> — Platón
 
 </div>
 
