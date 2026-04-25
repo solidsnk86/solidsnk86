@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Heráclito
+> — Malcolm X
 
 </div>
 
