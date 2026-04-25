@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Malcolm X
+> — Michel de Montaigne
 
 </div>
 
