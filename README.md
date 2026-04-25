@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Mark Twain
+> — Charles Dickens
 
 </div>
 
