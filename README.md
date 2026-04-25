@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Charles Dickens
+> — Marco Aurelio
 
 </div>
 
