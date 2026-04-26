@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Marco Aurelio
+> — Ludwig Wittgenstein
 
 </div>
 
