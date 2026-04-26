@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Malcolm X
+> — Pablo Picasso
 
 </div>
 
