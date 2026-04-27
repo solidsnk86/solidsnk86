@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Malcolm X
+> — San Juan Bosco
 
 </div>
 
