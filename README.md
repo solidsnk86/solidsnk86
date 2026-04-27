@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Victor Hugo
+> — Ludwig Wittgenstein
 
 </div>
 
