@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Albert Einstein
+> — Malcolm X
 
 </div>
 
