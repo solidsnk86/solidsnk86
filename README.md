@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Mary Anne Radmacher
+> — Albert Einstein
 
 </div>
 
