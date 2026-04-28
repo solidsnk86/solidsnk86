@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Henry Ford
+> — Aristóteles
 
 </div>
 
