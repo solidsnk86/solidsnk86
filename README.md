@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Albert Einstein
+> — Henry Ford
 
 </div>
 
