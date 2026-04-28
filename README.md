@@ -17,7 +17,7 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"La mayor riqueza es contentarse con poco."*
 >
 > — Platón
 
