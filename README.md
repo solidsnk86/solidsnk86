@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Johann Goethe
+> — Arthur Schopenhauer
 
 </div>
 
