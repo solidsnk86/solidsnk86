@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Napoleón Bonaparte
+> — Marie Curie
 
 </div>
 
