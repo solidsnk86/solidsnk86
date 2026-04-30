@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Albert Einstein
+> — Muhammad Ali
 
 </div>
 
