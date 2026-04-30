@@ -120,7 +120,7 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
 const generateLastProjectsHTML = ({ name, title, date, url }) => {
   return `
   <p>
-    <sub>${name} — ${date} · ${timeAgo(new Date(date))}</sub>
+    <sub>${name} — ${date} — ${timeAgo(new Date(date))}</sub>
   </p>
 
   <a href="${url}" target="_blank" rel="noopener noreferrer">
