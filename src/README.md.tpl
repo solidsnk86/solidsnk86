@@ -2,10 +2,6 @@
 <img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=218034&badge_gradient_1=218034&counter_color=010409" alt="Contador de Visitas SolidSnk86" />
 </div>
 
-### ¿Te gusta el badge contador de visitas?
-
-- Te explico como usarlo en tu perfil por <a href="https://github.com/solidsnk86/solidsnk86/blob/master/BADGE-INSTRUCTIONS.md">acá...</a>
-
 ## 👨‍💻 Sobre mí
 
 **Desarrollador Front End con conocimientos en Back End**
