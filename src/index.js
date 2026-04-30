@@ -3,6 +3,7 @@ import fetch from 'node-fetch'
 import { GraphQLClient, gql } from 'graphql-request'
 import { formatDate, PLACEHOLDER, SVG_PLACEHOLDER } from './constants.js'
 import dotenv from 'dotenv'
+import { timeAgo } from './utils/timeAgo.js'
 
 dotenv.config()
 const token = process.env.GITHUB_TOKEN
@@ -28,6 +29,19 @@ const getAppInfo = async () => {
   const response = await fetch('https://neo-wifi.vercel.app/api/releases')
   const data = await response.json()
   return data
+}
+
+const getLastProjects = async () => {
+  try {
+    const res = await fetch(
+      'https://calcagni-gabriel-dev.vercel.app/api/all-blogs'
+    )
+    const data = await res.json()
+    if (!res.ok) throw new Error(res.statusText)
+    return data.blog || []
+  } catch (error) {
+    console.error(error)
+  }
 }
 
 const client = new GraphQLClient('https://api.github.com/graphql', {
@@ -81,7 +95,8 @@ let contributions2024
 client
   .request(query1)
   .then((data) => {
-    contributions2024 = data.user.contributionsCollection.totalCommitContributions
+    contributions2024 =
+      data.user.contributionsCollection.totalCommitContributions
   })
   .catch((err) => console.error(err))
 
@@ -89,7 +104,8 @@ let contributions2025
 client
   .request(query2)
   .then((data) => {
-    contributions2025 = data.user.contributionsCollection.totalCommitContributions
+    contributions2025 =
+      data.user.contributionsCollection.totalCommitContributions
   })
   .catch((err) => console.error(err))
 
@@ -99,6 +115,18 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
     <img width="45" height="45" src="${nonFollowersAvatar}" alt="Avatar de ${nonFollowersUser}" />
   </a>
 `
+}
+
+const generateLastProjectsHTML = ({ name, title, date, url }) => {
+  return `
+  <a href="${url}" target="_blank" rel="noopener noreferrer">
+  <p><strong>${title}</strong></p>
+  </a>
+
+  <p>
+    <sub>${name} — ${date} — ${timeAgo(new Date(date))}</sub>
+  </p>
+  `
 }
 
 const objPlaceholder = Object.keys(PLACEHOLDER).map((key) => {
@@ -170,11 +198,12 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
     const beginningOfTheYear = new Date(today.getFullYear(), 0, 1)
     const diffTime = today - beginningOfTheYear
     const days = Math.floor(diffTime / (1000 * 60 * 60 * 24))
-    const contributionsLastYear =
-      Math.round(contributions2024 -
+    const contributionsLastYear = Math.round(
+      contributions2024 -
         contributions2024 * (days / totalDaysLastYear) +
         contributions2025 -
-        206)
+        206
+    )
 
     const githubStatsHTML = users
       .map((_, i) => {
@@ -187,9 +216,24 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .join('')
 
     const version = appInfo.release.appVersion
+    const blogs = await getLastProjects()
+
+    const lastProjects = blogs
+      .map(({ name, title, date, url }) => {
+        return generateLastProjectsHTML({ name, title, date, url })
+      })
+      .join('')
 
     const contentArray = []
-    contentArray.push(author, text, updatedAt, count, githubStatsHTML, version)
+    contentArray.push(
+      author,
+      text,
+      updatedAt,
+      count,
+      githubStatsHTML,
+      version,
+      lastProjects
+    )
     const contentArraySVG = []
     contentArraySVG.push(
       mostUsedLang,

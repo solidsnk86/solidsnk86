@@ -45,6 +45,14 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 ## 💼 Mi Portafolio
 
+Últimos proyectos:
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+%{{last_projects}}
+</div>
+
+## 🌐 Mi sitio web
+
 Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.app](https://calcagni-gabriel-dev.vercel.app)
 
 ## 📫 Conecta conmigo
