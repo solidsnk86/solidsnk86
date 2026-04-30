@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Aesopo
+> — Sigmund Freud
 
 </div>
 
@@ -45,7 +45,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 ## 💼 Mi Portafolio
 
-- Últimos proyectos:
+Últimos proyectos:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
