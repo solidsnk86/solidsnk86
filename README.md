@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
 >
-> — Maya Angelou
+> — Michael Jordan
 
 </div>
 
@@ -50,7 +50,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <p>
-    <sub>cuidadoras-calbuco — Febrero 11, 2026 · hace 3 meses</sub>
+    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 3 meses</sub>
   </p>
 
   <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
@@ -58,15 +58,15 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>e-commerce — Marzo 12, 2026 · hace 2 meses</sub>
+    <sub>e-commerce — Marzo 12, 2026 — hace 2 meses</sub>
   </p>
 
-  <a href="https://pascaleclotset.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://pascalecloset.com/" target="_blank" rel="noopener noreferrer">
   <p><strong> Pascale Closet, tienda virtual</strong></p>
   </a>
   
   <p>
-    <sub>geo-api — Julio 12, 2025 · hace 10 meses</sub>
+    <sub>geo-api — Julio 12, 2025 — hace 10 meses</sub>
   </p>
 
   <a href="https://solid-geolocation.vercel.app/location" target="_blank" rel="noopener noreferrer">
@@ -74,7 +74,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>neo-wifi-web — Julio 15, 2025 · hace 10 meses</sub>
+    <sub>neo-wifi-web — Julio 15, 2025 — hace 10 meses</sub>
   </p>
 
   <a href="https://neo-wifi.vercel.app/" target="_blank" rel="noopener noreferrer">
