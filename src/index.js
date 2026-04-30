@@ -218,7 +218,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
     const version = appInfo.release.appVersion
     const blogs = await getLastProjects()
 
-    const lastProjects = blogs
+    const lastProjects = blogs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .map(({ name, title, date, url }) => {
         return generateLastProjectsHTML({ name, title, date, url })
       })
