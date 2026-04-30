@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> — Albert Einstein
+> — Charles R. Swindoll
 
 </div>
 
