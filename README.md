@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Charles R. Swindoll
+> — Lao Tse
 
 </div>
 
