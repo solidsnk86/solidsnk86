@@ -17,9 +17,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Michael Jordan
+> — Albert Einstein
 
 </div>
 
@@ -50,14 +50,6 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <p>
-    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 3 meses</sub>
-  </p>
-
-  <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
-  <p><strong> Cuidadoras Calbuco: Tecnología al servicio de la comunidad</strong></p>
-  </a>
-  
-  <p>
     <sub>e-commerce — Marzo 12, 2026 — hace 2 meses</sub>
   </p>
 
@@ -66,11 +58,11 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>geo-api — Julio 12, 2025 — hace 10 meses</sub>
+    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 3 meses</sub>
   </p>
 
-  <a href="https://solid-geolocation.vercel.app/location" target="_blank" rel="noopener noreferrer">
-  <p><strong> Solid Geolocation: una API para programadores</strong></p>
+  <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
+  <p><strong> Cuidadoras Calbuco: Tecnología al servicio de la comunidad</strong></p>
   </a>
   
   <p>
@@ -79,6 +71,14 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
   <a href="https://neo-wifi.vercel.app/" target="_blank" rel="noopener noreferrer">
   <p><strong> Creando Neo-WiFi: conectividad inteligente para todos</strong></p>
+  </a>
+  
+  <p>
+    <sub>geo-api — Julio 12, 2025 — hace 10 meses</sub>
+  </p>
+
+  <a href="https://solid-geolocation.vercel.app/location" target="_blank" rel="noopener noreferrer">
+  <p><strong> Solid Geolocation: una API para programadores</strong></p>
   </a>
   
 </div>
