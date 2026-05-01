@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Muhammad Ali
+> — Malcolm X
 
 </div>
 
