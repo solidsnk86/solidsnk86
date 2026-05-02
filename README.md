@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> — C. S. Lewis
+> — Winston Churchill
 
 </div>
 
