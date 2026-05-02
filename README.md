@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Fiódor Dostoievski
+> — Aesopo
 
 </div>
 
