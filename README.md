@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> — Michael Jordan
+> — George Eliot
 
 </div>
 
