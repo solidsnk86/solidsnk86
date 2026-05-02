@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — George Eliot
+> — Walter Winchell
 
 </div>
 
