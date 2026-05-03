@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Walter Winchell
+> — Henry Ford
 
 </div>
 
