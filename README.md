@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Honoré de Balzac
+> — Platón
 
 </div>
 
