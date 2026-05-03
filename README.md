@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Confucio
+> — Honoré de Balzac
 
 </div>
 
