@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
 >
-> — Platón
+> — Charles Darwin
 
 </div>
 
