@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> — Charles Darwin
+> — Albert Einstein
 
 </div>
 
