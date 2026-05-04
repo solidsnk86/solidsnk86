@@ -13,7 +13,7 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
 > — Albert Einstein
 
