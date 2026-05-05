@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Aesopo
+> — Sigmund Freud
 
 </div>
 
