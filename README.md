@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Albert Einstein
+> — Aesopo
 
 </div>
 
