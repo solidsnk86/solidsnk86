@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Heráclito
+> — Platón
 
 </div>
 
