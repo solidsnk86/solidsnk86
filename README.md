@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> — Sigmund Freud
+> — Heráclito
 
 </div>
 
