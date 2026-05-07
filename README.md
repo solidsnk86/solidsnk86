@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si buscas resultados distintos, no hagas siempre lo mismo."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Albert Einstein
+> — Aesopo
 
 </div>
 
