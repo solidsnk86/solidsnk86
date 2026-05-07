@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Immanuel Kant
+> — Marco Tulio Cicerón
 
 </div>
 
