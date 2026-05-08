@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"La felicidad se produce cuando lo que piensas, lo que dices y lo que haces están en armonía total."*
 >
-> — George Santayana
+> — Mahatma Gandhi
 
 </div>
 
