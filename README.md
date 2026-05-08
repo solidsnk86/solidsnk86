@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad se produce cuando lo que piensas, lo que dices y lo que haces están en armonía total."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Mahatma Gandhi
+> — Fiódor Dostoievski
 
 </div>
 
