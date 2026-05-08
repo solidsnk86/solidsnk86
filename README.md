@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> — Madre Teresa
+> — León Tolstói
 
 </div>
 
