@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
+> *"La verdadera medida de un hombre no es cómo se comporta en momentos de comodidad y conveniencia."*
 >
-> — Brian Tracy
+> — Martin Luther King Jr.
 
 </div>
 
