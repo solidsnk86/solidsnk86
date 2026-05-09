@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera medida de un hombre no es cómo se comporta en momentos de comodidad y conveniencia."*
+> *"El mejor tiempo para plantar un árbol fue hace 20 años. El segundo mejor tiempo es ahora."*
 >
-> — Martin Luther King Jr.
+> — Proverbio chino
 
 </div>
 
