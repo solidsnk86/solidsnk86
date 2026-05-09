@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> — Dalai Lama
+> — Henry Ford
 
 </div>
 
