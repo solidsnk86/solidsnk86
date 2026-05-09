@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor tiempo para plantar un árbol fue hace 20 años. El segundo mejor tiempo es ahora."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Proverbio chino
+> — Victor Hugo
 
 </div>
 
