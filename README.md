@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
 >
-> — Henry Ford
+> — Brian Tracy
 
 </div>
 
