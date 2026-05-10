@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero coraje es actuar con miedo, no sin él."*
+> *"El legado que dejas es la vida que viviste."*
 >
-> — Nelson Mandela
+> — Jackie Robinson
 
 </div>
 
