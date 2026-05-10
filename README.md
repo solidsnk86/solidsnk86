@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El legado que dejas es la vida que viviste."*
+> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
 >
-> — Jackie Robinson
+> — Lao Tse
 
 </div>
 
