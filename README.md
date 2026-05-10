@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El verdadero coraje es actuar con miedo, no sin él."*
 >
-> — Aristóteles
+> — Nelson Mandela
 
 </div>
 
