@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> — Albert Einstein
+> — William Shakespeare
 
 </div>
 
