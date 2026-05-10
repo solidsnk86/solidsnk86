@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> — Victor Hugo
+> — Aristóteles
 
 </div>
 
