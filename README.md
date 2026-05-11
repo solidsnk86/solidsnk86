@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"La felicidad se produce cuando lo que piensas, lo que dices y lo que haces están en armonía total."*
 >
-> — Eleanor Roosevelt
+> — Mahatma Gandhi
 
 </div>
 
