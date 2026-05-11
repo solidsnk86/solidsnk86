@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Séneca
+> — Martin Luther King Jr.
 
 </div>
 
