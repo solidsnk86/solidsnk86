@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Marco Tulio Cicerón
+> — Eleanor Roosevelt
 
 </div>
 
