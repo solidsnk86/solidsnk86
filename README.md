@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — William Shakespeare
+> — Séneca
 
 </div>
 
