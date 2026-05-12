@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Walter Winchell
+> — Marie Curie
 
 </div>
 
