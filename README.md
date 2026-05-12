@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"El tiempo es el bien más valioso que posees."*
 >
-> — Marie Curie
+> — Jim Rohn
 
 </div>
 
