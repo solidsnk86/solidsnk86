@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo es el bien más valioso que posees."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Jim Rohn
+> — Helen Keller
 
 </div>
 
