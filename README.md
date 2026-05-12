@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad se produce cuando lo que piensas, lo que dices y lo que haces están en armonía total."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> — Mahatma Gandhi
+> — Walter Winchell
 
 </div>
 
