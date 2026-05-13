@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *"No importa lo lentamente que avances, siempre y cuando no te detengas."*
 >
-> — Dolly Parton
+> — Confucio
 
 </div>
 
