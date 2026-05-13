@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No importa lo lentamente que avances, siempre y cuando no te detengas."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> — Confucio
+> — Dalai Lama
 
 </div>
 
