@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *"Nada es imposible si persistes lo suficiente."*
 >
-> — Dolly Parton
+> — Zig Ziglar
 
 </div>
 
