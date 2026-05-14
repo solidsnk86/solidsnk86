@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"No vivas para trabajar, trabaja para vivir."*
 >
-> — Dalai Lama
+> — Desconocido
 
 </div>
 
