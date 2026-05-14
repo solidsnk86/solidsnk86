@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vivas para trabajar, trabaja para vivir."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> — Desconocido
+> — Johann Goethe
 
 </div>
 
