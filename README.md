@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada es imposible si persistes lo suficiente."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Zig Ziglar
+> — Platón
 
 </div>
 
