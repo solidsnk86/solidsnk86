@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
 >
-> — Confucio
+> — Steve Jobs
 
 </div>
 
