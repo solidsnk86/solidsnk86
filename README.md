@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Steve Jobs
+> — San Agustín
 
 </div>
 
