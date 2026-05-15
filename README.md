@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Anónimo
+> — Confucio
 
 </div>
 
