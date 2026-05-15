@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Tu único límite eres tú mismo."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Unknown
+> — Anónimo
 
 </div>
 
