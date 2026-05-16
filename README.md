@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Aristóteles
+> — Robert Collier
 
 </div>
 
