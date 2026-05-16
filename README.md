@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La resiliencia es tu capacidad de regresar."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Sheryl Sandberg
+> — Martin Luther King Jr.
 
 </div>
 
