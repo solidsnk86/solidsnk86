@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> — San Agustín
+> — Aristóteles
 
 </div>
 
