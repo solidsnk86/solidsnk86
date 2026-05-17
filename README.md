@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Anónimo
+> — Ludwig Wittgenstein
 
 </div>
 
