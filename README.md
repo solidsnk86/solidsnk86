@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Marie Curie
+> — Séneca
 
 </div>
 
