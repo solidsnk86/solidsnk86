@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> — Jim Rohn
+> — Anónimo
 
 </div>
 
