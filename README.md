@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> — Séneca
+> — Rabindranath Tagore
 
 </div>
 
