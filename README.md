@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> — Ludwig Wittgenstein
+> — Winston Churchill
 
 </div>
 
