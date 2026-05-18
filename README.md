@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada es imposible si persistes lo suficiente."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Zig Ziglar
+> — San Agustín
 
 </div>
 
