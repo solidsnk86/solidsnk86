@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"La verdadera riqueza es la salud."*
 >
-> — Aesopo
+> — Dicho popular
 
 </div>
 
