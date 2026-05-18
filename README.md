@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> — Rabindranath Tagore
+> — Aesopo
 
 </div>
 
