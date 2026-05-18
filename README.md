@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera riqueza es la salud."*
+> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
 >
-> — Dicho popular
+> — John F. Kennedy
 
 </div>
 
