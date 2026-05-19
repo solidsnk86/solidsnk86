@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"La verdadera libertad es no tener nada que perder."*
 >
-> — Muhammad Ali
+> — Erich Fromm
 
 </div>
 
