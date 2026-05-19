@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Robert Collier
+> — Muhammad Ali
 
 </div>
 
