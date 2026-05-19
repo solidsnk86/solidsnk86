@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera libertad es no tener nada que perder."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Erich Fromm
+> — John Lennon
 
 </div>
 
