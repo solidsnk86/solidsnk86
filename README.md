@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Eres más fuerte de lo que crees."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Unknown
+> — John Lennon
 
 </div>
 
