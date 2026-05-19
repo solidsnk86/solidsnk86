@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — John Lennon
+> — Robert Collier
 
 </div>
 
