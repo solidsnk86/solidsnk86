@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera riqueza es la salud."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Dicho popular
+> — Marco Aurelio
 
 </div>
 
