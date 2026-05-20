@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor inversión es en ti mismo."*
+> *"El verdadero coraje es actuar con miedo, no sin él."*
 >
-> — Warren Buffett
+> — Nelson Mandela
 
 </div>
 
