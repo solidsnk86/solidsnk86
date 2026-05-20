@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero coraje es actuar con miedo, no sin él."*
+> *"La verdadera riqueza es la salud."*
 >
-> — Nelson Mandela
+> — Dicho popular
 
 </div>
 
