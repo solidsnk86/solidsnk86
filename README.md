@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Aquellos que aman profundamente nunca envejecen."*
+> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
 >
-> — Alfred Lord Tennyson
+> — Buda
 
 </div>
 
