@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"Aquellos que aman profundamente nunca envejecen."*
 >
-> — Marco Aurelio
+> — Alfred Lord Tennyson
 
 </div>
 
