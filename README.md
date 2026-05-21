@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La ternura también es valentía."*
+> *"Lo que la mente puede concebir y creer, la mente puede lograrlo."*
 >
-> — Antonio Gala
+> — Napoleon Hill
 
 </div>
 
