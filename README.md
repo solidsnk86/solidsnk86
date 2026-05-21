@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que la mente puede concebir y creer, la mente puede lograrlo."*
+> *"La vida es el arte de encontrar sentido."*
 >
-> — Napoleon Hill
+> — Antonio Gala
 
 </div>
 
