@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
+> *"La ternura también es valentía."*
 >
-> — Buda
+> — Antonio Gala
 
 </div>
 
