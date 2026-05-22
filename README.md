@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca es tarde para empezar de nuevo."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — C.S. Lewis
+> — Frank Sinatra
 
 </div>
 
