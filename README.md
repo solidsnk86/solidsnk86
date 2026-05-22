@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro no se predice, se crea."*
+> *"Nunca es tarde para empezar de nuevo."*
 >
-> — Peter Drucker
+> — C.S. Lewis
 
 </div>
 
