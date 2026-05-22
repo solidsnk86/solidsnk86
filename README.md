@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Somos lo que hacemos para cambiar lo que somos."*
+> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
 >
-> — Eduardo Galeano
+> — Michael Jordan
 
 </div>
 
