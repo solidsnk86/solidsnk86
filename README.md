@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Frank Sinatra
+> — George Santayana
 
 </div>
 
