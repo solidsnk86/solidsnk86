@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> — Honoré de Balzac
+> — Sigmund Freud
 
 </div>
 
