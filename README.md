@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El deseo nunca envejece del todo."*
 >
-> — Sigmund Freud
+> — Antonio Gala
 
 </div>
 
