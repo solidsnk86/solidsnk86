@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Eres más fuerte de lo que crees."*
+> *"Hoy es el primer día del resto de tu vida."*
 >
-> — Unknown
+> — Charles Dederich
 
 </div>
 
