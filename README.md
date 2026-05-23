@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo es el bien más valioso que posees."*
+> *"Eres más fuerte de lo que crees."*
 >
-> — Jim Rohn
+> — Unknown
 
 </div>
 
@@ -70,7 +70,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>geo-api — Julio 12, 2025 — hace 10 meses</sub>
+    <sub>geo-api — Julio 12, 2025 — hace 11 meses</sub>
   </p>
 
   <a href="https://solid-geolocation.vercel.app/location" target="_blank" rel="noopener noreferrer">
