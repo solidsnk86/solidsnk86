@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El deseo nunca envejece del todo."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Antonio Gala
+> — Thomas Jefferson
 
 </div>
 
