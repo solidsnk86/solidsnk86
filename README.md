@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdad suele caminar descalza."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Eduardo Galeano
+> — Arthur Schopenhauer
 
 </div>
 
