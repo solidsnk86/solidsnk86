@@ -13,7 +13,7 @@
 
 <h3>Frases random</h3>
 
-> *"El consumo consume personas."*
+> *"La verdad suele caminar descalza."*
 >
 > — Eduardo Galeano
 
