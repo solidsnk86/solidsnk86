@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El miedo mira, pero también escucha."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> — Eduardo Galeano
+> — Confucio
 
 </div>
 
