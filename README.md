@@ -13,7 +13,7 @@
 
 <h3>Frases random</h3>
 
-> *"La realidad desafía las palabras."*
+> *"El consumo consume personas."*
 >
 > — Eduardo Galeano
 
