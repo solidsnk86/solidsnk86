@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
 >
-> — Confucio
+> — Mary Anne Radmacher
 
 </div>
 
