@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"El amor no es algo que encuentres. Es algo que creces."*
 >
-> — Mary Anne Radmacher
+> — Mario Speed Wagon
 
 </div>
 
