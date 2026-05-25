@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor no es algo que encuentres. Es algo que creces."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Mario Speed Wagon
+> — Albert Einstein
 
 </div>
 
