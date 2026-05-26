@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"No basta estar en el lugar correcto en el momento correcto. Debes ser la persona correcta."*
 >
-> — San Juan Bosco
+> — Stephen Covey
 
 </div>
 
@@ -81,7 +81,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 ## 🌐 Mi sitio web
 
-Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.app](https://calcagni-gabriel-dev.vercel.app)
+Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https://solidsnk86.vercel.app)
 
 ## 📫 Conecta conmigo
 
