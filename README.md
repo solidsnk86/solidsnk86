@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida siempre deja cicatrices."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> — Antonio Gala
+> — George Santayana
 
 </div>
 
