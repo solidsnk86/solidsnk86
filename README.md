@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Buda
+> — San Juan Bosco
 
 </div>
 
@@ -97,16 +97,12 @@ Podés dar un vistazo al sitio acá 👉: [https://calcagni-gabriel-dev.vercel.a
 ## 📊 Estadísticas de GitHub
 
 📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados de `Github Actions`
-; las estadísticas se actualizan cada dos horas.
+; las estadísticas se actualizan cada cuatro horas.
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 6
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/ankitaaryal" title="ankitaaryal">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/235869631?v=4" alt="Avatar de ankitaaryal" />
-  </a>
 
   <a href="https://github.com/godotengine" title="godotengine">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6318500?v=4" alt="Avatar de godotengine" />
