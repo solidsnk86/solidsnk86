@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Aesopo
+> — Michelle Obama
 
 </div>
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 3 meses</sub>
+    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 4 meses</sub>
   </p>
 
   <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
