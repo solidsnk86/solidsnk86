@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Michelle Obama
+> — Michel de Montaigne
 
 </div>
 
