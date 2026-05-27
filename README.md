@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo está patas arriba."*
+> *"La memoria elige sus refugios."*
 >
-> — Eduardo Galeano
+> — Antonio Gala
 
 </div>
 
