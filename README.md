@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"El mundo está patas arriba."*
 >
-> — Michel de Montaigne
+> — Eduardo Galeano
 
 </div>
 
