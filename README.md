@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"La dignidad no pide permiso."*
 >
-> — Joseph Addison
+> — Eduardo Galeano
 
 </div>
 
