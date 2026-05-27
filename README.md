@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La memoria elige sus refugios."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Antonio Gala
+> — Joseph Addison
 
 </div>
 
