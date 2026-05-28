@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Puedes resistir el cambio, pero no puedes detenerlo."*
+> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
 >
-> — Andy Warhol
+> — Brian Tracy
 
 </div>
 
