@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La dignidad no pide permiso."*
+> *"Puedes resistir el cambio, pero no puedes detenerlo."*
 >
-> — Eduardo Galeano
+> — Andy Warhol
 
 </div>
 
