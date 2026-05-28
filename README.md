@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La dignidad no pide permiso."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Eduardo Galeano
+> — Albert Einstein
 
 </div>
 
