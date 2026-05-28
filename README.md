@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"La dignidad no pide permiso."*
 >
-> — Martin Luther King Jr.
+> — Eduardo Galeano
 
 </div>
 
