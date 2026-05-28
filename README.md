@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La envidia es una declaración de inferioridad."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Napoleón Bonaparte
+> — Martin Luther King Jr.
 
 </div>
 
