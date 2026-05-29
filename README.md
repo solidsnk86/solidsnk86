@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El miedo mira, pero también escucha."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> — Eduardo Galeano
+> — Voltaire
 
 </div>
 
