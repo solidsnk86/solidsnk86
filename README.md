@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"El miedo mira, pero también escucha."*
 >
-> — Albert Einstein
+> — Eduardo Galeano
 
 </div>
 
