@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La inteligencia necesita sensibilidad."*
+> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
 >
-> — Antonio Gala
+> — Buda
 
 </div>
 
