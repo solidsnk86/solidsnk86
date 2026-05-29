@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Buda
+> — Martin Luther King Jr.
 
 </div>
 
