@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera éxito es paz mental."*
+> *"La inteligencia necesita sensibilidad."*
 >
-> — Aristotle
+> — Antonio Gala
 
 </div>
 
