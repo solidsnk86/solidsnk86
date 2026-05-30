@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> — Honoré de Balzac
+> — Albert Einstein
 
 </div>
 
