@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El amor se parece al vértigo."*
 >
-> — Martin Luther King Jr.
+> — Antonio Gala
 
 </div>
 
