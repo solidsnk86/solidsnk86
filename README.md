@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Victor Hugo
+> — Honoré de Balzac
 
 </div>
 
