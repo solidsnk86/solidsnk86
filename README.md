@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor se parece al vértigo."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Antonio Gala
+> — C. S. Lewis
 
 </div>
 
