@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La realidad desafía las palabras."*
+> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
 >
-> — Eduardo Galeano
+> — Michelle Obama
 
 </div>
 
