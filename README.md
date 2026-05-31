@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La dignidad no pide permiso."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> — Eduardo Galeano
+> — Charles Dickens
 
 </div>
 
