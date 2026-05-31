@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"La melancolía tiene perfume antiguo."*
 >
-> — Charles Dickens
+> — Antonio Gala
 
 </div>
 
