@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La melancolía tiene perfume antiguo."*
+> *"La verdadera libertad es no tener nada que perder."*
 >
-> — Antonio Gala
+> — Erich Fromm
 
 </div>
 
