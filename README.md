@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"Hoy es el primer día del resto de tu vida."*
 >
-> — Fiódor Dostoievski
+> — Charles Dederich
 
 </div>
 
