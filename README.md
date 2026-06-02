@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El mejor tiempo para plantar un árbol fue hace 20 años. El segundo mejor tiempo es ahora."*
 >
-> — Arthur Schopenhauer
+> — Proverbio chino
 
 </div>
 
