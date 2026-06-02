@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Hoy es el primer día del resto de tu vida."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> — Charles Dederich
+> — León Tolstói
 
 </div>
 
