@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor tiempo para plantar un árbol fue hace 20 años. El segundo mejor tiempo es ahora."*
+> *"La esperanza tiene dos hijas: indignación y valentía."*
 >
-> — Proverbio chino
+> — Eduardo Galeano
 
 </div>
 
