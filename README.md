@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza tiene dos hijas: indignación y valentía."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Eduardo Galeano
+> — Publio Siro
 
 </div>
 
