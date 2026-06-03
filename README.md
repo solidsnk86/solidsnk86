@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Helen Keller
+> — Joseph Addison
 
 </div>
 
