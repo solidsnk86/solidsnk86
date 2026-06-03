@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — William Shakespeare
+> — Helen Keller
 
 </div>
 
