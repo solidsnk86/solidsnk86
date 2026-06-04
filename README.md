@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+> *"La historia es un incesante volver a empezar."*
 >
-> — C. S. Lewis
+> — Tucídides
 
 </div>
 
@@ -101,12 +101,8 @@ Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https:
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 6
+## No me siguen de nuevo: 5
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/dovas-net" title="dovas-net">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/146240431?v=4" alt="Avatar de dovas-net" />
-  </a>
 
   <a href="https://github.com/godotengine" title="godotengine">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6318500?v=4" alt="Avatar de godotengine" />
