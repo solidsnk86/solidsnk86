@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La injusticia tiene buena memoria."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> — Eduardo Galeano
+> — C. S. Lewis
 
 </div>
 
