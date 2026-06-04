@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
+> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
 >
-> — Steve Jobs
+> — Maya Angelou
 
 </div>
 
