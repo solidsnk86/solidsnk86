@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
+> *"La injusticia tiene buena memoria."*
 >
-> — Maya Angelou
+> — Eduardo Galeano
 
 </div>
 
