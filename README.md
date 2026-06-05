@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Proverbio chino
+> — Pablo Picasso
 
 </div>
 
