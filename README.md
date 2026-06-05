@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"Tu único límite eres tú mismo."*
 >
-> — Pablo Picasso
+> — Unknown
 
 </div>
 
