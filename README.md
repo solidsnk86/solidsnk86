@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada persona brilla con luz propia."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Eduardo Galeano
+> — Proverbio chino
 
 </div>
 
