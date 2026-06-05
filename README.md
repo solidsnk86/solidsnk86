@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Tu único límite eres tú mismo."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Unknown
+> — Arthur Schopenhauer
 
 </div>
 
