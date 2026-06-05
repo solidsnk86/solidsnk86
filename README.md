@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"Cada persona brilla con luz propia."*
 >
-> — Séneca
+> — Eduardo Galeano
 
 </div>
 
