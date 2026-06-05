@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia es un incesante volver a empezar."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Tucídides
+> — Séneca
 
 </div>
 
@@ -101,7 +101,7 @@ Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https:
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 4
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/godotengine" title="godotengine">
@@ -110,10 +110,6 @@ Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https:
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
-  </a>
-
-  <a href="https://github.com/microsoft" title="microsoft">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="Avatar de microsoft" />
   </a>
 
   <a href="https://github.com/midudev" title="midudev">
