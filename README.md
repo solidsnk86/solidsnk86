@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"El fútbol revela la alegría del pueblo."*
 >
-> — Michel de Montaigne
+> — Eduardo Galeano
 
 </div>
 
