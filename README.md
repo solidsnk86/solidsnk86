@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"El fútbol revela la alegría del pueblo."*
 >
-> — Arthur Schopenhauer
+> — Eduardo Galeano
 
 </div>
 
