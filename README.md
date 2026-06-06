@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera riqueza es la salud."*
+> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
 >
-> — Dicho popular
+> — Dolly Parton
 
 </div>
 
