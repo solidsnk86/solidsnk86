@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fútbol revela la alegría del pueblo."*
+> *"La sinceridad incomoda y libera."*
 >
-> — Eduardo Galeano
+> — Antonio Gala
 
 </div>
 
