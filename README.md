@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El fútbol revela la alegría del pueblo."*
+> *"La verdadera riqueza es la salud."*
 >
-> — Eduardo Galeano
+> — Dicho popular
 
 </div>
 
