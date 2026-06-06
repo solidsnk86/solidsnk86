@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La sinceridad incomoda y libera."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Antonio Gala
+> — Michel de Montaigne
 
 </div>
 
