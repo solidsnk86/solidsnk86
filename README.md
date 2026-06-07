@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> — Lao Tse
+> — Arthur Schopenhauer
 
 </div>
 
