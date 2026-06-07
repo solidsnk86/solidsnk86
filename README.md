@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"No basta estar en el lugar correcto en el momento correcto. Debes ser la persona correcta."*
 >
-> — Buda
+> — Stephen Covey
 
 </div>
 
