@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte nace de la necesidad de decir."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Eduardo Galeano
+> — Lao Tse
 
 </div>
 
