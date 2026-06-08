@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No basta estar en el lugar correcto en el momento correcto. Debes ser la persona correcta."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> — Stephen Covey
+> — Joseph Addison
 
 </div>
 
