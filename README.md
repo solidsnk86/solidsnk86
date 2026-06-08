@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Amar es dejar libertad."*
+> *"Puedes resistir el cambio, pero no puedes detenerlo."*
 >
-> — Antonio Gala
+> — Andy Warhol
 
 </div>
 
