@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo está patas arriba."*
+> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
 >
-> — Eduardo Galeano
+> — Dolly Parton
 
 </div>
 
