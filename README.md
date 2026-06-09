@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor espejo es un viejo amigo."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — George Herbert
+> — Frank Sinatra
 
 </div>
 
