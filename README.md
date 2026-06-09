@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *"Sigue adelante sin importar lo oscuro que sea."*
 >
-> — Dolly Parton
+> — Ralph Waldo Emerson
 
 </div>
 
