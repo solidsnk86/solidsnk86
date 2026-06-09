@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sigue adelante sin importar lo oscuro que sea."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> — Ralph Waldo Emerson
+> — San Juan Bosco
 
 </div>
 
