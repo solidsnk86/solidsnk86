@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"Puedes resistir el cambio, pero no puedes detenerlo."*
 >
-> — Frank Sinatra
+> — Andy Warhol
 
 </div>
 
