@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> — San Juan Bosco
+> — George Herbert
 
 </div>
 
