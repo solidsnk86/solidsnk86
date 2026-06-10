@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gratitud es la clave para la felicidad."*
+> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
 >
-> — Unknown
+> — Colin Powell
 
 </div>
 
