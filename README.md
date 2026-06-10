@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
+> *"Tú eres el único responsable de tu propia felicidad."*
 >
-> — Colin Powell
+> — Steve Maraboli
 
 </div>
 
