@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"La gratitud es la clave para la felicidad."*
 >
-> — Frank Sinatra
+> — Unknown
 
 </div>
 
