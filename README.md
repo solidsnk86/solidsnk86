@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Puedes resistir el cambio, pero no puedes detenerlo."*
+> *"El consumo consume personas."*
 >
-> — Andy Warhol
+> — Eduardo Galeano
 
 </div>
 
