@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El consumo consume personas."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Eduardo Galeano
+> — Frank Sinatra
 
 </div>
 
