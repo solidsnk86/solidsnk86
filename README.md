@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Tú eres el único responsable de tu propia felicidad."*
+> *"La esperanza tiene dos hijas: indignación y valentía."*
 >
-> — Steve Maraboli
+> — Eduardo Galeano
 
 </div>
 
