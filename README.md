@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida siempre deja cicatrices."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> — Antonio Gala
+> — Anaïs Nin
 
 </div>
 
