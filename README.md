@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El alma necesita belleza."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> — Antonio Gala
+> — Lao Tse
 
 </div>
 
