@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza tiene dos hijas: indignación y valentía."*
+> *"La verdadera éxito es paz mental."*
 >
-> — Eduardo Galeano
+> — Aristotle
 
 </div>
 
