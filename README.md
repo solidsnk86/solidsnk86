@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera éxito es paz mental."*
+> *"El alma necesita belleza."*
 >
-> — Aristotle
+> — Antonio Gala
 
 </div>
 
