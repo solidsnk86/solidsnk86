@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Toda gran realización comienza con un sueño."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> — Og Mandino
+> — Victor Hugo
 
 </div>
 
