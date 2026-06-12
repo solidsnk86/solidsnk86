@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> — Anaïs Nin
+> — Ralph Waldo Emerson
 
 </div>
 
