@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Johann Goethe
+> — Fiódor Dostoievski
 
 </div>
 
