@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
+> *"El carácter es destino."*
 >
-> — Winston Churchill
+> — Heráclito
 
 </div>
 
