@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada persona brilla con luz propia."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> — Eduardo Galeano
+> — Winston Churchill
 
 </div>
 
