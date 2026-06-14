@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El corazón recuerda primero."*
+> *"La calidad no es un acto, es un hábito."*
 >
-> — Antonio Gala
+> — Aristóteles
 
 </div>
 
