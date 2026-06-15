@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un regalo. Disfrútala mientras puedas."*
+> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
 >
-> — Unknown
+> — Lao Tse
 
 </div>
 
