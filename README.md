@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La memoria guarda lo que vale la pena."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> — Eduardo Galeano
+> — Platón
 
 </div>
 
