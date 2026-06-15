@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La calidad no es un acto, es un hábito."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
-> — Aristóteles
+> — Unknown
 
 </div>
 
