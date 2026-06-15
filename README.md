@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"La memoria guarda lo que vale la pena."*
 >
-> — Lao Tse
+> — Eduardo Galeano
 
 </div>
 
