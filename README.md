@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La caridad humilla; la solidaridad acompaña."*
+> *"Aquellos que aman profundamente nunca envejecen."*
 >
-> — Eduardo Galeano
+> — Alfred Lord Tennyson
 
 </div>
 
