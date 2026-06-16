@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Aquellos que aman profundamente nunca envejecen."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> — Alfred Lord Tennyson
+> — Platón
 
 </div>
 
