@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"La soledad enseña silencios."*
 >
-> — Platón
+> — Antonio Gala
 
 </div>
 
