@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La soledad enseña silencios."*
+> *"La caridad humilla; la solidaridad acompaña."*
 >
-> — Antonio Gala
+> — Eduardo Galeano
 
 </div>
 
