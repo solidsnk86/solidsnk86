@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La memoria elige sus refugios."*
+> *"El arte nace de la necesidad de decir."*
 >
-> — Antonio Gala
+> — Eduardo Galeano
 
 </div>
 
