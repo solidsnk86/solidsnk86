@@ -13,7 +13,7 @@
 
 <h3>Frases random</h3>
 
-> *"El arte nace de la necesidad de decir."*
+> *"Los nadies cuestan menos que la bala que los mata."*
 >
 > — Eduardo Galeano
 
