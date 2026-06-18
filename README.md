@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
 >
-> — Séneca
+> — Brian Tracy
 
 </div>
 
