@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los nadies cuestan menos que la bala que los mata."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> — Eduardo Galeano
+> — Séneca
 
 </div>
 
