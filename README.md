@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor tiempo para plantar un árbol fue hace 20 años. El segundo mejor tiempo es ahora."*
+> *"La vida es demasiado corta para trabajar en algo que no te ama."*
 >
-> — Proverbio chino
+> — Steve Jobs
 
 </div>
 
