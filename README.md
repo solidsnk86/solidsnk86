@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El miedo mira, pero también escucha."*
+> *"El mejor tiempo para plantar un árbol fue hace 20 años. El segundo mejor tiempo es ahora."*
 >
-> — Eduardo Galeano
+> — Proverbio chino
 
 </div>
 
