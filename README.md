@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es demasiado corta para trabajar en algo que no te ama."*
+> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
 >
-> — Steve Jobs
+> — Michael Jordan
 
 </div>
 
