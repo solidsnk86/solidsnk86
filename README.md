@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El silencio también puede gritar."*
 >
-> — Honoré de Balzac
+> — Eduardo Galeano
 
 </div>
 
