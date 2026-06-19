@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El silencio también puede gritar."*
+> *"Si no te desafías, desafiarás a otros."*
 >
-> — Eduardo Galeano
+> — Anónimo
 
 </div>
 
