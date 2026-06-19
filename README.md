@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"Las mentes grandes discuten ideas. Las mentes promedio discuten eventos. Las mentes pequeñas discuten gente."*
 >
-> — Michael Jordan
+> — Eleanor Roosevelt
 
 </div>
 
