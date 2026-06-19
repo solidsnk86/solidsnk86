@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Las mentes grandes discuten ideas. Las mentes promedio discuten eventos. Las mentes pequeñas discuten gente."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Eleanor Roosevelt
+> — Honoré de Balzac
 
 </div>
 
