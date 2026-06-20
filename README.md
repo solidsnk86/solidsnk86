@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La perfección no existe. Lo que existe es la mejora constante."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> — Hector Ruiz
+> — Marco Aurelio
 
 </div>
 
