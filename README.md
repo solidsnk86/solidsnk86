@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"La perfección no existe. Lo que existe es la mejora constante."*
 >
-> — John Lennon
+> — Hector Ruiz
 
 </div>
 
