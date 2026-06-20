@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si no te desafías, desafiarás a otros."*
+> *"Aquellos que aman profundamente nunca envejecen."*
 >
-> — Anónimo
+> — Alfred Lord Tennyson
 
 </div>
 
