@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Somos lo que hacemos para cambiar lo que somos."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> — Eduardo Galeano
+> — John Lennon
 
 </div>
 
