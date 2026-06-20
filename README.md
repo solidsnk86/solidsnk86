@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La memoria elige sus refugios."*
+> *"Somos lo que hacemos para cambiar lo que somos."*
 >
-> — Antonio Gala
+> — Eduardo Galeano
 
 </div>
 
