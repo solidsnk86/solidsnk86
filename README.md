@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Aquellos que aman profundamente nunca envejecen."*
+> *"La memoria elige sus refugios."*
 >
-> — Alfred Lord Tennyson
+> — Antonio Gala
 
 </div>
 
