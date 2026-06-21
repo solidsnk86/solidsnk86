@@ -13,7 +13,7 @@
 
 <h3>Frases random</h3>
 
-> *"Tu único límite eres tú mismo."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
 > — Unknown
 
