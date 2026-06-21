@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida comienza donde termina el miedo."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Osho
+> — Albert Einstein
 
 </div>
 
