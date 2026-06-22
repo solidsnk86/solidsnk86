@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Buda
+> — James Allen
 
 </div>
 
