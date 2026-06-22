@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> — Mahatma Gandhi
+> — Marco Aurelio
 
 </div>
 
