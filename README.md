@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
-> — Marco Aurelio
+> — Unknown
 
 </div>
 
