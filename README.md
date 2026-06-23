@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Amar es dejar libertad."*
+> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
 >
-> — Antonio Gala
+> — Maya Angelou
 
 </div>
 
