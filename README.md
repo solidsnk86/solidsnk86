@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> — Maya Angelou
+> — Alan Kay
 
 </div>
 
