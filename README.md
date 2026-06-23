@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un regalo. Disfrútala mientras puedas."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> — Unknown
+> — Platón
 
 </div>
 
