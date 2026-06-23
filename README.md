@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"No existe el fracaso definitivo, solo existe la falta de intentos."*
 >
-> — Alan Kay
+> — Bob Ross
 
 </div>
 
@@ -101,12 +101,8 @@ Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https:
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 4
+## No me siguen de nuevo: 3
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/godotengine" title="godotengine">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6318500?v=4" alt="Avatar de godotengine" />
-  </a>
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
