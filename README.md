@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No existe el fracaso definitivo, solo existe la falta de intentos."*
+> *"Tú eres el único responsable de tu propia felicidad."*
 >
-> — Bob Ross
+> — Steve Maraboli
 
 </div>
 
