@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Tú eres el único responsable de tu propia felicidad."*
+> *"El pasado sigue latiendo."*
 >
-> — Steve Maraboli
+> — Eduardo Galeano
 
 </div>
 
