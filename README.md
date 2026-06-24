@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La palabra puede acariciar."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> — Antonio Gala
+> — Fiódor Dostoievski
 
 </div>
 
