@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"Tú eres el único responsable de tu propia felicidad."*
 >
-> — Fiódor Dostoievski
+> — Steve Maraboli
 
 </div>
 
