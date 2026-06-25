@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Frank Sinatra
+> — Muhammad Ali
 
 </div>
 
