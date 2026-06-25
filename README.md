@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La verdadera riqueza es la salud."*
+> *"La ausencia también conversa."*
 >
-> — Dicho popular
+> — Antonio Gala
 
 </div>
 
