@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El legado que dejas es la vida que viviste."*
+> *"La verdadera riqueza es la salud."*
 >
-> — Jackie Robinson
+> — Dicho popular
 
 </div>
 
