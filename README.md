@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Tú eres el único responsable de tu propia felicidad."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> — Steve Maraboli
+> — Frank Sinatra
 
 </div>
 
@@ -46,7 +46,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <p>
-    <sub>e-commerce — Marzo 12, 2026 — hace 3 meses</sub>
+    <sub>e-commerce — Marzo 12, 2026 — hace 4 meses</sub>
   </p>
 
   <a href="https://pascalecloset.com/" target="_blank" rel="noopener noreferrer">
@@ -62,7 +62,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>neo-wifi-web — Julio 15, 2025 — hace 11 meses</sub>
+    <sub>neo-wifi-web — Julio 15, 2025 — hace 12 meses</sub>
   </p>
 
   <a href="https://neo-wifi.vercel.app/" target="_blank" rel="noopener noreferrer">
