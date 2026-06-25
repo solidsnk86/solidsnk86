@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Aquellos que aman profundamente nunca envejecen."*
+> *"El legado que dejas es la vida que viviste."*
 >
-> — Alfred Lord Tennyson
+> — Jackie Robinson
 
 </div>
 
