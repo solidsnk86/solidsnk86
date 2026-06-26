@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"El legado que dejas es la vida que viviste."*
 >
-> — Proverbio chino
+> — Jackie Robinson
 
 </div>
 
