@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La ausencia también conversa."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Antonio Gala
+> — Marie Curie
 
 </div>
 
@@ -54,7 +54,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 4 meses</sub>
+    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 5 meses</sub>
   </p>
 
   <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
