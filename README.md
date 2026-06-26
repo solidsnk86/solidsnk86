@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El legado que dejas es la vida que viviste."*
+> *"El amor es la poesía de los sentidos."*
 >
-> — Jackie Robinson
+> — Honoré de Balzac
 
 </div>
 
@@ -101,8 +101,12 @@ Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https:
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 3
+## No me siguen de nuevo: 4
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/gaplopez1991" title="gaplopez1991">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/54423180?v=4" alt="Avatar de gaplopez1991" />
+  </a>
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
