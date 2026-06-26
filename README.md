@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor no es algo que encuentres. Es algo que creces."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> — Mario Speed Wagon
+> — Proverbio chino
 
 </div>
 
