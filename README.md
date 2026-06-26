@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"El amor no es algo que encuentres. Es algo que creces."*
 >
-> — Albert Einstein
+> — Mario Speed Wagon
 
 </div>
 
