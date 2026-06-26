@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> — Marie Curie
+> — Albert Einstein
 
 </div>
 
