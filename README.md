@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No busques el éxito, busca la excelencia."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> — John Wooden
+> — Winston Churchill
 
 </div>
 
