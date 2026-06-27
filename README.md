@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Winston Churchill
+> — Confucio
 
 </div>
 
