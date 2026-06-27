@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la poesía de los sentidos."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> — Honoré de Balzac
+> — Winston Churchill
 
 </div>
 
