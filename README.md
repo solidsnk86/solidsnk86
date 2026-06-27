@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La calidad no es un acto, es un hábito."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> — Aristóteles
+> — Mahatma Gandhi
 
 </div>
 
