@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
+> *"La calidad no es un acto, es un hábito."*
 >
-> — Winston Churchill
+> — Aristóteles
 
 </div>
 
