@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"No busques el éxito, busca la excelencia."*
 >
-> — Confucio
+> — John Wooden
 
 </div>
 
