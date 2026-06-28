@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Toda gran realización comienza con un sueño."*
+> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
 >
-> — Og Mandino
+> — Proverbio indígena
 
 </div>
 
