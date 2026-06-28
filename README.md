@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La nostalgia inventa jardines."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> — Antonio Gala
+> — Marie Curie
 
 </div>
 
