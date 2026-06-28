@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"La historia nunca dice adiós."*
 >
-> — Mahatma Gandhi
+> — Eduardo Galeano
 
 </div>
 
