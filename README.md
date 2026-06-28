@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza tiene dos hijas: indignación y valentía."*
+> *"Toda gran realización comienza con un sueño."*
 >
-> — Eduardo Galeano
+> — Og Mandino
 
 </div>
 
