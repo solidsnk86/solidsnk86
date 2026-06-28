@@ -13,7 +13,7 @@
 
 <h3>Frases random</h3>
 
-> *"La historia nunca dice adiós."*
+> *"La esperanza tiene dos hijas: indignación y valentía."*
 >
 > — Eduardo Galeano
 
