@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La injusticia tiene buena memoria."*
 >
-> — Lao Tse
+> — Eduardo Galeano
 
 </div>
 
