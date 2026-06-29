@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Colin Powell
+> — Lao Tse
 
 </div>
 
