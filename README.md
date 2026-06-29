@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> — Maya Angelou
+> — Robert Collier
 
 </div>
 
