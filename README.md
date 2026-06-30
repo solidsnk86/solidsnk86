@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad exige coraje."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> — Antonio Gala
+> — Michel de Montaigne
 
 </div>
 
