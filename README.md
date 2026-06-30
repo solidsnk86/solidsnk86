@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida recompensa a quienes se atreven."*
+> *"La realidad desafía las palabras."*
 >
-> — Unknown
+> — Eduardo Galeano
 
 </div>
 
