@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La injusticia tiene buena memoria."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> — Eduardo Galeano
+> — Malcolm X
 
 </div>
 
