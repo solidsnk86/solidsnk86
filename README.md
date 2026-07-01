@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Somos lo que hacemos para cambiar lo que somos."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Eduardo Galeano
+> — Franklin D. Roosevelt
 
 </div>
 
