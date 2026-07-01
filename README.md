@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"La vida recompensa a quienes se atreven."*
 >
-> — Franklin D. Roosevelt
+> — Unknown
 
 </div>
 
