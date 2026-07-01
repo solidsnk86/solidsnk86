@@ -13,7 +13,7 @@
 
 <h3>Frases random</h3>
 
-> *"La cultura dominante enseña a temer."*
+> *"Somos lo que hacemos para cambiar lo que somos."*
 >
 > — Eduardo Galeano
 
