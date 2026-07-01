@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La historia nunca dice adiós."*
+> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
 >
-> — Eduardo Galeano
+> — Multatuli
 
 </div>
 
