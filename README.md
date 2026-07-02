@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"La vida es el arte de encontrar sentido."*
 >
-> — Albert Einstein
+> — Antonio Gala
 
 </div>
 
