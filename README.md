@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida recompensa a quienes se atreven."*
+> *"La felicidad exige coraje."*
 >
-> — Unknown
+> — Antonio Gala
 
 </div>
 
