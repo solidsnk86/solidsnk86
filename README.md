@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es el arte de encontrar sentido."*
+> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
 >
-> — Antonio Gala
+> — Colin Powell
 
 </div>
 
