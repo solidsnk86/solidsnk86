@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad exige coraje."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> — Antonio Gala
+> — Albert Einstein
 
 </div>
 
