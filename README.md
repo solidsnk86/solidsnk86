@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El consumo consume personas."*
+> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
 >
-> — Eduardo Galeano
+> — Buda
 
 </div>
 
