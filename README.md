@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
+> *"El consumo consume personas."*
 >
-> — Colin Powell
+> — Eduardo Galeano
 
 </div>
 
