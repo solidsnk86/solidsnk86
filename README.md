@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
+> *"Nada es imposible si persistes lo suficiente."*
 >
-> — Steve Jobs
+> — Zig Ziglar
 
 </div>
 
