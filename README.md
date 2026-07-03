@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La tristeza también tiene belleza."*
+> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
 >
-> — Antonio Gala
+> — Steve Jobs
 
 </div>
 
