@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El carácter es destino."*
+> *"La tristeza también tiene belleza."*
 >
-> — Heráclito
+> — Antonio Gala
 
 </div>
 
