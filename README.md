@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> — Multatuli
+> — Pablo Picasso
 
 </div>
 
