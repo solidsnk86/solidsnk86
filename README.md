@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Nada es imposible si persistes lo suficiente."*
+> *"Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie."*
 >
-> — Zig Ziglar
+> — Multatuli
 
 </div>
 
