@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — Publio Siro
+> — Lao Tse
 
 </div>
 
