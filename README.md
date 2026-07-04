@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El arte lava del alma el polvo de la vida cotidiana."*
+> *"El miedo mira, pero también escucha."*
 >
-> — Pablo Picasso
+> — Eduardo Galeano
 
 </div>
 
