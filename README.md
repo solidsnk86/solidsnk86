@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El miedo mira, pero también escucha."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> — Eduardo Galeano
+> — Publio Siro
 
 </div>
 
