@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
 >
-> — Marco Tulio Cicerón
+> — John F. Kennedy
 
 </div>
 
