@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El consumo consume personas."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> — Eduardo Galeano
+> — Marco Tulio Cicerón
 
 </div>
 
