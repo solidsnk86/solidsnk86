@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"El consumo consume personas."*
 >
-> — Lao Tse
+> — Eduardo Galeano
 
 </div>
 
