@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Si no te desafías, desafiarás a otros."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> — Anónimo
+> — Muhammad Ali
 
 </div>
 
