@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
+> *"Si no te desafías, desafiarás a otros."*
 >
-> — John F. Kennedy
+> — Anónimo
 
 </div>
 
