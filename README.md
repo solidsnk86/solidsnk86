@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Cada persona brilla con luz propia."*
+> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
 >
-> — Eduardo Galeano
+> — Steve Jobs
 
 </div>
 
