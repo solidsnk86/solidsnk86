@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No importa lo lentamente que avances, siempre y cuando no te detengas."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Confucio
+> — Franklin D. Roosevelt
 
 </div>
 
