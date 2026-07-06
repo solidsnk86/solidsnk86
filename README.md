@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> — Steve Jobs
+> — Thomas Jefferson
 
 </div>
 
