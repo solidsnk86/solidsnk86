@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"No importa lo lentamente que avances, siempre y cuando no te detengas."*
 >
-> — Thomas Jefferson
+> — Confucio
 
 </div>
 
