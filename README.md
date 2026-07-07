@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Sigue adelante sin importar lo oscuro que sea."*
+> *"El arte nace de la necesidad de decir."*
 >
-> — Ralph Waldo Emerson
+> — Eduardo Galeano
 
 </div>
 
