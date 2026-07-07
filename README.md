@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"Sigue adelante sin importar lo oscuro que sea."*
 >
-> — Ludwig Wittgenstein
+> — Ralph Waldo Emerson
 
 </div>
 
