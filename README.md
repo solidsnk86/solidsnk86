@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El amor no es algo que encuentres. Es algo que creces."*
 >
-> — Sigmund Freud
+> — Mario Speed Wagon
 
 </div>
 
