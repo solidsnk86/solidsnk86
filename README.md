@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"No existe el fracaso definitivo, solo existe la falta de intentos."*
+> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
 >
-> — Bob Ross
+> — Brian Tracy
 
 </div>
 
