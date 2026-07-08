@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La esperanza tiene dos hijas: indignación y valentía."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> — Eduardo Galeano
+> — Confucio
 
 </div>
 
