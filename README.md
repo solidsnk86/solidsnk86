@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor no es algo que encuentres. Es algo que creces."*
+> *"El consumo consume personas."*
 >
-> — Mario Speed Wagon
+> — Eduardo Galeano
 
 </div>
 
