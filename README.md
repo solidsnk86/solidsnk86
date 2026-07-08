@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
+> *"La esperanza tiene dos hijas: indignación y valentía."*
 >
-> — Brian Tracy
+> — Eduardo Galeano
 
 </div>
 
