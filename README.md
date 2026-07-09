@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Aristóteles
+> — Franklin D. Roosevelt
 
 </div>
 
