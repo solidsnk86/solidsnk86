@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"El verdadera éxito es la paz mental."*
 >
-> — Franklin D. Roosevelt
+> — Aristóteles
 
 </div>
 
