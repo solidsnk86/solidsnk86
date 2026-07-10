@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El verdadera éxito es la paz mental."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
-> — Aristóteles
+> — Unknown
 
 </div>
 
