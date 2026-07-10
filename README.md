@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El optimismo es la fe que conduce al logro."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Helen Keller
+> — Platón
 
 </div>
 
