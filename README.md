@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro no se predice, se crea."*
+> *"El optimismo es la fe que conduce al logro."*
 >
-> — Peter Drucker
+> — Helen Keller
 
 </div>
 
