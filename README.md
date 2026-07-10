@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es un regalo. Disfrútala mientras puedas."*
+> *"El futuro no se predice, se crea."*
 >
-> — Unknown
+> — Peter Drucker
 
 </div>
 
