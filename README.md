@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — John Lennon
+> — Franklin D. Roosevelt
 
 </div>
 
