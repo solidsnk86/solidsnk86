@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"La melancolía tiene perfume antiguo."*
 >
-> — Eleanor Roosevelt
+> — Antonio Gala
 
 </div>
 
