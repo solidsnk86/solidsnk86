@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> — Franklin D. Roosevelt
+> — Eleanor Roosevelt
 
 </div>
 
