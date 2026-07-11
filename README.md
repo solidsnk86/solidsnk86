@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La melancolía tiene perfume antiguo."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> — Antonio Gala
+> — James Allen
 
 </div>
 
