@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> — San Agustín
+> — Lao Tse
 
 </div>
 
