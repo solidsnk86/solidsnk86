@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"La resiliencia es tu capacidad de regresar."*
 >
-> — Mahatma Gandhi
+> — Sheryl Sandberg
 
 </div>
 
