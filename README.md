@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La resiliencia es tu capacidad de regresar."*
+> *"El corazón recuerda primero."*
 >
-> — Sheryl Sandberg
+> — Antonio Gala
 
 </div>
 
