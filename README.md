@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Albert Einstein
+> — San Agustín
 
 </div>
 
@@ -70,7 +70,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   </a>
   
   <p>
-    <sub>geo-api — Julio 12, 2025 — hace 12 meses</sub>
+    <sub>geo-api — Julio 12, 2025 — el año pasado</sub>
   </p>
 
   <a href="https://solid-geolocation.vercel.app/location" target="_blank" rel="noopener noreferrer">
