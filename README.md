@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> — Platón
+> — San Agustín
 
 </div>
 
