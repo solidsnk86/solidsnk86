@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"La memoria elige sus refugios."*
 >
-> — Albert Einstein
+> — Antonio Gala
 
 </div>
 
