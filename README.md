@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"Toda gran realización comienza con un sueño."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> — Og Mandino
+> — Platón
 
 </div>
 
