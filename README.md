@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La memoria elige sus refugios."*
+> *"Toda gran realización comienza con un sueño."*
 >
-> — Antonio Gala
+> — Og Mandino
 
 </div>
 
