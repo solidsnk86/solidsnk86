@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"La perfección no existe. Lo que existe es la mejora constante."*
 >
-> **— Platón**
+> **— Hector Ruiz**
 
 </div>
 
