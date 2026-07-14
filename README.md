@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"Somos lo que hacemos para cambiar lo que somos."*
 >
-> **— Khalil Gibran**
+> **— Eduardo Galeano**
 
 </div>
 
