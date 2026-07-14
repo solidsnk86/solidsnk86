@@ -1,49 +1,60 @@
+<div align="right">
+  <img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=000000&badge_gradient_1=000000&counter_color=000000" alt="Visitor Counter"/>
+</div>
+
+# Gabriel Calcagni
+
+**Front-End Developer** · **Back-End Knowledge**
+
+Técnico Universitario en Programación graduado de la Universidad Tecnológica Nacional
+(Facultad Regional San Rafael, Mendoza, Argentina).
+
+---
+
+## Perfil
+
+| | |
+|:--|:--|
+| **Especialidad** | Desarrollo Web Full Stack |
+| **Front-End** | React · Next.js · TypeScript · Tailwind CSS |
+| **Back-End** | Node.js · Express · PostgreSQL · MySQL |
+| **Otros** | Electron · Supabase · NeonDB · Mercado Pago |
+| **Ubicación** | Argentina |
+
+---
+
+## Cita
+
 <div align="left">
-<img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=218034&badge_gradient_1=218034&counter_color=010409" alt="Contador de Visitas SolidSnk86" />
-</div>
 
-## 👨‍💻 Sobre mí
-
-**Desarrollador Front End con conocimientos en Back End**
-
-🎓 Técnico Universitario en Programación  
-🏫 UTN Facultad Regional de San Rafael (Mendoza)
-
-<div align="center">
-
-<h3>Frases random</h3>
-
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
 >
-> — Martin Luther King Jr.
+> **— Franklin D. Roosevelt**
 
 </div>
 
-#
+---
 
-<br>
+## NeoWiFi
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/solidsnk86/neo-wifi/refs/heads/master/public/Neo-Wifi.svg" width="190" height="90" alt="Neo Wifi Logo" />
-</div>
+Aplicación web para localizar los **tres puntos WiFi gratuitos más cercanos** disponibles en distintas provincias de Argentina y algunas regiones de Europa.
 
-<br>
+También incluye una aplicación de escritorio para automatizar la configuración de equipos **TP-Link CPE (Pharos OS)** utilizados en la red WiFi gratuita de la provincia de San Luis.
 
-## 📡 App para detectar tu antena WiFi más próxima en varias provincias de Argentina y otros lugares de Europa.
+| Proyecto | Estado |
+|:--|:--|
+| **NeoWiFi** | `1.3.6-beta v-beta` |
 
-Esta app te ayuda a detectar cuales son los tres puntos de conexión WiFi gratis más cercanos que hay a tu disposición.
-También en la misma web está disponible una aplicación de PC escritorio que automatiza las configuraciones inalámbricas
-de los modelos CPE de Tp-Link con sistema Pharos, ideal para la red WiFi gratuita de la provincia de San Luis.
-`NeoWiFi App 1.3.6-betav-beta`:
-visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https://neo-wifi.vercel.app</a>
+**Sitio:** https://neo-wifi.vercel.app
 
-<br>
+---
 
-## 💼 Mi Portafolio
+## Portafolio
 
-Últimos proyectos:
+Últimos proyectos
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+<div align="left">
+
 
   <p>
     <sub>e-commerce — Marzo 12, 2026 — hace 4 meses</sub>
@@ -77,31 +88,23 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
   <p><strong> Solid Geolocation: una API para programadores</strong></p>
   </a>
   
-</div>
-
-## 🌐 Mi sitio web
-
-Podés dar un vistazo al sitio acá 👉: [https:/gabrielcalcagni.vercel.app](https://gabrielcalcagni.vercel.app)
-
-## 📫 Conecta conmigo
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-calcagni//)](https://www.linkedin.com/in/gabriel-calcagni//)
-[![Gmail Badge](https://img.shields.io/badge/-calcagni.gabriel86@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:calcagni.gabriel86@gmail.com)](mailto:calcagni.gabriel86@gmail.com)
 
 </div>
 
-<br>
+---
 
-## 📊 Estadísticas de GitHub
+## Sitio web
 
-📈 Los datos se obtienen mediante la `API v3` y `GraphQL API` de GitHub. Gracias a `Node.js` y los flujos de trabajo automatizados de `Github Actions`
-; las estadísticas se actualizan cada cuatro horas.
+https://gabrielcalcagni.vercel.app
 
-<img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
+---
 
-## No me siguen de nuevo: 4
+## GitHub
+
+| Métrica | Valor |
+|:--|--:|
+| Usuarios que no me siguen | **4** |
+
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/Fmarzochi" title="Fmarzochi">
