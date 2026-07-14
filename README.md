@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"La división del trabajo permite que pocos decidan."*
 >
-> — San Agustín
+> — Eduardo Galeano
 
 </div>
 
