@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"La división del trabajo permite que pocos decidan."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> — Eduardo Galeano
+> — Martin Luther King Jr.
 
 </div>
 
@@ -81,7 +81,7 @@ visita este link si te es de ayuda: <a href="https://neo-wifi.vercel.app/">https
 
 ## 🌐 Mi sitio web
 
-Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https://solidsnk86.vercel.app)
+Podés dar un vistazo al sitio acá 👉: [https:/gabrielcalcagni.vercel.app](https://gabrielcalcagni.vercel.app)
 
 ## 📫 Conecta conmigo
 
@@ -101,15 +101,11 @@ Podés dar un vistazo al sitio acá 👉: [https://solidsnk86.vercel.app](https:
 
 <img src="./gh-stats.svg" width="100%" height="auto" alt="SVG stats solidsnk86" />
 
-## No me siguen de nuevo: 5
+## No me siguen de nuevo: 4
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/Fmarzochi" title="Fmarzochi">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/97696243?v=4" alt="Avatar de Fmarzochi" />
-  </a>
-
-  <a href="https://github.com/gaplopez1991" title="gaplopez1991">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/54423180?v=4" alt="Avatar de gaplopez1991" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
