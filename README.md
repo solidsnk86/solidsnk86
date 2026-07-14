@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La perfección no existe. Lo que existe es la mejora constante."*
+> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
 >
-> **— Hector Ruiz**
+> **— Khalil Gibran**
 
 </div>
 
