@@ -6,30 +6,16 @@
 
 **Front-End Developer** · **Back-End Knowledge**
 
-Técnico Universitario en Programación graduado de la Universidad Tecnológica Nacional
-(Facultad Regional San Rafael, Mendoza, Argentina).
+🎓 Técnico Universitario en Programación  
+🏫 UTN Facultad Regional de San Rafael (Mendoza)
 
----
+<div align="center">
 
-## Perfil
+<h3>Frases random</h3>
 
-| | |
-|:--|:--|
-| **Especialidad** | Desarrollo Web Full Stack |
-| **Front-End** | React · Next.js · TypeScript · Tailwind CSS |
-| **Back-End** | Node.js · Express · PostgreSQL · MySQL |
-| **Otros** | Electron · Supabase · NeonDB · Mercado Pago |
-| **Ubicación** | Argentina |
-
----
-
-## Cita
-
-<div align="left">
-
-> *"El único límite a nuestros logros de mañana está en nuestras dudas de hoy."*
+> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
 >
-> **— Franklin D. Roosevelt**
+> — Martin Luther King Jr.
 
 </div>
 
