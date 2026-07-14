@@ -13,9 +13,9 @@
 
 <h3>Frases random</h3>
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> — Martin Luther King Jr.
+> — Ludwig Wittgenstein
 
 </div>
 
