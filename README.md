@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Somos lo que hacemos para cambiar lo que somos."*
+> *"La tristeza también tiene belleza."*
 >
-> **— Eduardo Galeano**
+> **— Antonio Gala**
 
 </div>
 
@@ -103,13 +103,9 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **4** |
+| Usuarios que no me siguen | **3** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
-
-  <a href="https://github.com/Fmarzochi" title="Fmarzochi">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/97696243?v=4" alt="Avatar de Fmarzochi" />
-  </a>
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
