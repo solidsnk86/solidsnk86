@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio también puede gritar."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> **— Eduardo Galeano**
+> **— Marie Curie**
 
 </div>
 
