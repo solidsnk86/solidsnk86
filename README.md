@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor se parece al vértigo."*
+> *"El silencio también puede gritar."*
 >
-> **— Antonio Gala**
+> **— Eduardo Galeano**
 
 </div>
 
