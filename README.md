@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La pasión no admite medias tintas."*
+> *"Sigue adelante sin importar lo oscuro que sea."*
 >
-> **— Antonio Gala**
+> **— Ralph Waldo Emerson**
 
 </div>
 
