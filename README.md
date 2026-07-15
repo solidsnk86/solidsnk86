@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"La pasión no admite medias tintas."*
 >
-> **— Marie Curie**
+> **— Antonio Gala**
 
 </div>
 
