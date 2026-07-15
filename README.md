@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La tristeza también tiene belleza."*
+> *"El conocimiento es poder."*
 >
-> **— Antonio Gala**
+> **— Francis Bacon**
 
 </div>
 
@@ -73,7 +73,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>neo-wifi-web — Julio 15, 2025 — hace 12 meses</sub>
+    <sub>neo-wifi-web — Julio 15, 2025 — el año pasado</sub>
   </p>
 
   <a href="https://neo-wifi.vercel.app/" target="_blank" rel="noopener noreferrer">
