@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad también se aprende."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> **— Eduardo Galeano**
+> **— James Allen**
 
 </div>
 
