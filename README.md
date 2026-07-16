@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es la que pasa mientras estás haciendo otros planes."*
+> *"La libertad también se aprende."*
 >
-> **— John Lennon**
+> **— Eduardo Galeano**
 
 </div>
 
