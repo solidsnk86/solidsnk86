@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La dignidad no pide permiso."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> **— Eduardo Galeano**
+> **— Victor Hugo**
 
 </div>
 
