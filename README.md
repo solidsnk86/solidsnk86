@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"La vida es la que pasa mientras estás haciendo otros planes."*
 >
-> **— Victor Hugo**
+> **— John Lennon**
 
 </div>
 
