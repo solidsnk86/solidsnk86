@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"La ausencia también conversa."*
 >
-> **— Albert Einstein**
+> **— Antonio Gala**
 
 </div>
 
