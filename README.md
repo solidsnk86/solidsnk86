@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> **— Publio Siro**
+> **— Albert Einstein**
 
 </div>
 
