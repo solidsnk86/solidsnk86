@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> **— Proverbio árabe**
+> **— Publio Siro**
 
 </div>
 
