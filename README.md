@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El tiempo es el bien más valioso que posees."*
+> *"Los nadies cuestan menos que la bala que los mata."*
 >
-> **— Jim Rohn**
+> **— Eduardo Galeano**
 
 </div>
 
