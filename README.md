@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La ausencia también conversa."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> **— Antonio Gala**
+> **— Rabindranath Tagore**
 
 </div>
 
