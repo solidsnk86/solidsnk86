@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los nadies cuestan menos que la bala que los mata."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> **— Eduardo Galeano**
+> **— Rabindranath Tagore**
 
 </div>
 
