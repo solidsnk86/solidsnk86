@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No puedes cruzar el mar simplemente mirando el agua."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> **— Rabindranath Tagore**
+> **— Marie Curie**
 
 </div>
 
