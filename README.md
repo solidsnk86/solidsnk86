@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Las mentes grandes discuten ideas. Las mentes promedio discuten eventos. Las mentes pequeñas discuten gente."*
+> *"La dignidad no pide permiso."*
 >
-> **— Eleanor Roosevelt**
+> **— Eduardo Galeano**
 
 </div>
 
