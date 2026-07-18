@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=000000&badge_gradient_1=000000&counter_color=000000" alt="Visitor Counter"/>
 </div>
 
@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"Las mentes grandes discuten ideas. Las mentes promedio discuten eventos. Las mentes pequeñas discuten gente."*
 >
-> **— Marie Curie**
+> **— Eleanor Roosevelt**
 
 </div>
 
