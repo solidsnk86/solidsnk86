@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> **— Madre Teresa**
+> **— George Herbert**
 
 </div>
 
