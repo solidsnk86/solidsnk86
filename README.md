@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="https://neo-wifi.vercel.app/api/badge-counter?user=solidsnk86&badge_gradient_2=000000&badge_gradient_1=000000&counter_color=000000" alt="Visitor Counter"/>
 </div>
 
