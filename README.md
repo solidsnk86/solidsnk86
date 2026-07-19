@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida siempre deja cicatrices."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> **— Antonio Gala**
+> **— Victor Hugo**
 
 </div>
 
