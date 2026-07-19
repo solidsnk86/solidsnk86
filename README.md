@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mejor espejo es un viejo amigo."*
+> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
 >
-> **— George Herbert**
+> **— Steve Jobs**
 
 </div>
 
