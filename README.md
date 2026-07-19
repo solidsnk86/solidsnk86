@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
-> **— Steve Jobs**
+> **— Unknown**
 
 </div>
 
