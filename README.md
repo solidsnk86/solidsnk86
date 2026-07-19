@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *"La vida siempre deja cicatrices."*
 >
-> **— Dolly Parton**
+> **— Antonio Gala**
 
 </div>
 
