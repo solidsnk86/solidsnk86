@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> **— Victor Hugo**
+> **— William Shakespeare**
 
 </div>
 
