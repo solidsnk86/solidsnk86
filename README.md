@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es un regalo. Disfrútala mientras puedas."*
+> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
 >
-> **— Unknown**
+> **— Dolly Parton**
 
 </div>
 
