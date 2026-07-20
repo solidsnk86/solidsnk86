@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"El fútbol revela la alegría del pueblo."*
 >
-> **— Proverbio indígena**
+> **— Eduardo Galeano**
 
 </div>
 
