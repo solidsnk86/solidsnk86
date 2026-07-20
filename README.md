@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"Sigue adelante sin importar lo oscuro que sea."*
 >
-> **— William Shakespeare**
+> **— Ralph Waldo Emerson**
 
 </div>
 
