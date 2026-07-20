@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"Amar es dejar libertad."*
 >
-> **— Marco Aurelio**
+> **— Antonio Gala**
 
 </div>
 
