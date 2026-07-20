@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El fútbol revela la alegría del pueblo."*
+> *"El valor de un hombre se mide por la medida de lo que busca."*
 >
-> **— Eduardo Galeano**
+> **— Marco Aurelio**
 
 </div>
 
