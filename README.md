@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Sigue adelante sin importar lo oscuro que sea."*
+> *"El verdadera éxito es la paz mental."*
 >
-> **— Ralph Waldo Emerson**
+> **— Aristóteles**
 
 </div>
 
