@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"La mejor inversión es en ti mismo."*
 >
-> **— Joseph Addison**
+> **— Warren Buffett**
 
 </div>
 
