@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> **— Proverbio indígena**
+> **— Joseph Addison**
 
 </div>
 
