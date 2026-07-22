@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"El miedo mira, pero también escucha."*
 >
-> **— Immanuel Kant**
+> **— Eduardo Galeano**
 
 </div>
 
