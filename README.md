@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Toda gran realización comienza con un sueño."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> **— Og Mandino**
+> **— San Agustín**
 
 </div>
 
