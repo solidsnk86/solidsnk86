@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Mucha gente pequeña, en lugares pequeños, hace cosas pequeñas."*
+> *"Toda gran realización comienza con un sueño."*
 >
-> **— Eduardo Galeano**
+> **— Og Mandino**
 
 </div>
 
