@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> **— San Agustín**
+> **— Immanuel Kant**
 
 </div>
 
