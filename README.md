@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"El mundo está patas arriba."*
 >
-> **— Winston Churchill**
+> **— Eduardo Galeano**
 
 </div>
 
