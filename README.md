@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El miedo mira, pero también escucha."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> **— Eduardo Galeano**
+> **— Winston Churchill**
 
 </div>
 
