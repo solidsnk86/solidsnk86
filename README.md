@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> **— William Shakespeare**
+> **— Heráclito**
 
 </div>
 
