@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
 >
-> **— Winston Churchill**
+> **— Steve Jobs**
 
 </div>
 
