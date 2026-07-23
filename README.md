@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> **— Steve Jobs**
+> **— William Shakespeare**
 
 </div>
 
