@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"La libertad también se aprende."*
 >
-> **— Robert Collier**
+> **— Eduardo Galeano**
 
 </div>
 
