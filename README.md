@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad también se aprende."*
+> *"El futuro no se predice, se crea."*
 >
-> **— Eduardo Galeano**
+> **— Peter Drucker**
 
 </div>
 
