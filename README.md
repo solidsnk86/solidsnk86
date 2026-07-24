@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No se puede pisar dos veces el mismo río."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> **— Heráclito**
+> **— Robert Collier**
 
 </div>
 
