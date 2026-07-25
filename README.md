@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La soledad enseña silencios."*
+> *"La mejor venganza es un éxito rotundo."*
 >
-> **— Antonio Gala**
+> **— Frank Sinatra**
 
 </div>
 
