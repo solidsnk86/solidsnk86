@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La tristeza también tiene belleza."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> **— Antonio Gala**
+> **— Jim Rohn**
 
 </div>
 
