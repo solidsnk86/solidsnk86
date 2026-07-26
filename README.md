@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Eres más fuerte de lo que crees."*
+> *"La imaginación gobierna el mundo."*
 >
-> **— Unknown**
+> **— Napoleón Bonaparte**
 
 </div>
 
