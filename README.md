@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El secreto de salir adelante es comenzar."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> **— Mark Twain**
+> **— Muhammad Ali**
 
 </div>
 
