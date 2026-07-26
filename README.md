@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> **— Muhammad Ali**
+> **— Theodore Roosevelt**
 
 </div>
 
