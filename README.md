@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mejor venganza es un éxito rotundo."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> **— Frank Sinatra**
+> **— Mark Twain**
 
 </div>
 
@@ -65,7 +65,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 5 meses</sub>
+    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 6 meses</sub>
   </p>
 
   <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
