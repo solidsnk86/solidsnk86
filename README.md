@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La historia es un incesante volver a empezar."*
+> *"La palabra puede acariciar."*
 >
-> **— Tucídides**
+> **— Antonio Gala**
 
 </div>
 
