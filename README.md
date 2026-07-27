@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La historia es un incesante volver a empezar."*
 >
-> **— Aristóteles**
+> **— Tucídides**
 
 </div>
 
