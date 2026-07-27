@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La melancolía tiene perfume antiguo."*
+> *"El amor se parece al vértigo."*
 >
 > **— Antonio Gala**
 
