@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> **— Ludwig Wittgenstein**
+> **— Johann Goethe**
 
 </div>
 
