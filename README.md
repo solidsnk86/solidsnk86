@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> **— Michael Jordan**
+> **— Winston Churchill**
 
 </div>
 
