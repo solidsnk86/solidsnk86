@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mejor espejo es un viejo amigo."*
+> *"No cuentes los días, haz que los días cuenten."*
 >
-> **— George Herbert**
+> **— Muhammad Ali**
 
 </div>
 
