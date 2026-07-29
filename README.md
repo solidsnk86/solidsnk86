@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No cuentes los días, haz que los días cuenten."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> **— Muhammad Ali**
+> **— Robert Collier**
 
 </div>
 
