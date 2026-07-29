@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida recompensa a quienes se atreven."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> **— Unknown**
+> **— Aristóteles**
 
 </div>
 
