@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> **— Aristóteles**
+> **— George Herbert**
 
 </div>
 
