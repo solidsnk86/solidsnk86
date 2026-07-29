@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nunca es tarde para empezar de nuevo."*
+> *"La vida recompensa a quienes se atreven."*
 >
-> **— C.S. Lewis**
+> **— Unknown**
 
 </div>
 
