@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> **— Jim Rohn**
+> **— Charles R. Swindoll**
 
 </div>
 
