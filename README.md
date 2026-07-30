@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> **— Albert Einstein**
+> **— Jim Rohn**
 
 </div>
 
