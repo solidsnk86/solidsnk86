@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El consumo consume personas."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> **— Eduardo Galeano**
+> **— Albert Einstein**
 
 </div>
 
