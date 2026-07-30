@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El consumo consume personas."*
 >
-> **— Sigmund Freud**
+> **— Eduardo Galeano**
 
 </div>
 
