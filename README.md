@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Amar es dejar libertad."*
+> *"La pasión transforma la rutina."*
 >
 > **— Antonio Gala**
 
