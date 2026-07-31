@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"El alma necesita belleza."*
 >
-> **— Henry Ford**
+> **— Antonio Gala**
 
 </div>
 
