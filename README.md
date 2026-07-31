@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La palabra puede acariciar."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> **— Antonio Gala**
+> **— Henry Ford**
 
 </div>
 
