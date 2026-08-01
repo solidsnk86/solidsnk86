@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
-> **— Immanuel Kant**
+> **— Unknown**
 
 </div>
 
