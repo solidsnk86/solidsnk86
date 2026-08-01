@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El alma necesita belleza."*
+> *"El carácter es destino."*
 >
-> **— Antonio Gala**
+> **— Heráclito**
 
 </div>
 
