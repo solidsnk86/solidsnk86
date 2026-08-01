@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El carácter es destino."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> **— Heráclito**
+> **— Victor Hugo**
 
 </div>
 
