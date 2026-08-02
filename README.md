@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tú eres el único responsable de tu propia felicidad."*
+> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
 >
-> **— Steve Maraboli**
+> **— Maya Angelou**
 
 </div>
 
