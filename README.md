@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El tiempo aclara lo esencial."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> **— Antonio Gala**
+> **— Henry Ford**
 
 </div>
 
