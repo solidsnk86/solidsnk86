@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Aquellos que aman profundamente nunca envejecen."*
+> *"La división del trabajo permite que pocos decidan."*
 >
-> **— Alfred Lord Tennyson**
+> **— Eduardo Galeano**
 
 </div>
 
