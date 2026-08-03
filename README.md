@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
 >
-> **— Johann Goethe**
+> **— Colin Powell**
 
 </div>
 
