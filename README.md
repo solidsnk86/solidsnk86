@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
+> *"La creatividad es inteligencia divirtiéndose."*
 >
-> **— Colin Powell**
+> **— Albert Einstein**
 
 </div>
 
