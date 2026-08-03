@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La resiliencia es tu capacidad de regresar."*
+> *"Nada es imposible si persistes lo suficiente."*
 >
-> **— Sheryl Sandberg**
+> **— Zig Ziglar**
 
 </div>
 
