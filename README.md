@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La creatividad es inteligencia divirtiéndose."*
+> *"La resiliencia es tu capacidad de regresar."*
 >
-> **— Albert Einstein**
+> **— Sheryl Sandberg**
 
 </div>
 
