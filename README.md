@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
 >
-> **— Henry Ford**
+> **— Johann Goethe**
 
 </div>
 
