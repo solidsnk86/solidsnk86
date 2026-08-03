@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nada es imposible si persistes lo suficiente."*
+> *"El silencio también puede gritar."*
 >
-> **— Zig Ziglar**
+> **— Eduardo Galeano**
 
 </div>
 
