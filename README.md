@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"Hoy es el primer día del resto de tu vida."*
 >
-> **— Alan Kay**
+> **— Charles Dederich**
 
 </div>
 
