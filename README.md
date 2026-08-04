@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El valor de un hombre se mide por la medida de lo que busca."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> **— Marco Aurelio**
+> **— Alan Kay**
 
 </div>
 
