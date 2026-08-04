@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio también puede gritar."*
+> *"La vida es la que pasa mientras estás haciendo otros planes."*
 >
-> **— Eduardo Galeano**
+> **— John Lennon**
 
 </div>
 
