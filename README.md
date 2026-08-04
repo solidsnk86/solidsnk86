@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Hoy es el primer día del resto de tu vida."*
+> *"La vida recompensa a quienes se atreven."*
 >
-> **— Charles Dederich**
+> **— Unknown**
 
 </div>
 
