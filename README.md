@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"La injusticia tiene buena memoria."*
 >
-> **— Proverbio árabe**
+> **— Eduardo Galeano**
 
 </div>
 
