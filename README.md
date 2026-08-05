@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La injusticia tiene buena memoria."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> **— Eduardo Galeano**
+> **— Séneca**
 
 </div>
 
