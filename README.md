@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"El legado que dejas es la vida que viviste."*
 >
-> **— Séneca**
+> **— Jackie Robinson**
 
 </div>
 
