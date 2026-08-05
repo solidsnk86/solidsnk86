@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es el arte de encontrar sentido."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> **— Antonio Gala**
+> **— Robert Collier**
 
 </div>
 
