@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No basta estar en el lugar correcto en el momento correcto. Debes ser la persona correcta."*
+> *"La verdadera libertad es no tener nada que perder."*
 >
-> **— Stephen Covey**
+> **— Erich Fromm**
 
 </div>
 
