@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"No basta estar en el lugar correcto en el momento correcto. Debes ser la persona correcta."*
 >
-> **— Proverbio chino**
+> **— Stephen Covey**
 
 </div>
 
