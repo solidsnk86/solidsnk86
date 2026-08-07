@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
+> *"Un amigo es aquel que llega cuando todos se han ido."*
 >
-> **— Brian Tracy**
+> **— Walter Winchell**
 
 </div>
 
