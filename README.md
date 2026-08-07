@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La calidad no es un acto, es un hábito."*
+> *"El amor es la poesía de los sentidos."*
 >
-> **— Aristóteles**
+> **— Honoré de Balzac**
 
 </div>
 
