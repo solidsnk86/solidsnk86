@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Un amigo es aquel que llega cuando todos se han ido."*
+> *"La calidad no es un acto, es un hábito."*
 >
-> **— Walter Winchell**
+> **— Aristóteles**
 
 </div>
 
