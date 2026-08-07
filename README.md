@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La verdadera libertad es no tener nada que perder."*
+> *"La mejor inversión es en ti mismo."*
 >
-> **— Erich Fromm**
+> **— Warren Buffett**
 
 </div>
 
