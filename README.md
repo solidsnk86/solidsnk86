@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> **— Confucio**
+> **— Leonardo da Vinci**
 
 </div>
 
