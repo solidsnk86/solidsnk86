@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> **— Anónimo**
+> **— Platón**
 
 </div>
 
