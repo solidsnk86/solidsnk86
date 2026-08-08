@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> **— Victor Hugo**
+> **— Confucio**
 
 </div>
 
