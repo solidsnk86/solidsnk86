@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"Ningún viento es favorable para el que no sabe adónde va."*
 >
-> **— Platón**
+> **— Séneca**
 
 </div>
 
