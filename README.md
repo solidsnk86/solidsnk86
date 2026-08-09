@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"Los sueños son las semillas de la realidad."*
 >
-> **— Theodore Roosevelt**
+> **— James Allen**
 
 </div>
 
