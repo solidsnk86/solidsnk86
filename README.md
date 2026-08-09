@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
 >
-> **— Aristóteles**
+> **— Platón**
 
 </div>
 
