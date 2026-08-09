@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La resiliencia es tu capacidad de regresar."*
+> *"La inteligencia necesita sensibilidad."*
 >
-> **— Sheryl Sandberg**
+> **— Antonio Gala**
 
 </div>
 
