@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> **— Platón**
+> **— Victor Hugo**
 
 </div>
 
