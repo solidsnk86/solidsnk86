@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los sueños son las semillas de la realidad."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> **— James Allen**
+> **— Aristóteles**
 
 </div>
 
