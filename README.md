@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La inteligencia necesita sensibilidad."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> **— Antonio Gala**
+> **— Theodore Roosevelt**
 
 </div>
 
