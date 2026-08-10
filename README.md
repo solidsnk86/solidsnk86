@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Aquellos que aman profundamente nunca envejecen."*
+> *"La historia nunca dice adiós."*
 >
-> **— Alfred Lord Tennyson**
+> **— Eduardo Galeano**
 
 </div>
 
