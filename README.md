@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"Aquellos que aman profundamente nunca envejecen."*
 >
-> **— Victor Hugo**
+> **— Alfred Lord Tennyson**
 
 </div>
 
