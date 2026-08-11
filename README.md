@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mejor espejo es un viejo amigo."*
+> *"El verdadera éxito es la paz mental."*
 >
-> **— George Herbert**
+> **— Aristóteles**
 
 </div>
 
