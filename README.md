@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La belleza nunca es superficial."*
+> *"El conocimiento es poder."*
 >
-> **— Antonio Gala**
+> **— Francis Bacon**
 
 </div>
 
