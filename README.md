@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre está condenado a ser libre."*
+> *"La belleza nunca es superficial."*
 >
-> **— Jean-Paul Sartre**
+> **— Antonio Gala**
 
 </div>
 
