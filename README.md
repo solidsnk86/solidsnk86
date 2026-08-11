@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El conocimiento es poder."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> **— Francis Bacon**
+> **— George Herbert**
 
 </div>
 
