@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa."*
+> *"El hombre está condenado a ser libre."*
 >
-> **— Buda**
+> **— Jean-Paul Sartre**
 
 </div>
 
