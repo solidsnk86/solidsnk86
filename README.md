@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos."*
+> *"La realidad desafía las palabras."*
 >
-> **— Platón**
+> **— Eduardo Galeano**
 
 </div>
 
