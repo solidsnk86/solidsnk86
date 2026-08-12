@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La realidad desafía las palabras."*
+> *"La simplicidad es la máxima sofisticación."*
 >
-> **— Eduardo Galeano**
+> **— Leonardo da Vinci**
 
 </div>
 
