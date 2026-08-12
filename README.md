@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> **— Albert Einstein**
+> **— Immanuel Kant**
 
 </div>
 
