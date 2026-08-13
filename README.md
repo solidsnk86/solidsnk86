@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
+> *"El silencio también puede gritar."*
 >
-> **— Fiódor Dostoievski**
+> **— Eduardo Galeano**
 
 </div>
 
