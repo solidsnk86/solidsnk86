@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El corazón recuerda primero."*
+> *"La resiliencia es tu capacidad de regresar."*
 >
-> **— Antonio Gala**
+> **— Sheryl Sandberg**
 
 </div>
 
