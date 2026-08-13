@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio también puede gritar."*
+> *"La historia es un incesante volver a empezar."*
 >
-> **— Eduardo Galeano**
+> **— Tucídides**
 
 </div>
 
