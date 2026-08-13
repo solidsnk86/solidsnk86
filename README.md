@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive."*
 >
-> **— Aristóteles**
+> **— Fiódor Dostoievski**
 
 </div>
 
