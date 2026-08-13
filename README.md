@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La resiliencia es tu capacidad de regresar."*
+> *"La vida es un viaje, no un destino."*
 >
-> **— Sheryl Sandberg**
+> **— Ralph Waldo Emerson**
 
 </div>
 
