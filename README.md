@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No vivas para trabajar, trabaja para vivir."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> **— Desconocido**
+> **— Henry Ford**
 
 </div>
 
