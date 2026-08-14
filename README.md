@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es un viaje, no un destino."*
+> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
 >
-> **— Ralph Waldo Emerson**
+> **— Brian Tracy**
 
 </div>
 
