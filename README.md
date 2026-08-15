@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> **— Maya Angelou**
+> **— Anónimo**
 
 </div>
 
