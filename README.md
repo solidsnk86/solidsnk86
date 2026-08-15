@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El aprendizaje nunca agota la mente."*
+> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
 >
-> **— Leonardo da Vinci**
+> **— Winston Churchill**
 
 </div>
 
