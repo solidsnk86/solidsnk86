@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es aprender a ir de fracaso en fracaso sin desesperarse."*
+> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
 >
-> **— Winston Churchill**
+> **— Maya Angelou**
 
 </div>
 
