@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
 >
-> **— Henry Ford**
+> **— Dolly Parton**
 
 </div>
 
