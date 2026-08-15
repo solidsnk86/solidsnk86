@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> **— Dolly Parton**
+> **— Leonardo da Vinci**
 
 </div>
 
