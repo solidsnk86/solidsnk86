@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"Toda gran realización comienza con un sueño."*
 >
-> **— Anónimo**
+> **— Og Mandino**
 
 </div>
 
