@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mejor inversión es en ti mismo."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> **— Warren Buffett**
+> **— Lao Tse**
 
 </div>
 
