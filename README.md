@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Toda gran realización comienza con un sueño."*
+> *"La inteligencia necesita sensibilidad."*
 >
-> **— Og Mandino**
+> **— Antonio Gala**
 
 </div>
 
