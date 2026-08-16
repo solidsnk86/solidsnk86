@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La inteligencia necesita sensibilidad."*
+> *"Los que no recuerdan el pasado están condenados a repetirlo."*
 >
-> **— Antonio Gala**
+> **— George Santayana**
 
 </div>
 
