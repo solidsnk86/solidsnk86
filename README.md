@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La dignidad no pide permiso."*
 >
-> **— Lao Tse**
+> **— Eduardo Galeano**
 
 </div>
 
