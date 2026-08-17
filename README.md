@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> **— Buda**
+> **— Robert Collier**
 
 </div>
 
