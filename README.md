@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor se parece al vértigo."*
+> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
 >
-> **— Antonio Gala**
+> **— Buda**
 
 </div>
 
