@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> **— Maya Angelou**
+> **— Winston Churchill**
 
 </div>
 
