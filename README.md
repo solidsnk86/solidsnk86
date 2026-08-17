@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+> *"La poesía nace del asombro."*
 >
-> **— Robert Collier**
+> **— Antonio Gala**
 
 </div>
 
