@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La utopía sirve para caminar."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> **— Eduardo Galeano**
+> **— Robert Louis Stevenson**
 
 </div>
 
