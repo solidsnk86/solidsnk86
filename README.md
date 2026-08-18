@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tu actitud determina tu altitud."*
+> *"El amor es la poesía de los sentidos."*
 >
-> **— Zig Ziglar**
+> **— Honoré de Balzac**
 
 </div>
 
