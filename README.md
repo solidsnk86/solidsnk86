@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> **— Winston Churchill**
+> **— Anaïs Nin**
 
 </div>
 
