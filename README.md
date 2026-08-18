@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la poesía de los sentidos."*
+> *"La utopía sirve para caminar."*
 >
-> **— Honoré de Balzac**
+> **— Eduardo Galeano**
 
 </div>
 
