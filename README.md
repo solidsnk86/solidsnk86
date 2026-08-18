@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Tu actitud determina tu altitud."*
 >
-> **— Anaïs Nin**
+> **— Zig Ziglar**
 
 </div>
 
