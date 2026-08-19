@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
+> *"La elegancia empieza en la mirada."*
 >
-> **— Victor Hugo**
+> **— Antonio Gala**
 
 </div>
 
