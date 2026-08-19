@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"La risa es el sol que ahuyenta el invierno del rostro humano."*
 >
-> **— Charles R. Swindoll**
+> **— Victor Hugo**
 
 </div>
 
