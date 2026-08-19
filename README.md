@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La elegancia empieza en la mirada."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> **— Antonio Gala**
+> **— Confucio**
 
 </div>
 
