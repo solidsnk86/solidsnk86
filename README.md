@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mayor riqueza es contentarse con poco."*
+> *"La vida recompensa a quienes se atreven."*
 >
-> **— Platón**
+> **— Unknown**
 
 </div>
 
