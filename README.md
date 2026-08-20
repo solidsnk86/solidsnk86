@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La pobreza no es casualidad."*
+> *"El legado que dejas es la vida que viviste."*
 >
-> **— Eduardo Galeano**
+> **— Jackie Robinson**
 
 </div>
 
