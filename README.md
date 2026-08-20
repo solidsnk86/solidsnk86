@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La realidad desafía las palabras."*
+> *"La pobreza no es casualidad."*
 >
 > **— Eduardo Galeano**
 
