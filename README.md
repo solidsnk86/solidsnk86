@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El legado que dejas es la vida que viviste."*
+> *"La mayor riqueza es contentarse con poco."*
 >
-> **— Jackie Robinson**
+> **— Platón**
 
 </div>
 
