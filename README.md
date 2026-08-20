@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La poesía nace del asombro."*
+> *"La división del trabajo permite que pocos decidan."*
 >
-> **— Antonio Gala**
+> **— Eduardo Galeano**
 
 </div>
 
