@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> **— Henry Ford**
+> **— Anónimo**
 
 </div>
 
