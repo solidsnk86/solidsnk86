@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> **— Confucio**
+> **— Henry Ford**
 
 </div>
 
