@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tú eres el único responsable de tu propia felicidad."*
+> *"El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa."*
 >
-> **— Steve Maraboli**
+> **— Confucio**
 
 </div>
 
