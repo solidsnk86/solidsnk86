@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La división del trabajo permite que pocos decidan."*
+> *"Tú eres el único responsable de tu propia felicidad."*
 >
-> **— Eduardo Galeano**
+> **— Steve Maraboli**
 
 </div>
 
