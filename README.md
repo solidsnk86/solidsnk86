@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Amar es dejar libertad."*
+> *"El sabio puede cambiar de opinión. El necio, nunca."*
 >
-> **— Antonio Gala**
+> **— Immanuel Kant**
 
 </div>
 
