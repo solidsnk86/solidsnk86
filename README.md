@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> **— Lao Tse**
+> **— Heráclito**
 
 </div>
 
