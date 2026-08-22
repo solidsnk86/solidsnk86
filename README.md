@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor verdadero no domestica."*
+> *"El tiempo aclara lo esencial."*
 >
 > **— Antonio Gala**
 
