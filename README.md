@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El sabio puede cambiar de opinión. El necio, nunca."*
+> *"El viaje de mil millas comienza con un solo paso."*
 >
-> **— Immanuel Kant**
+> **— Lao Tse**
 
 </div>
 
@@ -103,7 +103,7 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **4** |
+| Usuarios que no me siguen | **3** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
@@ -117,10 +117,6 @@ https://gabrielcalcagni.vercel.app
 
   <a href="https://github.com/nolimits4web" title="nolimits4web">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/999588?v=4" alt="Avatar de nolimits4web" />
-  </a>
-
-  <a href="https://github.com/yumiaura" title="yumiaura">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/235065808?v=4" alt="Avatar de yumiaura" />
   </a>
 
 </div>
