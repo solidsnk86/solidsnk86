@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No busques el éxito, busca la excelencia."*
+> *"La felicidad exige coraje."*
 >
-> **— John Wooden**
+> **— Antonio Gala**
 
 </div>
 
