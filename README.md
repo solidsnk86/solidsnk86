@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El conocimiento es poder."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> **— Francis Bacon**
+> **— John Lennon**
 
 </div>
 
