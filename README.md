@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El tiempo aclara lo esencial."*
+> *"La gratitud es la clave para la felicidad."*
 >
-> **— Antonio Gala**
+> **— Unknown**
 
 </div>
 
