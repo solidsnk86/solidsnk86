@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
+> *"El conocimiento es poder."*
 >
-> **— Robert Louis Stevenson**
+> **— Francis Bacon**
 
 </div>
 
