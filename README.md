@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad también se aprende."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> **— Eduardo Galeano**
+> **— Marco Tulio Cicerón**
 
 </div>
 
