@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> **— Marco Tulio Cicerón**
+> **— Ralph Waldo Emerson**
 
 </div>
 
