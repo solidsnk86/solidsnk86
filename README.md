@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"La libertad también se aprende."*
 >
-> **— John Lennon**
+> **— Eduardo Galeano**
 
 </div>
 
@@ -57,7 +57,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
 
 
   <p>
-    <sub>e-commerce — Marzo 12, 2026 — hace 5 meses</sub>
+    <sub>e-commerce — Marzo 12, 2026 — hace 6 meses</sub>
   </p>
 
   <a href="https://pascalecloset.com/" target="_blank" rel="noopener noreferrer">
