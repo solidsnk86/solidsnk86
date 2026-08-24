@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> **— Marco Aurelio**
+> **— Platón**
 
 </div>
 
