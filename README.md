@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La ternura también es valentía."*
+> *"El silencio también puede gritar."*
 >
-> **— Antonio Gala**
+> **— Eduardo Galeano**
 
 </div>
 
