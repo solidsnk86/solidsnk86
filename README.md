@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio también puede gritar."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> **— Eduardo Galeano**
+> **— Proverbio chino**
 
 </div>
 
