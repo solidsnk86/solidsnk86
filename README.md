@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Aquellos que aman profundamente nunca envejecen."*
+> *"La ternura también es valentía."*
 >
-> **— Alfred Lord Tennyson**
+> **— Antonio Gala**
 
 </div>
 
