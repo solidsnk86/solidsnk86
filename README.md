@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> **— Proverbio chino**
+> **— Victor Hugo**
 
 </div>
 
