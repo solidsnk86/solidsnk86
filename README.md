@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"No importa lo lentamente que avances, siempre y cuando no te detengas."*
 >
-> **— Anaïs Nin**
+> **— Confucio**
 
 </div>
 
