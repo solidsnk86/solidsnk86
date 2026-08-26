@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"El aprendizaje nunca agota la mente."*
 >
-> **— Victor Hugo**
+> **— Leonardo da Vinci**
 
 </div>
 
