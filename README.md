@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No importa lo lentamente que avances, siempre y cuando no te detengas."*
+> *"El amor no es algo que encuentres. Es algo que creces."*
 >
-> **— Confucio**
+> **— Mario Speed Wagon**
 
 </div>
 
