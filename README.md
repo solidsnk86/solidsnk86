@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio también puede gritar."*
+> *"No vemos las cosas como son, las vemos como somos."*
 >
-> **— Eduardo Galeano**
+> **— Anaïs Nin**
 
 </div>
 
