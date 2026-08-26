@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El aprendizaje nunca agota la mente."*
+> *"El silencio también puede gritar."*
 >
-> **— Leonardo da Vinci**
+> **— Eduardo Galeano**
 
 </div>
 
