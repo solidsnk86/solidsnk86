@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
+> *"Sigue adelante sin importar lo oscuro que sea."*
 >
-> **— Buda**
+> **— Ralph Waldo Emerson**
 
 </div>
 
