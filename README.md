@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor no es algo que encuentres. Es algo que creces."*
+> *"La mente es todo. En lo que piensas es en lo que te conviertes."*
 >
-> **— Mario Speed Wagon**
+> **— Buda**
 
 </div>
 
