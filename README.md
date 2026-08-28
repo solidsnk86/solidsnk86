@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Si no te desafías, desafiarás a otros."*
+> *"La resiliencia es tu capacidad de regresar."*
 >
-> **— Anónimo**
+> **— Sheryl Sandberg**
 
 </div>
 
