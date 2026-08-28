@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Sigue adelante sin importar lo oscuro que sea."*
+> *"Si no te desafías, desafiarás a otros."*
 >
-> **— Ralph Waldo Emerson**
+> **— Anónimo**
 
 </div>
 
