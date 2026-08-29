@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"No vivas para trabajar, trabaja para vivir."*
 >
-> **— Michel de Montaigne**
+> **— Desconocido**
 
 </div>
 
