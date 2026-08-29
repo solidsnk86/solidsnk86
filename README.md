@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No vivas para trabajar, trabaja para vivir."*
+> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
 >
-> **— Desconocido**
+> **— Khalil Gibran**
 
 </div>
 
