@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
 >
-> **— Khalil Gibran**
+> **— Brian Tracy**
 
 </div>
 
