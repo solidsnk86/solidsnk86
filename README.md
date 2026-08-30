@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> **— Dolly Parton**
+> **— Albert Einstein**
 
 </div>
 
