@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> **— Brian Tracy**
+> **— Francis Bacon**
 
 </div>
 
