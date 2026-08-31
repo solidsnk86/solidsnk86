@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La gratitud es la clave para la felicidad."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> **— Unknown**
+> **— Winston Churchill**
 
 </div>
 
