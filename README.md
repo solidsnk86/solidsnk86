@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> **— Henry Ford**
+> **— George Eliot**
 
 </div>
 
@@ -103,9 +103,13 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **4** |
+| Usuarios que no me siguen | **5** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/Nakshatra05" title="Nakshatra05">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/139595090?v=4" alt="Avatar de Nakshatra05" />
+  </a>
 
   <a href="https://github.com/Stremio" title="Stremio">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/13152917?v=4" alt="Avatar de Stremio" />
