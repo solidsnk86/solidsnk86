@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tú eres el único responsable de tu propia felicidad."*
+> *"No encuentres la falta, encuentra el remedio."*
 >
-> **— Steve Maraboli**
+> **— Henry Ford**
 
 </div>
 
