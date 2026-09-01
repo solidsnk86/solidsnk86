@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"Tú eres el único responsable de tu propia felicidad."*
 >
-> **— Michel de Montaigne**
+> **— Steve Maraboli**
 
 </div>
 
@@ -103,9 +103,13 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **3** |
+| Usuarios que no me siguen | **4** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/Stremio" title="Stremio">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/13152917?v=4" alt="Avatar de Stremio" />
+  </a>
 
   <a href="https://github.com/goncy" title="goncy">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/6494462?v=4" alt="Avatar de goncy" />
