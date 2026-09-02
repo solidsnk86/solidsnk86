@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> **— John F. Kennedy**
+> **— Anónimo**
 
 </div>
 
