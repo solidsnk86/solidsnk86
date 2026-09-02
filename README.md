@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
 >
-> **— William Shakespeare**
+> **— Lao Tse**
 
 </div>
 
