@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí."*
+> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
 >
-> **— Lao Tse**
+> **— John F. Kennedy**
 
 </div>
 
