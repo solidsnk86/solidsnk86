@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio también puede gritar."*
+> *"Los nadies cuestan menos que la bala que los mata."*
 >
 > **— Eduardo Galeano**
 
