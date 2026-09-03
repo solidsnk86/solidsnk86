@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es demasiado corta para trabajar en algo que no te ama."*
+> *"El amor es la poesía de los sentidos."*
 >
-> **— Steve Jobs**
+> **— Honoré de Balzac**
 
 </div>
 
