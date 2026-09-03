@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los nadies cuestan menos que la bala que los mata."*
+> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
 >
-> **— Eduardo Galeano**
+> **— Steve Jobs**
 
 </div>
 
