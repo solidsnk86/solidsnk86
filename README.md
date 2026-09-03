@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
+> *"El legado que dejas es la vida que viviste."*
 >
-> **— Steve Jobs**
+> **— Jackie Robinson**
 
 </div>
 
