@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
 >
-> **— Thomas Jefferson**
+> **— Ralph Waldo Emerson**
 
 </div>
 
