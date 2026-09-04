@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la poesía de los sentidos."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> **— Honoré de Balzac**
+> **— Thomas Jefferson**
 
 </div>
 
