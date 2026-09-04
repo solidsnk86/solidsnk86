@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Donde reina el amor, sobran las leyes."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> **— Platón**
+> **— Mark Twain**
 
 </div>
 
