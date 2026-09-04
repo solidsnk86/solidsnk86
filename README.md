@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa."*
+> *"Donde reina el amor, sobran las leyes."*
 >
-> **— Ralph Waldo Emerson**
+> **— Platón**
 
 </div>
 
