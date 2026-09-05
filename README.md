@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> **— San Juan Bosco**
+> **— Aristóteles**
 
 </div>
 
