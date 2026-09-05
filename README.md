@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"El verdadero sabio es el que siempre desea aprender."*
 >
-> **— Theodore Roosevelt**
+> **— Proverbio chino**
 
 </div>
 
