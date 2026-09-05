@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Haz lo que puedas, con lo que tengas, donde estés."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> **— Theodore Roosevelt**
+> **— John Lennon**
 
 </div>
 
