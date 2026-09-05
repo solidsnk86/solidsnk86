@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> **— John Lennon**
+> **— San Juan Bosco**
 
 </div>
 
