@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
+> *"Haz lo que puedas, con lo que tengas, donde estés."*
 >
-> **— John Lennon**
+> **— Theodore Roosevelt**
 
 </div>
 
