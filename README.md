@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
 >
-> **— Aristóteles**
+> **— Maya Angelou**
 
 </div>
 
