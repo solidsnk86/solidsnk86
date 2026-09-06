@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los que no recuerdan el pasado están condenados a repetirlo."*
+> *"La vida siempre deja cicatrices."*
 >
-> **— George Santayana**
+> **— Antonio Gala**
 
 </div>
 
