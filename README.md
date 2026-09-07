@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la poesía de los sentidos."*
+> *"No existe el fracaso definitivo, solo existe la falta de intentos."*
 >
-> **— Honoré de Balzac**
+> **— Bob Ross**
 
 </div>
 
