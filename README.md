@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tu único límite eres tú mismo."*
+> *"El mejor espejo es un viejo amigo."*
 >
-> **— Unknown**
+> **— George Herbert**
 
 </div>
 
