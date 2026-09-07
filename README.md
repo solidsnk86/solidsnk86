@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mejor espejo es un viejo amigo."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> **— George Herbert**
+> **— Publio Siro**
 
 </div>
 
