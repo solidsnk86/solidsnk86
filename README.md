@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre muere tantas veces como pierde a sus seres queridos."*
+> *"Amar es dejar libertad."*
 >
-> **— Publio Siro**
+> **— Antonio Gala**
 
 </div>
 
