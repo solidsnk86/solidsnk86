@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Toda gran realización comienza con un sueño."*
+> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
 >
-> **— Og Mandino**
+> **— Voltaire**
 
 </div>
 
