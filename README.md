@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la poesía de los sentidos."*
+> *"Toda gran realización comienza con un sueño."*
 >
-> **— Honoré de Balzac**
+> **— Og Mandino**
 
 </div>
 
