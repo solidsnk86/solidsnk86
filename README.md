@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que no es un buen sirviente no será un buen maestro."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> **— Platón**
+> **— Mahatma Gandhi**
 
 </div>
 
