@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"Eres más fuerte de lo que crees."*
 >
-> **— Mahatma Gandhi**
+> **— Unknown**
 
 </div>
 
