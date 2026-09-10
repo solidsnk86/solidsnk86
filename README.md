@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El viaje de mil millas comienza con un solo paso."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> **— Lao Tse**
+> **— Thomas Jefferson**
 
 </div>
 
