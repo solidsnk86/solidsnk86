@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es un regalo. Disfrútala mientras puedas."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> **— Unknown**
+> **— Albert Einstein**
 
 </div>
 
