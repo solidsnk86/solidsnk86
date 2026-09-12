@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La dignidad no pide permiso."*
+> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
 >
-> **— Eduardo Galeano**
+> **— Joseph Addison**
 
 </div>
 
