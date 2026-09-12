@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."*
 >
-> **— Joseph Addison**
+> **— Maya Angelou**
 
 </div>
 
