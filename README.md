@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La melancolía tiene perfume antiguo."*
+> *"El tiempo que disfrutas perdiendo no es tiempo perdido."*
 >
-> **— Antonio Gala**
+> **— John Lennon**
 
 </div>
 
