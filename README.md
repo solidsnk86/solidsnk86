@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"La gratitud es la clave para la felicidad."*
 >
-> **— Aristóteles**
+> **— Unknown**
 
 </div>
 
