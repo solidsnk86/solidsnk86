@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No vemos las cosas como son, las vemos como somos."*
+> *"Quien tiene paz en su conciencia, lo tiene todo."*
 >
-> **— Anaïs Nin**
+> **— San Juan Bosco**
 
 </div>
 
