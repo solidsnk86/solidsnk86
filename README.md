@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre está condenado a ser libre."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> **— Jean-Paul Sartre**
+> **— Alan Kay**
 
 </div>
 
