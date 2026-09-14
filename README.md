@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"El hombre está condenado a ser libre."*
 >
-> **— San Juan Bosco**
+> **— Jean-Paul Sartre**
 
 </div>
 
