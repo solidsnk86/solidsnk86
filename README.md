@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es corta, sonríe mientras aún tengas dientes."*
+> *"El tiempo es el bien más valioso que posees."*
 >
-> **— Anónimo**
+> **— Jim Rohn**
 
 </div>
 
