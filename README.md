@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La injusticia tiene buena memoria."*
+> *"La vida es corta, sonríe mientras aún tengas dientes."*
 >
-> **— Eduardo Galeano**
+> **— Anónimo**
 
 </div>
 
@@ -103,12 +103,16 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **4** |
+| Usuarios que no me siguen | **5** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
   <a href="https://github.com/Stremio" title="Stremio">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/13152917?v=4" alt="Avatar de Stremio" />
+  </a>
+
+  <a href="https://github.com/abdulrdeveloper" title="abdulrdeveloper">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/228225682?v=4" alt="Avatar de abdulrdeveloper" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
