@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El legado que dejas es la vida que viviste."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> **— Jackie Robinson**
+> **— Arthur Schopenhauer**
 
 </div>
 
