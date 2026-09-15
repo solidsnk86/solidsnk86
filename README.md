@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El buen humor es la única cualidad divina del hombre."*
+> *"La injusticia tiene buena memoria."*
 >
-> **— Arthur Schopenhauer**
+> **— Eduardo Galeano**
 
 </div>
 
