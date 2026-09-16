@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La calidad no es un acto, es un hábito."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> **— Aristóteles**
+> **— Marco Tulio Cicerón**
 
 </div>
 
