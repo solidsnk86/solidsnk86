@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es la que pasa mientras estás haciendo otros planes."*
+> *"Eres más fuerte de lo que crees."*
 >
-> **— John Lennon**
+> **— Unknown**
 
 </div>
 
