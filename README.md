@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El verdadero coraje es actuar con miedo, no sin él."*
+> *"La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir."*
 >
-> **— Nelson Mandela**
+> **— Maya Angelou**
 
 </div>
 
