@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"Eres más fuerte de lo que crees."*
 >
-> **— Marco Tulio Cicerón**
+> **— Unknown**
 
 </div>
 
