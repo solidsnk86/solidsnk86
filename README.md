@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> **— Charles Darwin**
+> **— Aristóteles**
 
 </div>
 
