@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La esperanza es el sueño del hombre despierto."*
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
 >
-> **— Aristóteles**
+> **— Robert Collier**
 
 </div>
 
