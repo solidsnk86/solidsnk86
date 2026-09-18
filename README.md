@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La elegancia empieza en la mirada."*
+> *"La memoria elige sus refugios."*
 >
 > **— Antonio Gala**
 
@@ -103,9 +103,13 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **5** |
+| Usuarios que no me siguen | **6** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
+
+  <a href="https://github.com/NamesMT" title="NamesMT">
+    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/23612546?v=4" alt="Avatar de NamesMT" />
+  </a>
 
   <a href="https://github.com/Stremio" title="Stremio">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/13152917?v=4" alt="Avatar de Stremio" />
