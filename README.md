@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor."*
+> *"La elegancia empieza en la mirada."*
 >
-> **— Lao Tse**
+> **— Antonio Gala**
 
 </div>
 
