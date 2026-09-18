@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La memoria elige sus refugios."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> **— Antonio Gala**
+> **— Aristóteles**
 
 </div>
 
