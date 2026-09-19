@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La esperanza tiene dos hijas: indignación y valentía."*
+> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
 >
-> **— Eduardo Galeano**
+> **— Proverbio árabe**
 
 </div>
 
