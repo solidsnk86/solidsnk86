@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> **— Proverbio árabe**
+> **— Eleanor Roosevelt**
 
 </div>
 
