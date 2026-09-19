@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
+> *"La esperanza tiene dos hijas: indignación y valentía."*
 >
-> **— Eleanor Roosevelt**
+> **— Eduardo Galeano**
 
 </div>
 
