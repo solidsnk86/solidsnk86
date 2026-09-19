@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Hoy es el primer día del resto de tu vida."*
+> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
 >
-> **— Charles Dederich**
+> **— Colin Powell**
 
 </div>
 
