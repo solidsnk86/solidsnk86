@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
+> *"El futuro pertenece a quienes creen en la belleza de sus sueños."*
 >
-> **— Colin Powell**
+> **— Eleanor Roosevelt**
 
 </div>
 
