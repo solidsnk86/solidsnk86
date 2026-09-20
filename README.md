@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La ausencia también conversa."*
+> *"La esperanza tiene dos hijas: indignación y valentía."*
 >
-> **— Antonio Gala**
+> **— Eduardo Galeano**
 
 </div>
 
