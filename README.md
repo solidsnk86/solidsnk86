@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La memoria guarda lo que vale la pena."*
+> *"La ausencia también conversa."*
 >
-> **— Eduardo Galeano**
+> **— Antonio Gala**
 
 </div>
 
