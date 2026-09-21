@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"No puedes cruzar el mar simplemente mirando el agua."*
 >
-> **— Michael Jordan**
+> **— Rabindranath Tagore**
 
 </div>
 
