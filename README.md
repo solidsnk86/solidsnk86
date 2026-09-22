@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> **— Voltaire**
+> **— Ludwig Wittgenstein**
 
 </div>
 
