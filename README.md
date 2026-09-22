@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Ningún viento es favorable para el que no sabe adónde va."*
+> *"La vida es el arte de encontrar sentido."*
 >
-> **— Séneca**
+> **— Antonio Gala**
 
 </div>
 
