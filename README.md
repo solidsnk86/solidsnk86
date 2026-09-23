@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La honestidad es el primer capítulo del libro de la sabiduría."*
+> *"La gratitud convierte lo que tenemos en suficiente."*
 >
-> **— Thomas Jefferson**
+> **— Aesopo**
 
 </div>
 
