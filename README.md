@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
 >
-> **— Ludwig Wittgenstein**
+> **— Confucio**
 
 </div>
 
@@ -57,7 +57,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
 
 
   <p>
-    <sub>e-commerce — Marzo 12, 2026 — hace 6 meses</sub>
+    <sub>e-commerce — Marzo 12, 2026 — hace 7 meses</sub>
   </p>
 
   <a href="https://pascalecloset.com/" target="_blank" rel="noopener noreferrer">
