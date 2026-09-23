@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre que mueve montañas comienza apartando piedras pequeñas."*
+> *"No se puede pisar dos veces el mismo río."*
 >
-> **— Confucio**
+> **— Heráclito**
 
 </div>
 
