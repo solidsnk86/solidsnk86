@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La gratitud convierte lo que tenemos en suficiente."*
+> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
 >
-> **— Aesopo**
+> **— Dolly Parton**
 
 </div>
 
@@ -65,7 +65,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 7 meses</sub>
+    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 8 meses</sub>
   </p>
 
   <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
