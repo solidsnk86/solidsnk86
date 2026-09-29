@@ -4,8 +4,8 @@ import { GraphQLClient, gql } from 'graphql-request'
 import { formatDate, PLACEHOLDER, SVG_PLACEHOLDER } from './constants.js'
 import dotenv from 'dotenv'
 import { timeAgo } from './utils/timeAgo.js'
+import "dotenv/config";
 
-dotenv.config()
 const token = process.env.GITHUB_TOKEN
 const username = 'solidsnk86'
 
@@ -34,11 +34,11 @@ const getAppInfo = async () => {
 const getLastProjects = async () => {
   try {
     const res = await fetch(
-      'https://calcagni-gabriel-dev.vercel.app/api/all-blogs'
+      'https://gabrielcalcagni.vercel.app/api/last-projects'
     )
     const data = await res.json()
     if (!res.ok) throw new Error(res.statusText)
-    return data.blog || []
+    return data.projects || []
   } catch (error) {
     console.error(error)
   }
@@ -117,10 +117,12 @@ const generateGithubStatsHTML = ({ nonFollowersUser, nonFollowersAvatar }) => {
 `
 }
 
-const generateLastProjectsHTML = ({ name, title, date, url }) => {
+const generateLastProjectsHTML = ({ name, title, createdAt, date, url }) => {
+  const formattedDate = new Date(date);
+
   return `
   <p>
-    <sub>${name} — ${date} — ${timeAgo(new Date(date))}</sub>
+    <sub>${name} — ${date} — ${timeAgo(new Date(createdAt))}</sub>
   </p>
 
   <a href="${url}" target="_blank" rel="noopener noreferrer">
@@ -216,11 +218,11 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .join('')
 
     const version = appInfo.release.appVersion
-    const blogs = await getLastProjects()
+    const projects = await getLastProjects()
 
-    const lastProjects = blogs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-      .map(({ name, title, date, url }) => {
-        return generateLastProjectsHTML({ name, title, date, url })
+    const lastProjects = projects.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
+      .map(({ name, title, createdAt, date, url }) => {
+        return generateLastProjectsHTML({ name, title, createdAt, date, url })
       })
       .join('')
 

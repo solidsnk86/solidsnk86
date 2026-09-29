@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"Nunca es tarde para empezar de nuevo."*
 >
-> **— Michel de Montaigne**
+> **— C.S. Lewis**
 
 </div>
 
@@ -37,7 +37,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 ## NeoWiFi
 
-Aplicación web para localizar los **tres puntos WiFi gratuitos más cercanos** disponibles en distintas provincias de Argentina y algunas regiones de Europa.
+Aplicación web para localizar los **tres puntos WiFi gratuitos más cercanos** disponibles en distintas provincias de Argentina entre otras regiones.
 
 También incluye una aplicación de escritorio para automatizar la configuración de equipos **TP-Link CPE (Pharos OS)** utilizados en la red WiFi gratuita de la provincia de San Luis.
 
@@ -45,7 +45,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
 |:--|:--|
 | **NeoWiFi** | `1.3.6-beta v-beta` |
 
-**Sitio:** https://neo-wifi.vercel.app
+**Sitio:** https://neo-wifi.com
 
 ---
 
@@ -57,35 +57,51 @@ También incluye una aplicación de escritorio para automatizar la configuració
 
 
   <p>
-    <sub>e-commerce — Marzo 12, 2026 — hace 7 meses</sub>
+    <sub>Inmobiliaria Daeva — Septiembre 06, 2026 — hace 24 días</sub>
   </p>
 
-  <a href="https://pascalecloset.com/" target="_blank" rel="noopener noreferrer">
-  <p><strong> Pascale Closet, tienda virtual</strong></p>
+  <a href="https://daeva.vercel.app" target="_blank" rel="noopener noreferrer">
+  <p><strong>SPA inmobiliaria: propiedades en venta/alquiler, con comentarios y panel de agente/cliente. </strong></p>
   </a>
   
   <p>
-    <sub>cuidadoras-calbuco — Febrero 11, 2026 — hace 8 meses</sub>
+    <sub>Better Call Dante — Septiembre 04, 2026 — hace 26 días</sub>
   </p>
 
-  <a href="https://www.cuidadorascalbuco.cl/" target="_blank" rel="noopener noreferrer">
-  <p><strong> Cuidadoras Calbuco: Tecnología al servicio de la comunidad</strong></p>
+  <a href="https://better-call-dante.vercel.app" target="_blank" rel="noopener noreferrer">
+  <p><strong>Ecosistema digital para un estudio de abogados que integra correo, calendario, planillas y documentos en un solo panel, con asistente IA.</strong></p>
   </a>
   
   <p>
-    <sub>neo-wifi-web — Julio 15, 2025 — el año pasado</sub>
+    <sub>Pascale - Tienda Virtual — Noviembre 12, 2025 — hace 11 meses</sub>
   </p>
 
-  <a href="https://neo-wifi.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <p><strong> Creando Neo-WiFi: conectividad inteligente para todos</strong></p>
+  <a href="https://pascalecloset.com" target="_blank" rel="noopener noreferrer">
+  <p><strong>Pascale Closet es una Tienda E-Commerce full-stack (PERN) con pagos integrados con Mercado Pago y panel de administración y comprador.</strong></p>
   </a>
   
   <p>
-    <sub>geo-api — Julio 12, 2025 — el año pasado</sub>
+    <sub>Neo Wifi - v1.3.6 — Julio 08, 2025 — el año pasado</sub>
   </p>
 
-  <a href="https://solid-geolocation.vercel.app/location" target="_blank" rel="noopener noreferrer">
-  <p><strong> Solid Geolocation: una API para programadores</strong></p>
+  <a href="https://neo-wifi.vercel.app" target="_blank" rel="noopener noreferrer">
+  <p><strong>Aplicación para configurar automáticamente dispositivos TP-LINK.</strong></p>
+  </a>
+  
+  <p>
+    <sub>Neo-WiFi Web — Enero 28, 2025 — hace 2 años</sub>
+  </p>
+
+  <a href="https://neo-wifi.com" target="_blank" rel="noopener noreferrer">
+  <p><strong>Localización inteligente de antenas WiFi para cobertura.</strong></p>
+  </a>
+  
+  <p>
+    <sub>Geolocation API — Febrero 07, 2024 — hace 3 años</sub>
+  </p>
+
+  <a href="https://geo-api.solidsnk86.dev" target="_blank" rel="noopener noreferrer">
+  <p><strong>API de geolocalización por IP o coordenadas en tiempo real.</strong></p>
   </a>
   
 
@@ -103,24 +119,12 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **7** |
+| Usuarios que no me siguen | **4** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
-  <a href="https://github.com/BEPb" title="BEPb">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/57312267?v=4" alt="Avatar de BEPb" />
-  </a>
-
-  <a href="https://github.com/NamesMT" title="NamesMT">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/23612546?v=4" alt="Avatar de NamesMT" />
-  </a>
-
   <a href="https://github.com/Stremio" title="Stremio">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/13152917?v=4" alt="Avatar de Stremio" />
-  </a>
-
-  <a href="https://github.com/abdulrdeveloper" title="abdulrdeveloper">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/228225682?v=4" alt="Avatar de abdulrdeveloper" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">

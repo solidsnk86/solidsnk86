@@ -37,7 +37,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 ## NeoWiFi
 
-Aplicación web para localizar los **tres puntos WiFi gratuitos más cercanos** disponibles en distintas provincias de Argentina y algunas regiones de Europa.
+Aplicación web para localizar los **tres puntos WiFi gratuitos más cercanos** disponibles en distintas provincias de Argentina entre otras regiones.
 
 También incluye una aplicación de escritorio para automatizar la configuración de equipos **TP-Link CPE (Pharos OS)** utilizados en la red WiFi gratuita de la provincia de San Luis.
 
@@ -45,7 +45,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
 |:--|:--|
 | **NeoWiFi** | `%{{neo_wifi_version}}% v-beta` |
 
-**Sitio:** https://neo-wifi.vercel.app
+**Sitio:** https://neo-wifi.com
 
 ---
 
