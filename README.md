@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El secreto de salir adelante es comenzar."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> **— Mark Twain**
+> **— Charles Dickens**
 
 </div>
 
