@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
 >
-> **— Michel de Montaigne**
+> **— C. S. Lewis**
 
 </div>
 
@@ -103,24 +103,12 @@ https://gabrielcalcagni.vercel.app
 
 | Métrica | Valor |
 |:--|--:|
-| Usuarios que no me siguen | **7** |
+| Usuarios que no me siguen | **4** |
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minamax(45px, 1fr));">
 
-  <a href="https://github.com/BEPb" title="BEPb">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/57312267?v=4" alt="Avatar de BEPb" />
-  </a>
-
-  <a href="https://github.com/NamesMT" title="NamesMT">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/23612546?v=4" alt="Avatar de NamesMT" />
-  </a>
-
   <a href="https://github.com/Stremio" title="Stremio">
     <img width="45" height="45" src="https://avatars.githubusercontent.com/u/13152917?v=4" alt="Avatar de Stremio" />
-  </a>
-
-  <a href="https://github.com/abdulrdeveloper" title="abdulrdeveloper">
-    <img width="45" height="45" src="https://avatars.githubusercontent.com/u/228225682?v=4" alt="Avatar de abdulrdeveloper" />
   </a>
 
   <a href="https://github.com/goncy" title="goncy">
