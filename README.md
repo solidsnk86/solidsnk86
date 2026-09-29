@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La poesía nace del asombro."*
+> *"El secreto de salir adelante es comenzar."*
 >
-> **— Antonio Gala**
+> **— Mark Twain**
 
 </div>
 
@@ -68,7 +68,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
     <sub>Better Call Dante — Septiembre 04, 2026 — hace 26 días</sub>
   </p>
 
-  <a href="https://better-call-dante.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="http://better-call-dante-2.vercel.app/" target="_blank" rel="noopener noreferrer">
   <p><strong>Ecosistema digital para un estudio de abogados que integra correo, calendario, planillas y documentos en un solo panel, con asistente IA.</strong></p>
   </a>
   
@@ -84,7 +84,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
     <sub>Neo Wifi - v1.3.6 — Julio 08, 2025 — el año pasado</sub>
   </p>
 
-  <a href="https://neo-wifi.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://neo-wifi.com/download" target="_blank" rel="noopener noreferrer">
   <p><strong>Aplicación para configurar automáticamente dispositivos TP-LINK.</strong></p>
   </a>
   
@@ -100,7 +100,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
     <sub>Geolocation API — Febrero 07, 2024 — hace 3 años</sub>
   </p>
 
-  <a href="https://geo-api.solidsnk86.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://solid-geolocation.vercel.app/" target="_blank" rel="noopener noreferrer">
   <p><strong>API de geolocalización por IP o coordenadas en tiempo real.</strong></p>
   </a>
   
