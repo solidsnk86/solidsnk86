@@ -27,15 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-<<<<<<< HEAD
-> *"Nunca es tarde para empezar de nuevo."*
+> *"El amor no es algo que encuentres. Es algo que creces."*
 >
-> **— C.S. Lewis**
-=======
-> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
->
-> **— C. S. Lewis**
->>>>>>> 7d9b5b0fb4f143ddb3470c7abdd81a5696e77972
+> **— Mario Speed Wagon**
 
 </div>
 
@@ -67,7 +61,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </p>
 
   <a href="https://daeva.vercel.app" target="_blank" rel="noopener noreferrer">
-  <p><strong>SPA inmobiliaria: propiedades en venta/alquiler, con comentarios y panel de agente/cliente. </strong></p>
+  <p><strong>Aplicación web inmobiliaria: propiedades en venta/alquiler, con comentarios y panel de agente/cliente. </strong></p>
   </a>
   
   <p>
