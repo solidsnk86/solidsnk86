@@ -27,9 +27,15 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
+<<<<<<< HEAD
 > *"Nunca es tarde para empezar de nuevo."*
 >
 > **— C.S. Lewis**
+=======
+> *"Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño."*
+>
+> **— C. S. Lewis**
+>>>>>>> 7d9b5b0fb4f143ddb3470c7abdd81a5696e77972
 
 </div>
 
