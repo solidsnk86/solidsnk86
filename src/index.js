@@ -154,13 +154,15 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
 }
 
 ;(async () => {
+  console.log("inicio de recolección de datos...")
   try {
-    const [template, svgTemplate, stats, phrases, appInfo] = await Promise.all([
+    const [template, svgTemplate, stats, phrases, appInfo, projects] = await Promise.all([
       fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
       fs.readFile('./src/tmp.svg.tpl', { encoding: 'utf-8' }),
       getGithubStats(),
       getPhrases(),
-      getAppInfo()
+      getAppInfo(),
+      getLastProjects()
     ]).catch((error) => console.error(error) || process.exit(1))
 
     const phrase = phrases.data.frases
@@ -218,7 +220,6 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       .join('')
 
     const version = appInfo.release.appVersion
-    const projects = await getLastProjects()
 
     const lastProjects = projects.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
       .map(({ name, title, createdAt, date, url }) => {
@@ -260,7 +261,7 @@ const replaceAllPlaceholders = (tmp = '', placeholder, updatedContent) => {
       contributions2025,
       updatedAt
     )
-
+    console.log("Actualizando archivo <README.md> y <gh-stats.svg>...")
     const updatedMarkdown = replaceAllPlaceholders(
       template,
       objPlaceholder,
