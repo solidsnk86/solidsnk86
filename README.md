@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor no es algo que encuentres. Es algo que creces."*
+> *"La poesía nace del asombro."*
 >
-> **— Mario Speed Wagon**
+> **— Antonio Gala**
 
 </div>
 
