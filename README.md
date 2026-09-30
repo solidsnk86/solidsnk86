@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro."*
+> *"El mundo está patas arriba."*
 >
-> **— Khalil Gibran**
+> **— Eduardo Galeano**
 
 </div>
 
