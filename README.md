@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La utopía sirve para caminar."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> **— Eduardo Galeano**
+> **— Mahatma Gandhi**
 
 </div>
 
