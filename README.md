@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Quien tiene paz en su conciencia, lo tiene todo."*
+> *"La pasión transforma la rutina."*
 >
-> **— San Juan Bosco**
+> **— Antonio Gala**
 
 </div>
 
