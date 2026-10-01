@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas."*
 >
-> **— Mahatma Gandhi**
+> **— Robert Louis Stevenson**
 
 </div>
 
