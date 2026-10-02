@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La pasión transforma la rutina."*
+> *"Tu actitud determina tu altitud."*
 >
-> **— Antonio Gala**
+> **— Zig Ziglar**
 
 </div>
 
