@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tu actitud determina tu altitud."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> **— Zig Ziglar**
+> **— León Tolstói**
 
 </div>
 
