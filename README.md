@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> **— Malcolm X**
+> **— Ludwig Wittgenstein**
 
 </div>
 
