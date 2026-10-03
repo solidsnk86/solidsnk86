@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mejor inversión es en ti mismo."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
-> **— Warren Buffett**
+> **— Albert Einstein**
 
 </div>
 
