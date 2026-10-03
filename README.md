@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"La verdadera medida de un hombre no es cómo se comporta en momentos de comodidad y conveniencia."*
 >
-> **— Ludwig Wittgenstein**
+> **— Martin Luther King Jr.**
 
 </div>
 
