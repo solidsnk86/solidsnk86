@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La realidad desafía las palabras."*
+> *"La mejor inversión es en ti mismo."*
 >
-> **— Eduardo Galeano**
+> **— Warren Buffett**
 
 </div>
 
@@ -57,7 +57,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
 
 
   <p>
-    <sub>Inmobiliaria Daeva — Septiembre 06, 2026 — hace 27 días</sub>
+    <sub>Inmobiliaria Daeva — Septiembre 06, 2026 — hace 28 días</sub>
   </p>
 
   <a href="https://daeva.vercel.app" target="_blank" rel="noopener noreferrer">
@@ -65,7 +65,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>Better Call Dante — Septiembre 04, 2026 — hace 29 días</sub>
+    <sub>Better Call Dante — Septiembre 04, 2026 — hace 30 días</sub>
   </p>
 
   <a href="http://better-call-dante-2.vercel.app/" target="_blank" rel="noopener noreferrer">
