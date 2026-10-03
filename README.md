@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La verdadera medida de un hombre no es cómo se comporta en momentos de comodidad y conveniencia."*
+> *"La realidad desafía las palabras."*
 >
-> **— Martin Luther King Jr.**
+> **— Eduardo Galeano**
 
 </div>
 
