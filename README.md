@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"El amor verdadero no domestica."*
 >
-> **— Albert Einstein**
+> **— Antonio Gala**
 
 </div>
 
