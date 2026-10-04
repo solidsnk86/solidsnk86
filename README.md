@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
+> *"Somos lo que hacemos para cambiar lo que somos."*
 >
-> **— John F. Kennedy**
+> **— Eduardo Galeano**
 
 </div>
 
