@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"El humor es la manifestación más elevada de la inteligencia."*
 >
-> **— George Eliot**
+> **— Sigmund Freud**
 
 </div>
 
