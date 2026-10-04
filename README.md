@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor verdadero no domestica."*
+> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
 >
-> **— Antonio Gala**
+> **— John F. Kennedy**
 
 </div>
 
@@ -65,7 +65,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>Better Call Dante — Septiembre 04, 2026 — hace 30 días</sub>
+    <sub>Better Call Dante — Septiembre 04, 2026 — el mes pasado</sub>
   </p>
 
   <a href="http://better-call-dante-2.vercel.app/" target="_blank" rel="noopener noreferrer">
