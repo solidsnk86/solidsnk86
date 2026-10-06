@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
 >
-> **— Bono**
+> **— Marco Aurelio**
 
 </div>
 
