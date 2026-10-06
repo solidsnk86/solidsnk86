@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mente es como un paracaídas: solo funciona si se abre."*
+> *"La melancolía tiene perfume antiguo."*
 >
-> **— Albert Einstein**
+> **— Antonio Gala**
 
 </div>
 
@@ -57,7 +57,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
 
 
   <p>
-    <sub>Inmobiliaria Daeva — Septiembre 06, 2026 — hace 30 días</sub>
+    <sub>Inmobiliaria Daeva — Septiembre 06, 2026 — el mes pasado</sub>
   </p>
 
   <a href="https://daeva.vercel.app" target="_blank" rel="noopener noreferrer">
