@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Lo que hacemos en la vida tiene su eco en la eternidad."*
+> *"El derecho no debe ser un privilegio de unos pocos, sino una garantía para todos."*
 >
-> **— Marco Aurelio**
+> **— Norberto Bobbio**
 
 </div>
 
