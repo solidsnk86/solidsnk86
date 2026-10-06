@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La melancolía tiene perfume antiguo."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> **— Antonio Gala**
+> **— Bono**
 
 </div>
 
