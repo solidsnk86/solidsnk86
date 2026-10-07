@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El mejor modo de predecir el futuro es inventarlo."*
 >
-> **— Martin Luther King Jr.**
+> **— Alan Kay**
 
 </div>
 
