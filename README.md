@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mejor modo de predecir el futuro es inventarlo."*
+> *"El conocimiento es poder."*
 >
-> **— Alan Kay**
+> **— Francis Bacon**
 
 </div>
 
