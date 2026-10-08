@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El conocimiento es poder."*
+> *"Hoy es el primer día del resto de tu vida."*
 >
-> **— Francis Bacon**
+> **— Charles Dederich**
 
 </div>
 
