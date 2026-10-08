@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Hoy es el primer día del resto de tu vida."*
+> *"Donde no hay ley, no hay libertad."*
 >
-> **— Charles Dederich**
+> **— John Locke**
 
 </div>
 
