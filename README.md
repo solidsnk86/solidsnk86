@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Donde no hay ley, no hay libertad."*
+> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
 >
-> **— John Locke**
+> **— Francis Bacon**
 
 </div>
 
