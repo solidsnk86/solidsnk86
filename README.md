@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La amistad duplica las alegrías y divide las angustias por la mitad."*
+> *"La libertad también se aprende."*
 >
-> **— Francis Bacon**
+> **— Eduardo Galeano**
 
 </div>
 
