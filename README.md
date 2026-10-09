@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"Nada es imposible si persistes lo suficiente."*
 >
-> **— Victor Hugo**
+> **— Zig Ziglar**
 
 </div>
 
