@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nada es imposible si persistes lo suficiente."*
+> *"Cada persona brilla con luz propia."*
 >
-> **— Zig Ziglar**
+> **— Eduardo Galeano**
 
 </div>
 
