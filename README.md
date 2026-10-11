@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nunca es tarde para empezar de nuevo."*
+> *"La ternura también es valentía."*
 >
-> **— C.S. Lewis**
+> **— Antonio Gala**
 
 </div>
 
