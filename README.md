@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La palabra puede acariciar."*
+> *"Nunca es tarde para empezar de nuevo."*
 >
-> **— Antonio Gala**
+> **— C.S. Lewis**
 
 </div>
 
