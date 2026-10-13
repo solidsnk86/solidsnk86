@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> **— Michael Jordan**
+> **— Jim Rohn**
 
 </div>
 
