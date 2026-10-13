@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos."*
 >
-> **— Martin Luther King Jr.**
+> **— Michael Jordan**
 
 </div>
 
