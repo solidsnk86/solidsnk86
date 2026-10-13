@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La disciplina es el puente entre metas y logros."*
+> *"El pasado sigue latiendo."*
 >
-> **— Jim Rohn**
+> **— Eduardo Galeano**
 
 </div>
 
