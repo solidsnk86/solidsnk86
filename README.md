@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El verdadero sabio es el que siempre desea aprender."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
-> **— Proverbio chino**
+> **— Unknown**
 
 </div>
 
