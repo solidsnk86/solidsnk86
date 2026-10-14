@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es un regalo. Disfrútala mientras puedas."*
+> *"La justicia es la primera virtud de las instituciones sociales."*
 >
-> **— Unknown**
+> **— John Rawls**
 
 </div>
 
