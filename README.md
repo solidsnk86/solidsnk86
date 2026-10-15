@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
+> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
 >
-> **— Mark Twain**
+> **— John Lennon**
 
 </div>
 
