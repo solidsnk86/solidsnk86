@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mundo está patas arriba."*
+> *"El fútbol revela la alegría del pueblo."*
 >
 > **— Eduardo Galeano**
 
