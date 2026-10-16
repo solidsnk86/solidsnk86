@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es lo que pasa cuando estás ocupado haciendo otros planes."*
+> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
 >
-> **— John Lennon**
+> **— Henry Ford**
 
 </div>
 
