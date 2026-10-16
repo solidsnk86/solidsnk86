@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El fracaso es la oportunidad de comenzar de nuevo con más inteligencia."*
+> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
 >
-> **— Henry Ford**
+> **— Charles R. Swindoll**
 
 </div>
 
