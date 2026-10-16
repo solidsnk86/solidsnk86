@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
+> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
 >
-> **— Winston Churchill**
+> **— Brian Tracy**
 
 </div>
 
