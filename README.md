@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> **— Charles R. Swindoll**
+> **— Winston Churchill**
 
 </div>
 
