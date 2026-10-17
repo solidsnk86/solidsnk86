@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La poesía nace del asombro."*
+> *"La pasión no admite medias tintas."*
 >
 > **— Antonio Gala**
 
