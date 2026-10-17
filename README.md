@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El pasado sigue latiendo."*
+> *"La poesía nace del asombro."*
 >
-> **— Eduardo Galeano**
+> **— Antonio Gala**
 
 </div>
 
