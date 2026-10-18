@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor consuela como el resplandor del sol después de la lluvia."*
+> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
 >
-> **— William Shakespeare**
+> **— San Agustín**
 
 </div>
 
