@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mundo es un libro, y aquellos que no viajan leen solo una página."*
+> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
 >
-> **— San Agustín**
+> **— Victor Hugo**
 
 </div>
 
