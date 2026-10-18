@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *"El amor consuela como el resplandor del sol después de la lluvia."*
 >
-> **— Dolly Parton**
+> **— William Shakespeare**
 
 </div>
 
