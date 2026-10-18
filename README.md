@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Quien abre una puerta de una escuela, cierra una de una prisión."*
+> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
 >
-> **— Victor Hugo**
+> **— Albert Einstein**
 
 </div>
 
