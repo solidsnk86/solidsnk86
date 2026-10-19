@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La lectura es para la mente lo que el ejercicio es para el cuerpo."*
+> *"El derecho no debe ser un privilegio de unos pocos, sino una garantía para todos."*
 >
-> **— Joseph Addison**
+> **— Norberto Bobbio**
 
 </div>
 
