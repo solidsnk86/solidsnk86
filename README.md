@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran."*
+> *"La mente es como un paracaídas: solo funciona si se abre."*
 >
 > **— Albert Einstein**
 
@@ -65,7 +65,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>Better Call Dante — Septiembre 04, 2026 — el mes pasado</sub>
+    <sub>Better Call Dante — Septiembre 04, 2026 — hace 2 meses</sub>
   </p>
 
   <a href="http://better-call-dante-2.vercel.app/" target="_blank" rel="noopener noreferrer">
