@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas."*
+> *"El hambre desayuna miedo."*
 >
-> **— Michelle Obama**
+> **— Eduardo Galeano**
 
 </div>
 
