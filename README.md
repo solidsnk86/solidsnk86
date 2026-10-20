@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> **— Marie Curie**
+> **— Mahatma Gandhi**
 
 </div>
 
