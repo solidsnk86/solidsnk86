@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El derecho no debe ser un privilegio de unos pocos, sino una garantía para todos."*
+> *"La calidad no es un acto, es un hábito."*
 >
-> **— Norberto Bobbio**
+> **— Aristóteles**
 
 </div>
 
