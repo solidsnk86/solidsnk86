@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es el resultado de la preparación, la oportunidad y la acción."*
+> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
 >
-> **— Colin Powell**
+> **— Mahatma Gandhi**
 
 </div>
 
