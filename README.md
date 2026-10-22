@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tu actitud determina tu altitud."*
+> *"La vida recompensa a quienes se atreven."*
 >
-> **— Zig Ziglar**
+> **— Unknown**
 
 </div>
 
