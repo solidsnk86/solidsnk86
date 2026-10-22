@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."*
+> *"Tu actitud determina tu altitud."*
 >
-> **— Mahatma Gandhi**
+> **— Zig Ziglar**
 
 </div>
 
