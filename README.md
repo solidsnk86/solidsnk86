@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor verdadero no domestica."*
+> *"La libertad es el derecho de hacer todo lo que las leyes permiten."*
 >
-> **— Antonio Gala**
+> **— Montesquieu**
 
 </div>
 
