@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad es el derecho de hacer todo lo que las leyes permiten."*
+> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
 >
-> **— Montesquieu**
+> **— Winston Churchill**
 
 </div>
 
