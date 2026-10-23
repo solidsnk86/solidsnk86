@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El éxito es ir de fracaso a fracaso sin perder el entusiasmo."*
+> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
 >
-> **— Winston Churchill**
+> **— Bono**
 
 </div>
 
@@ -73,7 +73,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>Pascale - Tienda Virtual — Noviembre 12, 2025 — hace 11 meses</sub>
+    <sub>Pascale - Tienda Virtual — Noviembre 12, 2025 — hace 12 meses</sub>
   </p>
 
   <a href="https://pascalecloset.com" target="_blank" rel="noopener noreferrer">
