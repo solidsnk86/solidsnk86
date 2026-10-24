@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El conocimiento es poder."*
+> *"La memoria guarda lo que vale la pena."*
 >
-> **— Francis Bacon**
+> **— Eduardo Galeano**
 
 </div>
 
