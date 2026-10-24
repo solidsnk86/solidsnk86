@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La ley debe ser como la muerte, que no exceptúa a nadie."*
+> *"El conocimiento es poder."*
 >
-> **— Montesquieu**
+> **— Francis Bacon**
 
 </div>
 
