@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La cultura dominante enseña a temer."*
+> *"La justicia es la constante y perpetua voluntad de dar a cada uno su derecho."*
 >
-> **— Eduardo Galeano**
+> **— Ulpiano**
 
 </div>
 
