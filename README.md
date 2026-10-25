@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
+> *"El arte lava del alma el polvo de la vida cotidiana."*
 >
-> **— Albert Einstein**
+> **— Pablo Picasso**
 
 </div>
 
