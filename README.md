@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La gratitud es la clave para la felicidad."*
+> *"El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir."*
 >
-> **— Unknown**
+> **— Albert Einstein**
 
 </div>
 
