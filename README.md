@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"Nada es imposible si persistes lo suficiente."*
 >
-> **— Martin Luther King Jr.**
+> **— Zig Ziglar**
 
 </div>
 
