@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La melancolía tiene perfume antiguo."*
+> *"El hombre muere tantas veces como pierde a sus seres queridos."*
 >
-> **— Antonio Gala**
+> **— Publio Siro**
 
 </div>
 
