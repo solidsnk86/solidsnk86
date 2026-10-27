@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nada es imposible si persistes lo suficiente."*
+> *"La dignidad no pide permiso."*
 >
-> **— Zig Ziglar**
+> **— Eduardo Galeano**
 
 </div>
 
