@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La belleza nunca es superficial."*
+> *"La utopía sirve para caminar."*
 >
-> **— Antonio Gala**
+> **— Eduardo Galeano**
 
 </div>
 
