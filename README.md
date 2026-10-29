@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La educación es el pasaporte hacia el futuro."*
+> *"La esperanza es el sueño del hombre despierto."*
 >
-> **— Malcolm X**
+> **— Aristóteles**
 
 </div>
 
