@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La muerte no es más que un cambio de estado, como el nacimiento."*
+> *"La verdad os hará libres."*
 >
-> **— Marco Tulio Cicerón**
+> **— Jesús de Nazaret**
 
 </div>
 
