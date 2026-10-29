@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La memoria guarda lo que vale la pena."*
+> *"La muerte no es más que un cambio de estado, como el nacimiento."*
 >
-> **— Eduardo Galeano**
+> **— Marco Tulio Cicerón**
 
 </div>
 
