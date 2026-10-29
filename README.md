@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La verdad os hará libres."*
+> *"La educación es el pasaporte hacia el futuro."*
 >
-> **— Jesús de Nazaret**
+> **— Malcolm X**
 
 </div>
 
