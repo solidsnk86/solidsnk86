@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es la que pasa mientras estás haciendo otros planes."*
+> *"La mejor inversión es en ti mismo."*
 >
-> **— John Lennon**
+> **— Warren Buffett**
 
 </div>
 
