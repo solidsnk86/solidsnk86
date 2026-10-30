@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mejor inversión es en ti mismo."*
+> *"La memoria elige sus refugios."*
 >
-> **— Warren Buffett**
+> **— Antonio Gala**
 
 </div>
 
