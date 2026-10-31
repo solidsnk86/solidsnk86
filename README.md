@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La esperanza tiene dos hijas: indignación y valentía."*
+> *"El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace."*
 >
-> **— Eduardo Galeano**
+> **— León Tolstói**
 
 </div>
 
