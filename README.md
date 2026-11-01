@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No encuentres la falta, encuentra el remedio."*
+> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
 >
-> **— Henry Ford**
+> **— Albert Einstein**
 
 </div>
 
