@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres."*
+> *"La honestidad es el primer capítulo del libro de la sabiduría."*
 >
-> **— Albert Einstein**
+> **— Thomas Jefferson**
 
 </div>
 
