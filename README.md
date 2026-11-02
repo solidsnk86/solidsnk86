@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad también se aprende."*
+> *"El perdón es la fragancia que derrama la violeta en el talón que la aplastó."*
 >
-> **— Eduardo Galeano**
+> **— Mark Twain**
 
 </div>
 
