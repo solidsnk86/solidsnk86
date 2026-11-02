@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor es la única fuerza capaz de transformar un enemigo en amigo."*
+> *"La disciplina es el puente entre metas y logros."*
 >
-> **— Martin Luther King Jr.**
+> **— Jim Rohn**
 
 </div>
 
