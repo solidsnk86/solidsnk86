@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los límites de mi lenguaje son los límites de mi mundo."*
+> *"La cultura dominante enseña a temer."*
 >
-> **— Ludwig Wittgenstein**
+> **— Eduardo Galeano**
 
 </div>
 
