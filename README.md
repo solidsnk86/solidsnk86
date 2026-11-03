@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Es mejor sufrir una injusticia que cometerla."*
+> *"Los límites de mi lenguaje son los límites de mi mundo."*
 >
-> **— Sócrates**
+> **— Ludwig Wittgenstein**
 
 </div>
 
