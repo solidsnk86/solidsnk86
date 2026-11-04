@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El verdadero éxito es la paz mental."*
+> *"La paz es el fin que persigue el derecho."*
 >
-> **— Aristóteles**
+> **— Hans Kelsen**
 
 </div>
 
