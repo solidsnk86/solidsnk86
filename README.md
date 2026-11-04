@@ -27,7 +27,7 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La cultura dominante enseña a temer."*
+> *"La utopía sirve para caminar."*
 >
 > **— Eduardo Galeano**
 
