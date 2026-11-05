@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El humor es la manifestación más elevada de la inteligencia."*
+> *"El que no es un buen sirviente no será un buen maestro."*
 >
-> **— Sigmund Freud**
+> **— Platón**
 
 </div>
 
