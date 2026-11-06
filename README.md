@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La paz es el fin que persigue el derecho."*
+> *"La única forma de hacer un trabajo excelente es amar lo que haces."*
 >
-> **— Hans Kelsen**
+> **— Steve Jobs**
 
 </div>
 
