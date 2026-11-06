@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar."*
+> *"La paz es el fin que persigue el derecho."*
 >
-> **— Johann Goethe**
+> **— Hans Kelsen**
 
 </div>
 
