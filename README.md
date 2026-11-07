@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El secreto de salir adelante es comenzar."*
+> *"El buen humor es la única cualidad divina del hombre."*
 >
-> **— Mark Twain**
+> **— Arthur Schopenhauer**
 
 </div>
 
