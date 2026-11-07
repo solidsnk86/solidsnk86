@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nada en la vida debe ser temido, solo comprendido."*
+> *"No basta estar en el lugar correcto en el momento correcto. Debes ser la persona correcta."*
 >
-> **— Marie Curie**
+> **— Stephen Covey**
 
 </div>
 
