@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La libertad comienza donde termina la ignorancia."*
+> *"Nada en la vida debe ser temido, solo comprendido."*
 >
-> **— Victor Hugo**
+> **— Marie Curie**
 
 </div>
 
