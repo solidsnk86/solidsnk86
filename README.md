@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La utopía sirve para caminar."*
+> *"No vivas para trabajar, trabaja para vivir."*
 >
-> **— Eduardo Galeano**
+> **— Desconocido**
 
 </div>
 
