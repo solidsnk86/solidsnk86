@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El arte nace de la necesidad de decir."*
+> *"La mejor inversión es en ti mismo."*
 >
-> **— Eduardo Galeano**
+> **— Warren Buffett**
 
 </div>
 
