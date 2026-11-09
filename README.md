@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La mejor inversión es en ti mismo."*
+> *"El amor no es algo que encuentres. Es algo que crees."*
 >
-> **— Warren Buffett**
+> **— Mario Speed Wagon**
 
 </div>
 
