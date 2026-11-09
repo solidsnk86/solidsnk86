@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El amor no es algo que encuentres. Es algo que crees."*
+> *"La historia nunca dice adiós."*
 >
-> **— Mario Speed Wagon**
+> **— Eduardo Galeano**
 
 </div>
 
