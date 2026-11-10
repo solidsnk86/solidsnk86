@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La historia nunca dice adiós."*
+> *"El que teme sufrir ya sufre el temor."*
 >
-> **— Eduardo Galeano**
+> **— Michel de Montaigne**
 
 </div>
 
