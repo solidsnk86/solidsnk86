@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida comienza donde termina el miedo."*
+> *"Somos lo que hacemos para cambiar lo que somos."*
 >
-> **— Osho**
+> **— Eduardo Galeano**
 
 </div>
 
