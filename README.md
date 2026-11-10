@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El que teme sufrir ya sufre el temor."*
+> *"La vida comienza donde termina el miedo."*
 >
-> **— Michel de Montaigne**
+> **— Osho**
 
 </div>
 
