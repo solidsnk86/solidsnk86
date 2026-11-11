@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No vivas para trabajar, trabaja para vivir."*
+> *"La gratitud es la clave para la felicidad."*
 >
-> **— Desconocido**
+> **— Unknown**
 
 </div>
 
