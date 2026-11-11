@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente."*
+> *"No vivas para trabajar, trabaja para vivir."*
 >
-> **— Brian Tracy**
+> **— Desconocido**
 
 </div>
 
