@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La gratitud es la clave para la felicidad."*
+> *"La virtud es el punto medio entre dos vicios opuestos."*
 >
-> **— Unknown**
+> **— Aristóteles**
 
 </div>
 
