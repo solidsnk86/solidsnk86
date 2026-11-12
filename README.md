@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La virtud es el punto medio entre dos vicios opuestos."*
+> *"Mucha gente pequeña, en lugares pequeños, hace cosas pequeñas."*
 >
-> **— Aristóteles**
+> **— Eduardo Galeano**
 
 </div>
 
