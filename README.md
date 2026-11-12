@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Mucha gente pequeña, en lugares pequeños, hace cosas pequeñas."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> **— Eduardo Galeano**
+> **— George Eliot**
 
 </div>
 
@@ -73,7 +73,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>Pascale - Tienda Virtual — Noviembre 12, 2025 — hace 12 meses</sub>
+    <sub>Pascale - Tienda Virtual — Noviembre 12, 2025 — el año pasado</sub>
   </p>
 
   <a href="https://pascalecloset.com" target="_blank" rel="noopener noreferrer">
