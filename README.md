@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
+> *"La vida es un regalo. Disfrútala mientras puedas."*
 >
-> **— George Eliot**
+> **— Unknown**
 
 </div>
 
