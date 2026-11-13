@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El mundo está patas arriba."*
+> *"El deseo nunca envejece del todo."*
 >
-> **— Eduardo Galeano**
+> **— Antonio Gala**
 
 </div>
 
