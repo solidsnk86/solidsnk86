@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida es un regalo. Disfrútala mientras puedas."*
+> *"El mundo está patas arriba."*
 >
-> **— Unknown**
+> **— Eduardo Galeano**
 
 </div>
 
