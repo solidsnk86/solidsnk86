@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La música puede cambiar el mundo porque puede cambiar a las personas."*
+> *"La vida es un viaje, no un destino."*
 >
-> **— Bono**
+> **— Ralph Waldo Emerson**
 
 </div>
 
