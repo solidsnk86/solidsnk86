@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La verdad suele caminar descalza."*
+> *"El silencio es a veces la mejor respuesta."*
 >
-> **— Eduardo Galeano**
+> **— Dalai Lama**
 
 </div>
 
