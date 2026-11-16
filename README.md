@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio es a veces la mejor respuesta."*
+> *"La vida es lo que sucede cuando tienes otros planes."*
 >
-> **— Dalai Lama**
+> **— John Lennon**
 
 </div>
 
