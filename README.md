@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hambre desayuna miedo."*
+> *"La perfección no existe. Lo que existe es la mejora constante."*
 >
-> **— Eduardo Galeano**
+> **— Hector Ruiz**
 
 </div>
 
