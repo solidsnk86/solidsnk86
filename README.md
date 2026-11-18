@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La perfección no existe. Lo que existe es la mejora constante."*
+> *"La justicia es una virtud que consiste en dar a cada uno lo suyo."*
 >
-> **— Hector Ruiz**
+> **— Tomás de Aquino**
 
 </div>
 
@@ -65,7 +65,7 @@ También incluye una aplicación de escritorio para automatizar la configuració
   </a>
   
   <p>
-    <sub>Better Call Dante — Septiembre 04, 2026 — hace 2 meses</sub>
+    <sub>Better Call Dante — Septiembre 04, 2026 — hace 3 meses</sub>
   </p>
 
   <a href="http://better-call-dante-2.vercel.app/" target="_blank" rel="noopener noreferrer">
