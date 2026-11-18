@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La justicia es una virtud que consiste en dar a cada uno lo suyo."*
+> *"El silencio también puede gritar."*
 >
-> **— Tomás de Aquino**
+> **— Eduardo Galeano**
 
 </div>
 
