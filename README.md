@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El silencio también puede gritar."*
+> *"Las mentes grandes discuten ideas. Las mentes promedio discuten eventos. Las mentes pequeñas discuten gente."*
 >
-> **— Eduardo Galeano**
+> **— Eleanor Roosevelt**
 
 </div>
 
