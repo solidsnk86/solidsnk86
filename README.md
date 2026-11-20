@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La historia nunca dice adiós."*
+> *"La ley es expresión de la voluntad general."*
 >
-> **— Eduardo Galeano**
+> **— Jean-Jacques Rousseau**
 
 </div>
 
