@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La justicia es una virtud que consiste en dar a cada uno lo suyo."*
+> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
 >
-> **— Tomás de Aquino**
+> **— Charles Dickens**
 
 </div>
 
