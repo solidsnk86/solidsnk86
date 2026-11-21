@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los sueños son las semillas de la realidad."*
+> *"No vivas para trabajar, trabaja para vivir."*
 >
-> **— James Allen**
+> **— Desconocido**
 
 </div>
 
