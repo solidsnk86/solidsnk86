@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No vivas para trabajar, trabaja para vivir."*
+> *"La justicia es una virtud que consiste en dar a cada uno lo suyo."*
 >
-> **— Desconocido**
+> **— Tomás de Aquino**
 
 </div>
 
