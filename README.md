@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El hombre nunca sabe de lo que es capaz hasta que lo intenta."*
+> *"El arte nace de la necesidad de decir."*
 >
-> **— Charles Dickens**
+> **— Eduardo Galeano**
 
 </div>
 
