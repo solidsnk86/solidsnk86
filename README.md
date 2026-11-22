@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"Los nadies cuestan menos que la bala que los mata."*
+> *"La ternura también es valentía."*
 >
-> **— Eduardo Galeano**
+> **— Antonio Gala**
 
 </div>
 
