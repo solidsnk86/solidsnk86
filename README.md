@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La historia nunca dice adiós."*
+> *"No existe el fracaso definitivo, solo existe la falta de intentos."*
 >
-> **— Eduardo Galeano**
+> **— Bob Ross**
 
 </div>
 
