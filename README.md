@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"No existe el fracaso definitivo, solo existe la falta de intentos."*
+> *"El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro."*
 >
-> **— Bob Ross**
+> **— John F. Kennedy**
 
 </div>
 
