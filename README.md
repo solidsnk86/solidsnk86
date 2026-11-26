@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El futuro no se predice, se crea."*
+> *"La división del trabajo permite que pocos decidan."*
 >
-> **— Peter Drucker**
+> **— Eduardo Galeano**
 
 </div>
 
