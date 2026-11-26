@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La división del trabajo permite que pocos decidan."*
+> *"La pasión no admite medias tintas."*
 >
-> **— Eduardo Galeano**
+> **— Antonio Gala**
 
 </div>
 
