@@ -101,7 +101,7 @@
      />
     </g>
         <text class="value">Total</text>
-        <text x="20" y="24" class="featured-text" fill="#999">7065</text>
+        <text x="20" y="24" class="featured-text" fill="#999">7056</text>
     </g>
   </g>
 
@@ -122,7 +122,7 @@
     
     <g transform="translate(10, 135)">
       <text class="title">Seguidores</text>
-      <text x="0" y="25" class="value">350</text>
+      <text x="0" y="25" class="value">351</text>
     </g>
     
     <g transform="translate(10, 185)">
