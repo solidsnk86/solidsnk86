@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo."*
+> *"Nunca es demasiado tarde para ser lo que podrías haber sido."*
 >
-> **— Mary Anne Radmacher**
+> **— George Eliot**
 
 </div>
 
