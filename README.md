@@ -27,9 +27,9 @@ Técnico Universitario en Programación graduado de la Universidad Tecnológica 
 
 <div align="left">
 
-> *"La vida recompensa a quienes se atreven."*
+> *"La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte."*
 >
-> **— Unknown**
+> **— Immanuel Kant**
 
 </div>
 
